@@ -1,0 +1,3518 @@
+[
+  {
+    "id": 38236,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尿中红细胞减少\",\"value\":0}, {\"answer\":0,\"text\":\"血钾降低\",\"value\":1}, {\"answer\":0,\"text\":\"食欲增加\",\"value\":2}, {\"answer\":1,\"text\":\"患者尿量明显增多,水肿减轻\",\"value\":3}]",
+    "title": "某肾病综合征患者应用强的松治疗一周,判断药物治疗有效的依据是"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38365,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎综合征伴有重度高血压\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征伴有肾功能急剧恶化\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征伴有重度高血压\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征伴有肾功能急剧恶化\",\"value\":3}]",
+    "title": "急进性肾小球肾炎的临床指征是"
+  },
+  {
+    "id": 38383,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙型肝炎病毒相关性肾小球肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾损伤\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,女,35岁,双下肢水肿一个月,既往有慢性乙型病毒性肝炎病史,尿常规蛋白阳性,尿红细胞20个/HP,最可能的临床诊断为"
+  },
+  {
+    "id": 38262,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2周\",\"value\":0}, {\"answer\":0,\"text\":\"4周\",\"value\":1}, {\"answer\":0,\"text\":\"6周\",\"value\":2}, {\"answer\":0,\"text\":\"8周\",\"value\":3}]",
+    "title": "急性肾盂性肾炎的疗程一般是"
+  },
+  {
+    "id": 38277,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":1,\"text\":\"头孢噻肟钠\",\"value\":1}, {\"answer\":0,\"text\":\"阿米卡星\",\"value\":2}, {\"answer\":0,\"text\":\"甲硝唑\",\"value\":3}]",
+    "title": "患者,女,28岁,妊娠期20周,出现发热,临床诊断为急性肾盂肾炎,可以选用的抗菌药是"
+  },
+  {
+    "id": 38255,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"局灶性肾小球硬化\",\"value\":0}, {\"answer\":1,\"text\":\"微小病变型肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"膜性肾病\",\"value\":3}]",
+    "title": "对激素治疗最为敏感的是"
+  },
+  {
+    "id": 38268,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"非那雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"米多君\",\"value\":2}, {\"answer\":1,\"text\":\"奥昔布宁\",\"value\":3}]",
+    "title": "某患者,临床诊断为急迫性尿失禁,适宜的治疗药物是"
+  },
+  {
+    "id": 38439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"小细胞性贫血\",\"value\":0}, {\"answer\":1,\"text\":\"正常红细胞性贫血\",\"value\":1}, {\"answer\":0,\"text\":\"大红细胞性贫血\",\"value\":2}, {\"answer\":0,\"text\":\"单纯小红细胞性贫血\",\"value\":3}]",
+    "title": "尿毒症引起的贫血,通常为"
+  },
+  {
+    "id": 38458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"即使有尿频、尿急也应多饮水\",\"value\":0}, {\"answer\":0,\"text\":\"尿液捡菌之前,青霉素为首选药\",\"value\":1}, {\"answer\":0,\"text\":\"退热后即停用抗菌药物\",\"value\":2}, {\"answer\":0,\"text\":\"用庆大霉素时加服维生素C\",\"value\":3}]",
+    "title": "肾盂肾炎治疗中,正确的是"
+  },
+  {
+    "id": 38404,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钾性酸中毒\",\"value\":0}, {\"answer\":1,\"text\":\"低氯、低钾性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"低氯、高钾性碱中毒\",\"value\":2}, {\"answer\":0,\"text\":\"低氯、低钾性酸中毒\",\"value\":3}]",
+    "title": "患者,男,46岁,腹胀呕吐已半年,多发于午后,吐出隔夜食物,吐后舒服,由于长期呕吐,除脱水外,还会造成"
+  },
+  {
+    "id": 38184,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"西格列汀\",\"value\":0}, {\"answer\":1,\"text\":\"利格列汀\",\"value\":1}, {\"answer\":0,\"text\":\"阿格列汀\",\"value\":2}, {\"answer\":0,\"text\":\"沙格列汀\",\"value\":3}]",
+    "title": "患者,男,48岁,糖尿病,肾功能不全,服用二肽基肽酶-Ⅳ（DPP-4）抑制剂降糖药,不需调整剂量的是"
+  },
+  {
+    "id": 38285,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非那雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"多沙唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":3}]",
+    "title": "下列哪一药物适用于伴有前列腺体积增大的良性前列腺增生症"
+  },
+  {
+    "id": 38445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"静脉注射葡萄糖酸钙\",\"value\":0}, {\"answer\":0,\"text\":\"静脉注射安定\",\"value\":1}, {\"answer\":0,\"text\":\"口服镇静药\",\"value\":2}, {\"answer\":0,\"text\":\"肌注维生素B\",\"value\":3}]",
+    "title": "慢性肾功能不全尿毒症在纠正酸中毒后发生抽搐,最迅速有效的治疗是"
+  },
+  {
+    "id": 38193,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丁胺卡那霉素\",\"value\":0}, {\"answer\":0,\"text\":\"去甲万古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"四环素\",\"value\":2}, {\"answer\":1,\"text\":\"伊曲康唑\",\"value\":3}]",
+    "title": "肾功能不全的患者使用抗菌药可以按照治疗量使用的是"
+  },
+  {
+    "id": 38459,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膀胱、肾盏、尿道的炎症\",\"value\":0}, {\"answer\":1,\"text\":\"肾盂、输尿管、膀胱、肾盏、尿道的炎症\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂、输尿管、膀胱的炎症\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "尿路感染是指"
+  },
+  {
+    "id": 38376,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"出血性膀胱炎\",\"value\":0}, {\"answer\":1,\"text\":\"肾后性急性肾衰竭\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾衰竭\",\"value\":3}]",
+    "title": "患者,男,66岁,患有肺癌,应用CAP方案化疗第三天后突然出现少尿,肌酐146μmol/L,该患者出现少尿原因是"
+  },
+  {
+    "id": 38206,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"亭扎肝素\",\"value\":0}, {\"answer\":0,\"text\":\"罗匹尼罗\",\"value\":1}, {\"answer\":1,\"text\":\"丁螺环酮\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "病人有严重的肾损伤。下列哪种药物应避免使用"
+  },
+  {
+    "id": 38353,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌药\",\"value\":0}, {\"answer\":1,\"text\":\"及时治疗上呼吸道感染有助于预防\",\"value\":1}, {\"answer\":1,\"text\":\"不主张积极使用皮质激素\",\"value\":2}, {\"answer\":1,\"text\":\"皮质激素使用要区别对待\",\"value\":3}, {\"answer\":0,\"text\":\"氨基糖苷类可用于合并肠杆菌感染者\",\"value\":4}]",
+    "title": "下列符合慢性肾小球肾炎治疗的是"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38207,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿米卡星\",\"value\":0}, {\"answer\":1,\"text\":\"多西环素\",\"value\":1}, {\"answer\":1,\"text\":\"阿奇霉索\",\"value\":2}, {\"answer\":1,\"text\":\"头孢哌酮\",\"value\":3}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":4}]",
+    "title": "肾功能减退的感染患者,可按常用剂量或略减剂量应用的药品有"
+  },
+  {
+    "id": 38218,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环孢素\",\"value\":0}, {\"answer\":0,\"text\":\"罗红霉素\",\"value\":1}, {\"answer\":1,\"text\":\"顺铂\",\"value\":2}, {\"answer\":0,\"text\":\"噻氯匹定\",\"value\":3}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":4}]",
+    "title": "可致药源性肾损害的药品有"
+  },
+  {
+    "id": 38397,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":1,\"text\":\"肠梗阻、胰腺炎和烧伤等第三间歇丢失\",\"value\":1}, {\"answer\":1,\"text\":\"汗液丢失\",\"value\":2}, {\"answer\":1,\"text\":\"肾脏丢失,如使用利尿剂,盐皮质激素缺乏等\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":4}]",
+    "title": "低容量性低钠血症常见的病因包括"
+  },
+  {
+    "id": 38468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"重症患者宜及早使用糖皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"去除过敏原后,多数轻症患者可自行缓解\",\"value\":1}, {\"answer\":0,\"text\":\"早期使用糖皮质激素+细胞毒药物联合治疗\",\"value\":2}, {\"answer\":1,\"text\":\"出现急性肾功能不全应及时进行血液透析\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于急性间质性肾炎治疗说法,正确的是"
+  },
+  {
+    "id": 38273,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方磺胺甲噁唑\",\"value\":0}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":1,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"头孢呋辛\",\"value\":3}, {\"answer\":0,\"text\":\"阿奇霉素\",\"value\":4}]",
+    "title": "治疗大肠埃希菌所导致的尿路感染,可以选用的抗菌药物包括"
+  },
+  {
+    "id": 38461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多吃橘子\",\"value\":0}, {\"answer\":0,\"text\":\"禁用螺内酯\",\"value\":1}, {\"answer\":0,\"text\":\"忌输库存血\",\"value\":2}, {\"answer\":0,\"text\":\"采血部位不要结扎过紧\",\"value\":3}]",
+    "title": "慢性肾衰竭患者已经发生高血钾,治疗措施不正确的是"
+  },
+  {
+    "id": 38282,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥昔布宁\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"米多君\",\"value\":2}, {\"answer\":1,\"text\":\"度他雄胺\",\"value\":3}]",
+    "title": "下列哪个药物可以抑制前列腺内双氢睾酮水平,提高最高尿流率的药物"
+  },
+  {
+    "id": 38295,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿沉渣涂片细菌革兰染色 \",\"value\":0}, {\"answer\":0,\"text\":\"尿路刺激征的严重程度\",\"value\":1}, {\"answer\":0,\"text\":\"尿中白细胞的多少\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "对于急性肾盂肾炎选择抗菌药物最有指导意义的是"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38262,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2周\",\"value\":0}, {\"answer\":0,\"text\":\"4周\",\"value\":1}, {\"answer\":0,\"text\":\"6周\",\"value\":2}, {\"answer\":0,\"text\":\"8周\",\"value\":3}]",
+    "title": "急性肾盂性肾炎的疗程一般是"
+  },
+  {
+    "id": 38459,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膀胱、肾盏、尿道的炎症\",\"value\":0}, {\"answer\":1,\"text\":\"肾盂、输尿管、膀胱、肾盏、尿道的炎症\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂、输尿管、膀胱的炎症\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "尿路感染是指"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38392,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"结节性肾小球硬化\",\"value\":0}, {\"answer\":0,\"text\":\"新月体肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"渗出性病变\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫性肾小球硬化\",\"value\":3}]",
+    "title": "糖尿病肾病具有高度特异性的肾脏病理变化是"
+  },
+  {
+    "id": 38311,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"＞400ml\",\"value\":0}, {\"answer\":0,\"text\":\"＜400ml\",\"value\":1}, {\"answer\":0,\"text\":\"＞1000ml\",\"value\":2}, {\"answer\":0,\"text\":\"＜1000ml\",\"value\":3}]",
+    "title": "非少尿型急性肾衰竭,每天的尿量为"
+  },
+  {
+    "id": 38181,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氨基酸注射液（17AA）\",\"value\":0}, {\"answer\":0,\"text\":\"复方氨基酸注射液（18AA）\",\"value\":1}, {\"answer\":0,\"text\":\"复方氨基酸注射液（6AA）\",\"value\":2}, {\"answer\":1,\"text\":\"复方氨基酸注射液（9AA）\",\"value\":3}]",
+    "title": "肾病患者宜选用哪种氨基酸制剂"
+  },
+  {
+    "id": 38284,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"托特罗定\",\"value\":3}]",
+    "title": "下列哪一药物数小时到数天可以改善症状,不影响前列腺体积和血清PSA水平"
+  },
+  {
+    "id": 38357,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"溶血性链球菌\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎双球菌感染\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄杆菌感染\",\"value\":2}, {\"answer\":0,\"text\":\"乙型肝炎病毒感染\",\"value\":3}]",
+    "title": "下列哪一细菌感染是引起急性肾炎最常见的"
+  },
+  {
+    "id": 38348,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期\",\"value\":0}, {\"answer\":0,\"text\":\"口服\",\"value\":1}, {\"answer\":0,\"text\":\"短期\",\"value\":2}, {\"answer\":0,\"text\":\"临时\",\"value\":3}]",
+    "title": "很多中药对肾脏有一定毒性和损害,尤其（）使用时应特别注意"
+  },
+  {
+    "id": 38313,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":1,\"text\":\"羧苄青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"土霉素\",\"value\":3}]",
+    "title": "急性肾盂肾炎首选的抗生素是"
+  },
+  {
+    "id": 38249,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":0}, {\"answer\":0,\"text\":\"利尿酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"安体舒通\",\"value\":2}, {\"answer\":0,\"text\":\"利尿合剂\",\"value\":3}]",
+    "title": "急性肾炎尿量甚少时,哪种利尿剂慎用或不用"
+  },
+  {
+    "id": 38276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"晚餐后临睡前\",\"value\":0}, {\"answer\":0,\"text\":\"早餐前\",\"value\":1}, {\"answer\":0,\"text\":\"晚餐前\",\"value\":2}, {\"answer\":0,\"text\":\"早餐后\",\"value\":3}]",
+    "title": "α1受体阻断剂用于治疗前列腺增生,为了减少该药的不良反应,最好在以下哪个时间服药"
+  },
+  {
+    "id": 38362,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"重度贫血\",\"value\":0}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"早期少尿无尿\",\"value\":2}, {\"answer\":0,\"text\":\"愈合欠佳\",\"value\":3}]",
+    "title": "急性肾炎与急进性肾炎临床表现的相似之处是"
+  },
+  {
+    "id": 38217,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"阿昔洛韦\",\"value\":1}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":2}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":3}]",
+    "title": "须水化后使用,以降低肾小管坏死发生率的药物是"
+  },
+  {
+    "id": 38263,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"表现为化脓性间质性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"由细菌感染引起\",\"value\":1}, {\"answer\":1,\"text\":\"大肠埃希菌感染\",\"value\":2}, {\"answer\":1,\"text\":\"分为血源性和上行性感染\",\"value\":3}, {\"answer\":0,\"text\":\"男性发病率稍高\",\"value\":4}]",
+    "title": "关于肾盂肾炎说法正确的是"
+  },
+  {
+    "id": 38455,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"碱化尿液减轻疼痛\",\"value\":0}, {\"answer\":1,\"text\":\"随时清洁尿路\",\"value\":1}, {\"answer\":1,\"text\":\"卧床休息\",\"value\":2}, {\"answer\":0,\"text\":\"避免应用阿托品类药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于尿路刺激症患者叙述正确的是"
+  },
+  {
+    "id": 38363,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝肾功能不全,尤其伴有未经治疗的尿路感染者\",\"value\":0}, {\"answer\":1,\"text\":\"对铁剂过敏者\",\"value\":1}, {\"answer\":1,\"text\":\"地中海贫血患者\",\"value\":2}, {\"answer\":1,\"text\":\"铁负荷过高的患者\",\"value\":3}, {\"answer\":1,\"text\":\"铁血黄沉着症患者\",\"value\":4}]",
+    "title": "关于铁剂的禁忌症叙述正确的是"
+  },
+  {
+    "id": 38464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"继续抗菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"多饮水\",\"value\":1}, {\"answer\":1,\"text\":\"注意经期卫生\",\"value\":2}, {\"answer\":0,\"text\":\"禁用肾毒性抗生素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "患者,女,50岁,反复发作尿路感染,临床诊断慢性肾盂肾炎,下列哪项对预防复发有指导意义"
+  },
+  {
+    "id": 38366,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"适时做透析治疗和肾移植\",\"value\":0}, {\"answer\":1,\"text\":\"对于Ⅱ、Ⅲ型可采用甲泼尼龙冲击疗法\",\"value\":1}, {\"answer\":0,\"text\":\"尽早用扩张肾小管的药物\",\"value\":2}, {\"answer\":1,\"text\":\"及时做肾活检确诊和分型\",\"value\":3}, {\"answer\":1,\"text\":\"对于Ⅰ型可采用强化血浆治疗法\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎正确的治疗方法的是"
+  },
+  {
+    "id": 38206,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"亭扎肝素\",\"value\":0}, {\"answer\":0,\"text\":\"罗匹尼罗\",\"value\":1}, {\"answer\":1,\"text\":\"丁螺环酮\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "病人有严重的肾损伤。下列哪种药物应避免使用"
+  },
+  {
+    "id": 38430,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不伴有肾功能不全\",\"value\":0}, {\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"女性多见\",\"value\":2}, {\"answer\":0,\"text\":\"逐渐进展为慢性肾衰竭\",\"value\":3}, {\"answer\":1,\"text\":\"可发生任何年龄段,以儿童多见\",\"value\":4}]",
+    "title": "关于慢性肾小球肾炎叙述不正确的是"
+  },
+  {
+    "id": 38415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钠血症\",\"value\":3}]",
+    "title": "患者,女,43岁,幽门梗阻,每日补10%葡萄糖2500ml,10%氯化钾30ml,2天前开始出现全腹膨胀,每日尿量1500ml,最可能的原因是"
+  },
+  {
+    "id": 38196,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"头孢噻肟\",\"answer\":1},{\"value\":1,\"text\":\"阿莫西林\",\"answer\":0},{\"value\":2,\"text\":\"氨苄西林\",\"answer\":0},{\"value\":3,\"text\":\"哌拉西林\",\"answer\":0}]",
+    "title": "下列抗菌药中,肾损伤最小的是"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38217,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"阿昔洛韦\",\"value\":1}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":2}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":3}]",
+    "title": "须水化后使用,以降低肾小管坏死发生率的药物是"
+  },
+  {
+    "id": 38240,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"12-16g\",\"value\":0}, {\"answer\":0,\"text\":\"10-12g\",\"value\":1}, {\"answer\":0,\"text\":\"8-10g\",\"value\":2}, {\"answer\":1,\"text\":\"6-8g\",\"value\":3}]",
+    "title": "患者,男性18岁,诊断肾病综合征,应用激素治疗无效,改用环磷酰胺治疗,总量不超过"
+  },
+  {
+    "id": 38405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血钠低\",\"value\":0}, {\"answer\":0,\"text\":\"血钾低\",\"value\":1}, {\"answer\":0,\"text\":\"血磷低\",\"value\":2}, {\"answer\":0,\"text\":\"血钙低\",\"value\":3}]",
+    "title": "低渗性脱水主要指"
+  },
+  {
+    "id": 38372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"7天\",\"value\":0}, {\"answer\":1,\"text\":\"10-14天\",\"value\":1}, {\"answer\":0,\"text\":\"20天以内\",\"value\":2}, {\"answer\":0,\"text\":\"4周以上\",\"value\":3}]",
+    "title": "患者,女,38岁,临床诊断为急性肾盂肾炎,该患者应用抗生素治疗,适宜的治疗持续天数是"
+  },
+  {
+    "id": 38228,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急进型肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "肺出血肾炎综合征可继发哪种肾炎"
+  },
+  {
+    "id": 38239,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用消炎痛、强的松减量 \",\"value\":0}, {\"answer\":0,\"text\":\"强的松开始减量\",\"value\":1}, {\"answer\":1,\"text\":\"强的松原剂量继续治疗\",\"value\":2}, {\"answer\":0,\"text\":\"加用清蛋白、强的松减量\",\"value\":3}]",
+    "title": "患者,男,15岁,高度水肿,尿蛋白,血清蛋白15g/L,血胆固醇10mmol/L,应用强地松治疗4周,尿量增加,水肿消退,此时选择何种药物治疗"
+  },
+  {
+    "id": 38260,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷公藤治疗\",\"value\":0}, {\"answer\":0,\"text\":\"强的松治疗\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎治疗\",\"value\":2}, {\"answer\":0,\"text\":\"抗凝治疗\",\"value\":3}]",
+    "title": "患者,男,33岁,反复发作性血尿,临床诊断IgA肾病,首选治疗为"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"静脉注射葡萄糖酸钙\",\"value\":0}, {\"answer\":0,\"text\":\"静脉注射安定\",\"value\":1}, {\"answer\":0,\"text\":\"口服镇静药\",\"value\":2}, {\"answer\":0,\"text\":\"肌注维生素B\",\"value\":3}]",
+    "title": "慢性肾功能不全尿毒症在纠正酸中毒后发生抽搐,最迅速有效的治疗是"
+  },
+  {
+    "id": 38401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"钠离子\",\"value\":0}, {\"answer\":0,\"text\":\"钙离子\",\"value\":1}, {\"answer\":0,\"text\":\"钾离子\",\"value\":2}, {\"answer\":0,\"text\":\"镁离子\",\"value\":3}]",
+    "title": "细胞外液中主要阳离子是"
+  },
+  {
+    "id": 38428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":0}, {\"answer\":0,\"text\":\"血管炎肾损伤\",\"value\":1}, {\"answer\":0,\"text\":\"紫癜性肾炎\",\"value\":2}, {\"answer\":1,\"text\":\"狼疮肾炎\",\"value\":3}]",
+    "title": "育龄女性肾病综合征最常见的继发因素"
+  },
+  {
+    "id": 38230,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿合剂\",\"value\":0}, {\"answer\":1,\"text\":\"低分子右旋糖酐\",\"value\":1}, {\"answer\":0,\"text\":\"氨苯蝶啶\",\"value\":2}, {\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":3}]",
+    "title": "治疗肾炎水肿时,下列哪一药不宜应用"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38216,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"东莨菪碱\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "引起的肾损害一般可逆的药物是"
+  },
+  {
+    "id": 38370,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松\",\"value\":0}, {\"answer\":0,\"text\":\"抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":3}]",
+    "title": "患者,女,64岁,下肢水肿2年,伴气急,双肾体积大,双肾静脉主干有血栓,最合理的治疗药物是"
+  },
+  {
+    "id": 38335,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"注射促红细胞生成素,并补充铁剂\",\"value\":0}, {\"answer\":0,\"text\":\"多次输入红细胞\",\"value\":1}, {\"answer\":0,\"text\":\"补充维生素B12\",\"value\":2}, {\"answer\":0,\"text\":\"口服叶酸\",\"value\":3}]",
+    "title": "慢性肾功能不全导致的肾性贫血合理的治疗方法是"
+  },
+  {
+    "id": 38427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"呼气有酮味\",\"value\":0}, {\"answer\":1,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"面部潮红\",\"value\":2}, {\"answer\":1,\"text\":\"呼吸深而快\",\"value\":3}, {\"answer\":1,\"text\":\"尿液呈酸性\",\"value\":4}]",
+    "title": "代谢性酸中毒的表现包括"
+  },
+  {
+    "id": 38368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"感染后肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发肾小球病基础上的急进性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"原发性小血管炎\",\"value\":2}, {\"answer\":1,\"text\":\"原发性急进性肾小球肾炎\",\"value\":3}, {\"answer\":1,\"text\":\"系统性红斑狼疮导致的急进性肾小球肾炎\",\"value\":4}]",
+    "title": "下列关于急进性肾小球肾炎病因叙述正确的是"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38359,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能急剧转坏\",\"value\":0}, {\"answer\":0,\"text\":\"常无贫血表现\",\"value\":1}, {\"answer\":1,\"text\":\"呈现急性肾炎综合征\",\"value\":2}, {\"answer\":1,\"text\":\"早期出血、少尿\",\"value\":3}, {\"answer\":1,\"text\":\"数周至半年进展为尿毒症\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎的临床表现的是"
+  },
+  {
+    "id": 38185,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"根据感染的严重程度、病原菌种类及药敏试验选用无肾毒性或肾毒性低的抗菌药物\",\"value\":0}, {\"answer\":0,\"text\":\"主要经肾排泄的抗菌药物在肾功能减退者不可应用\",\"value\":1}, {\"answer\":1,\"text\":\"尽量避免使用肾毒性抗菌药物,确有应用指征时,必须调整给药方案\",\"value\":2}, {\"answer\":1,\"text\":\"主要由肝胆系统排泄或经肾脏和肝胆系统同时排出者,维持原治疗量或略减\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于肾功能减退患者抗菌药物的应用,正确的是"
+  },
+  {
+    "id": 38353,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌药\",\"value\":0}, {\"answer\":1,\"text\":\"及时治疗上呼吸道感染有助于预防\",\"value\":1}, {\"answer\":1,\"text\":\"不主张积极使用皮质激素\",\"value\":2}, {\"answer\":1,\"text\":\"皮质激素使用要区别对待\",\"value\":3}, {\"answer\":0,\"text\":\"氨基糖苷类可用于合并肠杆菌感染者\",\"value\":4}]",
+    "title": "下列符合慢性肾小球肾炎治疗的是"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38279,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"阿呋唑嗪\",\"value\":1}, {\"answer\":1,\"text\":\"非那雄胺\",\"value\":2}, {\"answer\":0,\"text\":\"度他雄胺\",\"value\":3}]",
+    "title": "起效慢,服用三个月才可以改善由前列腺增生症导致的尿路梗阻,减少残余尿量的5α还原酶抑制剂的是"
+  },
+  {
+    "id": 38274,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"M2+M3\",\"value\":0}, {\"answer\":0,\"text\":\"M1\",\"value\":1}, {\"answer\":0,\"text\":\"M2\",\"value\":2}, {\"answer\":0,\"text\":\"M4\",\"value\":3}]",
+    "title": "托特罗定用于治疗尿频等疾病,该药主要在下列哪个胆碱能受体发挥作用"
+  },
+  {
+    "id": 38209,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":1,\"text\":\"四环素\",\"value\":3}]",
+    "title": "肾功能减退感染患者可以使用,但治疗量须减少的抗菌药为"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钠血症\",\"value\":3}]",
+    "title": "患者,女,43岁,幽门梗阻,每日补10%葡萄糖2500ml,10%氯化钾30ml,2天前开始出现全腹膨胀,每日尿量1500ml,最可能的原因是"
+  },
+  {
+    "id": 38306,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"微小病变型肾病\",\"value\":0}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"膜性肾病\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "乙肝病毒相关性肾炎最常见为肾脏病理类型为 "
+  },
+  {
+    "id": 38351,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多饮水,勤排尿\",\"value\":0}, {\"answer\":0,\"text\":\"隔天用一次抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"保持外阴清洁\",\"value\":2}, {\"answer\":0,\"text\":\"每天尿道口消除\",\"value\":3}]",
+    "title": "预防肾盂肾炎最简单的方法是"
+  },
+  {
+    "id": 38197,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"去甲肾上腺素\",\"value\":2}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":3}]",
+    "title": "对于无尿休克患者应禁用"
+  },
+  {
+    "id": 38244,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"给予降压药\",\"value\":0}, {\"answer\":1,\"text\":\"输入少量新鲜血\",\"value\":1}, {\"answer\":0,\"text\":\"给予氯化钠注射液\",\"value\":2}, {\"answer\":0,\"text\":\"补充血浆\",\"value\":3}]",
+    "title": "患者,男,慢性肾炎5年,长期低盐低蛋白饮食,乏力恶心呕吐20天,血压140/100mmHg,无水肿,血白蛋白30g/L,球蛋白25g/L,可选择哪一种治疗措施"
+  },
+  {
+    "id": 38235,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右下肢血栓形成\",\"value\":0}, {\"answer\":0,\"text\":\"肾性骨病\",\"value\":1}, {\"answer\":0,\"text\":\"高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"动脉栓塞\",\"value\":3}]",
+    "title": "患者,男,18岁,蛋白尿,应用激素治疗过程中突然出现右下肢疼痛,最可能的原因是"
+  },
+  {
+    "id": 38437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":3}]",
+    "title": "慢性肾炎尿毒症产生致命性危险因素是"
+  },
+  {
+    "id": 38422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水2000-2500ml,钠5g,氯化钾4g\",\"value\":0}, {\"answer\":0,\"text\":\"水1500,钠3g,氯化钾2g\",\"value\":1}, {\"answer\":0,\"text\":\"水3000-3500ml,钠5g,氯化钾3g\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "禁食成年病人每天正确的水与电解质补充量为"
+  },
+  {
+    "id": 38181,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氨基酸注射液（17AA）\",\"value\":0}, {\"answer\":0,\"text\":\"复方氨基酸注射液（18AA）\",\"value\":1}, {\"answer\":0,\"text\":\"复方氨基酸注射液（6AA）\",\"value\":2}, {\"answer\":1,\"text\":\"复方氨基酸注射液（9AA）\",\"value\":3}]",
+    "title": "肾病患者宜选用哪种氨基酸制剂"
+  },
+  {
+    "id": 38365,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎综合征伴有重度高血压\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征伴有肾功能急剧恶化\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征伴有重度高血压\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征伴有肾功能急剧恶化\",\"value\":3}]",
+    "title": "急进性肾小球肾炎的临床指征是"
+  },
+  {
+    "id": 38180,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"盐酸特拉唑嗪片\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":3}]",
+    "title": "患者,男,55岁,高血压病合并前列腺肥大患者,宜选用哪一降压药"
+  },
+  {
+    "id": 38343,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"免疫介导的疾病\",\"value\":0}, {\"answer\":0,\"text\":\"肾小球损伤性疾病\",\"value\":1}, {\"answer\":0,\"text\":\"细菌感染性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"遗传性疾病\",\"value\":3}]",
+    "title": "目前人类肾小球疾病是"
+  },
+  {
+    "id": 38440,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"300ml\",\"value\":0}, {\"answer\":0,\"text\":\"200ml\",\"value\":1}, {\"answer\":0,\"text\":\"150ml\",\"value\":2}, {\"answer\":1,\"text\":\"100ml\",\"value\":3}]",
+    "title": "无尿是指成人24h尿量少于"
+  },
+  {
+    "id": 38416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠减压\",\"value\":1}, {\"answer\":0,\"text\":\"输血过量\",\"value\":2}, {\"answer\":0,\"text\":\"挤压创伤\",\"value\":3}]",
+    "title": "低钾性碱中毒常出现于"
+  },
+  {
+    "id": 38184,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"西格列汀\",\"value\":0}, {\"answer\":1,\"text\":\"利格列汀\",\"value\":1}, {\"answer\":0,\"text\":\"阿格列汀\",\"value\":2}, {\"answer\":0,\"text\":\"沙格列汀\",\"value\":3}]",
+    "title": "患者,男,48岁,糖尿病,肾功能不全,服用二肽基肽酶-Ⅳ（DPP-4）抑制剂降糖药,不需调整剂量的是"
+  },
+  {
+    "id": 38176,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"依那普利\",\"value\":0}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":1}, {\"answer\":0,\"text\":\"吲达帕胺\",\"value\":2}, {\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":3}]",
+    "title": "高血压伴有肾功不全者最好选用"
+  },
+  {
+    "id": 38413,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乳酸钠\",\"value\":0}, {\"answer\":0,\"text\":\"枸橼酸钾\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":1,\"text\":\"实施病因治疗\",\"value\":3}]",
+    "title": "代谢性酸中毒在没有发展到循环衰竭程度时,首选治疗是"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38316,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾血管性高血压\",\"value\":0}, {\"answer\":1,\"text\":\"原发性醛固酮增生症\",\"value\":1}, {\"answer\":1,\"text\":\"肾性高血压\",\"value\":2}, {\"answer\":0,\"text\":\"良性原发性高血压\",\"value\":3}, {\"answer\":0,\"text\":\"以上上均出现\",\"value\":4}]",
+    "title": "下列哪个疾病可能出现低血钾现象"
+  },
+  {
+    "id": 38434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多见于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"肾脏缩小\",\"value\":1}, {\"answer\":0,\"text\":\"常继发于慢性化脓性感染\",\"value\":2}, {\"answer\":1,\"text\":\"原发性淀粉样变性主要累及肾、肝、脾\",\"value\":3}, {\"answer\":1,\"text\":\"继发性淀粉样变性主要累及心、肾、消化道\",\"value\":4}]",
+    "title": "关于肾淀粉样变性叙述不正确的是"
+  },
+  {
+    "id": 38435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"多发于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"有特征性眼底病变\",\"value\":1}, {\"answer\":1,\"text\":\"糖尿病病史\",\"value\":2}, {\"answer\":1,\"text\":\"早期可发现微量白蛋白排出增多,以后逐渐发展为大量蛋白尿\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病病程10年以上者\",\"value\":4}]",
+    "title": "关于糖尿病肾病说法正确的是"
+  },
+  {
+    "id": 38325,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙肝病毒相关性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"高血压性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"狼疮性肾炎\",\"value\":3}]",
+    "title": "患者,男,26岁,出现蛋白尿、血尿一个月,乏力,食欲不振,并有乙肝病史,最可能的临床诊断为"
+  },
+  {
+    "id": 38321,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血清中IgA升高\",\"value\":0}, {\"answer\":0,\"text\":\"肾功能下降\",\"value\":1}, {\"answer\":0,\"text\":\"血压升高\",\"value\":2}, {\"answer\":1,\"text\":\"蛋白尿\",\"value\":3}]",
+    "title": "IgA肾病的临床表现是"
+  },
+  {
+    "id": 38462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"链霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾衰竭合并感染时,应选用的抗生素是"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"紫癜性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"淋巴瘤\",\"value\":1}, {\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓瘤性肾病\",\"value\":3}]",
+    "title": "儿童肾病综合征常继发于"
+  },
+  {
+    "id": 38296,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红细胞生成素减少\",\"value\":0}, {\"answer\":0,\"text\":\"毒素抑制骨髓造血\",\"value\":1}, {\"answer\":0,\"text\":\"营养不足,低蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "尿毒症患者出现贫血的主要原因是"
+  },
+  {
+    "id": 38372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"7天\",\"value\":0}, {\"answer\":1,\"text\":\"10-14天\",\"value\":1}, {\"answer\":0,\"text\":\"20天以内\",\"value\":2}, {\"answer\":0,\"text\":\"4周以上\",\"value\":3}]",
+    "title": "患者,女,38岁,临床诊断为急性肾盂肾炎,该患者应用抗生素治疗,适宜的治疗持续天数是"
+  },
+  {
+    "id": 38400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝硬化患者纠正低钠血症时,中心脑桥髓鞘溶解发生率较其他原因的低钠血症少见\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者常见的电解质紊乱\",\"value\":2}, {\"answer\":0,\"text\":\"血钠<130mEq/L增加肝性脑病、肝肾综合征的风险\",\"value\":3}, {\"answer\":1,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于低钠血症和肝硬化的叙述正确的是"
+  },
+  {
+    "id": 38244,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"给予降压药\",\"value\":0}, {\"answer\":1,\"text\":\"输入少量新鲜血\",\"value\":1}, {\"answer\":0,\"text\":\"给予氯化钠注射液\",\"value\":2}, {\"answer\":0,\"text\":\"补充血浆\",\"value\":3}]",
+    "title": "患者,男,慢性肾炎5年,长期低盐低蛋白饮食,乏力恶心呕吐20天,血压140/100mmHg,无水肿,血白蛋白30g/L,球蛋白25g/L,可选择哪一种治疗措施"
+  },
+  {
+    "id": 38200,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"黄酮哌酯\",\"value\":0}, {\"answer\":0,\"text\":\"阿托品\",\"value\":1}, {\"answer\":0,\"text\":\"毛果芸香碱\",\"value\":2}, {\"answer\":0,\"text\":\"新斯的明\",\"value\":3}]",
+    "title": "下列可以治疗尿失禁的药物是"
+  },
+  {
+    "id": 38198,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"坦洛新\",\"value\":0}, {\"answer\":1,\"text\":\"多巴胺\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"雄激素\",\"value\":3}]",
+    "title": "某急性肾衰竭患者,利尿剂和哪种药物联合应用来增加尿量"
+  },
+  {
+    "id": 38375,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"大量补液及碱化尿液\",\"value\":1}, {\"answer\":0,\"text\":\"限制蛋白质摄入\",\"value\":2}, {\"answer\":0,\"text\":\"限制水摄入\",\"value\":3}]",
+    "title": "患者,男,66岁,患有肺癌,应用CAP方案化疗第三天后突然出现少尿,肌酐146μmol/L,宜选用的治疗措施是"
+  },
+  {
+    "id": 38190,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":0}, {\"answer\":0,\"text\":\"减少蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"延缓慢性肾衰竭进展为终末期肾病\",\"value\":2}, {\"answer\":0,\"text\":\"不宜用于肾动脉狭窄患者\",\"value\":3}]",
+    "title": "有关血管紧张素转化酶抑制药用于治疗慢性肾衰竭的描述,下列哪项是错误的是"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38383,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙型肝炎病毒相关性肾小球肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾损伤\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,女,35岁,双下肢水肿一个月,既往有慢性乙型病毒性肝炎病史,尿常规蛋白阳性,尿红细胞20个/HP,最可能的临床诊断为"
+  },
+  {
+    "id": 38344,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血小板\",\"value\":0}, {\"answer\":0,\"text\":\"中性粒细胞\",\"value\":1}, {\"answer\":0,\"text\":\"内皮细胞\",\"value\":2}, {\"answer\":1,\"text\":\"三高症状\",\"value\":3}]",
+    "title": "下列哪项是加剧肾小球硬化的主要因素"
+  },
+  {
+    "id": 38266,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨苄西林\",\"value\":0}, {\"answer\":1,\"text\":\"头孢克肟\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"四环素\",\"value\":3}]",
+    "title": "孕妇患有急性肾盂肾炎,首选哪种抗菌药物"
+  },
+  {
+    "id": 38210,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"多巴胺\",\"value\":1}, {\"answer\":0,\"text\":\"四环素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾功能减退感染患者可按原治疗量应用的抗菌药为"
+  },
+  {
+    "id": 38466,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"豆腐\",\"value\":0}, {\"answer\":0,\"text\":\"植物油\",\"value\":1}, {\"answer\":0,\"text\":\"氨基酸\",\"value\":2}, {\"answer\":1,\"text\":\"鸡蛋\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不宜选用\",\"value\":4}]",
+    "title": "患者,男,50岁,慢性肾小球肾炎10年,近几日见明显血尿,且水肿加重,尿液检查有蛋白及颗粒管型,蛋白饮食宜选用"
+  },
+  {
+    "id": 38363,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝肾功能不全,尤其伴有未经治疗的尿路感染者\",\"value\":0}, {\"answer\":1,\"text\":\"对铁剂过敏者\",\"value\":1}, {\"answer\":1,\"text\":\"地中海贫血患者\",\"value\":2}, {\"answer\":1,\"text\":\"铁负荷过高的患者\",\"value\":3}, {\"answer\":1,\"text\":\"铁血黄沉着症患者\",\"value\":4}]",
+    "title": "关于铁剂的禁忌症叙述正确的是"
+  },
+  {
+    "id": 38220,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布美他尼\",\"value\":0}, {\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":1}, {\"answer\":1,\"text\":\"螺内酯\",\"value\":2}, {\"answer\":1,\"text\":\"阿米洛利\",\"value\":3}, {\"answer\":1,\"text\":\"氨苯蝶啶\",\"value\":4}]",
+    "title": "下列哪些药物属于低效利尿药"
+  },
+  {
+    "id": 38202,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松最好于早晨8点前服用,每天服用一次\",\"value\":0}, {\"answer\":1,\"text\":\"他克莫司应空腹服用\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松、华法林每天服用一次\",\"value\":2}, {\"answer\":1,\"text\":\"他克莫司用药期间应定期监测药物浓度\",\"value\":3}, {\"answer\":1,\"text\":\"华法林用药期间应监测有无牙龈出血、鼻出血、皮肤瘀斑等\",\"value\":4}]",
+    "title": "患者,男,48岁,临床诊断：膜性肾病3期,用药处方是泼尼松片、他克莫司胶囊、华法林片,关于用药指导叙述正确的是"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38412,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重时可发生多尿\",\"value\":0}, {\"answer\":1,\"text\":\"最早的临床表现为肌无力\",\"value\":1}, {\"answer\":0,\"text\":\"有典型的心电图变化\",\"value\":2}, {\"answer\":1,\"text\":\"常与镁缺乏同时存在\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于低钾血症临床表现的是"
+  },
+  {
+    "id": 38273,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方磺胺甲噁唑\",\"value\":0}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":1,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"头孢呋辛\",\"value\":3}, {\"answer\":0,\"text\":\"阿奇霉素\",\"value\":4}]",
+    "title": "治疗大肠埃希菌所导致的尿路感染,可以选用的抗菌药物包括"
+  },
+  {
+    "id": 38347,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":0,\"text\":\"蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"尿中毒\",\"value\":2}, {\"answer\":0,\"text\":\"出现血尿\",\"value\":3}]",
+    "title": "慢性肾病如未能及时治疗将发展成慢性肾功能不全、肾衰,最终形成"
+  },
+  {
+    "id": 38404,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钾性酸中毒\",\"value\":0}, {\"answer\":1,\"text\":\"低氯、低钾性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"低氯、高钾性碱中毒\",\"value\":2}, {\"answer\":0,\"text\":\"低氯、低钾性酸中毒\",\"value\":3}]",
+    "title": "患者,男,46岁,腹胀呕吐已半年,多发于午后,吐出隔夜食物,吐后舒服,由于长期呕吐,除脱水外,还会造成"
+  },
+  {
+    "id": 38343,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"免疫介导的疾病\",\"value\":0}, {\"answer\":0,\"text\":\"肾小球损伤性疾病\",\"value\":1}, {\"answer\":0,\"text\":\"细菌感染性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"遗传性疾病\",\"value\":3}]",
+    "title": "目前人类肾小球疾病是"
+  },
+  {
+    "id": 38443,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":0,\"text\":\"肾性高血压\",\"value\":1}, {\"answer\":0,\"text\":\"肾结石\",\"value\":2}, {\"answer\":0,\"text\":\"败血症\",\"value\":3}]",
+    "title": "慢性肾盂肾炎最严重的并发症是"
+  },
+  {
+    "id": 38284,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"托特罗定\",\"value\":3}]",
+    "title": "下列哪一药物数小时到数天可以改善症状,不影响前列腺体积和血清PSA水平"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝硬化患者纠正低钠血症时,中心脑桥髓鞘溶解发生率较其他原因的低钠血症少见\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者常见的电解质紊乱\",\"value\":2}, {\"answer\":0,\"text\":\"血钠<130mEq/L增加肝性脑病、肝肾综合征的风险\",\"value\":3}, {\"answer\":1,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于低钠血症和肝硬化的叙述正确的是"
+  },
+  {
+    "id": 38403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口苦、恶心\",\"value\":0}, {\"answer\":0,\"text\":\"心脏传导阻滞\",\"value\":1}, {\"answer\":0,\"text\":\"心脏节律异常\",\"value\":2}, {\"answer\":1,\"text\":\"肌乏力\",\"value\":3}]",
+    "title": "低钾血症时,最早出现的临床表现是"
+  },
+  {
+    "id": 38235,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右下肢血栓形成\",\"value\":0}, {\"answer\":0,\"text\":\"肾性骨病\",\"value\":1}, {\"answer\":0,\"text\":\"高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"动脉栓塞\",\"value\":3}]",
+    "title": "患者,男,18岁,蛋白尿,应用激素治疗过程中突然出现右下肢疼痛,最可能的原因是"
+  },
+  {
+    "id": 38225,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"贫血\",\"value\":0}, {\"answer\":0,\"text\":\"高血压\",\"value\":1}, {\"answer\":1,\"text\":\"不导致肾功能不全\",\"value\":2}, {\"answer\":0,\"text\":\"轻、中度水肿\",\"value\":3}]",
+    "title": "慢性肾炎临床表现错误的是"
+  },
+  {
+    "id": 38436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2500ml\",\"value\":0}, {\"answer\":0,\"text\":\"1500ml\",\"value\":1}, {\"answer\":0,\"text\":\"500ml\",\"value\":2}, {\"answer\":0,\"text\":\"3000ml\",\"value\":3}]",
+    "title": "多尿是指成人24h尿量大于"
+  },
+  {
+    "id": 38406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"代谢性碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"代谢性酸中毒\",\"value\":2}, {\"answer\":0,\"text\":\"呼吸性酸中毒\",\"value\":3}]",
+    "title": "患者幽门梗阻呕吐10天,血压90/75mmHg,血钾3.1mmol,PH7.5,应诊断为"
+  },
+  {
+    "id": 38196,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"头孢噻肟\",\"answer\":1},{\"value\":1,\"text\":\"阿莫西林\",\"answer\":0},{\"value\":2,\"text\":\"氨苄西林\",\"answer\":0},{\"value\":3,\"text\":\"哌拉西林\",\"answer\":0}]",
+    "title": "下列抗菌药中,肾损伤最小的是"
+  },
+  {
+    "id": 38318,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿中会出现少量变形红细胞\",\"value\":0}, {\"answer\":0,\"text\":\"尿中会出现少量正常细胞\",\"value\":1}, {\"answer\":0,\"text\":\"不出现血尿\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "下列关于糖尿病肾病出现血尿的描述正确的是"
+  },
+  {
+    "id": 38195,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"庆大霉素\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "下列抗菌药中,肾衰时无需减量的是"
+  },
+  {
+    "id": 38239,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用消炎痛、强的松减量 \",\"value\":0}, {\"answer\":0,\"text\":\"强的松开始减量\",\"value\":1}, {\"answer\":1,\"text\":\"强的松原剂量继续治疗\",\"value\":2}, {\"answer\":0,\"text\":\"加用清蛋白、强的松减量\",\"value\":3}]",
+    "title": "患者,男,15岁,高度水肿,尿蛋白,血清蛋白15g/L,血胆固醇10mmol/L,应用强地松治疗4周,尿量增加,水肿消退,此时选择何种药物治疗"
+  },
+  {
+    "id": 38243,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗凝药\",\"value\":0}, {\"answer\":0,\"text\":\"透析疗法\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":1,\"text\":\"休息和对症治疗\",\"value\":3}]",
+    "title": "急性肾小球肾炎可采用"
+  },
+  {
+    "id": 38245,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"强的松\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"雷公藤多苷\",\"value\":3}]",
+    "title": "患者,男,23岁,全身水肿半个月,近日出现呼吸困难,少尿,临床诊断：肾病综合征患者,首选的治疗药物是"
+  },
+  {
+    "id": 38197,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"去甲肾上腺素\",\"value\":2}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":3}]",
+    "title": "对于无尿休克患者应禁用"
+  },
+  {
+    "id": 38418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "代谢性碱中毒伴有的电解质紊乱是"
+  },
+  {
+    "id": 38201,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"卡铂\",\"value\":1}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":2}, {\"answer\":1,\"text\":\"阿昔洛韦\",\"value\":3}]",
+    "title": "下列药物当快速注射会析出结晶,导致急性肾衰竭的是"
+  },
+  {
+    "id": 38263,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"表现为化脓性间质性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"由细菌感染引起\",\"value\":1}, {\"answer\":1,\"text\":\"大肠埃希菌感染\",\"value\":2}, {\"answer\":1,\"text\":\"分为血源性和上行性感染\",\"value\":3}, {\"answer\":0,\"text\":\"男性发病率稍高\",\"value\":4}]",
+    "title": "关于肾盂肾炎说法正确的是"
+  },
+  {
+    "id": 38188,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗组胺剂\",\"value\":0}, {\"answer\":1,\"text\":\"拟交感神经药\",\"value\":1}, {\"answer\":0,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"水杨酸类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "前列腺增大的患者不宜使用的药物是"
+  },
+  {
+    "id": 38233,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钠饮食\",\"value\":0}, {\"answer\":1,\"text\":\"噻嗪类利尿剂作为基本治疗药物\",\"value\":1}, {\"answer\":1,\"text\":\"可用钙通道阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"血压降至150-160/90mmHg为宜\",\"value\":3}, {\"answer\":1,\"text\":\"可采用几种降压药联合应用\",\"value\":4}]",
+    "title": "关于慢性肾炎高血压治疗正确的是"
+  },
+  {
+    "id": 38316,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾血管性高血压\",\"value\":0}, {\"answer\":1,\"text\":\"原发性醛固酮增生症\",\"value\":1}, {\"answer\":1,\"text\":\"肾性高血压\",\"value\":2}, {\"answer\":0,\"text\":\"良性原发性高血压\",\"value\":3}, {\"answer\":0,\"text\":\"以上上均出现\",\"value\":4}]",
+    "title": "下列哪个疾病可能出现低血钾现象"
+  },
+  {
+    "id": 38426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碱性尿\",\"value\":0}, {\"answer\":1,\"text\":\"恶心呕吐\",\"value\":1}, {\"answer\":1,\"text\":\"碱中毒\",\"value\":2}, {\"answer\":1,\"text\":\"腱反射减弱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症一般表现为"
+  },
+  {
+    "id": 38345,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"服用利尿药\",\"value\":0}, {\"answer\":1,\"text\":\"低盐、适量蛋白质、高热量、高维生素饮食\",\"value\":1}, {\"answer\":0,\"text\":\"避免上呼吸道感染\",\"value\":2}, {\"answer\":0,\"text\":\"高脂肪饮食\",\"value\":3}]",
+    "title": "为减缓肾小球硬化的发生,应该注意"
+  },
+  {
+    "id": 38453,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾结核\",\"value\":0}, {\"answer\":1,\"text\":\"肾动脉狭窄\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "肾性高血压最常见的原因是"
+  },
+  {
+    "id": 38270,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"夜尿次数增多\",\"value\":0}, {\"answer\":0,\"text\":\"夜尿尿量增多\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染\",\"value\":2}, {\"answer\":0,\"text\":\"皮疹\",\"value\":3}]",
+    "title": "下列属于良性前列腺增生症早期信号的是"
+  },
+  {
+    "id": 38222,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高脂血症\",\"value\":0}, {\"answer\":0,\"text\":\"水肿\",\"value\":1}, {\"answer\":1,\"text\":\"高血压\",\"value\":2}, {\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":3}]",
+    "title": "肾病综合征的临床特点不包括"
+  },
+  {
+    "id": 38392,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"结节性肾小球硬化\",\"value\":0}, {\"answer\":0,\"text\":\"新月体肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"渗出性病变\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫性肾小球硬化\",\"value\":3}]",
+    "title": "糖尿病肾病具有高度特异性的肾脏病理变化是"
+  },
+  {
+    "id": 38333,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"少尿24小时\",\"value\":0}, {\"answer\":0,\"text\":\"二氧化碳结合率很低\",\"value\":1}, {\"answer\":0,\"text\":\"血钾＜5.5mmol/L\",\"value\":2}, {\"answer\":1,\"text\":\"急性肺水肿\",\"value\":3}]",
+    "title": "下列哪种情况适合针对急性肾衰患者给予紧急透析治疗"
+  },
+  {
+    "id": 38461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多吃橘子\",\"value\":0}, {\"answer\":0,\"text\":\"禁用螺内酯\",\"value\":1}, {\"answer\":0,\"text\":\"忌输库存血\",\"value\":2}, {\"answer\":0,\"text\":\"采血部位不要结扎过紧\",\"value\":3}]",
+    "title": "慢性肾衰竭患者已经发生高血钾,治疗措施不正确的是"
+  },
+  {
+    "id": 38287,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性膀胱炎\",\"value\":3}]",
+    "title": "患者,女,35岁,2天前出现尿急尿频尿痛,尿常规见尿液浑浊,尿蛋白阳性,该患者最有可能的诊断为"
+  },
+  {
+    "id": 38463,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缓解尿路刺激症状\",\"value\":0}, {\"answer\":0,\"text\":\"增加水钠潴留\",\"value\":1}, {\"answer\":0,\"text\":\"增加食欲\",\"value\":2}, {\"answer\":0,\"text\":\"有助于消化\",\"value\":3}]",
+    "title": "慢性肾盂肾炎服用碳酸氢钠的好处是"
+  },
+  {
+    "id": 38399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3%盐水静脉注射+呋塞米\",\"value\":0}, {\"answer\":0,\"text\":\"口服钠盐4g,q6h\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "患者,男,54岁,多型胶质瘤切除术两周,头痛两天,出现神志改变癫痫发作,血钠107mEq/L,该患者最佳治疗是"
+  },
+  {
+    "id": 38279,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"阿呋唑嗪\",\"value\":1}, {\"answer\":1,\"text\":\"非那雄胺\",\"value\":2}, {\"answer\":0,\"text\":\"度他雄胺\",\"value\":3}]",
+    "title": "起效慢,服用三个月才可以改善由前列腺增生症导致的尿路梗阻,减少残余尿量的5α还原酶抑制剂的是"
+  },
+  {
+    "id": 38314,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"青春发育期青少年\",\"value\":0}, {\"answer\":0,\"text\":\"儿童\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "体位性蛋白尿常见于"
+  },
+  {
+    "id": 38281,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"派仑西平\",\"value\":0}, {\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"依立雄胺\",\"value\":2}, {\"answer\":0,\"text\":\"米多君\",\"value\":3}]",
+    "title": "下列哪个药物可以减轻前列腺张力和膀胱出口梗阻"
+  },
+  {
+    "id": 38215,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哒帕胺\",\"value\":0}, {\"answer\":1,\"text\":\"甲氧明\",\"value\":1}, {\"answer\":0,\"text\":\"多巴胺\",\"value\":2}, {\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":3}]",
+    "title": "可导致肾血管痉挛而致急性肾衰,较易引起少尿或无尿的药品是"
+  },
+  {
+    "id": 38276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"晚餐后临睡前\",\"value\":0}, {\"answer\":0,\"text\":\"早餐前\",\"value\":1}, {\"answer\":0,\"text\":\"晚餐前\",\"value\":2}, {\"answer\":0,\"text\":\"早餐后\",\"value\":3}]",
+    "title": "α1受体阻断剂用于治疗前列腺增生,为了减少该药的不良反应,最好在以下哪个时间服药"
+  },
+  {
+    "id": 38413,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乳酸钠\",\"value\":0}, {\"answer\":0,\"text\":\"枸橼酸钾\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":1,\"text\":\"实施病因治疗\",\"value\":3}]",
+    "title": "代谢性酸中毒在没有发展到循环衰竭程度时,首选治疗是"
+  },
+  {
+    "id": 38307,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水钠潴留\",\"value\":0}, {\"answer\":0,\"text\":\"肾素水平升高\",\"value\":1}, {\"answer\":0,\"text\":\"血管紧张素Ⅱ升高\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "大部分慢性肾脏疾病伴有肾功能不全和高血压的病人,血压上升的机制大多是由于"
+  },
+  {
+    "id": 38367,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"Ⅲ型\",\"value\":0}, {\"answer\":0,\"text\":\"Ⅰ、Ⅲ型\",\"value\":1}, {\"answer\":1,\"text\":\"Ⅱ、Ⅲ型\",\"value\":2}, {\"answer\":0,\"text\":\"Ⅰ型\",\"value\":3}]",
+    "title": "下列哪种类型的急进性肾小球肾炎适合采用甲泼尼龙冲击联合环磷酰胺进行治疗"
+  },
+  {
+    "id": 38434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多见于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"肾脏缩小\",\"value\":1}, {\"answer\":0,\"text\":\"常继发于慢性化脓性感染\",\"value\":2}, {\"answer\":1,\"text\":\"原发性淀粉样变性主要累及肾、肝、脾\",\"value\":3}, {\"answer\":1,\"text\":\"继发性淀粉样变性主要累及心、肾、消化道\",\"value\":4}]",
+    "title": "关于肾淀粉样变性叙述不正确的是"
+  },
+  {
+    "id": 38359,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能急剧转坏\",\"value\":0}, {\"answer\":0,\"text\":\"常无贫血表现\",\"value\":1}, {\"answer\":1,\"text\":\"呈现急性肾炎综合征\",\"value\":2}, {\"answer\":1,\"text\":\"早期出血、少尿\",\"value\":3}, {\"answer\":1,\"text\":\"数周至半年进展为尿毒症\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎的临床表现的是"
+  },
+  {
+    "id": 38419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾衰竭\",\"value\":1}, {\"answer\":1,\"text\":\"大量输入葡萄糖和胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"酸中毒\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症常见于"
+  },
+  {
+    "id": 38275,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"头孢他啶\",\"value\":1}, {\"answer\":1,\"text\":\"头孢氨苄\",\"value\":2}, {\"answer\":1,\"text\":\"复方磺胺甲噁唑\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可\",\"value\":4}]",
+    "title": "患者,女,5岁,临床诊断为膀胱炎,该患者可选用"
+  },
+  {
+    "id": 38455,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"碱化尿液减轻疼痛\",\"value\":0}, {\"answer\":1,\"text\":\"随时清洁尿路\",\"value\":1}, {\"answer\":1,\"text\":\"卧床休息\",\"value\":2}, {\"answer\":0,\"text\":\"避免应用阿托品类药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于尿路刺激症患者叙述正确的是"
+  },
+  {
+    "id": 38355,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨基酸\",\"value\":0}, {\"answer\":1,\"text\":\"依那普利\",\"value\":1}, {\"answer\":1,\"text\":\"氯沙坦\",\"value\":2}, {\"answer\":1,\"text\":\"氢氯噻嗪\",\"value\":3}, {\"answer\":0,\"text\":\"α酮酸\",\"value\":4}]",
+    "title": "下列属于治疗慢性肾小球肾炎的药物是"
+  },
+  {
+    "id": 38410,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"平衡盐溶液\",\"value\":0}, {\"answer\":1,\"text\":\"等渗盐水\",\"value\":1}, {\"answer\":0,\"text\":\"右旋糖酐\",\"value\":2}, {\"answer\":0,\"text\":\"5%碳酸氢钠\",\"value\":3}]",
+    "title": "治疗等渗性脱水的理想药物是"
+  },
+  {
+    "id": 38357,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"溶血性链球菌\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎双球菌感染\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄杆菌感染\",\"value\":2}, {\"answer\":0,\"text\":\"乙型肝炎病毒感染\",\"value\":3}]",
+    "title": "下列哪一细菌感染是引起急性肾炎最常见的"
+  },
+  {
+    "id": 38343,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"免疫介导的疾病\",\"value\":0}, {\"answer\":0,\"text\":\"肾小球损伤性疾病\",\"value\":1}, {\"answer\":0,\"text\":\"细菌感染性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"遗传性疾病\",\"value\":3}]",
+    "title": "目前人类肾小球疾病是"
+  },
+  {
+    "id": 38201,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"卡铂\",\"value\":1}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":2}, {\"answer\":1,\"text\":\"阿昔洛韦\",\"value\":3}]",
+    "title": "下列药物当快速注射会析出结晶,导致急性肾衰竭的是"
+  },
+  {
+    "id": 38246,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"水肿消退\",\"value\":0}, {\"answer\":0,\"text\":\"尿量增加\",\"value\":1}, {\"answer\":1,\"text\":\"尿蛋白消失\",\"value\":2}, {\"answer\":0,\"text\":\"食欲增加\",\"value\":3}]",
+    "title": "肾病综合征患者用强的松治疗,治疗过程中该药需减量的标准是"
+  },
+  {
+    "id": 38317,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾小球滤过率升高\",\"value\":0}, {\"answer\":0,\"text\":\"出现大量蛋白尿\",\"value\":1}, {\"answer\":1,\"text\":\"出现微量白蛋白尿\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球滤过率降低\",\"value\":3}]",
+    "title": "糖尿病肾损伤最早期的临床症状是"
+  },
+  {
+    "id": 38459,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膀胱、肾盏、尿道的炎症\",\"value\":0}, {\"answer\":1,\"text\":\"肾盂、输尿管、膀胱、肾盏、尿道的炎症\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂、输尿管、膀胱的炎症\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "尿路感染是指"
+  },
+  {
+    "id": 38189,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"改用通过生物转化而被消除的药物\",\"value\":0}, {\"answer\":0,\"text\":\"维持剂量应根据药物清除率改变而减少\",\"value\":1}, {\"answer\":0,\"text\":\"给药间隔应根据患者的消除半衰期而延长\",\"value\":2}, {\"answer\":1,\"text\":\"初次用药剂量宜减少\",\"value\":3}]",
+    "title": "当患者合并肾功能不全时,一般不必进行下列哪项措施避免发生药物毒性反应"
+  },
+  {
+    "id": 38420,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钠\",\"value\":0}, {\"answer\":0,\"text\":\"钙\",\"value\":1}, {\"answer\":1,\"text\":\"镁\",\"value\":2}, {\"answer\":0,\"text\":\"磷\",\"value\":3}]",
+    "title": "低钾血症患者,补钾后病情仍无改善时,应首先考虑缺乏"
+  },
+  {
+    "id": 38352,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌药\",\"value\":0}, {\"answer\":1,\"text\":\"利尿剂\",\"value\":1}, {\"answer\":0,\"text\":\"强心药\",\"value\":2}, {\"answer\":0,\"text\":\"抗高血压药\",\"value\":3}]",
+    "title": "患儿,临床诊断为急性肾小球肾炎,出现严重的循环充血现象,首选的治疗药物是"
+  },
+  {
+    "id": 38453,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾结核\",\"value\":0}, {\"answer\":1,\"text\":\"肾动脉狭窄\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "肾性高血压最常见的原因是"
+  },
+  {
+    "id": 38450,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"庆大霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":0,\"text\":\"头孢拉定\",\"value\":2}, {\"answer\":0,\"text\":\"呋喃妥因\",\"value\":3}]",
+    "title": "患者,女,妊娠12周,临床诊断为慢性肾盂肾炎,该患者应该避免使用的抗生素是"
+  },
+  {
+    "id": 38351,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多饮水,勤排尿\",\"value\":0}, {\"answer\":0,\"text\":\"隔天用一次抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"保持外阴清洁\",\"value\":2}, {\"answer\":0,\"text\":\"每天尿道口消除\",\"value\":3}]",
+    "title": "预防肾盂肾炎最简单的方法是"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38235,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右下肢血栓形成\",\"value\":0}, {\"answer\":0,\"text\":\"肾性骨病\",\"value\":1}, {\"answer\":0,\"text\":\"高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"动脉栓塞\",\"value\":3}]",
+    "title": "患者,男,18岁,蛋白尿,应用激素治疗过程中突然出现右下肢疼痛,最可能的原因是"
+  },
+  {
+    "id": 38266,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨苄西林\",\"value\":0}, {\"answer\":1,\"text\":\"头孢克肟\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"四环素\",\"value\":3}]",
+    "title": "孕妇患有急性肾盂肾炎,首选哪种抗菌药物"
+  },
+  {
+    "id": 38198,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"坦洛新\",\"value\":0}, {\"answer\":1,\"text\":\"多巴胺\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"雄激素\",\"value\":3}]",
+    "title": "某急性肾衰竭患者,利尿剂和哪种药物联合应用来增加尿量"
+  },
+  {
+    "id": 38268,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"非那雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"米多君\",\"value\":2}, {\"answer\":1,\"text\":\"奥昔布宁\",\"value\":3}]",
+    "title": "某患者,临床诊断为急迫性尿失禁,适宜的治疗药物是"
+  },
+  {
+    "id": 38258,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"消炎药\",\"value\":2}, {\"answer\":1,\"text\":\"休息并对症治疗\",\"value\":3}]",
+    "title": "患者,男,59岁,急性肾炎两周,血压140/90mmHg,尿红细胞撒遍满视野,应首选"
+  },
+  {
+    "id": 38388,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"IgA肾病\",\"value\":0}, {\"answer\":0,\"text\":\"膜性肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,男,25岁,以上呼吸道感染症状起病,发热之当日出现肉眼血尿伴有腰痛,无水肿,血肌酐正常,尿红细胞形态为肾小球性血尿,尿蛋白阴性,最佳临床诊断为"
+  },
+  {
+    "id": 38323,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"肾性糖尿\",\"value\":1}, {\"answer\":1,\"text\":\"磷酸盐尿\",\"value\":2}, {\"answer\":1,\"text\":\"氨基酸尿\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "范可尼综合征包括下列哪些表现"
+  },
+  {
+    "id": 38220,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布美他尼\",\"value\":0}, {\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":1}, {\"answer\":1,\"text\":\"螺内酯\",\"value\":2}, {\"answer\":1,\"text\":\"阿米洛利\",\"value\":3}, {\"answer\":1,\"text\":\"氨苯蝶啶\",\"value\":4}]",
+    "title": "下列哪些药物属于低效利尿药"
+  },
+  {
+    "id": 38434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多见于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"肾脏缩小\",\"value\":1}, {\"answer\":0,\"text\":\"常继发于慢性化脓性感染\",\"value\":2}, {\"answer\":1,\"text\":\"原发性淀粉样变性主要累及肾、肝、脾\",\"value\":3}, {\"answer\":1,\"text\":\"继发性淀粉样变性主要累及心、肾、消化道\",\"value\":4}]",
+    "title": "关于肾淀粉样变性叙述不正确的是"
+  },
+  {
+    "id": 38356,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功不全时限制磷摄入\",\"value\":0}, {\"answer\":0,\"text\":\"不必限制蛋白摄入\",\"value\":1}, {\"answer\":1,\"text\":\"肾功不全时应该限制蛋白摄入量\",\"value\":2}, {\"answer\":1,\"text\":\"双嘧达莫疗效不肯定\",\"value\":3}, {\"answer\":1,\"text\":\"皮质激素使用要尽早\",\"value\":4}]",
+    "title": "下列关于慢性肾小球肾炎治疗的叙述正确的是"
+  },
+  {
+    "id": 38426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碱性尿\",\"value\":0}, {\"answer\":1,\"text\":\"恶心呕吐\",\"value\":1}, {\"answer\":1,\"text\":\"碱中毒\",\"value\":2}, {\"answer\":1,\"text\":\"腱反射减弱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症一般表现为"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钠血症\",\"value\":3}]",
+    "title": "患者,女,43岁,幽门梗阻,每日补10%葡萄糖2500ml,10%氯化钾30ml,2天前开始出现全腹膨胀,每日尿量1500ml,最可能的原因是"
+  },
+  {
+    "id": 38437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":3}]",
+    "title": "慢性肾炎尿毒症产生致命性危险因素是"
+  },
+  {
+    "id": 38377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉注射止血药\",\"value\":0}, {\"answer\":0,\"text\":\"肌内注射止血药\",\"value\":1}, {\"answer\":0,\"text\":\"静脉给予抗生素治疗\",\"value\":2}, {\"answer\":1,\"text\":\"肾脏B超检查\",\"value\":3}]",
+    "title": "患者,男,36岁,劳累后突然出现酱油色尿,乏力,无尿急尿频尿痛,无肾绞痛,无发热,该患者最合适的治疗措施是"
+  },
+  {
+    "id": 38379,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"停止感冒通和庆大霉素的治疗,并维持水、电解质和酸碱平衡\",\"value\":0}, {\"answer\":0,\"text\":\"使用肾病用氨基酸\",\"value\":1}, {\"answer\":0,\"text\":\"使用利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"改用其他抗生素治疗\",\"value\":3}]",
+    "title": "患者,男,56岁,因感冒发热,使用感冒通及庆大霉素治疗3天后症状好转,数日后尿量增多,临床诊断为急性肾功能不全,适宜的治疗措施是"
+  },
+  {
+    "id": 38241,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲基强的松龙,冲击治疗 \",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"消炎药治疗\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量强的松\",\"value\":3}]",
+    "title": "患者,男,24岁,一年前诊断肾病综合征,应用激素治疗4周,尿蛋白转阴后减量,治疗共8周,停药已半年,近一个月来又出现水肿,应首选应用"
+  },
+  {
+    "id": 38216,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"东莨菪碱\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "引起的肾损害一般可逆的药物是"
+  },
+  {
+    "id": 38244,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"给予降压药\",\"value\":0}, {\"answer\":1,\"text\":\"输入少量新鲜血\",\"value\":1}, {\"answer\":0,\"text\":\"给予氯化钠注射液\",\"value\":2}, {\"answer\":0,\"text\":\"补充血浆\",\"value\":3}]",
+    "title": "患者,男,慢性肾炎5年,长期低盐低蛋白饮食,乏力恶心呕吐20天,血压140/100mmHg,无水肿,血白蛋白30g/L,球蛋白25g/L,可选择哪一种治疗措施"
+  },
+  {
+    "id": 38283,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"口干、尿潴留\",\"value\":0}, {\"answer\":0,\"text\":\"干咳\",\"value\":1}, {\"answer\":0,\"text\":\"心率加速\",\"value\":2}, {\"answer\":0,\"text\":\"脚踝水肿\",\"value\":3}]",
+    "title": "索利那新治疗尿急、尿频,该药的不良反应是"
+  },
+  {
+    "id": 38370,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松\",\"value\":0}, {\"answer\":0,\"text\":\"抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":3}]",
+    "title": "患者,女,64岁,下肢水肿2年,伴气急,双肾体积大,双肾静脉主干有血栓,最合理的治疗药物是"
+  },
+  {
+    "id": 38391,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"ACEI及ARB\",\"value\":0}, {\"answer\":0,\"text\":\"钙通道阻滞剂\",\"value\":1}, {\"answer\":0,\"text\":\"α受体阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"β受体阻滞剂\",\"value\":3}]",
+    "title": "双侧肾动脉狭窄患者禁用的降压药是"
+  },
+  {
+    "id": 38460,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"厌食、恶心、呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"血压升高\",\"value\":1}, {\"answer\":0,\"text\":\"咳嗽、胸痛\",\"value\":2}, {\"answer\":0,\"text\":\"定向力障碍\",\"value\":3}]",
+    "title": "慢性肾衰竭患者最早出现的症状是"
+  },
+  {
+    "id": 38399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3%盐水静脉注射+呋塞米\",\"value\":0}, {\"answer\":0,\"text\":\"口服钠盐4g,q6h\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "患者,男,54岁,多型胶质瘤切除术两周,头痛两天,出现神志改变癫痫发作,血钠107mEq/L,该患者最佳治疗是"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38251,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用激素治疗,尿蛋白减少立即减量\",\"value\":0}, {\"answer\":0,\"text\":\"应用阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"用激素治疗4周无效加服环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"必要时应用环孢菌素A\",\"value\":3}]",
+    "title": "肾病综合征药物治疗不合理的是"
+  },
+  {
+    "id": 38362,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"重度贫血\",\"value\":0}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"早期少尿无尿\",\"value\":2}, {\"answer\":0,\"text\":\"愈合欠佳\",\"value\":3}]",
+    "title": "急性肾炎与急进性肾炎临床表现的相似之处是"
+  },
+  {
+    "id": 38250,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血清补体恢复正常\",\"value\":0}, {\"answer\":1,\"text\":\"水肿消退,血压正常\",\"value\":1}, {\"answer\":0,\"text\":\"症状消失,血沉正常\",\"value\":2}, {\"answer\":0,\"text\":\"血尿消失\",\"value\":3}]",
+    "title": "急性肾炎饮食中不限制食盐摄入的时机是"
+  },
+  {
+    "id": 38201,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"卡铂\",\"value\":1}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":2}, {\"answer\":1,\"text\":\"阿昔洛韦\",\"value\":3}]",
+    "title": "下列药物当快速注射会析出结晶,导致急性肾衰竭的是"
+  },
+  {
+    "id": 38252,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":3}]",
+    "title": "哪种疾病最适合应用肾上腺皮质激素"
+  },
+  {
+    "id": 38373,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"先给予口服抗生素治疗,对留尿送细菌学检用庆大霉素\",\"value\":0}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"选用广谱抗生素\",\"value\":2}, {\"answer\":0,\"text\":\"暂不急于应用抗生素治疗\",\"value\":3}]",
+    "title": "患者,女,38岁,临床诊断为急性肾盂肾炎,有条件做尿细菌检查的情况下,应首选以下哪种处理措施"
+  },
+  {
+    "id": 38420,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钠\",\"value\":0}, {\"answer\":0,\"text\":\"钙\",\"value\":1}, {\"answer\":1,\"text\":\"镁\",\"value\":2}, {\"answer\":0,\"text\":\"磷\",\"value\":3}]",
+    "title": "低钾血症患者,补钾后病情仍无改善时,应首先考虑缺乏"
+  },
+  {
+    "id": 38249,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":0}, {\"answer\":0,\"text\":\"利尿酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"安体舒通\",\"value\":2}, {\"answer\":0,\"text\":\"利尿合剂\",\"value\":3}]",
+    "title": "急性肾炎尿量甚少时,哪种利尿剂慎用或不用"
+  },
+  {
+    "id": 38310,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"有血尿\",\"value\":1}, {\"answer\":1,\"text\":\"尿路刺激征\",\"value\":2}, {\"answer\":1,\"text\":\"发热、白细胞增多\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "急性肾盂肾炎临床表现,下列哪项是正确的"
+  },
+  {
+    "id": 38324,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢菌素类\",\"value\":0}, {\"answer\":1,\"text\":\"部分半合成青霉素类\",\"value\":1}, {\"answer\":1,\"text\":\"喹诺酮类\",\"value\":2}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":3}, {\"answer\":0,\"text\":\"大环内酯类\",\"value\":4}]",
+    "title": "针对复杂性急性肾盂肾炎病人如未得到致病菌的药物敏感性试验结果之前,常选用的抗菌药是"
+  },
+  {
+    "id": 38431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"避免加重肾损伤的因素\",\"value\":0}, {\"answer\":1,\"text\":\"防止或延缓肾脏进行性恶化\",\"value\":1}, {\"answer\":1,\"text\":\"积极控制高血压\",\"value\":2}, {\"answer\":0,\"text\":\"以消除尿红细胞为目标\",\"value\":3}, {\"answer\":1,\"text\":\"改善或缓解临床症状\",\"value\":4}]",
+    "title": "关于慢性肾小球肾炎治疗在正确的是"
+  },
+  {
+    "id": 38323,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"肾性糖尿\",\"value\":1}, {\"answer\":1,\"text\":\"磷酸盐尿\",\"value\":2}, {\"answer\":1,\"text\":\"氨基酸尿\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "范可尼综合征包括下列哪些表现"
+  },
+  {
+    "id": 38207,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿米卡星\",\"value\":0}, {\"answer\":1,\"text\":\"多西环素\",\"value\":1}, {\"answer\":1,\"text\":\"阿奇霉索\",\"value\":2}, {\"answer\":1,\"text\":\"头孢哌酮\",\"value\":3}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":4}]",
+    "title": "肾功能减退的感染患者,可按常用剂量或略减剂量应用的药品有"
+  },
+  {
+    "id": 38342,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"急进性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性药物过敏性间质性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾小管坏死\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "无菌性白细胞尿常见于下列哪种疾病"
+  },
+  {
+    "id": 38400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝硬化患者纠正低钠血症时,中心脑桥髓鞘溶解发生率较其他原因的低钠血症少见\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者死亡的独立危险因素\",\"value\":1}, {\"answer\":0,\"text\":\"低钠血症是肝硬化患者常见的电解质紊乱\",\"value\":2}, {\"answer\":0,\"text\":\"血钠<130mEq/L增加肝性脑病、肝肾综合征的风险\",\"value\":3}, {\"answer\":1,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于低钠血症和肝硬化的叙述正确的是"
+  },
+  {
+    "id": 38373,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"先给予口服抗生素治疗,对留尿送细菌学检用庆大霉素\",\"value\":0}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"选用广谱抗生素\",\"value\":2}, {\"answer\":0,\"text\":\"暂不急于应用抗生素治疗\",\"value\":3}]",
+    "title": "患者,女,38岁,临床诊断为急性肾盂肾炎,有条件做尿细菌检查的情况下,应首选以下哪种处理措施"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38345,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"服用利尿药\",\"value\":0}, {\"answer\":1,\"text\":\"低盐、适量蛋白质、高热量、高维生素饮食\",\"value\":1}, {\"answer\":0,\"text\":\"避免上呼吸道感染\",\"value\":2}, {\"answer\":0,\"text\":\"高脂肪饮食\",\"value\":3}]",
+    "title": "为减缓肾小球硬化的发生,应该注意"
+  },
+  {
+    "id": 38287,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性膀胱炎\",\"value\":3}]",
+    "title": "患者,女,35岁,2天前出现尿急尿频尿痛,尿常规见尿液浑浊,尿蛋白阳性,该患者最有可能的诊断为"
+  },
+  {
+    "id": 38325,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙肝病毒相关性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"高血压性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"狼疮性肾炎\",\"value\":3}]",
+    "title": "患者,男,26岁,出现蛋白尿、血尿一个月,乏力,食欲不振,并有乙肝病史,最可能的临床诊断为"
+  },
+  {
+    "id": 38403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口苦、恶心\",\"value\":0}, {\"answer\":0,\"text\":\"心脏传导阻滞\",\"value\":1}, {\"answer\":0,\"text\":\"心脏节律异常\",\"value\":2}, {\"answer\":1,\"text\":\"肌乏力\",\"value\":3}]",
+    "title": "低钾血症时,最早出现的临床表现是"
+  },
+  {
+    "id": 38436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2500ml\",\"value\":0}, {\"answer\":0,\"text\":\"1500ml\",\"value\":1}, {\"answer\":0,\"text\":\"500ml\",\"value\":2}, {\"answer\":0,\"text\":\"3000ml\",\"value\":3}]",
+    "title": "多尿是指成人24h尿量大于"
+  },
+  {
+    "id": 38416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠减压\",\"value\":1}, {\"answer\":0,\"text\":\"输血过量\",\"value\":2}, {\"answer\":0,\"text\":\"挤压创伤\",\"value\":3}]",
+    "title": "低钾性碱中毒常出现于"
+  },
+  {
+    "id": 38234,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿和低蛋白血症\",\"value\":0}, {\"answer\":0,\"text\":\"大量蛋白尿和血尿\",\"value\":1}, {\"answer\":0,\"text\":\"水肿和高脂血症\",\"value\":2}, {\"answer\":0,\"text\":\"水肿和高血压\",\"value\":3}]",
+    "title": "肾病综合征的特点"
+  },
+  {
+    "id": 38461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多吃橘子\",\"value\":0}, {\"answer\":0,\"text\":\"禁用螺内酯\",\"value\":1}, {\"answer\":0,\"text\":\"忌输库存血\",\"value\":2}, {\"answer\":0,\"text\":\"采血部位不要结扎过紧\",\"value\":3}]",
+    "title": "慢性肾衰竭患者已经发生高血钾,治疗措施不正确的是"
+  },
+  {
+    "id": 38399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3%盐水静脉注射+呋塞米\",\"value\":0}, {\"answer\":0,\"text\":\"口服钠盐4g,q6h\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "患者,男,54岁,多型胶质瘤切除术两周,头痛两天,出现神志改变癫痫发作,血钠107mEq/L,该患者最佳治疗是"
+  },
+  {
+    "id": 38308,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"醛固酮增多\",\"value\":0}, {\"answer\":0,\"text\":\"心功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"肾小球滤过率下降,水钠潴留 \",\"value\":2}, {\"answer\":0,\"text\":\"低蛋白血症\",\"value\":3}]",
+    "title": "急性肾小球肾炎水肿的主要机制为 "
+  },
+  {
+    "id": 38390,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血尿程度\",\"value\":0}, {\"answer\":0,\"text\":\"血压高低\",\"value\":1}, {\"answer\":1,\"text\":\"年龄\",\"value\":2}, {\"answer\":0,\"text\":\"蛋白尿的尿量\",\"value\":3}]",
+    "title": "关于Ig肾病,影响预后诸多因素中,影响程度最小的是"
+  },
+  {
+    "id": 38184,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"西格列汀\",\"value\":0}, {\"answer\":1,\"text\":\"利格列汀\",\"value\":1}, {\"answer\":0,\"text\":\"阿格列汀\",\"value\":2}, {\"answer\":0,\"text\":\"沙格列汀\",\"value\":3}]",
+    "title": "患者,男,48岁,糖尿病,肾功能不全,服用二肽基肽酶-Ⅳ（DPP-4）抑制剂降糖药,不需调整剂量的是"
+  },
+  {
+    "id": 38259,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"继续用强的松原剂量\",\"value\":1}, {\"answer\":0,\"text\":\"使用地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"停用强的松\",\"value\":3}]",
+    "title": "患者,男,18岁,全身高度水肿,血浆清蛋白15g/L,血胆固醇10mmol/L,用强的松治疗一周,病情无好转,应采用"
+  },
+  {
+    "id": 38191,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉点滴白蛋白\",\"value\":0}, {\"answer\":0,\"text\":\"加用抗生素预防感染\",\"value\":1}, {\"answer\":1,\"text\":\"调整泼尼松用量\",\"value\":2}, {\"answer\":0,\"text\":\"维持泼尼松治疗剂量\",\"value\":3}]",
+    "title": "男性,15岁,全身水肿显著,大量蛋白尿,无镜下血尿。经泼尼松40mg/d治疗4周后,水肿明显消退,尿蛋白有所减少。此时应"
+  },
+  {
+    "id": 38237,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"清蛋白\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"消炎药\",\"value\":2}, {\"answer\":0,\"text\":\"静滴必须氨基酸\",\"value\":3}]",
+    "title": "患者,男,22岁,水肿已一年,血压正常,尿蛋白,尿红细胞1-3个,下列选择哪种药物治疗"
+  },
+  {
+    "id": 38318,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿中会出现少量变形红细胞\",\"value\":0}, {\"answer\":0,\"text\":\"尿中会出现少量正常细胞\",\"value\":1}, {\"answer\":0,\"text\":\"不出现血尿\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "下列关于糖尿病肾病出现血尿的描述正确的是"
+  },
+  {
+    "id": 38202,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松最好于早晨8点前服用,每天服用一次\",\"value\":0}, {\"answer\":1,\"text\":\"他克莫司应空腹服用\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松、华法林每天服用一次\",\"value\":2}, {\"answer\":1,\"text\":\"他克莫司用药期间应定期监测药物浓度\",\"value\":3}, {\"answer\":1,\"text\":\"华法林用药期间应监测有无牙龈出血、鼻出血、皮肤瘀斑等\",\"value\":4}]",
+    "title": "患者,男,48岁,临床诊断：膜性肾病3期,用药处方是泼尼松片、他克莫司胶囊、华法林片,关于用药指导叙述正确的是"
+  },
+  {
+    "id": 38427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"呼气有酮味\",\"value\":0}, {\"answer\":1,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"面部潮红\",\"value\":2}, {\"answer\":1,\"text\":\"呼吸深而快\",\"value\":3}, {\"answer\":1,\"text\":\"尿液呈酸性\",\"value\":4}]",
+    "title": "代谢性酸中毒的表现包括"
+  },
+  {
+    "id": 38316,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾血管性高血压\",\"value\":0}, {\"answer\":1,\"text\":\"原发性醛固酮增生症\",\"value\":1}, {\"answer\":1,\"text\":\"肾性高血压\",\"value\":2}, {\"answer\":0,\"text\":\"良性原发性高血压\",\"value\":3}, {\"answer\":0,\"text\":\"以上上均出现\",\"value\":4}]",
+    "title": "下列哪个疾病可能出现低血钾现象"
+  },
+  {
+    "id": 38426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碱性尿\",\"value\":0}, {\"answer\":1,\"text\":\"恶心呕吐\",\"value\":1}, {\"answer\":1,\"text\":\"碱中毒\",\"value\":2}, {\"answer\":1,\"text\":\"腱反射减弱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症一般表现为"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38291,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"膀胱张力低下\",\"value\":0}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":1}, {\"answer\":0,\"text\":\"尿潴留\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺炎\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "良性前列腺增生进行药物治疗之前,应先排出的病症是"
+  },
+  {
+    "id": 38324,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢菌素类\",\"value\":0}, {\"answer\":1,\"text\":\"部分半合成青霉素类\",\"value\":1}, {\"answer\":1,\"text\":\"喹诺酮类\",\"value\":2}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":3}, {\"answer\":0,\"text\":\"大环内酯类\",\"value\":4}]",
+    "title": "针对复杂性急性肾盂肾炎病人如未得到致病菌的药物敏感性试验结果之前,常选用的抗菌药是"
+  },
+  {
+    "id": 38419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾衰竭\",\"value\":1}, {\"answer\":1,\"text\":\"大量输入葡萄糖和胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"酸中毒\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症常见于"
+  },
+  {
+    "id": 38384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急进性肾炎综合征\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染综合征\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":3}]",
+    "title": "患者,女,23岁,咽痛后2周出现肉眼血尿,尿蛋白（+++),尿红细胞满视野,血肌酐180μmol/L,最可能的临床诊断为"
+  },
+  {
+    "id": 38334,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿剂\",\"value\":0}, {\"answer\":0,\"text\":\"抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"非甾体抗炎药\",\"value\":2}, {\"answer\":0,\"text\":\"磺胺嘧啶\",\"value\":3}]",
+    "title": "下列哪一药物可以导致急性间质性肾炎的同时可以引起微小型肾小球病变"
+  },
+  {
+    "id": 38383,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙型肝炎病毒相关性肾小球肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾损伤\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,女,35岁,双下肢水肿一个月,既往有慢性乙型病毒性肝炎病史,尿常规蛋白阳性,尿红细胞20个/HP,最可能的临床诊断为"
+  },
+  {
+    "id": 38225,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"贫血\",\"value\":0}, {\"answer\":0,\"text\":\"高血压\",\"value\":1}, {\"answer\":1,\"text\":\"不导致肾功能不全\",\"value\":2}, {\"answer\":0,\"text\":\"轻、中度水肿\",\"value\":3}]",
+    "title": "慢性肾炎临床表现错误的是"
+  },
+  {
+    "id": 38398,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"盐皮质激素缺乏\",\"value\":0}, {\"answer\":0,\"text\":\"甲状腺功能低下\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素缺乏\",\"value\":2}, {\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":3}]",
+    "title": "下列哪种障碍引起低钠血症是与低容量相关的,总液体减少和进一步的总钠减少"
+  },
+  {
+    "id": 38420,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钠\",\"value\":0}, {\"answer\":0,\"text\":\"钙\",\"value\":1}, {\"answer\":1,\"text\":\"镁\",\"value\":2}, {\"answer\":0,\"text\":\"磷\",\"value\":3}]",
+    "title": "低钾血症患者,补钾后病情仍无改善时,应首先考虑缺乏"
+  },
+  {
+    "id": 38437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":3}]",
+    "title": "慢性肾炎尿毒症产生致命性危险因素是"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38280,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"度他雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"雄激素\",\"value\":1}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":2}, {\"answer\":0,\"text\":\"索利那新\",\"value\":3}]",
+    "title": "起效较快,服用一个月可以改善由前列腺增生症导致的尿路梗阻,减少残余尿量的5α还原酶抑制剂的是"
+  },
+  {
+    "id": 38200,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"黄酮哌酯\",\"value\":0}, {\"answer\":0,\"text\":\"阿托品\",\"value\":1}, {\"answer\":0,\"text\":\"毛果芸香碱\",\"value\":2}, {\"answer\":0,\"text\":\"新斯的明\",\"value\":3}]",
+    "title": "下列可以治疗尿失禁的药物是"
+  },
+  {
+    "id": 38328,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"给予强的松龙冲击治疗+细胞毒类药物\",\"value\":0}, {\"answer\":0,\"text\":\"口服强的松\",\"value\":1}, {\"answer\":0,\"text\":\"给予强的松龙冲击治疗+血液透析\",\"value\":2}, {\"answer\":0,\"text\":\"口服强的松+细胞毒类药物\",\"value\":3}]",
+    "title": "患者,男,50岁,浮肿、少尿一周,临床诊断为新月体性肾炎Ⅱ型,下列合理的治疗方法是"
+  },
+  {
+    "id": 38231,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨苯蝶啶\",\"value\":0}, {\"answer\":0,\"text\":\"利尿合剂\",\"value\":1}, {\"answer\":1,\"text\":\"速尿\",\"value\":2}, {\"answer\":0,\"text\":\"噻嗪类利尿剂\",\"value\":3}]",
+    "title": "急性肾炎、水肿、高血压,并发左心衰竭、肾功能不全时应选择"
+  },
+  {
+    "id": 38380,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"透析疗法\",\"value\":0}, {\"answer\":0,\"text\":\"使用大量利尿剂\",\"value\":1}, {\"answer\":0,\"text\":\"使用甘露醇\",\"value\":2}, {\"answer\":0,\"text\":\"使用扩血管药\",\"value\":3}]",
+    "title": "患者,女,32岁,因宫外孕入院手术治疗,术后24h尿量降为300ml/日达4天以上,最佳治疗方案是"
+  },
+  {
+    "id": 38303,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"输入高渗性葡萄糖\",\"value\":0}, {\"answer\":0,\"text\":\"输入碱剂\",\"value\":1}, {\"answer\":1,\"text\":\"实施血液透析\",\"value\":2}, {\"answer\":0,\"text\":\"输入胰岛素\",\"value\":3}]",
+    "title": "患有尿毒症高血钾患者最有效的治疗是"
+  },
+  {
+    "id": 38447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"出血性膀胱炎\",\"value\":0}, {\"answer\":0,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":0,\"text\":\"肝损伤\",\"value\":2}, {\"answer\":0,\"text\":\"粒细胞减少\",\"value\":3}]",
+    "title": "应用环磷酰胺治疗慢性肾炎时,应该注意"
+  },
+  {
+    "id": 38452,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血浆胶体渗透压降低\",\"value\":0}, {\"answer\":0,\"text\":\"淋巴液受阻\",\"value\":1}, {\"answer\":0,\"text\":\"毛细血管通透性增强\",\"value\":2}, {\"answer\":0,\"text\":\"水钠潴留\",\"value\":3}]",
+    "title": "肾病性水肿的主要原因是"
+  },
+  {
+    "id": 38270,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"夜尿次数增多\",\"value\":0}, {\"answer\":0,\"text\":\"夜尿尿量增多\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染\",\"value\":2}, {\"answer\":0,\"text\":\"皮疹\",\"value\":3}]",
+    "title": "下列属于良性前列腺增生症早期信号的是"
+  },
+  {
+    "id": 38457,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":0,\"text\":\"血尿\",\"value\":1}, {\"answer\":0,\"text\":\"菌尿\",\"value\":2}, {\"answer\":0,\"text\":\"管型尿\",\"value\":3}]",
+    "title": "肾盂肾炎一般不出现"
+  },
+  {
+    "id": 38264,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"延长给药疗程\",\"value\":0}, {\"answer\":0,\"text\":\"选用敏感抗菌药\",\"value\":1}, {\"answer\":0,\"text\":\"不同类型抗菌药物联合应用\",\"value\":2}, {\"answer\":1,\"text\":\"积极寻找并去除易感因素\",\"value\":3}]",
+    "title": "下列属于治疗慢性肾盂肾炎的关键因素是"
+  },
+  {
+    "id": 38453,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾结核\",\"value\":0}, {\"answer\":1,\"text\":\"肾动脉狭窄\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "肾性高血压最常见的原因是"
+  },
+  {
+    "id": 38310,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"有血尿\",\"value\":1}, {\"answer\":1,\"text\":\"尿路刺激征\",\"value\":2}, {\"answer\":1,\"text\":\"发热、白细胞增多\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "急性肾盂肾炎临床表现,下列哪项是正确的"
+  },
+  {
+    "id": 38434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多见于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"肾脏缩小\",\"value\":1}, {\"answer\":0,\"text\":\"常继发于慢性化脓性感染\",\"value\":2}, {\"answer\":1,\"text\":\"原发性淀粉样变性主要累及肾、肝、脾\",\"value\":3}, {\"answer\":1,\"text\":\"继发性淀粉样变性主要累及心、肾、消化道\",\"value\":4}]",
+    "title": "关于肾淀粉样变性叙述不正确的是"
+  },
+  {
+    "id": 38435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"多发于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"有特征性眼底病变\",\"value\":1}, {\"answer\":1,\"text\":\"糖尿病病史\",\"value\":2}, {\"answer\":1,\"text\":\"早期可发现微量白蛋白排出增多,以后逐渐发展为大量蛋白尿\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病病程10年以上者\",\"value\":4}]",
+    "title": "关于糖尿病肾病说法正确的是"
+  },
+  {
+    "id": 38427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"呼气有酮味\",\"value\":0}, {\"answer\":1,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"面部潮红\",\"value\":2}, {\"answer\":1,\"text\":\"呼吸深而快\",\"value\":3}, {\"answer\":1,\"text\":\"尿液呈酸性\",\"value\":4}]",
+    "title": "代谢性酸中毒的表现包括"
+  },
+  {
+    "id": 38340,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"髓袢利尿剂和螺内酯联合治疗\",\"value\":0}, {\"answer\":1,\"text\":\"低盐饮食\",\"value\":1}, {\"answer\":1,\"text\":\"胶体液配合髓袢利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"环孢素A治疗\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "糖尿病肾病综合征可采用"
+  },
+  {
+    "id": 38294,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿莫西林\",\"value\":0}, {\"answer\":0,\"text\":\"头孢唑林\",\"value\":1}, {\"answer\":1,\"text\":\"氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"呋喃妥因\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可\",\"value\":4}]",
+    "title": "患者,女,46岁,临床诊断为复发性尿路感染,可选用下列哪些药物进行长期低剂量抑菌治疗"
+  },
+  {
+    "id": 38206,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"亭扎肝素\",\"value\":0}, {\"answer\":0,\"text\":\"罗匹尼罗\",\"value\":1}, {\"answer\":1,\"text\":\"丁螺环酮\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "病人有严重的肾损伤。下列哪种药物应避免使用"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38420,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钠\",\"value\":0}, {\"answer\":0,\"text\":\"钙\",\"value\":1}, {\"answer\":1,\"text\":\"镁\",\"value\":2}, {\"answer\":0,\"text\":\"磷\",\"value\":3}]",
+    "title": "低钾血症患者,补钾后病情仍无改善时,应首先考虑缺乏"
+  },
+  {
+    "id": 38276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"晚餐后临睡前\",\"value\":0}, {\"answer\":0,\"text\":\"早餐前\",\"value\":1}, {\"answer\":0,\"text\":\"晚餐前\",\"value\":2}, {\"answer\":0,\"text\":\"早餐后\",\"value\":3}]",
+    "title": "α1受体阻断剂用于治疗前列腺增生,为了减少该药的不良反应,最好在以下哪个时间服药"
+  },
+  {
+    "id": 38422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水2000-2500ml,钠5g,氯化钾4g\",\"value\":0}, {\"answer\":0,\"text\":\"水1500,钠3g,氯化钾2g\",\"value\":1}, {\"answer\":0,\"text\":\"水3000-3500ml,钠5g,氯化钾3g\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "禁食成年病人每天正确的水与电解质补充量为"
+  },
+  {
+    "id": 38303,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"输入高渗性葡萄糖\",\"value\":0}, {\"answer\":0,\"text\":\"输入碱剂\",\"value\":1}, {\"answer\":1,\"text\":\"实施血液透析\",\"value\":2}, {\"answer\":0,\"text\":\"输入胰岛素\",\"value\":3}]",
+    "title": "患有尿毒症高血钾患者最有效的治疗是"
+  },
+  {
+    "id": 38314,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"青春发育期青少年\",\"value\":0}, {\"answer\":0,\"text\":\"儿童\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "体位性蛋白尿常见于"
+  },
+  {
+    "id": 38228,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急进型肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "肺出血肾炎综合征可继发哪种肾炎"
+  },
+  {
+    "id": 38222,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高脂血症\",\"value\":0}, {\"answer\":0,\"text\":\"水肿\",\"value\":1}, {\"answer\":1,\"text\":\"高血压\",\"value\":2}, {\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":3}]",
+    "title": "肾病综合征的临床特点不包括"
+  },
+  {
+    "id": 38351,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多饮水,勤排尿\",\"value\":0}, {\"answer\":0,\"text\":\"隔天用一次抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"保持外阴清洁\",\"value\":2}, {\"answer\":0,\"text\":\"每天尿道口消除\",\"value\":3}]",
+    "title": "预防肾盂肾炎最简单的方法是"
+  },
+  {
+    "id": 38345,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"服用利尿药\",\"value\":0}, {\"answer\":1,\"text\":\"低盐、适量蛋白质、高热量、高维生素饮食\",\"value\":1}, {\"answer\":0,\"text\":\"避免上呼吸道感染\",\"value\":2}, {\"answer\":0,\"text\":\"高脂肪饮食\",\"value\":3}]",
+    "title": "为减缓肾小球硬化的发生,应该注意"
+  },
+  {
+    "id": 38313,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":1,\"text\":\"羧苄青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"土霉素\",\"value\":3}]",
+    "title": "急性肾盂肾炎首选的抗生素是"
+  },
+  {
+    "id": 38403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口苦、恶心\",\"value\":0}, {\"answer\":0,\"text\":\"心脏传导阻滞\",\"value\":1}, {\"answer\":0,\"text\":\"心脏节律异常\",\"value\":2}, {\"answer\":1,\"text\":\"肌乏力\",\"value\":3}]",
+    "title": "低钾血症时,最早出现的临床表现是"
+  },
+  {
+    "id": 38362,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"重度贫血\",\"value\":0}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"早期少尿无尿\",\"value\":2}, {\"answer\":0,\"text\":\"愈合欠佳\",\"value\":3}]",
+    "title": "急性肾炎与急进性肾炎临床表现的相似之处是"
+  },
+  {
+    "id": 38406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"代谢性碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"代谢性酸中毒\",\"value\":2}, {\"answer\":0,\"text\":\"呼吸性酸中毒\",\"value\":3}]",
+    "title": "患者幽门梗阻呕吐10天,血压90/75mmHg,血钾3.1mmol,PH7.5,应诊断为"
+  },
+  {
+    "id": 38304,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素B12\",\"value\":0}, {\"answer\":1,\"text\":\"促红细胞生成素\",\"value\":1}, {\"answer\":0,\"text\":\"叶酸\",\"value\":2}, {\"answer\":0,\"text\":\"口服铁剂\",\"value\":3}]",
+    "title": "治疗肾性贫血最好选用"
+  },
+  {
+    "id": 38462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"链霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾衰竭合并感染时,应选用的抗生素是"
+  },
+  {
+    "id": 38423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠\",\"value\":0}, {\"answer\":1,\"text\":\"高氯血症\",\"value\":1}, {\"answer\":0,\"text\":\"水过多\",\"value\":2}, {\"answer\":0,\"text\":\"代谢性碱中毒\",\"value\":3}]",
+    "title": "仅用等渗盐水纠正等渗性缺水时,可导致"
+  },
+  {
+    "id": 38312,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服氨苯蝶啶+双氢克尿噻 \",\"value\":0}, {\"answer\":0,\"text\":\"静脉缓慢推注西地兰\",\"value\":1}, {\"answer\":1,\"text\":\"紧急腹膜透析\",\"value\":2}, {\"answer\":0,\"text\":\"继续输血\",\"value\":3}]",
+    "title": "患者,男,55岁,因上消化道出血住院,经过治疗后,患者三天来少尿,血钾6.4mol/L,应立即采取哪种治疗措施"
+  },
+  {
+    "id": 38256,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膜性肾病\",\"value\":0}, {\"answer\":0,\"text\":\"高血压肾病\",\"value\":1}, {\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":2}, {\"answer\":1,\"text\":\"微小病变型肾病\",\"value\":3}]",
+    "title": "糖皮质激素最适合"
+  },
+  {
+    "id": 38306,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"微小病变型肾病\",\"value\":0}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"膜性肾病\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "乙肝病毒相关性肾炎最常见为肾脏病理类型为 "
+  },
+  {
+    "id": 38275,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"头孢他啶\",\"value\":1}, {\"answer\":1,\"text\":\"头孢氨苄\",\"value\":2}, {\"answer\":1,\"text\":\"复方磺胺甲噁唑\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可\",\"value\":4}]",
+    "title": "患者,女,5岁,临床诊断为膀胱炎,该患者可选用"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"换用口服降压药后应立即停用静脉降压药物\",\"value\":0}, {\"answer\":0,\"text\":\"应用利尿剂减轻容量负荷,可常规联用\",\"value\":1}, {\"answer\":0,\"text\":\"合并高血压急症时应立即将血压降至安全水平\",\"value\":2}, {\"answer\":0,\"text\":\"合并肾衰竭患者不能使用硝普钠降压,避免氰化物中毒\",\"value\":3}, {\"answer\":1,\"text\":\"优先选用钙离子拮抗剂\",\"value\":4}]",
+    "title": "关于恶性高血压叙述不正确的是"
+  },
+  {
+    "id": 38233,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钠饮食\",\"value\":0}, {\"answer\":1,\"text\":\"噻嗪类利尿剂作为基本治疗药物\",\"value\":1}, {\"answer\":1,\"text\":\"可用钙通道阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"血压降至150-160/90mmHg为宜\",\"value\":3}, {\"answer\":1,\"text\":\"可采用几种降压药联合应用\",\"value\":4}]",
+    "title": "关于慢性肾炎高血压治疗正确的是"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38339,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"关节肿胀\",\"value\":0}, {\"answer\":1,\"text\":\"腹痛、黑便\",\"value\":1}, {\"answer\":0,\"text\":\"肺纤维化\",\"value\":2}, {\"answer\":1,\"text\":\"皮肤紫癜\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "过敏性紫癜性肾炎临床表现"
+  },
+  {
+    "id": 38270,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"夜尿次数增多\",\"value\":0}, {\"answer\":0,\"text\":\"夜尿尿量增多\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染\",\"value\":2}, {\"answer\":0,\"text\":\"皮疹\",\"value\":3}]",
+    "title": "下列属于良性前列腺增生症早期信号的是"
+  },
+  {
+    "id": 38348,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期\",\"value\":0}, {\"answer\":0,\"text\":\"口服\",\"value\":1}, {\"answer\":0,\"text\":\"短期\",\"value\":2}, {\"answer\":0,\"text\":\"临时\",\"value\":3}]",
+    "title": "很多中药对肾脏有一定毒性和损害,尤其（）使用时应特别注意"
+  },
+  {
+    "id": 38451,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"眼脸及面部\",\"value\":0}, {\"answer\":0,\"text\":\"双下肢\",\"value\":1}, {\"answer\":0,\"text\":\"腹水\",\"value\":2}, {\"answer\":0,\"text\":\"胸腔积液\",\"value\":3}]",
+    "title": "肾性水肿一般先发生的部位是"
+  },
+  {
+    "id": 38429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"紫癜性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"淋巴瘤\",\"value\":1}, {\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓瘤性肾病\",\"value\":3}]",
+    "title": "儿童肾病综合征常继发于"
+  },
+  {
+    "id": 38417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钾合并等渗性脱水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性脱水\",\"value\":3}]",
+    "title": "患者结肠破裂修补术后5天,血钠136.0mmol/L,血钾68mmol/L,血PH值7.3,近24h尿量为520ml,应诊断为"
+  },
+  {
+    "id": 38243,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗凝药\",\"value\":0}, {\"answer\":0,\"text\":\"透析疗法\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":1,\"text\":\"休息和对症治疗\",\"value\":3}]",
+    "title": "急性肾小球肾炎可采用"
+  },
+  {
+    "id": 38287,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性膀胱炎\",\"value\":3}]",
+    "title": "患者,女,35岁,2天前出现尿急尿频尿痛,尿常规见尿液浑浊,尿蛋白阳性,该患者最有可能的诊断为"
+  },
+  {
+    "id": 38423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠\",\"value\":0}, {\"answer\":1,\"text\":\"高氯血症\",\"value\":1}, {\"answer\":0,\"text\":\"水过多\",\"value\":2}, {\"answer\":0,\"text\":\"代谢性碱中毒\",\"value\":3}]",
+    "title": "仅用等渗盐水纠正等渗性缺水时,可导致"
+  },
+  {
+    "id": 38446,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血磷升高,血钙降低\",\"value\":0}, {\"answer\":0,\"text\":\"血镁升高\",\"value\":1}, {\"answer\":0,\"text\":\"血钾升高\",\"value\":2}, {\"answer\":0,\"text\":\"血磷下降\",\"value\":3}]",
+    "title": "慢性肾功能不全时引起继发性甲状旁腺功能亢进的原因是"
+  },
+  {
+    "id": 38344,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血小板\",\"value\":0}, {\"answer\":0,\"text\":\"中性粒细胞\",\"value\":1}, {\"answer\":0,\"text\":\"内皮细胞\",\"value\":2}, {\"answer\":1,\"text\":\"三高症状\",\"value\":3}]",
+    "title": "下列哪项是加剧肾小球硬化的主要因素"
+  },
+  {
+    "id": 38408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显口渴\",\"value\":0}, {\"answer\":0,\"text\":\"尿比重在1.010以下\",\"value\":1}, {\"answer\":0,\"text\":\"血清钠降低\",\"value\":2}, {\"answer\":1,\"text\":\"休克常伴有代谢性酸中毒\",\"value\":3}]",
+    "title": "等渗性缺水的临床表现是"
+  },
+  {
+    "id": 38305,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钾树脂\",\"value\":0}, {\"answer\":0,\"text\":\"叶酸\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":2}, {\"answer\":1,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "慢性肾衰竭代谢性酸中毒宜选用"
+  },
+  {
+    "id": 38296,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红细胞生成素减少\",\"value\":0}, {\"answer\":0,\"text\":\"毒素抑制骨髓造血\",\"value\":1}, {\"answer\":0,\"text\":\"营养不足,低蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "尿毒症患者出现贫血的主要原因是"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"链霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾衰竭合并感染时,应选用的抗生素是"
+  },
+  {
+    "id": 38407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"重度缺钠\",\"value\":0}, {\"answer\":0,\"text\":\"轻度缺钠\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"重度缺水\",\"value\":3}]",
+    "title": "患者,女,50岁,因反复呕吐就医,血清钠118mmol/L,血压70/50mmHg,应诊断为"
+  },
+  {
+    "id": 38330,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":0}, {\"answer\":0,\"text\":\"儿童\",\"value\":1}, {\"answer\":0,\"text\":\"老年男性\",\"value\":2}, {\"answer\":0,\"text\":\"青年男性\",\"value\":3}]",
+    "title": "下列哪个人群最易发生尿路感染"
+  },
+  {
+    "id": 38377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉注射止血药\",\"value\":0}, {\"answer\":0,\"text\":\"肌内注射止血药\",\"value\":1}, {\"answer\":0,\"text\":\"静脉给予抗生素治疗\",\"value\":2}, {\"answer\":1,\"text\":\"肾脏B超检查\",\"value\":3}]",
+    "title": "患者,男,36岁,劳累后突然出现酱油色尿,乏力,无尿急尿频尿痛,无肾绞痛,无发热,该患者最合适的治疗措施是"
+  },
+  {
+    "id": 38234,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿和低蛋白血症\",\"value\":0}, {\"answer\":0,\"text\":\"大量蛋白尿和血尿\",\"value\":1}, {\"answer\":0,\"text\":\"水肿和高脂血症\",\"value\":2}, {\"answer\":0,\"text\":\"水肿和高血压\",\"value\":3}]",
+    "title": "肾病综合征的特点"
+  },
+  {
+    "id": 38247,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":1,\"text\":\"卡托普利\",\"value\":1}, {\"answer\":0,\"text\":\"苯丙酸诺龙\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "扩张肾小球入球小动脉的药物是"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38359,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能急剧转坏\",\"value\":0}, {\"answer\":0,\"text\":\"常无贫血表现\",\"value\":1}, {\"answer\":1,\"text\":\"呈现急性肾炎综合征\",\"value\":2}, {\"answer\":1,\"text\":\"早期出血、少尿\",\"value\":3}, {\"answer\":1,\"text\":\"数周至半年进展为尿毒症\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎的临床表现的是"
+  },
+  {
+    "id": 38355,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨基酸\",\"value\":0}, {\"answer\":1,\"text\":\"依那普利\",\"value\":1}, {\"answer\":1,\"text\":\"氯沙坦\",\"value\":2}, {\"answer\":1,\"text\":\"氢氯噻嗪\",\"value\":3}, {\"answer\":0,\"text\":\"α酮酸\",\"value\":4}]",
+    "title": "下列属于治疗慢性肾小球肾炎的药物是"
+  },
+  {
+    "id": 38356,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功不全时限制磷摄入\",\"value\":0}, {\"answer\":0,\"text\":\"不必限制蛋白摄入\",\"value\":1}, {\"answer\":1,\"text\":\"肾功不全时应该限制蛋白摄入量\",\"value\":2}, {\"answer\":1,\"text\":\"双嘧达莫疗效不肯定\",\"value\":3}, {\"answer\":1,\"text\":\"皮质激素使用要尽早\",\"value\":4}]",
+    "title": "下列关于慢性肾小球肾炎治疗的叙述正确的是"
+  },
+  {
+    "id": 38427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"呼气有酮味\",\"value\":0}, {\"answer\":1,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"面部潮红\",\"value\":2}, {\"answer\":1,\"text\":\"呼吸深而快\",\"value\":3}, {\"answer\":1,\"text\":\"尿液呈酸性\",\"value\":4}]",
+    "title": "代谢性酸中毒的表现包括"
+  },
+  {
+    "id": 38204,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲泼尼龙每早8点饭后服用\",\"value\":0}, {\"answer\":0,\"text\":\"病情缓解,甲泼尼龙可立即停药\",\"value\":1}, {\"answer\":1,\"text\":\"碳酸钙维生素D3在两餐间空腹服用,以防低钙引起的骨病\",\"value\":2}, {\"answer\":1,\"text\":\"泮托拉唑肠溶片,宜早饭前整片服用,以预防消化道溃疡\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "患者,男,66岁,临床诊断：肾病综合征,用药处方是甲泼尼龙片、泮托拉唑肠溶片,关于用药指导叙述正确的是"
+  },
+  {
+    "id": 38337,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"口服聚苯乙烯磺酸钠\",\"value\":0}, {\"answer\":1,\"text\":\"静脉输注胰岛素+葡萄糖溶液\",\"value\":1}, {\"answer\":0,\"text\":\"给予噻嗪类利尿剂排钾\",\"value\":2}, {\"answer\":1,\"text\":\"口服碳酸氢钠纠正酸中毒\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "慢性肾功能不全导致的高血钾症合理的治疗方法是"
+  },
+  {
+    "id": 38219,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢哌酮\",\"value\":0}, {\"answer\":1,\"text\":\"头孢曲松\",\"value\":1}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":2}, {\"answer\":0,\"text\":\"依替米星\",\"value\":3}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":4}]",
+    "title": "肾功能不全者可选用"
+  },
+  {
+    "id": 38305,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钾树脂\",\"value\":0}, {\"answer\":0,\"text\":\"叶酸\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":2}, {\"answer\":1,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "慢性肾衰竭代谢性酸中毒宜选用"
+  },
+  {
+    "id": 38335,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"注射促红细胞生成素,并补充铁剂\",\"value\":0}, {\"answer\":0,\"text\":\"多次输入红细胞\",\"value\":1}, {\"answer\":0,\"text\":\"补充维生素B12\",\"value\":2}, {\"answer\":0,\"text\":\"口服叶酸\",\"value\":3}]",
+    "title": "慢性肾功能不全导致的肾性贫血合理的治疗方法是"
+  },
+  {
+    "id": 38428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":0}, {\"answer\":0,\"text\":\"血管炎肾损伤\",\"value\":1}, {\"answer\":0,\"text\":\"紫癜性肾炎\",\"value\":2}, {\"answer\":1,\"text\":\"狼疮肾炎\",\"value\":3}]",
+    "title": "育龄女性肾病综合征最常见的继发因素"
+  },
+  {
+    "id": 38317,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾小球滤过率升高\",\"value\":0}, {\"answer\":0,\"text\":\"出现大量蛋白尿\",\"value\":1}, {\"answer\":1,\"text\":\"出现微量白蛋白尿\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球滤过率降低\",\"value\":3}]",
+    "title": "糖尿病肾损伤最早期的临床症状是"
+  },
+  {
+    "id": 38313,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":1,\"text\":\"羧苄青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"土霉素\",\"value\":3}]",
+    "title": "急性肾盂肾炎首选的抗生素是"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38452,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血浆胶体渗透压降低\",\"value\":0}, {\"answer\":0,\"text\":\"淋巴液受阻\",\"value\":1}, {\"answer\":0,\"text\":\"毛细血管通透性增强\",\"value\":2}, {\"answer\":0,\"text\":\"水钠潴留\",\"value\":3}]",
+    "title": "肾病性水肿的主要原因是"
+  },
+  {
+    "id": 38258,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"消炎药\",\"value\":2}, {\"answer\":1,\"text\":\"休息并对症治疗\",\"value\":3}]",
+    "title": "患者,男,59岁,急性肾炎两周,血压140/90mmHg,尿红细胞撒遍满视野,应首选"
+  },
+  {
+    "id": 38191,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉点滴白蛋白\",\"value\":0}, {\"answer\":0,\"text\":\"加用抗生素预防感染\",\"value\":1}, {\"answer\":1,\"text\":\"调整泼尼松用量\",\"value\":2}, {\"answer\":0,\"text\":\"维持泼尼松治疗剂量\",\"value\":3}]",
+    "title": "男性,15岁,全身水肿显著,大量蛋白尿,无镜下血尿。经泼尼松40mg/d治疗4周后,水肿明显消退,尿蛋白有所减少。此时应"
+  },
+  {
+    "id": 38392,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"结节性肾小球硬化\",\"value\":0}, {\"answer\":0,\"text\":\"新月体肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"渗出性病变\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫性肾小球硬化\",\"value\":3}]",
+    "title": "糖尿病肾病具有高度特异性的肾脏病理变化是"
+  },
+  {
+    "id": 38276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"晚餐后临睡前\",\"value\":0}, {\"answer\":0,\"text\":\"早餐前\",\"value\":1}, {\"answer\":0,\"text\":\"晚餐前\",\"value\":2}, {\"answer\":0,\"text\":\"早餐后\",\"value\":3}]",
+    "title": "α1受体阻断剂用于治疗前列腺增生,为了减少该药的不良反应,最好在以下哪个时间服药"
+  },
+  {
+    "id": 38362,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"重度贫血\",\"value\":0}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"早期少尿无尿\",\"value\":2}, {\"answer\":0,\"text\":\"愈合欠佳\",\"value\":3}]",
+    "title": "急性肾炎与急进性肾炎临床表现的相似之处是"
+  },
+  {
+    "id": 38194,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大观霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿米卡星\",\"value\":1}, {\"answer\":0,\"text\":\"去甲万古霉素\",\"value\":2}, {\"answer\":1,\"text\":\"头孢哌酮\",\"value\":3}]",
+    "title": "肾功能不全但肝功能正常的患者可使用的抗菌药是"
+  },
+  {
+    "id": 38448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血磷升高\",\"value\":0}, {\"answer\":1,\"text\":\"血钙升高\",\"value\":1}, {\"answer\":0,\"text\":\"血钾升高\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸氢根离子降低\",\"value\":3}]",
+    "title": "肾功能不全尿毒症时,罕见的电解质异常是"
+  },
+  {
+    "id": 38371,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用利尿剂\",\"value\":0}, {\"answer\":0,\"text\":\"补充钾盐\",\"value\":1}, {\"answer\":0,\"text\":\"必需氨基酸疗法\",\"value\":2}, {\"answer\":1,\"text\":\"使用钙通道阻滞剂\",\"value\":3}]",
+    "title": "患者,女,60岁,临床诊断为肾动脉狭窄,该患者宜先采用的治疗方法是"
+  },
+  {
+    "id": 38391,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"ACEI及ARB\",\"value\":0}, {\"answer\":0,\"text\":\"钙通道阻滞剂\",\"value\":1}, {\"answer\":0,\"text\":\"α受体阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"β受体阻滞剂\",\"value\":3}]",
+    "title": "双侧肾动脉狭窄患者禁用的降压药是"
+  },
+  {
+    "id": 38325,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙肝病毒相关性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"高血压性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"狼疮性肾炎\",\"value\":3}]",
+    "title": "患者,男,26岁,出现蛋白尿、血尿一个月,乏力,食欲不振,并有乙肝病史,最可能的临床诊断为"
+  },
+  {
+    "id": 38264,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"延长给药疗程\",\"value\":0}, {\"answer\":0,\"text\":\"选用敏感抗菌药\",\"value\":1}, {\"answer\":0,\"text\":\"不同类型抗菌药物联合应用\",\"value\":2}, {\"answer\":1,\"text\":\"积极寻找并去除易感因素\",\"value\":3}]",
+    "title": "下列属于治疗慢性肾盂肾炎的关键因素是"
+  },
+  {
+    "id": 38238,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"消炎药\",\"value\":1}, {\"answer\":0,\"text\":\"输入清蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"血浆透析\",\"value\":3}]",
+    "title": "患者,男,45岁,肾病综合征,高度水肿,尿量400-500ml/d,持续两周,肌酐清除率为100ml/min,宜选用以下哪种药物治疗"
+  },
+  {
+    "id": 38260,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷公藤治疗\",\"value\":0}, {\"answer\":0,\"text\":\"强的松治疗\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎治疗\",\"value\":2}, {\"answer\":0,\"text\":\"抗凝治疗\",\"value\":3}]",
+    "title": "患者,男,33岁,反复发作性血尿,临床诊断IgA肾病,首选治疗为"
+  },
+  {
+    "id": 38378,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾盂肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"急性下尿路感染\",\"value\":1}, {\"answer\":0,\"text\":\"慢性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,女,29岁,因尿急尿频尿痛2天就诊,已自服抗菌药物,尿液检查白细胞15-20/HP,最可能的诊断为"
+  },
+  {
+    "id": 38306,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"微小病变型肾病\",\"value\":0}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"膜性肾病\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "乙肝病毒相关性肾炎最常见为肾脏病理类型为 "
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38390,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血尿程度\",\"value\":0}, {\"answer\":0,\"text\":\"血压高低\",\"value\":1}, {\"answer\":1,\"text\":\"年龄\",\"value\":2}, {\"answer\":0,\"text\":\"蛋白尿的尿量\",\"value\":3}]",
+    "title": "关于Ig肾病,影响预后诸多因素中,影响程度最小的是"
+  },
+  {
+    "id": 38381,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎合并急性肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎合并心肌炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性肾炎合并心力衰竭\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患儿,男,12岁,因水肿、尿少4天入院,血压160/100mmHg,尿比重1.023,入院第二天凌晨突然出现气促,烦躁不安,心率160次/分,应考虑为"
+  },
+  {
+    "id": 38396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"精神障碍\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道症状\",\"value\":1}, {\"answer\":1,\"text\":\"中枢神经系统症状\",\"value\":2}, {\"answer\":0,\"text\":\"心律失常\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钠血症常见的临床表现有"
+  },
+  {
+    "id": 38466,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"豆腐\",\"value\":0}, {\"answer\":0,\"text\":\"植物油\",\"value\":1}, {\"answer\":0,\"text\":\"氨基酸\",\"value\":2}, {\"answer\":1,\"text\":\"鸡蛋\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不宜选用\",\"value\":4}]",
+    "title": "患者,男,50岁,慢性肾小球肾炎10年,近几日见明显血尿,且水肿加重,尿液检查有蛋白及颗粒管型,蛋白饮食宜选用"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38323,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"肾性糖尿\",\"value\":1}, {\"answer\":1,\"text\":\"磷酸盐尿\",\"value\":2}, {\"answer\":1,\"text\":\"氨基酸尿\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "范可尼综合征包括下列哪些表现"
+  },
+  {
+    "id": 38391,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"ACEI及ARB\",\"value\":0}, {\"answer\":0,\"text\":\"钙通道阻滞剂\",\"value\":1}, {\"answer\":0,\"text\":\"α受体阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"β受体阻滞剂\",\"value\":3}]",
+    "title": "双侧肾动脉狭窄患者禁用的降压药是"
+  },
+  {
+    "id": 38245,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"强的松\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"雷公藤多苷\",\"value\":3}]",
+    "title": "患者,男,23岁,全身水肿半个月,近日出现呼吸困难,少尿,临床诊断：肾病综合征患者,首选的治疗药物是"
+  },
+  {
+    "id": 38362,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"重度贫血\",\"value\":0}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"早期少尿无尿\",\"value\":2}, {\"answer\":0,\"text\":\"愈合欠佳\",\"value\":3}]",
+    "title": "急性肾炎与急进性肾炎临床表现的相似之处是"
+  },
+  {
+    "id": 38313,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":1,\"text\":\"羧苄青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"土霉素\",\"value\":3}]",
+    "title": "急性肾盂肾炎首选的抗生素是"
+  },
+  {
+    "id": 38309,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"慢性肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"肾盂积水\",\"value\":1}, {\"answer\":0,\"text\":\"肾结核\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":3}]",
+    "title": "患者,男,30岁。腰痛、尿频、尿急,静脉肾盂造影右侧缩小,肾盏扩展,最可能的临床诊断为"
+  },
+  {
+    "id": 38364,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾小球新月体的数量\",\"value\":0}, {\"answer\":0,\"text\":\"水肿\",\"value\":1}, {\"answer\":0,\"text\":\"高血压\",\"value\":2}, {\"answer\":0,\"text\":\"少尿\",\"value\":3}]",
+    "title": "急进性肾小球肾炎的预后与下列哪一因素关系最大"
+  },
+  {
+    "id": 38259,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"继续用强的松原剂量\",\"value\":1}, {\"answer\":0,\"text\":\"使用地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"停用强的松\",\"value\":3}]",
+    "title": "患者,男,18岁,全身高度水肿,血浆清蛋白15g/L,血胆固醇10mmol/L,用强的松治疗一周,病情无好转,应采用"
+  },
+  {
+    "id": 38180,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"盐酸特拉唑嗪片\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":3}]",
+    "title": "患者,男,55岁,高血压病合并前列腺肥大患者,宜选用哪一降压药"
+  },
+  {
+    "id": 38405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血钠低\",\"value\":0}, {\"answer\":0,\"text\":\"血钾低\",\"value\":1}, {\"answer\":0,\"text\":\"血磷低\",\"value\":2}, {\"answer\":0,\"text\":\"血钙低\",\"value\":3}]",
+    "title": "低渗性脱水主要指"
+  },
+  {
+    "id": 38447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"出血性膀胱炎\",\"value\":0}, {\"answer\":0,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":0,\"text\":\"肝损伤\",\"value\":2}, {\"answer\":0,\"text\":\"粒细胞减少\",\"value\":3}]",
+    "title": "应用环磷酰胺治疗慢性肾炎时,应该注意"
+  },
+  {
+    "id": 38457,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":0,\"text\":\"血尿\",\"value\":1}, {\"answer\":0,\"text\":\"菌尿\",\"value\":2}, {\"answer\":0,\"text\":\"管型尿\",\"value\":3}]",
+    "title": "肾盂肾炎一般不出现"
+  },
+  {
+    "id": 38285,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非那雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"多沙唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":3}]",
+    "title": "下列哪一药物适用于伴有前列腺体积增大的良性前列腺增生症"
+  },
+  {
+    "id": 38327,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"促红细胞生成素\",\"value\":0}, {\"answer\":1,\"text\":\"促红细胞生成素+铁剂\",\"value\":1}, {\"answer\":0,\"text\":\"促红细胞生成素+叶酸\",\"value\":2}, {\"answer\":0,\"text\":\"输入全血\",\"value\":3}]",
+    "title": "患者,男,70岁,非胰岛素依赖性糖尿病20年病史,近五年出现呢蛋白尿、高血压,近两年肾功能减退,近两个月有恶心呕吐,下肢水肿,临床诊断尿毒症和贫血,如何治疗贫血"
+  },
+  {
+    "id": 38193,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丁胺卡那霉素\",\"value\":0}, {\"answer\":0,\"text\":\"去甲万古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"四环素\",\"value\":2}, {\"answer\":1,\"text\":\"伊曲康唑\",\"value\":3}]",
+    "title": "肾功能不全的患者使用抗菌药可以按照治疗量使用的是"
+  },
+  {
+    "id": 38284,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"托特罗定\",\"value\":3}]",
+    "title": "下列哪一药物数小时到数天可以改善症状,不影响前列腺体积和血清PSA水平"
+  },
+  {
+    "id": 38268,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"非那雄胺\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"米多君\",\"value\":2}, {\"answer\":1,\"text\":\"奥昔布宁\",\"value\":3}]",
+    "title": "某患者,临床诊断为急迫性尿失禁,适宜的治疗药物是"
+  },
+  {
+    "id": 38235,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右下肢血栓形成\",\"value\":0}, {\"answer\":0,\"text\":\"肾性骨病\",\"value\":1}, {\"answer\":0,\"text\":\"高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"动脉栓塞\",\"value\":3}]",
+    "title": "患者,男,18岁,蛋白尿,应用激素治疗过程中突然出现右下肢疼痛,最可能的原因是"
+  },
+  {
+    "id": 38279,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"阿呋唑嗪\",\"value\":1}, {\"answer\":1,\"text\":\"非那雄胺\",\"value\":2}, {\"answer\":0,\"text\":\"度他雄胺\",\"value\":3}]",
+    "title": "起效慢,服用三个月才可以改善由前列腺增生症导致的尿路梗阻,减少残余尿量的5α还原酶抑制剂的是"
+  },
+  {
+    "id": 38272,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥昔布宁\",\"value\":0}, {\"answer\":1,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"特拉唑嗪\",\"value\":2}, {\"answer\":0,\"text\":\"索利那新\",\"value\":3}]",
+    "title": "下列属于治疗前列腺增生症的高选择性α1A受体阻断剂的是"
+  },
+  {
+    "id": 38441,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"贫血\",\"value\":0}, {\"answer\":0,\"text\":\"胸膜炎\",\"value\":1}, {\"answer\":0,\"text\":\"皮肤尿素霜沉着\",\"value\":2}, {\"answer\":0,\"text\":\"口中有金属味\",\"value\":3}]",
+    "title": "尿毒症患者必有的临床表现是"
+  },
+  {
+    "id": 38243,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗凝药\",\"value\":0}, {\"answer\":0,\"text\":\"透析疗法\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":1,\"text\":\"休息和对症治疗\",\"value\":3}]",
+    "title": "急性肾小球肾炎可采用"
+  },
+  {
+    "id": 38386,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎综合征\",\"value\":1}, {\"answer\":0,\"text\":\"肝硬化\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,男,36岁,全身水肿,尿少一周,血压120/80mmHg,血浆清蛋白25g/L,24h尿蛋白定量为3g,最可能的临床诊断为"
+  },
+  {
+    "id": 38199,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大观霉素\",\"value\":0}, {\"answer\":1,\"text\":\"头孢曲松\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"阿米卡星\",\"value\":3}]",
+    "title": "对于肝功能正常而肾功能不全的患者是可选用的抗菌药是"
+  },
+  {
+    "id": 38224,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"慢性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"慢性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾动脉狭窄\",\"value\":3}]",
+    "title": "成年人引起肾性高血压最常见的疾病是"
+  },
+  {
+    "id": 38392,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"结节性肾小球硬化\",\"value\":0}, {\"answer\":0,\"text\":\"新月体肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"渗出性病变\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫性肾小球硬化\",\"value\":3}]",
+    "title": "糖尿病肾病具有高度特异性的肾脏病理变化是"
+  },
+  {
+    "id": 38416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠减压\",\"value\":1}, {\"answer\":0,\"text\":\"输血过量\",\"value\":2}, {\"answer\":0,\"text\":\"挤压创伤\",\"value\":3}]",
+    "title": "低钾性碱中毒常出现于"
+  },
+  {
+    "id": 38312,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服氨苯蝶啶+双氢克尿噻 \",\"value\":0}, {\"answer\":0,\"text\":\"静脉缓慢推注西地兰\",\"value\":1}, {\"answer\":1,\"text\":\"紧急腹膜透析\",\"value\":2}, {\"answer\":0,\"text\":\"继续输血\",\"value\":3}]",
+    "title": "患者,男,55岁,因上消化道出血住院,经过治疗后,患者三天来少尿,血钾6.4mol/L,应立即采取哪种治疗措施"
+  },
+  {
+    "id": 38204,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲泼尼龙每早8点饭后服用\",\"value\":0}, {\"answer\":0,\"text\":\"病情缓解,甲泼尼龙可立即停药\",\"value\":1}, {\"answer\":1,\"text\":\"碳酸钙维生素D3在两餐间空腹服用,以防低钙引起的骨病\",\"value\":2}, {\"answer\":1,\"text\":\"泮托拉唑肠溶片,宜早饭前整片服用,以预防消化道溃疡\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "患者,男,66岁,临床诊断：肾病综合征,用药处方是甲泼尼龙片、泮托拉唑肠溶片,关于用药指导叙述正确的是"
+  },
+  {
+    "id": 38339,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"关节肿胀\",\"value\":0}, {\"answer\":1,\"text\":\"腹痛、黑便\",\"value\":1}, {\"answer\":0,\"text\":\"肺纤维化\",\"value\":2}, {\"answer\":1,\"text\":\"皮肤紫癜\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "过敏性紫癜性肾炎临床表现"
+  },
+  {
+    "id": 38203,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多糖铁复合物胶囊可于每天午餐后服用\",\"value\":0}, {\"answer\":1,\"text\":\"多糖铁复合物胶囊用药后可能出现便秘、黑便等不适\",\"value\":1}, {\"answer\":1,\"text\":\"碳酸钙D3片可于每晚睡前服用\",\"value\":2}, {\"answer\":1,\"text\":\"碳酸钙D3片用药可能出现便秘、嗳气等不适\",\"value\":3}, {\"answer\":1,\"text\":\"重组人促红素注射液应置于4℃冷藏保存\",\"value\":4}]",
+    "title": "患者,男,56岁,临床诊断：慢性肾脏病5期,用药处方是多糖铁复合物胶囊、碳酸钙D3片、重组人促红素注射液,有关用药指导正确的是"
+  },
+  {
+    "id": 38291,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"膀胱张力低下\",\"value\":0}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":1}, {\"answer\":0,\"text\":\"尿潴留\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺炎\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "良性前列腺增生进行药物治疗之前,应先排出的病症是"
+  },
+  {
+    "id": 38316,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾血管性高血压\",\"value\":0}, {\"answer\":1,\"text\":\"原发性醛固酮增生症\",\"value\":1}, {\"answer\":1,\"text\":\"肾性高血压\",\"value\":2}, {\"answer\":0,\"text\":\"良性原发性高血压\",\"value\":3}, {\"answer\":0,\"text\":\"以上上均出现\",\"value\":4}]",
+    "title": "下列哪个疾病可能出现低血钾现象"
+  },
+  {
+    "id": 38215,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哒帕胺\",\"value\":0}, {\"answer\":1,\"text\":\"甲氧明\",\"value\":1}, {\"answer\":0,\"text\":\"多巴胺\",\"value\":2}, {\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":3}]",
+    "title": "可导致肾血管痉挛而致急性肾衰,较易引起少尿或无尿的药品是"
+  },
+  {
+    "id": 38401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"钠离子\",\"value\":0}, {\"answer\":0,\"text\":\"钙离子\",\"value\":1}, {\"answer\":0,\"text\":\"钾离子\",\"value\":2}, {\"answer\":0,\"text\":\"镁离子\",\"value\":3}]",
+    "title": "细胞外液中主要阳离子是"
+  },
+  {
+    "id": 38429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"紫癜性肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"淋巴瘤\",\"value\":1}, {\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓瘤性肾病\",\"value\":3}]",
+    "title": "儿童肾病综合征常继发于"
+  },
+  {
+    "id": 38377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉注射止血药\",\"value\":0}, {\"answer\":0,\"text\":\"肌内注射止血药\",\"value\":1}, {\"answer\":0,\"text\":\"静脉给予抗生素治疗\",\"value\":2}, {\"answer\":1,\"text\":\"肾脏B超检查\",\"value\":3}]",
+    "title": "患者,男,36岁,劳累后突然出现酱油色尿,乏力,无尿急尿频尿痛,无肾绞痛,无发热,该患者最合适的治疗措施是"
+  },
+  {
+    "id": 38236,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尿中红细胞减少\",\"value\":0}, {\"answer\":0,\"text\":\"血钾降低\",\"value\":1}, {\"answer\":0,\"text\":\"食欲增加\",\"value\":2}, {\"answer\":1,\"text\":\"患者尿量明显增多,水肿减轻\",\"value\":3}]",
+    "title": "某肾病综合征患者应用强的松治疗一周,判断药物治疗有效的依据是"
+  },
+  {
+    "id": 38417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钾合并等渗性脱水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性脱水\",\"value\":3}]",
+    "title": "患者结肠破裂修补术后5天,血钠136.0mmol/L,血钾68mmol/L,血PH值7.3,近24h尿量为520ml,应诊断为"
+  },
+  {
+    "id": 38190,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":0}, {\"answer\":0,\"text\":\"减少蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"延缓慢性肾衰竭进展为终末期肾病\",\"value\":2}, {\"answer\":0,\"text\":\"不宜用于肾动脉狭窄患者\",\"value\":3}]",
+    "title": "有关血管紧张素转化酶抑制药用于治疗慢性肾衰竭的描述,下列哪项是错误的是"
+  },
+  {
+    "id": 38439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"小细胞性贫血\",\"value\":0}, {\"answer\":1,\"text\":\"正常红细胞性贫血\",\"value\":1}, {\"answer\":0,\"text\":\"大红细胞性贫血\",\"value\":2}, {\"answer\":0,\"text\":\"单纯小红细胞性贫血\",\"value\":3}]",
+    "title": "尿毒症引起的贫血,通常为"
+  },
+  {
+    "id": 38406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"代谢性碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"代谢性酸中毒\",\"value\":2}, {\"answer\":0,\"text\":\"呼吸性酸中毒\",\"value\":3}]",
+    "title": "患者幽门梗阻呕吐10天,血压90/75mmHg,血钾3.1mmol,PH7.5,应诊断为"
+  },
+  {
+    "id": 38197,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"去甲肾上腺素\",\"value\":2}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":3}]",
+    "title": "对于无尿休克患者应禁用"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38350,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"原发性肾小球肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"贫血\",\"value\":1}, {\"answer\":0,\"text\":\"水电解质平衡失调\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "导致慢性肾衰竭常见的原因是"
+  },
+  {
+    "id": 38227,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾功能程度\",\"value\":0}, {\"answer\":0,\"text\":\"血尿程度\",\"value\":1}, {\"answer\":0,\"text\":\"高血压程度\",\"value\":2}, {\"answer\":1,\"text\":\"既往过敏性紫癜史\",\"value\":3}]",
+    "title": "慢性肾炎与过敏性紫癜肾炎的区别点是"
+  },
+  {
+    "id": 38411,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝\",\"value\":0}, {\"answer\":1,\"text\":\"肾\",\"value\":1}, {\"answer\":0,\"text\":\"皮肤\",\"value\":2}, {\"answer\":0,\"text\":\"缓冲系统\",\"value\":3}]",
+    "title": "维持机体体液平衡的主要器官是"
+  },
+  {
+    "id": 38283,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"口干、尿潴留\",\"value\":0}, {\"answer\":0,\"text\":\"干咳\",\"value\":1}, {\"answer\":0,\"text\":\"心率加速\",\"value\":2}, {\"answer\":0,\"text\":\"脚踝水肿\",\"value\":3}]",
+    "title": "索利那新治疗尿急、尿频,该药的不良反应是"
+  },
+  {
+    "id": 38348,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期\",\"value\":0}, {\"answer\":0,\"text\":\"口服\",\"value\":1}, {\"answer\":0,\"text\":\"短期\",\"value\":2}, {\"answer\":0,\"text\":\"临时\",\"value\":3}]",
+    "title": "很多中药对肾脏有一定毒性和损害,尤其（）使用时应特别注意"
+  },
+  {
+    "id": 38422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水2000-2500ml,钠5g,氯化钾4g\",\"value\":0}, {\"answer\":0,\"text\":\"水1500,钠3g,氯化钾2g\",\"value\":1}, {\"answer\":0,\"text\":\"水3000-3500ml,钠5g,氯化钾3g\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "禁食成年病人每天正确的水与电解质补充量为"
+  },
+  {
+    "id": 38379,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"停止感冒通和庆大霉素的治疗,并维持水、电解质和酸碱平衡\",\"value\":0}, {\"answer\":0,\"text\":\"使用肾病用氨基酸\",\"value\":1}, {\"answer\":0,\"text\":\"使用利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"改用其他抗生素治疗\",\"value\":3}]",
+    "title": "患者,男,56岁,因感冒发热,使用感冒通及庆大霉素治疗3天后症状好转,数日后尿量增多,临床诊断为急性肾功能不全,适宜的治疗措施是"
+  },
+  {
+    "id": 38365,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎综合征伴有重度高血压\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征伴有肾功能急剧恶化\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征伴有重度高血压\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征伴有肾功能急剧恶化\",\"value\":3}]",
+    "title": "急进性肾小球肾炎的临床指征是"
+  },
+  {
+    "id": 38256,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膜性肾病\",\"value\":0}, {\"answer\":0,\"text\":\"高血压肾病\",\"value\":1}, {\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":2}, {\"answer\":1,\"text\":\"微小病变型肾病\",\"value\":3}]",
+    "title": "糖皮质激素最适合"
+  },
+  {
+    "id": 38252,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":3}]",
+    "title": "哪种疾病最适合应用肾上腺皮质激素"
+  },
+  {
+    "id": 38418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "代谢性碱中毒伴有的电解质紊乱是"
+  },
+  {
+    "id": 38343,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"免疫介导的疾病\",\"value\":0}, {\"answer\":0,\"text\":\"肾小球损伤性疾病\",\"value\":1}, {\"answer\":0,\"text\":\"细菌感染性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"遗传性疾病\",\"value\":3}]",
+    "title": "目前人类肾小球疾病是"
+  },
+  {
+    "id": 38263,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"表现为化脓性间质性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"由细菌感染引起\",\"value\":1}, {\"answer\":1,\"text\":\"大肠埃希菌感染\",\"value\":2}, {\"answer\":1,\"text\":\"分为血源性和上行性感染\",\"value\":3}, {\"answer\":0,\"text\":\"男性发病率稍高\",\"value\":4}]",
+    "title": "关于肾盂肾炎说法正确的是"
+  },
+  {
+    "id": 38426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碱性尿\",\"value\":0}, {\"answer\":1,\"text\":\"恶心呕吐\",\"value\":1}, {\"answer\":1,\"text\":\"碱中毒\",\"value\":2}, {\"answer\":1,\"text\":\"腱反射减弱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "低钾血症一般表现为"
+  },
+  {
+    "id": 38342,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"急进性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性药物过敏性间质性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾小管坏死\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "无菌性白细胞尿常见于下列哪种疾病"
+  },
+  {
+    "id": 38233,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钠饮食\",\"value\":0}, {\"answer\":1,\"text\":\"噻嗪类利尿剂作为基本治疗药物\",\"value\":1}, {\"answer\":1,\"text\":\"可用钙通道阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"血压降至150-160/90mmHg为宜\",\"value\":3}, {\"answer\":1,\"text\":\"可采用几种降压药联合应用\",\"value\":4}]",
+    "title": "关于慢性肾炎高血压治疗正确的是"
+  },
+  {
+    "id": 38322,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"ANCA相关性小血管炎肾损伤活动期\",\"value\":0}, {\"answer\":1,\"text\":\"膜增生性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"链球菌感染后急性肾小球肾炎\",\"value\":2}, {\"answer\":1,\"text\":\"狼疮性肾炎活动期\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不导致\",\"value\":4}]",
+    "title": "下列哪个肾病导致血清补体C3水平降低"
+  },
+  {
+    "id": 38430,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不伴有肾功能不全\",\"value\":0}, {\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"女性多见\",\"value\":2}, {\"answer\":0,\"text\":\"逐渐进展为慢性肾衰竭\",\"value\":3}, {\"answer\":1,\"text\":\"可发生任何年龄段,以儿童多见\",\"value\":4}]",
+    "title": "关于慢性肾小球肾炎叙述不正确的是"
+  },
+  {
+    "id": 38414,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"原发性缺水\",\"value\":2}, {\"answer\":0,\"text\":\"低渗性缺水\",\"value\":3}]",
+    "title": "最容易发生水和钠代谢紊乱的是"
+  },
+  {
+    "id": 38264,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"延长给药疗程\",\"value\":0}, {\"answer\":0,\"text\":\"选用敏感抗菌药\",\"value\":1}, {\"answer\":0,\"text\":\"不同类型抗菌药物联合应用\",\"value\":2}, {\"answer\":1,\"text\":\"积极寻找并去除易感因素\",\"value\":3}]",
+    "title": "下列属于治疗慢性肾盂肾炎的关键因素是"
+  },
+  {
+    "id": 38402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"0.50-0.75g\",\"value\":0}, {\"answer\":0,\"text\":\"0.80-1.00g\",\"value\":1}, {\"answer\":0,\"text\":\"1.05-1.25g\",\"value\":2}, {\"answer\":0,\"text\":\"0.25-0.45g\",\"value\":3}]",
+    "title": "成人血清钠检测值为125mmol/L,估计每公斤体重缺氯化钠的量为"
+  },
+  {
+    "id": 38227,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾功能程度\",\"value\":0}, {\"answer\":0,\"text\":\"血尿程度\",\"value\":1}, {\"answer\":0,\"text\":\"高血压程度\",\"value\":2}, {\"answer\":1,\"text\":\"既往过敏性紫癜史\",\"value\":3}]",
+    "title": "慢性肾炎与过敏性紫癜肾炎的区别点是"
+  },
+  {
+    "id": 38437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":3}]",
+    "title": "慢性肾炎尿毒症产生致命性危险因素是"
+  },
+  {
+    "id": 38247,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":1,\"text\":\"卡托普利\",\"value\":1}, {\"answer\":0,\"text\":\"苯丙酸诺龙\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "扩张肾小球入球小动脉的药物是"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"大剂量青霉素静滴\",\"value\":1}, {\"answer\":0,\"text\":\"环孢素\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,男,36岁,全身水肿,尿少一周,血压120/80mmHg,血浆清蛋白25g/L,24h尿蛋白定量为3g,主要治疗方法是"
+  },
+  {
+    "id": 38270,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"夜尿次数增多\",\"value\":0}, {\"answer\":0,\"text\":\"夜尿尿量增多\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染\",\"value\":2}, {\"answer\":0,\"text\":\"皮疹\",\"value\":3}]",
+    "title": "下列属于良性前列腺增生症早期信号的是"
+  },
+  {
+    "id": 38381,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎合并急性肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎合并心肌炎\",\"value\":1}, {\"answer\":1,\"text\":\"急性肾炎合并心力衰竭\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患儿,男,12岁,因水肿、尿少4天入院,血压160/100mmHg,尿比重1.023,入院第二天凌晨突然出现气促,烦躁不安,心率160次/分,应考虑为"
+  },
+  {
+    "id": 38255,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"局灶性肾小球硬化\",\"value\":0}, {\"answer\":1,\"text\":\"微小病变型肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"膜性肾病\",\"value\":3}]",
+    "title": "对激素治疗最为敏感的是"
+  },
+  {
+    "id": 38449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双侧肾间质\",\"value\":0}, {\"answer\":0,\"text\":\"单侧肾脏的肾小球\",\"value\":1}, {\"answer\":1,\"text\":\"双侧肾脏的肾小球\",\"value\":2}, {\"answer\":0,\"text\":\"双侧肾脏的肾小管\",\"value\":3}]",
+    "title": "慢性肾炎的主要病变部位是"
+  },
+  {
+    "id": 38228,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急进型肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "肺出血肾炎综合征可继发哪种肾炎"
+  },
+  {
+    "id": 38235,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右下肢血栓形成\",\"value\":0}, {\"answer\":0,\"text\":\"肾性骨病\",\"value\":1}, {\"answer\":0,\"text\":\"高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"动脉栓塞\",\"value\":3}]",
+    "title": "患者,男,18岁,蛋白尿,应用激素治疗过程中突然出现右下肢疼痛,最可能的原因是"
+  },
+  {
+    "id": 38401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"钠离子\",\"value\":0}, {\"answer\":0,\"text\":\"钙离子\",\"value\":1}, {\"answer\":0,\"text\":\"钾离子\",\"value\":2}, {\"answer\":0,\"text\":\"镁离子\",\"value\":3}]",
+    "title": "细胞外液中主要阳离子是"
+  },
+  {
+    "id": 38240,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"12-16g\",\"value\":0}, {\"answer\":0,\"text\":\"10-12g\",\"value\":1}, {\"answer\":0,\"text\":\"8-10g\",\"value\":2}, {\"answer\":1,\"text\":\"6-8g\",\"value\":3}]",
+    "title": "患者,男性18岁,诊断肾病综合征,应用激素治疗无效,改用环磷酰胺治疗,总量不超过"
+  },
+  {
+    "id": 38192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"比沙可啶\",\"value\":0}, {\"answer\":1,\"text\":\"环孢素\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":3}]",
+    "title": "较易导致肾损伤的药品是"
+  },
+  {
+    "id": 38442,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"输血浆\",\"value\":0}, {\"answer\":0,\"text\":\"输新鲜血\",\"value\":1}, {\"answer\":1,\"text\":\"注射促红细胞生成素\",\"value\":2}, {\"answer\":0,\"text\":\"输入血浆代替品\",\"value\":3}]",
+    "title": "治疗尿毒症贫血最有效的治疗措施是"
+  },
+  {
+    "id": 38318,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿中会出现少量变形红细胞\",\"value\":0}, {\"answer\":0,\"text\":\"尿中会出现少量正常细胞\",\"value\":1}, {\"answer\":0,\"text\":\"不出现血尿\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "下列关于糖尿病肾病出现血尿的描述正确的是"
+  },
+  {
+    "id": 38439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"小细胞性贫血\",\"value\":0}, {\"answer\":1,\"text\":\"正常红细胞性贫血\",\"value\":1}, {\"answer\":0,\"text\":\"大红细胞性贫血\",\"value\":2}, {\"answer\":0,\"text\":\"单纯小红细胞性贫血\",\"value\":3}]",
+    "title": "尿毒症引起的贫血,通常为"
+  },
+  {
+    "id": 38421,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"等渗盐水\",\"value\":0}, {\"answer\":0,\"text\":\"氯化钾溶液\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄糖盐水\",\"value\":2}, {\"answer\":1,\"text\":\"葡萄糖盐水、氯化钾溶液\",\"value\":3}]",
+    "title": "患者,女,22岁,十二指肠溃疡所致幽门梗阻引起反复呕吐15天,血钾值为3mmol,动脉血pH7.5,首选补液种类应为"
+  },
+  {
+    "id": 38246,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"水肿消退\",\"value\":0}, {\"answer\":0,\"text\":\"尿量增加\",\"value\":1}, {\"answer\":1,\"text\":\"尿蛋白消失\",\"value\":2}, {\"answer\":0,\"text\":\"食欲增加\",\"value\":3}]",
+    "title": "肾病综合征患者用强的松治疗,治疗过程中该药需减量的标准是"
+  },
+  {
+    "id": 38205,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"葡萄糖不耐受\",\"value\":0}, {\"answer\":0,\"text\":\"心动过速\",\"value\":1}, {\"answer\":0,\"text\":\"呼吸困难\",\"value\":2}, {\"answer\":0,\"text\":\"高钾血症\",\"value\":3}]",
+    "title": "肾移植患者使用他罗利姆,下列哪项不是该药物的不良反应"
+  },
+  {
+    "id": 38251,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用激素治疗,尿蛋白减少立即减量\",\"value\":0}, {\"answer\":0,\"text\":\"应用阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"用激素治疗4周无效加服环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"必要时应用环孢菌素A\",\"value\":3}]",
+    "title": "肾病综合征药物治疗不合理的是"
+  },
+  {
+    "id": 38188,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗组胺剂\",\"value\":0}, {\"answer\":1,\"text\":\"拟交感神经药\",\"value\":1}, {\"answer\":0,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"水杨酸类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "前列腺增大的患者不宜使用的药物是"
+  },
+  {
+    "id": 38206,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"亭扎肝素\",\"value\":0}, {\"answer\":0,\"text\":\"罗匹尼罗\",\"value\":1}, {\"answer\":1,\"text\":\"丁螺环酮\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "病人有严重的肾损伤。下列哪种药物应避免使用"
+  },
+  {
+    "id": 38273,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方磺胺甲噁唑\",\"value\":0}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":1,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"头孢呋辛\",\"value\":3}, {\"answer\":0,\"text\":\"阿奇霉素\",\"value\":4}]",
+    "title": "治疗大肠埃希菌所导致的尿路感染,可以选用的抗菌药物包括"
+  },
+  {
+    "id": 38202,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松最好于早晨8点前服用,每天服用一次\",\"value\":0}, {\"answer\":1,\"text\":\"他克莫司应空腹服用\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松、华法林每天服用一次\",\"value\":2}, {\"answer\":1,\"text\":\"他克莫司用药期间应定期监测药物浓度\",\"value\":3}, {\"answer\":1,\"text\":\"华法林用药期间应监测有无牙龈出血、鼻出血、皮肤瘀斑等\",\"value\":4}]",
+    "title": "患者,男,48岁,临床诊断：膜性肾病3期,用药处方是泼尼松片、他克莫司胶囊、华法林片,关于用药指导叙述正确的是"
+  },
+  {
+    "id": 38466,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"豆腐\",\"value\":0}, {\"answer\":0,\"text\":\"植物油\",\"value\":1}, {\"answer\":0,\"text\":\"氨基酸\",\"value\":2}, {\"answer\":1,\"text\":\"鸡蛋\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不宜选用\",\"value\":4}]",
+    "title": "患者,男,50岁,慢性肾小球肾炎10年,近几日见明显血尿,且水肿加重,尿液检查有蛋白及颗粒管型,蛋白饮食宜选用"
+  },
+  {
+    "id": 38366,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"适时做透析治疗和肾移植\",\"value\":0}, {\"answer\":1,\"text\":\"对于Ⅱ、Ⅲ型可采用甲泼尼龙冲击疗法\",\"value\":1}, {\"answer\":0,\"text\":\"尽早用扩张肾小管的药物\",\"value\":2}, {\"answer\":1,\"text\":\"及时做肾活检确诊和分型\",\"value\":3}, {\"answer\":1,\"text\":\"对于Ⅰ型可采用强化血浆治疗法\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎正确的治疗方法的是"
+  },
+  {
+    "id": 38322,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"ANCA相关性小血管炎肾损伤活动期\",\"value\":0}, {\"answer\":1,\"text\":\"膜增生性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"链球菌感染后急性肾小球肾炎\",\"value\":2}, {\"answer\":1,\"text\":\"狼疮性肾炎活动期\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不导致\",\"value\":4}]",
+    "title": "下列哪个肾病导致血清补体C3水平降低"
+  },
+  {
+    "id": 38291,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"膀胱张力低下\",\"value\":0}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":1}, {\"answer\":0,\"text\":\"尿潴留\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺炎\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "良性前列腺增生进行药物治疗之前,应先排出的病症是"
+  },
+  {
+    "id": 38218,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环孢素\",\"value\":0}, {\"answer\":0,\"text\":\"罗红霉素\",\"value\":1}, {\"answer\":1,\"text\":\"顺铂\",\"value\":2}, {\"answer\":0,\"text\":\"噻氯匹定\",\"value\":3}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":4}]",
+    "title": "可致药源性肾损害的药品有"
+  },
+  {
+    "id": 38321,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血清中IgA升高\",\"value\":0}, {\"answer\":0,\"text\":\"肾功能下降\",\"value\":1}, {\"answer\":0,\"text\":\"血压升高\",\"value\":2}, {\"answer\":1,\"text\":\"蛋白尿\",\"value\":3}]",
+    "title": "IgA肾病的临床表现是"
+  },
+  {
+    "id": 38326,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"滤过钠分数＞1\",\"value\":0}, {\"answer\":0,\"text\":\"尿钠浓度＜20\",\"value\":1}, {\"answer\":0,\"text\":\"肾衰指数＜1\",\"value\":2}, {\"answer\":0,\"text\":\"尿渗透压＞500\",\"value\":3}]",
+    "title": "患有肾性急性肾衰的提示指标是"
+  },
+  {
+    "id": 38255,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"局灶性肾小球硬化\",\"value\":0}, {\"answer\":1,\"text\":\"微小病变型肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"系膜增生性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"膜性肾病\",\"value\":3}]",
+    "title": "对激素治疗最为敏感的是"
+  },
+  {
+    "id": 38216,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"东莨菪碱\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "引起的肾损害一般可逆的药物是"
+  },
+  {
+    "id": 38181,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氨基酸注射液（17AA）\",\"value\":0}, {\"answer\":0,\"text\":\"复方氨基酸注射液（18AA）\",\"value\":1}, {\"answer\":0,\"text\":\"复方氨基酸注射液（6AA）\",\"value\":2}, {\"answer\":1,\"text\":\"复方氨基酸注射液（9AA）\",\"value\":3}]",
+    "title": "肾病患者宜选用哪种氨基酸制剂"
+  },
+  {
+    "id": 38224,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"慢性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"慢性肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾动脉狭窄\",\"value\":3}]",
+    "title": "成年人引起肾性高血压最常见的疾病是"
+  },
+  {
+    "id": 38234,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿和低蛋白血症\",\"value\":0}, {\"answer\":0,\"text\":\"大量蛋白尿和血尿\",\"value\":1}, {\"answer\":0,\"text\":\"水肿和高脂血症\",\"value\":2}, {\"answer\":0,\"text\":\"水肿和高血压\",\"value\":3}]",
+    "title": "肾病综合征的特点"
+  },
+  {
+    "id": 38428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病肾病\",\"value\":0}, {\"answer\":0,\"text\":\"血管炎肾损伤\",\"value\":1}, {\"answer\":0,\"text\":\"紫癜性肾炎\",\"value\":2}, {\"answer\":1,\"text\":\"狼疮肾炎\",\"value\":3}]",
+    "title": "育龄女性肾病综合征最常见的继发因素"
+  },
+  {
+    "id": 38461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多吃橘子\",\"value\":0}, {\"answer\":0,\"text\":\"禁用螺内酯\",\"value\":1}, {\"answer\":0,\"text\":\"忌输库存血\",\"value\":2}, {\"answer\":0,\"text\":\"采血部位不要结扎过紧\",\"value\":3}]",
+    "title": "慢性肾衰竭患者已经发生高血钾,治疗措施不正确的是"
+  },
+  {
+    "id": 38295,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿沉渣涂片细菌革兰染色 \",\"value\":0}, {\"answer\":0,\"text\":\"尿路刺激征的严重程度\",\"value\":1}, {\"answer\":0,\"text\":\"尿中白细胞的多少\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "对于急性肾盂肾炎选择抗菌药物最有指导意义的是"
+  },
+  {
+    "id": 38398,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"盐皮质激素缺乏\",\"value\":0}, {\"answer\":0,\"text\":\"甲状腺功能低下\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素缺乏\",\"value\":2}, {\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":3}]",
+    "title": "下列哪种障碍引起低钠血症是与低容量相关的,总液体减少和进一步的总钠减少"
+  },
+  {
+    "id": 38298,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"微小病变型肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"膜性肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"膜增生性肾炎\",\"value\":3}]",
+    "title": "应用糖皮质激素治疗,疗效最佳的是"
+  },
+  {
+    "id": 38425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等渗性缺水\",\"value\":0}, {\"answer\":0,\"text\":\"水过多\",\"value\":1}, {\"answer\":0,\"text\":\"中度缺水\",\"value\":2}, {\"answer\":0,\"text\":\"高渗性缺水\",\"value\":3}]",
+    "title": "外科患者最易发生的缺水类型是"
+  },
+  {
+    "id": 38229,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"防止或延缓肾功能衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"控制感染\",\"value\":1}, {\"answer\":0,\"text\":\"消除血尿\",\"value\":2}, {\"answer\":0,\"text\":\"消除蛋白尿\",\"value\":3}]",
+    "title": "慢性肾炎治疗的目的"
+  },
+  {
+    "id": 38230,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿合剂\",\"value\":0}, {\"answer\":1,\"text\":\"低分子右旋糖酐\",\"value\":1}, {\"answer\":0,\"text\":\"氨苯蝶啶\",\"value\":2}, {\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":3}]",
+    "title": "治疗肾炎水肿时,下列哪一药不宜应用"
+  },
+  {
+    "id": 38301,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾盂肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"尿道炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾结核\",\"value\":3}]",
+    "title": "女,28岁。低热伴尿频、尿急、尿痛3天。肾区叩击痛阳性,尿沉渣白细胞(+),白细胞管型(0～1)/HP,中段尿培养大肠杆菌>105,临床诊断为"
+  },
+  {
+    "id": 38277,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":1,\"text\":\"头孢噻肟钠\",\"value\":1}, {\"answer\":0,\"text\":\"阿米卡星\",\"value\":2}, {\"answer\":0,\"text\":\"甲硝唑\",\"value\":3}]",
+    "title": "患者,女,28岁,妊娠期20周,出现发热,临床诊断为急性肾盂肾炎,可以选用的抗菌药是"
+  },
+  {
+    "id": 38399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3%盐水静脉注射+呋塞米\",\"value\":0}, {\"answer\":0,\"text\":\"口服钠盐4g,q6h\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "患者,男,54岁,多型胶质瘤切除术两周,头痛两天,出现神志改变癫痫发作,血钠107mEq/L,该患者最佳治疗是"
+  },
+  {
+    "id": 38278,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"脚踝水肿\",\"value\":0}, {\"answer\":0,\"text\":\"干咳\",\"value\":1}, {\"answer\":0,\"text\":\"尿潴留\",\"value\":2}, {\"answer\":1,\"text\":\"体位性低血压\",\"value\":3}]",
+    "title": "良性前列腺增生症并伴有高血压的老年患者应服用α1受体阻断剂进行治疗时,可能导致的不良反应是"
+  },
+  {
+    "id": 38262,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2周\",\"value\":0}, {\"answer\":0,\"text\":\"4周\",\"value\":1}, {\"answer\":0,\"text\":\"6周\",\"value\":2}, {\"answer\":0,\"text\":\"8周\",\"value\":3}]",
+    "title": "急性肾盂性肾炎的疗程一般是"
+  },
+  {
+    "id": 38209,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":1,\"text\":\"四环素\",\"value\":3}]",
+    "title": "肾功能减退感染患者可以使用,但治疗量须减少的抗菌药为"
+  },
+  {
+    "id": 38376,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"出血性膀胱炎\",\"value\":0}, {\"answer\":1,\"text\":\"肾后性急性肾衰竭\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾衰竭\",\"value\":3}]",
+    "title": "患者,男,66岁,患有肺癌,应用CAP方案化疗第三天后突然出现少尿,肌酐146μmol/L,该患者出现少尿原因是"
+  },
+  {
+    "id": 38372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"7天\",\"value\":0}, {\"answer\":1,\"text\":\"10-14天\",\"value\":1}, {\"answer\":0,\"text\":\"20天以内\",\"value\":2}, {\"answer\":0,\"text\":\"4周以上\",\"value\":3}]",
+    "title": "患者,女,38岁,临床诊断为急性肾盂肾炎,该患者应用抗生素治疗,适宜的治疗持续天数是"
+  },
+  {
+    "id": 38263,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"表现为化脓性间质性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"由细菌感染引起\",\"value\":1}, {\"answer\":1,\"text\":\"大肠埃希菌感染\",\"value\":2}, {\"answer\":1,\"text\":\"分为血源性和上行性感染\",\"value\":3}, {\"answer\":0,\"text\":\"男性发病率稍高\",\"value\":4}]",
+    "title": "关于肾盂肾炎说法正确的是"
+  },
+  {
+    "id": 38185,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"根据感染的严重程度、病原菌种类及药敏试验选用无肾毒性或肾毒性低的抗菌药物\",\"value\":0}, {\"answer\":0,\"text\":\"主要经肾排泄的抗菌药物在肾功能减退者不可应用\",\"value\":1}, {\"answer\":1,\"text\":\"尽量避免使用肾毒性抗菌药物,确有应用指征时,必须调整给药方案\",\"value\":2}, {\"answer\":1,\"text\":\"主要由肝胆系统排泄或经肾脏和肝胆系统同时排出者,维持原治疗量或略减\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于肾功能减退患者抗菌药物的应用,正确的是"
+  },
+  {
+    "id": 38359,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能急剧转坏\",\"value\":0}, {\"answer\":0,\"text\":\"常无贫血表现\",\"value\":1}, {\"answer\":1,\"text\":\"呈现急性肾炎综合征\",\"value\":2}, {\"answer\":1,\"text\":\"早期出血、少尿\",\"value\":3}, {\"answer\":1,\"text\":\"数周至半年进展为尿毒症\",\"value\":4}]",
+    "title": "下列属于急进性肾小球肾炎的临床表现的是"
+  },
+  {
+    "id": 38410,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"平衡盐溶液\",\"value\":0}, {\"answer\":1,\"text\":\"等渗盐水\",\"value\":1}, {\"answer\":0,\"text\":\"右旋糖酐\",\"value\":2}, {\"answer\":0,\"text\":\"5%碳酸氢钠\",\"value\":3}]",
+    "title": "治疗等渗性脱水的理想药物是"
+  },
+  {
+    "id": 38454,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"限制钠盐的摄入\",\"value\":0}, {\"answer\":1,\"text\":\"静脉输液需控制滴速和总量\",\"value\":1}, {\"answer\":1,\"text\":\"保持皮肤清洁\",\"value\":2}, {\"answer\":0,\"text\":\"低蛋白饮食\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "针对肾病性水肿肾功能正常的患者,正确的治疗方法是"
+  },
+  {
+    "id": 38310,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"有血尿\",\"value\":1}, {\"answer\":1,\"text\":\"尿路刺激征\",\"value\":2}, {\"answer\":1,\"text\":\"发热、白细胞增多\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "急性肾盂肾炎临床表现,下列哪项是正确的"
+  },
+  {
+    "id": 38331,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"支原体感染\",\"value\":0}, {\"answer\":0,\"text\":\"梅毒螺旋体感染\",\"value\":1}, {\"answer\":1,\"text\":\"链球菌感染\",\"value\":2}, {\"answer\":1,\"text\":\"衣原体感染\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可引起\",\"value\":4}]",
+    "title": "哪个性传播疾病可引起尿道炎"
+  },
+  {
+    "id": 38324,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢菌素类\",\"value\":0}, {\"answer\":1,\"text\":\"部分半合成青霉素类\",\"value\":1}, {\"answer\":1,\"text\":\"喹诺酮类\",\"value\":2}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":3}, {\"answer\":0,\"text\":\"大环内酯类\",\"value\":4}]",
+    "title": "针对复杂性急性肾盂肾炎病人如未得到致病菌的药物敏感性试验结果之前,常选用的抗菌药是"
+  },
+  {
+    "id": 38356,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功不全时限制磷摄入\",\"value\":0}, {\"answer\":0,\"text\":\"不必限制蛋白摄入\",\"value\":1}, {\"answer\":1,\"text\":\"肾功不全时应该限制蛋白摄入量\",\"value\":2}, {\"answer\":1,\"text\":\"双嘧达莫疗效不肯定\",\"value\":3}, {\"answer\":1,\"text\":\"皮质激素使用要尽早\",\"value\":4}]",
+    "title": "下列关于慢性肾小球肾炎治疗的叙述正确的是"
+  },
+  {
+    "id": 38329,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"给予纳洛酮\",\"value\":0}, {\"answer\":1,\"text\":\"静脉点滴碳酸氢钠\",\"value\":1}, {\"answer\":0,\"text\":\"静脉点滴氯化钠\",\"value\":2}, {\"answer\":1,\"text\":\"静脉点滴氯化钾\",\"value\":3}]",
+    "title": "利尿剂引起的代谢性酸中毒选择何种药物治疗"
+  },
+  {
+    "id": 38332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对反复发生尿路感染的妇女给予长疗程低剂量抗生素抑菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"避免使用尿路器械\",\"value\":1}, {\"answer\":0,\"text\":\"长时间留置导尿管时及时给予抗生素预防感染\",\"value\":2}, {\"answer\":1,\"text\":\"注意局部的清洁卫生\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于尿路感染的防治正确的是"
+  },
+  {
+    "id": 38284,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"托特罗定\",\"value\":3}]",
+    "title": "下列哪一药物数小时到数天可以改善症状,不影响前列腺体积和血清PSA水平"
+  },
+  {
+    "id": 38312,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服氨苯蝶啶+双氢克尿噻 \",\"value\":0}, {\"answer\":0,\"text\":\"静脉缓慢推注西地兰\",\"value\":1}, {\"answer\":1,\"text\":\"紧急腹膜透析\",\"value\":2}, {\"answer\":0,\"text\":\"继续输血\",\"value\":3}]",
+    "title": "患者,男,55岁,因上消化道出血住院,经过治疗后,患者三天来少尿,血钾6.4mol/L,应立即采取哪种治疗措施"
+  },
+  {
+    "id": 38250,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血清补体恢复正常\",\"value\":0}, {\"answer\":1,\"text\":\"水肿消退,血压正常\",\"value\":1}, {\"answer\":0,\"text\":\"症状消失,血沉正常\",\"value\":2}, {\"answer\":0,\"text\":\"血尿消失\",\"value\":3}]",
+    "title": "急性肾炎饮食中不限制食盐摄入的时机是"
+  },
+  {
+    "id": 38210,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"多巴胺\",\"value\":1}, {\"answer\":0,\"text\":\"四环素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾功能减退感染患者可按原治疗量应用的抗菌药为"
+  },
+  {
+    "id": 38330,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":0}, {\"answer\":0,\"text\":\"儿童\",\"value\":1}, {\"answer\":0,\"text\":\"老年男性\",\"value\":2}, {\"answer\":0,\"text\":\"青年男性\",\"value\":3}]",
+    "title": "下列哪个人群最易发生尿路感染"
+  },
+  {
+    "id": 38346,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"鸡蛋\",\"value\":0}, {\"answer\":0,\"text\":\"鱼虾\",\"value\":1}, {\"answer\":0,\"text\":\"牛奶\",\"value\":2}, {\"answer\":1,\"text\":\"黄豆\",\"value\":3}]",
+    "title": "植物蛋白质中含大量嘌呤碱,能加重肾脏中间代谢的负担,所以下列不宜食用的是"
+  },
+  {
+    "id": 38384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急进性肾炎综合征\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"尿路感染综合征\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征\",\"value\":3}]",
+    "title": "患者,女,23岁,咽痛后2周出现肉眼血尿,尿蛋白（+++),尿红细胞满视野,血肌酐180μmol/L,最可能的临床诊断为"
+  },
+  {
+    "id": 38423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠\",\"value\":0}, {\"answer\":1,\"text\":\"高氯血症\",\"value\":1}, {\"answer\":0,\"text\":\"水过多\",\"value\":2}, {\"answer\":0,\"text\":\"代谢性碱中毒\",\"value\":3}]",
+    "title": "仅用等渗盐水纠正等渗性缺水时,可导致"
+  },
+  {
+    "id": 38445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"静脉注射葡萄糖酸钙\",\"value\":0}, {\"answer\":0,\"text\":\"静脉注射安定\",\"value\":1}, {\"answer\":0,\"text\":\"口服镇静药\",\"value\":2}, {\"answer\":0,\"text\":\"肌注维生素B\",\"value\":3}]",
+    "title": "慢性肾功能不全尿毒症在纠正酸中毒后发生抽搐,最迅速有效的治疗是"
+  },
+  {
+    "id": 38349,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"用速效强心剂\",\"value\":0}, {\"answer\":0,\"text\":\"抗感染治疗\",\"value\":1}, {\"answer\":1,\"text\":\"严格控制钠、水的摄入量\",\"value\":2}, {\"answer\":0,\"text\":\"血液透析\",\"value\":3}]",
+    "title": "急性肾炎发生严重循环充血时最正确的治疗措施是"
+  },
+  {
+    "id": 38296,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红细胞生成素减少\",\"value\":0}, {\"answer\":0,\"text\":\"毒素抑制骨髓造血\",\"value\":1}, {\"answer\":0,\"text\":\"营养不足,低蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "尿毒症患者出现贫血的主要原因是"
+  },
+  {
+    "id": 38197,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"去甲肾上腺素\",\"value\":2}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":3}]",
+    "title": "对于无尿休克患者应禁用"
+  },
+  {
+    "id": 38196,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"头孢噻肟\",\"answer\":1},{\"value\":1,\"text\":\"阿莫西林\",\"answer\":0},{\"value\":2,\"text\":\"氨苄西林\",\"answer\":0},{\"value\":3,\"text\":\"哌拉西林\",\"answer\":0}]",
+    "title": "下列抗菌药中,肾损伤最小的是"
+  },
+  {
+    "id": 38405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血钠低\",\"value\":0}, {\"answer\":0,\"text\":\"血钾低\",\"value\":1}, {\"answer\":0,\"text\":\"血磷低\",\"value\":2}, {\"answer\":0,\"text\":\"血钙低\",\"value\":3}]",
+    "title": "低渗性脱水主要指"
+  },
+  {
+    "id": 38249,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":0}, {\"answer\":0,\"text\":\"利尿酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"安体舒通\",\"value\":2}, {\"answer\":0,\"text\":\"利尿合剂\",\"value\":3}]",
+    "title": "急性肾炎尿量甚少时,哪种利尿剂慎用或不用"
+  },
+  {
+    "id": 38300,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大肠埃希菌\",\"value\":0}, {\"answer\":0,\"text\":\"粪链球菌\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄杆菌\",\"value\":2}, {\"answer\":0,\"text\":\"大肠杆菌\",\"value\":3}]",
+    "title": "尿路感染最常见的细菌是"
+  },
+  {
+    "id": 38271,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雄激素水平\",\"value\":0}, {\"answer\":0,\"text\":\"日尿量\",\"value\":1}, {\"answer\":0,\"text\":\"夜尿量\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺特异性抗原水平\",\"value\":3}]",
+    "title": "选择合理的治疗良性前列腺增生症药物的主要依据"
+  },
+  {
+    "id": 38174,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢哌酮\",\"value\":0}, {\"answer\":0,\"text\":\"头孢拉定\",\"value\":1}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":2}, {\"answer\":0,\"text\":\"阿米卡星\",\"value\":3}]",
+    "title": "肾功能减退时可按原治疗量应用的药物是"
+  },
+  {
+    "id": 38195,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"庆大霉素\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "下列抗菌药中,肾衰时无需减量的是"
+  },
+  {
+    "id": 38198,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"坦洛新\",\"value\":0}, {\"answer\":1,\"text\":\"多巴胺\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"雄激素\",\"value\":3}]",
+    "title": "某急性肾衰竭患者,利尿剂和哪种药物联合应用来增加尿量"
+  },
+  {
+    "id": 38458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"即使有尿频、尿急也应多饮水\",\"value\":0}, {\"answer\":0,\"text\":\"尿液捡菌之前,青霉素为首选药\",\"value\":1}, {\"answer\":0,\"text\":\"退热后即停用抗菌药物\",\"value\":2}, {\"answer\":0,\"text\":\"用庆大霉素时加服维生素C\",\"value\":3}]",
+    "title": "肾盂肾炎治疗中,正确的是"
+  },
+  {
+    "id": 38282,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥昔布宁\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"米多君\",\"value\":2}, {\"answer\":1,\"text\":\"度他雄胺\",\"value\":3}]",
+    "title": "下列哪个药物可以抑制前列腺内双氢睾酮水平,提高最高尿流率的药物"
+  },
+  {
+    "id": 38252,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"肾病综合征\",\"value\":1}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"急性肾炎\",\"value\":3}]",
+    "title": "哪种疾病最适合应用肾上腺皮质激素"
+  },
+  {
+    "id": 38184,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"西格列汀\",\"value\":0}, {\"answer\":1,\"text\":\"利格列汀\",\"value\":1}, {\"answer\":0,\"text\":\"阿格列汀\",\"value\":2}, {\"answer\":0,\"text\":\"沙格列汀\",\"value\":3}]",
+    "title": "患者,男,48岁,糖尿病,肾功能不全,服用二肽基肽酶-Ⅳ（DPP-4）抑制剂降糖药,不需调整剂量的是"
+  },
+  {
+    "id": 38274,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"M2+M3\",\"value\":0}, {\"answer\":0,\"text\":\"M1\",\"value\":1}, {\"answer\":0,\"text\":\"M2\",\"value\":2}, {\"answer\":0,\"text\":\"M4\",\"value\":3}]",
+    "title": "托特罗定用于治疗尿频等疾病,该药主要在下列哪个胆碱能受体发挥作用"
+  },
+  {
+    "id": 38367,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"Ⅲ型\",\"value\":0}, {\"answer\":0,\"text\":\"Ⅰ、Ⅲ型\",\"value\":1}, {\"answer\":1,\"text\":\"Ⅱ、Ⅲ型\",\"value\":2}, {\"answer\":0,\"text\":\"Ⅰ型\",\"value\":3}]",
+    "title": "下列哪种类型的急进性肾小球肾炎适合采用甲泼尼龙冲击联合环磷酰胺进行治疗"
+  },
+  {
+    "id": 38253,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素和免疫抑制剂联合应用\",\"value\":0}, {\"answer\":0,\"text\":\"限制食盐和水的摄入\",\"value\":1}, {\"answer\":1,\"text\":\"因血浆胶体渗透压低,尿量虽少也不能用利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"可应用抗血小板聚集药\",\"value\":3}]",
+    "title": "关于肾病综合征的药物治疗错误的是"
+  },
+  {
+    "id": 38357,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"溶血性链球菌\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎双球菌感染\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄杆菌感染\",\"value\":2}, {\"answer\":0,\"text\":\"乙型肝炎病毒感染\",\"value\":3}]",
+    "title": "下列哪一细菌感染是引起急性肾炎最常见的"
+  },
+  {
+    "id": 38464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"继续抗菌治疗\",\"value\":0}, {\"answer\":1,\"text\":\"多饮水\",\"value\":1}, {\"answer\":1,\"text\":\"注意经期卫生\",\"value\":2}, {\"answer\":0,\"text\":\"禁用肾毒性抗生素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "患者,女,50岁,反复发作尿路感染,临床诊断慢性肾盂肾炎,下列哪项对预防复发有指导意义"
+  },
+  {
+    "id": 38353,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌药\",\"value\":0}, {\"answer\":1,\"text\":\"及时治疗上呼吸道感染有助于预防\",\"value\":1}, {\"answer\":1,\"text\":\"不主张积极使用皮质激素\",\"value\":2}, {\"answer\":1,\"text\":\"皮质激素使用要区别对待\",\"value\":3}, {\"answer\":0,\"text\":\"氨基糖苷类可用于合并肠杆菌感染者\",\"value\":4}]",
+    "title": "下列符合慢性肾小球肾炎治疗的是"
+  },
+  {
+    "id": 38289,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对不同类型的尿路感染给予不同的治疗疗程\",\"value\":0}, {\"answer\":1,\"text\":\"选择不良反应少的抗菌药\",\"value\":1}, {\"answer\":1,\"text\":\"单一药物治疗无效时应联合用药\",\"value\":2}, {\"answer\":1,\"text\":\"药物在肾内浓度要高\",\"value\":3}, {\"answer\":0,\"text\":\"以上均错误\",\"value\":4}]",
+    "title": "关于抗尿路感染的治疗,正确的是"
+  },
+  {
+    "id": 38433,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高LDL\",\"value\":0}, {\"answer\":1,\"text\":\"高脂蛋白\",\"value\":1}, {\"answer\":1,\"text\":\"高胆固醇血症\",\"value\":2}, {\"answer\":0,\"text\":\"低VLDL\",\"value\":3}, {\"answer\":1,\"text\":\"高甘油三酯血症\",\"value\":4}]",
+    "title": "关于肾病综合征高脂血症叙述正确的是"
+  },
+  {
+    "id": 38293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"α1受体阻断剂不利于快速控制下尿路症状\",\"value\":0}, {\"answer\":1,\"text\":\"药物治疗的短期目标是缓解下尿路症状\",\"value\":1}, {\"answer\":0,\"text\":\"正在使用酮康唑的患者,建议使用奥昔布宁治疗良性前列腺增生\",\"value\":2}, {\"answer\":0,\"text\":\"5α还原酶抑制剂不需要长时间使用,就可以控制前列腺体积\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于良性前列腺增生症的药物治疗,叙述正确的是"
+  },
+  {
+    "id": 38292,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿莫西林和特拉唑嗪\",\"value\":0}, {\"answer\":1,\"text\":\"特拉唑嗪和非那雄胺\",\"value\":1}, {\"answer\":1,\"text\":\"坦索罗辛和依立雄胺\",\"value\":2}, {\"answer\":1,\"text\":\"奥昔布宁和度他雄胺\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "治疗良性前列腺增生症,可采用的联合治疗方案是"
+  },
+  {
+    "id": 38434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多见于青少年\",\"value\":0}, {\"answer\":1,\"text\":\"肾脏缩小\",\"value\":1}, {\"answer\":0,\"text\":\"常继发于慢性化脓性感染\",\"value\":2}, {\"answer\":1,\"text\":\"原发性淀粉样变性主要累及肾、肝、脾\",\"value\":3}, {\"answer\":1,\"text\":\"继发性淀粉样变性主要累及心、肾、消化道\",\"value\":4}]",
+    "title": "关于肾淀粉样变性叙述不正确的是"
+  },
+  {
+    "id": 38455,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"碱化尿液减轻疼痛\",\"value\":0}, {\"answer\":1,\"text\":\"随时清洁尿路\",\"value\":1}, {\"answer\":1,\"text\":\"卧床休息\",\"value\":2}, {\"answer\":0,\"text\":\"避免应用阿托品类药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于尿路刺激症患者叙述正确的是"
+  },
+  {
+    "id": 38323,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"肾性糖尿\",\"value\":1}, {\"answer\":1,\"text\":\"磷酸盐尿\",\"value\":2}, {\"answer\":1,\"text\":\"氨基酸尿\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "范可尼综合征包括下列哪些表现"
+  },
+  {
+    "id": 38468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"重症患者宜及早使用糖皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"去除过敏原后,多数轻症患者可自行缓解\",\"value\":1}, {\"answer\":0,\"text\":\"早期使用糖皮质激素+细胞毒药物联合治疗\",\"value\":2}, {\"answer\":1,\"text\":\"出现急性肾功能不全应及时进行血液透析\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于急性间质性肾炎治疗说法,正确的是"
+  },
+  {
+    "id": 38294,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿莫西林\",\"value\":0}, {\"answer\":0,\"text\":\"头孢唑林\",\"value\":1}, {\"answer\":1,\"text\":\"氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"呋喃妥因\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可\",\"value\":4}]",
+    "title": "患者,女,46岁,临床诊断为复发性尿路感染,可选用下列哪些药物进行长期低剂量抑菌治疗"
+  },
+  {
+    "id": 38341,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲状腺腺瘤\",\"value\":0}, {\"answer\":0,\"text\":\"纤维性骨炎\",\"value\":1}, {\"answer\":1,\"text\":\"无动力性骨病\",\"value\":2}, {\"answer\":1,\"text\":\"软组织钙化\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "糖尿病肾病肾功能不全患者滥用骨化三醇治疗可造成"
+  },
+  {
+    "id": 38276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"晚餐后临睡前\",\"value\":0}, {\"answer\":0,\"text\":\"早餐前\",\"value\":1}, {\"answer\":0,\"text\":\"晚餐前\",\"value\":2}, {\"answer\":0,\"text\":\"早餐后\",\"value\":3}]",
+    "title": "α1受体阻断剂用于治疗前列腺增生,为了减少该药的不良反应,最好在以下哪个时间服药"
+  },
+  {
+    "id": 38328,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"给予强的松龙冲击治疗+细胞毒类药物\",\"value\":0}, {\"answer\":0,\"text\":\"口服强的松\",\"value\":1}, {\"answer\":0,\"text\":\"给予强的松龙冲击治疗+血液透析\",\"value\":2}, {\"answer\":0,\"text\":\"口服强的松+细胞毒类药物\",\"value\":3}]",
+    "title": "患者,男,50岁,浮肿、少尿一周,临床诊断为新月体性肾炎Ⅱ型,下列合理的治疗方法是"
+  },
+  {
+    "id": 38383,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙型肝炎病毒相关性肾小球肾炎\",\"value\":0}, {\"answer\":0,\"text\":\"急性肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"肾损伤\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "患者,女,35岁,双下肢水肿一个月,既往有慢性乙型病毒性肝炎病史,尿常规蛋白阳性,尿红细胞20个/HP,最可能的临床诊断为"
+  },
+  {
+    "id": 38462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"链霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "肾衰竭合并感染时,应选用的抗生素是"
+  },
+  {
+    "id": 38230,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿合剂\",\"value\":0}, {\"answer\":1,\"text\":\"低分子右旋糖酐\",\"value\":1}, {\"answer\":0,\"text\":\"氨苯蝶啶\",\"value\":2}, {\"answer\":0,\"text\":\"双氢克尿噻\",\"value\":3}]",
+    "title": "治疗肾炎水肿时,下列哪一药不宜应用"
+  },
+  {
+    "id": 38436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2500ml\",\"value\":0}, {\"answer\":0,\"text\":\"1500ml\",\"value\":1}, {\"answer\":0,\"text\":\"500ml\",\"value\":2}, {\"answer\":0,\"text\":\"3000ml\",\"value\":3}]",
+    "title": "多尿是指成人24h尿量大于"
+  },
+  {
+    "id": 38369,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲泼尼龙冲击治疗\",\"value\":0}, {\"answer\":0,\"text\":\"长期隔日泼尼松30-40mg口服\",\"value\":1}, {\"answer\":0,\"text\":\"对症治疗\",\"value\":2}, {\"answer\":0,\"text\":\"隔日泼尼松30-40mg治疗3-6个月\",\"value\":3}]",
+    "title": "患者,男,36岁,临床诊断为急进性肾炎,适宜的治疗方法是"
+  },
+  {
+    "id": 38449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双侧肾间质\",\"value\":0}, {\"answer\":0,\"text\":\"单侧肾脏的肾小球\",\"value\":1}, {\"answer\":1,\"text\":\"双侧肾脏的肾小球\",\"value\":2}, {\"answer\":0,\"text\":\"双侧肾脏的肾小管\",\"value\":3}]",
+    "title": "慢性肾炎的主要病变部位是"
+  },
+  {
+    "id": 38190,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":0}, {\"answer\":0,\"text\":\"减少蛋白尿\",\"value\":1}, {\"answer\":0,\"text\":\"延缓慢性肾衰竭进展为终末期肾病\",\"value\":2}, {\"answer\":0,\"text\":\"不宜用于肾动脉狭窄患者\",\"value\":3}]",
+    "title": "有关血管紧张素转化酶抑制药用于治疗慢性肾衰竭的描述,下列哪项是错误的是"
+  },
+  {
+    "id": 38272,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥昔布宁\",\"value\":0}, {\"answer\":1,\"text\":\"坦索罗辛\",\"value\":1}, {\"answer\":0,\"text\":\"特拉唑嗪\",\"value\":2}, {\"answer\":0,\"text\":\"索利那新\",\"value\":3}]",
+    "title": "下列属于治疗前列腺增生症的高选择性α1A受体阻断剂的是"
+  },
+  {
+    "id": 38365,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性肾炎综合征伴有重度高血压\",\"value\":0}, {\"answer\":0,\"text\":\"肾病综合征伴有肾功能急剧恶化\",\"value\":1}, {\"answer\":0,\"text\":\"肾病综合征伴有重度高血压\",\"value\":2}, {\"answer\":1,\"text\":\"急性肾炎综合征伴有肾功能急剧恶化\",\"value\":3}]",
+    "title": "急进性肾小球肾炎的临床指征是"
+  },
+  {
+    "id": 38392,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"结节性肾小球硬化\",\"value\":0}, {\"answer\":0,\"text\":\"新月体肾小球肾炎\",\"value\":1}, {\"answer\":0,\"text\":\"渗出性病变\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫性肾小球硬化\",\"value\":3}]",
+    "title": "糖尿病肾病具有高度特异性的肾脏病理变化是"
+  },
+  {
+    "id": 38453,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾结核\",\"value\":0}, {\"answer\":1,\"text\":\"肾动脉狭窄\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂肾炎\",\"value\":2}, {\"answer\":0,\"text\":\"肾小球肾炎\",\"value\":3}]",
+    "title": "肾性高血压最常见的原因是"
+  },
+  {
+    "id": 38302,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血尿素氮骤升\",\"value\":0}, {\"answer\":0,\"text\":\"少尿\",\"value\":1}, {\"answer\":1,\"text\":\"血肌酐骤升\",\"value\":2}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":3}]",
+    "title": "诊断急性肾衰的最可靠的指标是"
+  },
+  {
+    "id": 38221,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿米卡星\",\"value\":0}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":2}, {\"answer\":0,\"text\":\"新霉素\",\"value\":3}]",
+    "title": "肾功能不全患者患有绿脓杆菌感染,可选用"
+  },
+  {
+    "id": 38281,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"派仑西平\",\"value\":0}, {\"answer\":1,\"text\":\"特拉唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"依立雄胺\",\"value\":2}, {\"answer\":0,\"text\":\"米多君\",\"value\":3}]",
+    "title": "下列哪个药物可以减轻前列腺张力和膀胱出口梗阻"
+  },
+  {
+    "id": 38358,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"浮肿、少尿、血尿、蛋白尿、高血压\",\"value\":0}, {\"answer\":0,\"text\":\"血尿、蛋白尿、高血压、高血脂\",\"value\":1}, {\"answer\":0,\"text\":\"浮肿、蛋白尿、高血压、高血糖\",\"value\":2}, {\"answer\":0,\"text\":\"血尿、蛋白尿、低蛋白血症\",\"value\":3}]",
+    "title": "急性肾炎最常见的临床表现"
+  },
+  {
+    "id": 38375,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"大量补液及碱化尿液\",\"value\":1}, {\"answer\":0,\"text\":\"限制蛋白质摄入\",\"value\":2}, {\"answer\":0,\"text\":\"限制水摄入\",\"value\":3}]",
+    "title": "患者,男,66岁,患有肺癌,应用CAP方案化疗第三天后突然出现少尿,肌酐146μmol/L,宜选用的治疗措施是"
+  },
+  {
+    "id": 38333,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"少尿24小时\",\"value\":0}, {\"answer\":0,\"text\":\"二氧化碳结合率很低\",\"value\":1}, {\"answer\":0,\"text\":\"血钾＜5.5mmol/L\",\"value\":2}, {\"answer\":1,\"text\":\"急性肺水肿\",\"value\":3}]",
+    "title": "下列哪种情况适合针对急性肾衰患者给予紧急透析治疗"
+  },
+  {
+    "id": 38421,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"等渗盐水\",\"value\":0}, {\"answer\":0,\"text\":\"氯化钾溶液\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄糖盐水\",\"value\":2}, {\"answer\":1,\"text\":\"葡萄糖盐水、氯化钾溶液\",\"value\":3}]",
+    "title": "患者,女,22岁,十二指肠溃疡所致幽门梗阻引起反复呕吐15天,血钾值为3mmol,动脉血pH7.5,首选补液种类应为"
+  },
+  {
+    "id": 38404,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钾性酸中毒\",\"value\":0}, {\"answer\":1,\"text\":\"低氯、低钾性碱中毒\",\"value\":1}, {\"answer\":0,\"text\":\"低氯、高钾性碱中毒\",\"value\":2}, {\"answer\":0,\"text\":\"低氯、低钾性酸中毒\",\"value\":3}]",
+    "title": "患者,男,46岁,腹胀呕吐已半年,多发于午后,吐出隔夜食物,吐后舒服,由于长期呕吐,除脱水外,还会造成"
+  },
+  {
+    "id": 38319,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"出现肾损伤\",\"value\":0}, {\"answer\":0,\"text\":\"出现大量蛋白尿\",\"value\":1}, {\"answer\":1,\"text\":\"出现微量白蛋白尿\",\"value\":2}, {\"answer\":0,\"text\":\"出现血尿\",\"value\":3}]",
+    "title": "ACEI/ARB治疗糖尿病肾损伤的治疗时间是"
+  },
+  {
+    "id": 38348,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期\",\"value\":0}, {\"answer\":0,\"text\":\"口服\",\"value\":1}, {\"answer\":0,\"text\":\"短期\",\"value\":2}, {\"answer\":0,\"text\":\"临时\",\"value\":3}]",
+    "title": "很多中药对肾脏有一定毒性和损害,尤其（）使用时应特别注意"
+  },
+  {
+    "id": 38259,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"继续用强的松原剂量\",\"value\":1}, {\"answer\":0,\"text\":\"使用地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"停用强的松\",\"value\":3}]",
+    "title": "患者,男,18岁,全身高度水肿,血浆清蛋白15g/L,血胆固醇10mmol/L,用强的松治疗一周,病情无好转,应采用"
+  },
+  {
+    "id": 38459,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"膀胱、肾盏、尿道的炎症\",\"value\":0}, {\"answer\":1,\"text\":\"肾盂、输尿管、膀胱、肾盏、尿道的炎症\",\"value\":1}, {\"answer\":0,\"text\":\"肾盂、输尿管、膀胱的炎症\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "尿路感染是指"
+  },
+  {
+    "id": 38370,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松\",\"value\":0}, {\"answer\":0,\"text\":\"抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":3}]",
+    "title": "患者,女,64岁,下肢水肿2年,伴气急,双肾体积大,双肾静脉主干有血栓,最合理的治疗药物是"
+  },
+  {
+    "id": 38424,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"20mmol\",\"value\":0}, {\"answer\":0,\"text\":\"30mmol\",\"value\":1}, {\"answer\":0,\"text\":\"40mmol\",\"value\":2}, {\"answer\":0,\"text\":\"60mmol\",\"value\":3}]",
+    "title": "严重情况补钾速度一般每小时不宜超过"
+  },
+  {
+    "id": 38463,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缓解尿路刺激症状\",\"value\":0}, {\"answer\":0,\"text\":\"增加水钠潴留\",\"value\":1}, {\"answer\":0,\"text\":\"增加食欲\",\"value\":2}, {\"answer\":0,\"text\":\"有助于消化\",\"value\":3}]",
+    "title": "慢性肾盂肾炎服用碳酸氢钠的好处是"
+  },
+  {
+    "id": 38229,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"防止或延缓肾功能衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"控制感染\",\"value\":1}, {\"answer\":0,\"text\":\"消除血尿\",\"value\":2}, {\"answer\":0,\"text\":\"消除蛋白尿\",\"value\":3}]",
+    "title": "慢性肾炎治疗的目的"
+  },
+  {
+    "id": 38238,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"消炎药\",\"value\":1}, {\"answer\":0,\"text\":\"输入清蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"血浆透析\",\"value\":3}]",
+    "title": "患者,男,45岁,肾病综合征,高度水肿,尿量400-500ml/d,持续两周,肌酐清除率为100ml/min,宜选用以下哪种药物治疗"
+  },
+  {
+    "id": 38217,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"阿昔洛韦\",\"value\":1}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":2}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":3}]",
+    "title": "须水化后使用,以降低肾小管坏死发生率的药物是"
+  },
+  {
+    "id": 38314,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"青春发育期青少年\",\"value\":0}, {\"answer\":0,\"text\":\"儿童\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "体位性蛋白尿常见于"
+  },
+  {
+    "id": 38303,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"输入高渗性葡萄糖\",\"value\":0}, {\"answer\":0,\"text\":\"输入碱剂\",\"value\":1}, {\"answer\":1,\"text\":\"实施血液透析\",\"value\":2}, {\"answer\":0,\"text\":\"输入胰岛素\",\"value\":3}]",
+    "title": "患有尿毒症高血钾患者最有效的治疗是"
+  },
+  {
+    "id": 38305,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钾树脂\",\"value\":0}, {\"answer\":0,\"text\":\"叶酸\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":2}, {\"answer\":1,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "慢性肾衰竭代谢性酸中毒宜选用"
+  },
+  {
+    "id": 38457,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":0,\"text\":\"血尿\",\"value\":1}, {\"answer\":0,\"text\":\"菌尿\",\"value\":2}, {\"answer\":0,\"text\":\"管型尿\",\"value\":3}]",
+    "title": "肾盂肾炎一般不出现"
+  },
+  {
+    "id": 38335,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"注射促红细胞生成素,并补充铁剂\",\"value\":0}, {\"answer\":0,\"text\":\"多次输入红细胞\",\"value\":1}, {\"answer\":0,\"text\":\"补充维生素B12\",\"value\":2}, {\"answer\":0,\"text\":\"口服叶酸\",\"value\":3}]",
+    "title": "慢性肾功能不全导致的肾性贫血合理的治疗方法是"
+  },
+  {
+    "id": 38201,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"卡铂\",\"value\":1}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":2}, {\"answer\":1,\"text\":\"阿昔洛韦\",\"value\":3}]",
+    "title": "下列药物当快速注射会析出结晶,导致急性肾衰竭的是"
+  },
+  {
+    "id": 38443,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尿毒症\",\"value\":0}, {\"answer\":0,\"text\":\"肾性高血压\",\"value\":1}, {\"answer\":0,\"text\":\"肾结石\",\"value\":2}, {\"answer\":0,\"text\":\"败血症\",\"value\":3}]",
+    "title": "慢性肾盂肾炎最严重的并发症是"
+  },
+  {
+    "id": 38465,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"静脉注射50%葡萄糖+胰岛素\",\"value\":0}, {\"answer\":1,\"text\":\"静脉注射10%葡萄酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"血透\",\"value\":2}, {\"answer\":1,\"text\":\"静脉注射5%碳酸氢钠\",\"value\":3}, {\"answer\":0,\"text\":\"静脉注射甘露醇\",\"value\":4}]",
+    "title": "紧急治疗高血钾的方法包括"
+  },
+  {
+    "id": 38207,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿米卡星\",\"value\":0}, {\"answer\":1,\"text\":\"多西环素\",\"value\":1}, {\"answer\":1,\"text\":\"阿奇霉索\",\"value\":2}, {\"answer\":1,\"text\":\"头孢哌酮\",\"value\":3}, {\"answer\":1,\"text\":\"阿莫西林\",\"value\":4}]",
+    "title": "肾功能减退的感染患者,可按常用剂量或略减剂量应用的药品有"
+  },
+  {
+    "id": 38397,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾病综合征\",\"value\":0}, {\"answer\":1,\"text\":\"肠梗阻、胰腺炎和烧伤等第三间歇丢失\",\"value\":1}, {\"answer\":1,\"text\":\"汗液丢失\",\"value\":2}, {\"answer\":1,\"text\":\"肾脏丢失,如使用利尿剂,盐皮质激素缺乏等\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":4}]",
+    "title": "低容量性低钠血症常见的病因包括"
+  },
+  {
+    "id": 38291,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"膀胱张力低下\",\"value\":0}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":1}, {\"answer\":0,\"text\":\"尿潴留\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺炎\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "良性前列腺增生进行药物治疗之前,应先排出的病症是"
+  },
+  {
+    "id": 38354,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"保护肾功能\",\"value\":0}, {\"answer\":1,\"text\":\"防止并发症\",\"value\":1}, {\"answer\":1,\"text\":\"改善症状\",\"value\":2}, {\"answer\":1,\"text\":\"控制高血压\",\"value\":3}, {\"answer\":1,\"text\":\"必要时应用头孢菌素控制感染\",\"value\":4}]",
+    "title": "下列关于慢性肾小球肾炎的治疗原则正确的是"
+  },
+  {
+    "id": 38368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"感染后肾小球肾炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发肾小球病基础上的急进性肾小球肾炎\",\"value\":1}, {\"answer\":1,\"text\":\"原发性小血管炎\",\"value\":2}, {\"answer\":1,\"text\":\"原发性急进性肾小球肾炎\",\"value\":3}, {\"answer\":1,\"text\":\"系统性红斑狼疮导致的急进性肾小球肾炎\",\"value\":4}]",
+    "title": "下列关于急进性肾小球肾炎病因叙述正确的是"
+  },
+  {
+    "id": 38233,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钠饮食\",\"value\":0}, {\"answer\":1,\"text\":\"噻嗪类利尿剂作为基本治疗药物\",\"value\":1}, {\"answer\":1,\"text\":\"可用钙通道阻滞剂\",\"value\":2}, {\"answer\":0,\"text\":\"血压降至150-160/90mmHg为宜\",\"value\":3}, {\"answer\":1,\"text\":\"可采用几种降压药联合应用\",\"value\":4}]",
+    "title": "关于慢性肾炎高血压治疗正确的是"
+  },
+  {
+    "id": 38467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"换用口服降压药后应立即停用静脉降压药物\",\"value\":0}, {\"answer\":0,\"text\":\"应用利尿剂减轻容量负荷,可常规联用\",\"value\":1}, {\"answer\":0,\"text\":\"合并高血压急症时应立即将血压降至安全水平\",\"value\":2}, {\"answer\":0,\"text\":\"合并肾衰竭患者不能使用硝普钠降压,避免氰化物中毒\",\"value\":3}, {\"answer\":1,\"text\":\"优先选用钙离子拮抗剂\",\"value\":4}]",
+    "title": "关于恶性高血压叙述不正确的是"
+  },
+  {
+    "id": 38185,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"根据感染的严重程度、病原菌种类及药敏试验选用无肾毒性或肾毒性低的抗菌药物\",\"value\":0}, {\"answer\":0,\"text\":\"主要经肾排泄的抗菌药物在肾功能减退者不可应用\",\"value\":1}, {\"answer\":1,\"text\":\"尽量避免使用肾毒性抗菌药物,确有应用指征时,必须调整给药方案\",\"value\":2}, {\"answer\":1,\"text\":\"主要由肝胆系统排泄或经肾脏和肝胆系统同时排出者,维持原治疗量或略减\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列关于肾功能减退患者抗菌药物的应用,正确的是"
+  },
+  {
+    "id": 38340,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"髓袢利尿剂和螺内酯联合治疗\",\"value\":0}, {\"answer\":1,\"text\":\"低盐饮食\",\"value\":1}, {\"answer\":1,\"text\":\"胶体液配合髓袢利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"环孢素A治疗\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "糖尿病肾病综合征可采用"
+  },
+  {
+    "id": 38427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"呼气有酮味\",\"value\":0}, {\"answer\":1,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"面部潮红\",\"value\":2}, {\"answer\":1,\"text\":\"呼吸深而快\",\"value\":3}, {\"answer\":1,\"text\":\"尿液呈酸性\",\"value\":4}]",
+    "title": "代谢性酸中毒的表现包括"
+  },
+  {
+    "id": 38188,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗组胺剂\",\"value\":0}, {\"answer\":1,\"text\":\"拟交感神经药\",\"value\":1}, {\"answer\":0,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"水杨酸类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "前列腺增大的患者不宜使用的药物是"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"房颤\",\"value\":1}, {\"answer\":0,\"text\":\"房扑\",\"value\":2}, {\"answer\":1,\"text\":\"室颤\",\"value\":3}]",
+    "title": "实例"
+  }
+]

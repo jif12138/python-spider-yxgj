@@ -1,0 +1,3272 @@
+[
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36679,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":1}, {\"answer\":1,\"text\":\"钙制剂\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素\",\"value\":3}]",
+    "title": "下列属于促进骨矿化剂的是"
+  },
+  {
+    "id": 36627,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吞噬功能升高\",\"value\":0}, {\"answer\":0,\"text\":\"促进白三烯B4的合成\",\"value\":1}, {\"answer\":1,\"text\":\"中性粒细胞迁移\",\"value\":2}, {\"answer\":0,\"text\":\"血红细胞数量降低\",\"value\":3}]",
+    "title": "秋水仙碱使用期间会导致"
+  },
+  {
+    "id": 36573,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病患者\",\"value\":0}, {\"answer\":1,\"text\":\"肝肾功能损害患者\",\"value\":1}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":2}, {\"answer\":0,\"text\":\"心功能不全患者\",\"value\":3}]",
+    "title": "哪类患者选用氯唑沙宗时应慎用"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36656,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钙冲剂\",\"value\":0}, {\"answer\":0,\"text\":\"无机钙\",\"value\":1}, {\"answer\":1,\"text\":\"有机钙\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "对胃肠机能差的可选择的钙剂是"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36585,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"一周\",\"value\":0}, {\"answer\":0,\"text\":\"一个月\",\"value\":1}, {\"answer\":1,\"text\":\"三个月\",\"value\":2}, {\"answer\":0,\"text\":\"半年\",\"value\":3}]",
+    "title": "依替膦酸钠在骨中半衰期可达"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36675,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利塞磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"伊班膦酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸二钠\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "下列哪一双磷酸盐类药物需在两餐间服用"
+  },
+  {
+    "id": 36587,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"骨化三醇\",\"value\":3}]",
+    "title": "以下不属于治疗骨质疏松症用药的是"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36600,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能不良者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":1}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"儿童\",\"value\":3}, {\"answer\":0,\"text\":\"老年人\",\"value\":4}]",
+    "title": "依替膦酸钠禁用于"
+  },
+  {
+    "id": 36611,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"促进降钙素分泌,增加肠钙的吸收\",\"value\":0}, {\"answer\":0,\"text\":\"抑制降钙素分泌,减少肠钙的吸收\",\"value\":1}, {\"answer\":1,\"text\":\"抑制PTH调节的骨吸收作用\",\"value\":2}, {\"answer\":0,\"text\":\"促进PTH调节的骨吸收作用\",\"value\":3}, {\"answer\":1,\"text\":\"作用于成骨细胞和破骨细胞的雌激素受体,促进破骨细胞凋亡\",\"value\":4}]",
+    "title": "雌激素防治绝经后骨质疏松症的机制包括"
+  },
+  {
+    "id": 36691,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "痛风急性发作期不宜使用的药物是"
+  },
+  {
+    "id": 36583,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"餐前\",\"value\":0}, {\"answer\":0,\"text\":\"餐后\",\"value\":1}, {\"answer\":0,\"text\":\"睡前\",\"value\":2}, {\"answer\":1,\"text\":\"餐后两小时\",\"value\":3}, {\"answer\":0,\"text\":\"睡前一小时\",\"value\":4}]",
+    "title": "服用依替膦酸钠的时间段为"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36685,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱治疗急性痛风性关节炎\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇是抑制尿酸合成的药物\",\"value\":1}, {\"answer\":1,\"text\":\"塞来昔布用于骨关节炎、类风湿性关节炎的治疗\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱可降低血中尿酸,对慢性痛风效果较佳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列叙述正确的是"
+  },
+  {
+    "id": 36623,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头痛\",\"value\":0}, {\"answer\":0,\"text\":\"精神失常\",\"value\":1}, {\"answer\":1,\"text\":\"皮肤红斑\",\"value\":2}, {\"answer\":1,\"text\":\"皮疹\",\"value\":3}, {\"answer\":1,\"text\":\"胃肠道功能紊乱\",\"value\":4}]",
+    "title": "双氯芬酸钠的不良发应有"
+  },
+  {
+    "id": 36637,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "布洛芬口服吸收完全,血浆半衰期为"
+  },
+  {
+    "id": 36703,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"塞来昔布\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸\",\"value\":3}]",
+    "title": "以下非甾体抗炎药中,胃肠道损害相对较大的是"
+  },
+  {
+    "id": 36681,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"鲑鱼降钙素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"甲状旁腺素\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "可用于缓解骨痛的药物是"
+  },
+  {
+    "id": 36582,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食物\",\"value\":0}, {\"answer\":0,\"text\":\"钾离子\",\"value\":1}, {\"answer\":0,\"text\":\"钠离子\",\"value\":2}, {\"answer\":0,\"text\":\"镁离子\",\"value\":3}]",
+    "title": "可影响依替膦酸钠吸收效率的有"
+  },
+  {
+    "id": 36674,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"别嘌醇\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "尿酸生成过多的高尿酸血症首选的治疗药物是"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36608,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":0,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"防治绝经后骨质疏松症\",\"value\":2}, {\"answer\":0,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":3}]",
+    "title": "利塞膦酸钠主要用于"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36621,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"提高地高辛血药浓度\",\"value\":0}, {\"answer\":0,\"text\":\"降低地高辛血药浓度\",\"value\":1}, {\"answer\":0,\"text\":\"对地高辛血药浓度无影响\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "双氯芬酸钠与地高辛联合用药,会导致"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36672,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"非布索坦\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "患者,男,50岁,2周前痛风急性发作,治疗后病情缓解,后期针对其痛风治疗不宜选用"
+  },
+  {
+    "id": 36570,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"逐渐减量,直至停药\",\"value\":0}, {\"answer\":0,\"text\":\"使用其他药物进行联合治疗\",\"value\":1}, {\"answer\":1,\"text\":\"停药即可\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗出现不良反应后,若想消除不良反应需"
+  },
+  {
+    "id": 36654,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":0,\"text\":\"阿伦磷酸盐\",\"value\":2}, {\"answer\":0,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "下列抗骨质疏松药属于选择性雌激素受体调节剂的是"
+  },
+  {
+    "id": 36691,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "痛风急性发作期不宜使用的药物是"
+  },
+  {
+    "id": 36603,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"继发性骨质疏松症\",\"value\":2}, {\"answer\":1,\"text\":\"骨肿瘤引起的骨痛\",\"value\":3}, {\"answer\":1,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":4}]",
+    "title": "帕米磷酸钠可用于治疗"
+  },
+  {
+    "id": 36705,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"关节腔注射,1年内不宜超过5次\",\"value\":0}, {\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":2}, {\"answer\":1,\"text\":\"短期使用\",\"value\":3}, {\"answer\":1,\"text\":\"密切监测血压及血糖变化\",\"value\":4}]",
+    "title": "类风湿关节炎的糖皮质激素治疗,正确的为"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36701,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多有外伤史\",\"value\":0}, {\"answer\":1,\"text\":\"疼痛\",\"value\":1}, {\"answer\":1,\"text\":\"膝关节弹响\",\"value\":2}, {\"answer\":1,\"text\":\"膝关节交索现象\",\"value\":3}, {\"answer\":0,\"text\":\"无异常\",\"value\":4}]",
+    "title": "膝关节半月板损伤的表现有"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36688,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"剂量个化\",\"value\":0}, {\"answer\":1,\"text\":\"尽量使用最低有效剂量\",\"value\":1}, {\"answer\":1,\"text\":\"用药3个月,检查肝肾功能\",\"value\":2}, {\"answer\":0,\"text\":\"为实现镇痛作用,尽量使用负荷剂量\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "全身应用非甾体抗炎药治疗骨性关节炎的原则是"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36681,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"鲑鱼降钙素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"甲状旁腺素\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "可用于缓解骨痛的药物是"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36646,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尼美舒利\",\"value\":0}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "属于非选择性环氧酶抑制剂的药物是"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36642,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺栓塞\",\"value\":0}, {\"answer\":0,\"text\":\"术后血栓形成\",\"value\":1}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"心肌梗死\",\"value\":3}]",
+    "title": "使用大剂量的阿司匹林可用于"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36693,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不参与钙及骨质代谢\",\"value\":0}, {\"answer\":0,\"text\":\"属多链多肽类激素\",\"value\":1}, {\"answer\":0,\"text\":\"从甲状腺β细胞分泌\",\"value\":2}, {\"answer\":1,\"text\":\"临床应用的均为鱼降钙素\",\"value\":3}]",
+    "title": "对降钙素的正确描述是"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36628,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"40%-50%\",\"value\":0}, {\"answer\":0,\"text\":\"50-60%\",\"value\":1}, {\"answer\":0,\"text\":\"70-80%\",\"value\":2}, {\"answer\":1,\"text\":\"85-95%\",\"value\":3}]",
+    "title": "丙磺舒口服吸收完全,血浆蛋白结合率为"
+  },
+  {
+    "id": 36594,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝功能不全者\",\"value\":0}, {\"answer\":0,\"text\":\"心功能不全者\",\"value\":1}, {\"answer\":1,\"text\":\"肾功能不全者\",\"value\":2}, {\"answer\":0,\"text\":\"肝硬化患者\",\"value\":3}]",
+    "title": "依替膦酸钠的禁用人群有"
+  },
+  {
+    "id": 36574,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"中枢神经肌肉松弛剂\",\"value\":0}, {\"answer\":0,\"text\":\"外周神经肌肉松弛剂\",\"value\":1}, {\"answer\":0,\"text\":\"非神经性肌肉松弛剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗属于"
+  },
+  {
+    "id": 36706,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"强直性脊柱炎\",\"value\":0}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"类风湿关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"系统性红斑狼疮\",\"value\":3}]",
+    "title": "女,70岁,双手远端指间关节肿痛,以一侧凸出较明显。ESR：15 mm／h,CRP：5 mg／L,RF(-)。该患者最可能的诊断是"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36568,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性软组织挫伤\",\"value\":0}, {\"answer\":1,\"text\":\"慢性软组织扭伤\",\"value\":1}, {\"answer\":1,\"text\":\"中枢神经病变引起的肌肉痉挛\",\"value\":2}, {\"answer\":1,\"text\":\"慢性筋膜炎\",\"value\":3}, {\"answer\":0,\"text\":\"神经骨痛\",\"value\":4}]",
+    "title": "氯唑沙宗的适应症有哪些"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36583,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"餐前\",\"value\":0}, {\"answer\":0,\"text\":\"餐后\",\"value\":1}, {\"answer\":0,\"text\":\"睡前\",\"value\":2}, {\"answer\":1,\"text\":\"餐后两小时\",\"value\":3}, {\"answer\":0,\"text\":\"睡前一小时\",\"value\":4}]",
+    "title": "服用依替膦酸钠的时间段为"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36614,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲状腺素\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"螺内酯\",\"value\":3}]",
+    "title": "可用于治疗骨质疏松症的药物是"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36660,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,女,29岁,4年来全身各大小关节疼痛,活动后减轻,临床诊断为类风湿性关节炎,该患者首选的药物是"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36693,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不参与钙及骨质代谢\",\"value\":0}, {\"answer\":0,\"text\":\"属多链多肽类激素\",\"value\":1}, {\"answer\":0,\"text\":\"从甲状腺β细胞分泌\",\"value\":2}, {\"answer\":1,\"text\":\"临床应用的均为鱼降钙素\",\"value\":3}]",
+    "title": "对降钙素的正确描述是"
+  },
+  {
+    "id": 36710,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"羟氯喹\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"CTX\",\"value\":3}]",
+    "title": "患者,女性,26岁,因双膝关节肿痛半年,发热伴面部红斑2周就诊。体检：体温38.0℃,面部红斑,口腔黏膜有溃疡,肝脾不肿大,双膝关节肿胀,有压痛。尿液检查蛋白(+),ANA(+),抗Sm抗体(+),确诊为SLE。首选治疗药是"
+  },
+  {
+    "id": 36676,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"双氯芬酸钠\",\"value\":3}]",
+    "title": "痛风缓解期宜选用"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36675,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利塞磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"伊班膦酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸二钠\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "下列哪一双磷酸盐类药物需在两餐间服用"
+  },
+  {
+    "id": 36589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "长期服用钙剂会导致"
+  },
+  {
+    "id": 36712,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非甾体抗炎药+甲氨蝶呤+SASP\",\"value\":0}, {\"answer\":0,\"text\":\"非甾体抗炎药+糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体抗炎药+硫唑嘌呤\",\"value\":2}, {\"answer\":0,\"text\":\"非甾体抗炎药\",\"value\":3}]",
+    "title": "一中年女性,因手指、掌指、腕关节肿痛和僵硬半年,ESR 80mm/H,RF500IU,抗CCP抗体120U,X片示腕关节骨质疏松,有囊性变。该病人选择的最佳治疗方案是"
+  },
+  {
+    "id": 36709,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":3}]",
+    "title": "常用的免疫抑制剂不包括"
+  },
+  {
+    "id": 36664,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":0}, {\"answer\":1,\"text\":\"地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"甲钴胺片\",\"value\":2}, {\"answer\":0,\"text\":\"乙哌立松片\",\"value\":3}]",
+    "title": "不推荐使用的治疗腰间盘突出症的治疗药物是"
+  },
+  {
+    "id": 36591,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨痛\",\"value\":0}, {\"answer\":0,\"text\":\"骨软化\",\"value\":1}, {\"answer\":1,\"text\":\"骨裂\",\"value\":2}, {\"answer\":0,\"text\":\"骨折\",\"value\":3}]",
+    "title": "以下不属于骨矿化受损表现的是"
+  },
+  {
+    "id": 36656,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钙冲剂\",\"value\":0}, {\"answer\":0,\"text\":\"无机钙\",\"value\":1}, {\"answer\":1,\"text\":\"有机钙\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "对胃肠机能差的可选择的钙剂是"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36640,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"水杨酸反应\",\"value\":1}, {\"answer\":1,\"text\":\"过敏性反应\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林哮喘\",\"value\":3}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":4}]",
+    "title": "阿司匹林的不良反应有"
+  },
+  {
+    "id": 36601,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":1,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":1,\"text\":\"孕妇\",\"value\":2}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":3}, {\"answer\":0,\"text\":\"绝经后妇女\",\"value\":4}]",
+    "title": "阿仑膦酸钠禁用于"
+  },
+  {
+    "id": 36595,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮肤瘙痒\",\"value\":0}, {\"answer\":1,\"text\":\"过敏性皮疹\",\"value\":1}, {\"answer\":0,\"text\":\"头痛\",\"value\":2}, {\"answer\":0,\"text\":\"腹泻\",\"value\":3}, {\"answer\":1,\"text\":\"发生骨折\",\"value\":4}]",
+    "title": "服用依替膦酸钠时出现哪些症状需停药"
+  },
+  {
+    "id": 36630,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水样腹泻\",\"value\":0}, {\"answer\":1,\"text\":\"血便\",\"value\":1}, {\"answer\":0,\"text\":\"哮喘\",\"value\":2}, {\"answer\":1,\"text\":\"脱水\",\"value\":3}, {\"answer\":1,\"text\":\"休克\",\"value\":4}]",
+    "title": "以下属于秋水仙碱不良反应的是"
+  },
+  {
+    "id": 36570,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"逐渐减量,直至停药\",\"value\":0}, {\"answer\":0,\"text\":\"使用其他药物进行联合治疗\",\"value\":1}, {\"answer\":1,\"text\":\"停药即可\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗出现不良反应后,若想消除不良反应需"
+  },
+  {
+    "id": 36672,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"非布索坦\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "患者,男,50岁,2周前痛风急性发作,治疗后病情缓解,后期针对其痛风治疗不宜选用"
+  },
+  {
+    "id": 36679,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":1}, {\"answer\":1,\"text\":\"钙制剂\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素\",\"value\":3}]",
+    "title": "下列属于促进骨矿化剂的是"
+  },
+  {
+    "id": 36706,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"强直性脊柱炎\",\"value\":0}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"类风湿关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"系统性红斑狼疮\",\"value\":3}]",
+    "title": "女,70岁,双手远端指间关节肿痛,以一侧凸出较明显。ESR：15 mm／h,CRP：5 mg／L,RF(-)。该患者最可能的诊断是"
+  },
+  {
+    "id": 36610,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症患者\",\"value\":0}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症患者\",\"value\":2}, {\"answer\":1,\"text\":\"低钙血症患者\",\"value\":3}]",
+    "title": "利塞膦酸钠禁用于"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36717,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯妥英钠\",\"value\":0}, {\"answer\":0,\"text\":\"阿斯匹林\",\"value\":1}, {\"answer\":1,\"text\":\"美洛昔康\",\"value\":2}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":3}]",
+    "title": "可长期用于类风湿性关节炎治疗的药物是"
+  },
+  {
+    "id": 36665,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"甲钴胺片\",\"value\":3}]",
+    "title": "类风湿性关节炎不被推荐使用的药物是"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36608,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":0,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"防治绝经后骨质疏松症\",\"value\":2}, {\"answer\":0,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":3}]",
+    "title": "利塞膦酸钠主要用于"
+  },
+  {
+    "id": 36662,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丙磺舒\",\"value\":0}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":3}]",
+    "title": "主要用于治疗风湿性和类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36695,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不引起胃肠道反应\",\"value\":0}, {\"answer\":0,\"text\":\"易于吸收\",\"value\":1}, {\"answer\":1,\"text\":\"含钙量高\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "钙剂中,无机钙的优点是"
+  },
+  {
+    "id": 36589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "长期服用钙剂会导致"
+  },
+  {
+    "id": 36703,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"塞来昔布\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸\",\"value\":3}]",
+    "title": "以下非甾体抗炎药中,胃肠道损害相对较大的是"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36635,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性痛风\",\"value\":0}, {\"answer\":1,\"text\":\"急性痛风\",\"value\":1}, {\"answer\":0,\"text\":\"原发性高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"继发性高尿酸血症\",\"value\":3}]",
+    "title": "不属于苯溴马隆的临床适应症是"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36630,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水样腹泻\",\"value\":0}, {\"answer\":1,\"text\":\"血便\",\"value\":1}, {\"answer\":0,\"text\":\"哮喘\",\"value\":2}, {\"answer\":1,\"text\":\"脱水\",\"value\":3}, {\"answer\":1,\"text\":\"休克\",\"value\":4}]",
+    "title": "以下属于秋水仙碱不良反应的是"
+  },
+  {
+    "id": 36705,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"关节腔注射,1年内不宜超过5次\",\"value\":0}, {\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":2}, {\"answer\":1,\"text\":\"短期使用\",\"value\":3}, {\"answer\":1,\"text\":\"密切监测血压及血糖变化\",\"value\":4}]",
+    "title": "类风湿关节炎的糖皮质激素治疗,正确的为"
+  },
+  {
+    "id": 36685,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱治疗急性痛风性关节炎\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇是抑制尿酸合成的药物\",\"value\":1}, {\"answer\":1,\"text\":\"塞来昔布用于骨关节炎、类风湿性关节炎的治疗\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱可降低血中尿酸,对慢性痛风效果较佳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列叙述正确的是"
+  },
+  {
+    "id": 36601,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":1,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":1,\"text\":\"孕妇\",\"value\":2}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":3}, {\"answer\":0,\"text\":\"绝经后妇女\",\"value\":4}]",
+    "title": "阿仑膦酸钠禁用于"
+  },
+  {
+    "id": 36640,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"水杨酸反应\",\"value\":1}, {\"answer\":1,\"text\":\"过敏性反应\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林哮喘\",\"value\":3}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":4}]",
+    "title": "阿司匹林的不良反应有"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36682,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双醋瑞因胶囊\",\"value\":0}, {\"answer\":0,\"text\":\"氨基葡萄糖胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":2}, {\"answer\":1,\"text\":\"甲强龙片\",\"value\":3}]",
+    "title": "不推荐使用的治疗骨关节炎的全身治疗的药物是"
+  },
+  {
+    "id": 36683,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体疗加内服药物\",\"value\":0}, {\"answer\":1,\"text\":\"醋酸强的松龙局部封闭\",\"value\":1}, {\"answer\":0,\"text\":\"伤湿止痛膏局部贴敷\",\"value\":2}, {\"answer\":0,\"text\":\"理疗\",\"value\":3}]",
+    "title": "狭窄性腱鞘炎治疗效果较好的是"
+  },
+  {
+    "id": 36573,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病患者\",\"value\":0}, {\"answer\":1,\"text\":\"肝肾功能损害患者\",\"value\":1}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":2}, {\"answer\":0,\"text\":\"心功能不全患者\",\"value\":3}]",
+    "title": "哪类患者选用氯唑沙宗时应慎用"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36693,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不参与钙及骨质代谢\",\"value\":0}, {\"answer\":0,\"text\":\"属多链多肽类激素\",\"value\":1}, {\"answer\":0,\"text\":\"从甲状腺β细胞分泌\",\"value\":2}, {\"answer\":1,\"text\":\"临床应用的均为鱼降钙素\",\"value\":3}]",
+    "title": "对降钙素的正确描述是"
+  },
+  {
+    "id": 36671,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "患者,男,78岁,临床诊断为老年性骨质疏松症,该患者不宜选用的药物是"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36633,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"促进肾近曲小管对尿酸的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸合成\",\"value\":1}, {\"answer\":1,\"text\":\"促进尿酸排泄\",\"value\":2}, {\"answer\":0,\"text\":\"升高血中尿酸浓度\",\"value\":3}]",
+    "title": "苯溴马隆抗痛风的药理作用是"
+  },
+  {
+    "id": 36629,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性痛风性关节炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性痛风性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"肩周炎\",\"value\":2}, {\"answer\":0,\"text\":\"风湿性关节炎\",\"value\":3}]",
+    "title": "秋水仙碱的适应症为"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36599,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":1,\"text\":\"绝经后妇女\",\"value\":3}]",
+    "title": "下列不属于阿仑膦酸钠禁忌人群的是"
+  },
+  {
+    "id": 36596,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钠进食\",\"value\":0}, {\"answer\":1,\"text\":\"高钙进食\",\"value\":1}, {\"answer\":0,\"text\":\"低钠进食\",\"value\":2}, {\"answer\":0,\"text\":\"低钙进食\",\"value\":3}]",
+    "title": "服用依替膦酸钠2小时内应避免"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36677,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"老年性骨质疏松\",\"value\":0}, {\"answer\":1,\"text\":\"妇女绝经后骨质疏松\",\"value\":1}, {\"answer\":0,\"text\":\"原发性骨质疏松\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "钙制剂、雌激素、维生素D联合用药,用于治疗"
+  },
+  {
+    "id": 36717,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯妥英钠\",\"value\":0}, {\"answer\":0,\"text\":\"阿斯匹林\",\"value\":1}, {\"answer\":1,\"text\":\"美洛昔康\",\"value\":2}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":3}]",
+    "title": "可长期用于类风湿性关节炎治疗的药物是"
+  },
+  {
+    "id": 36623,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头痛\",\"value\":0}, {\"answer\":0,\"text\":\"精神失常\",\"value\":1}, {\"answer\":1,\"text\":\"皮肤红斑\",\"value\":2}, {\"answer\":1,\"text\":\"皮疹\",\"value\":3}, {\"answer\":1,\"text\":\"胃肠道功能紊乱\",\"value\":4}]",
+    "title": "双氯芬酸钠的不良发应有"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36595,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮肤瘙痒\",\"value\":0}, {\"answer\":1,\"text\":\"过敏性皮疹\",\"value\":1}, {\"answer\":0,\"text\":\"头痛\",\"value\":2}, {\"answer\":0,\"text\":\"腹泻\",\"value\":3}, {\"answer\":1,\"text\":\"发生骨折\",\"value\":4}]",
+    "title": "服用依替膦酸钠时出现哪些症状需停药"
+  },
+  {
+    "id": 36601,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":1,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":1,\"text\":\"孕妇\",\"value\":2}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":3}, {\"answer\":0,\"text\":\"绝经后妇女\",\"value\":4}]",
+    "title": "阿仑膦酸钠禁用于"
+  },
+  {
+    "id": 36626,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":1,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":0,\"text\":\"来氟米特\",\"value\":3}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":4}]",
+    "title": "以下属于抗痛风药的是"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36598,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"餐前服药,保持立位或坐位30分钟\",\"value\":0}, {\"answer\":0,\"text\":\"餐后服药,保持立位或坐位30分钟\",\"value\":1}, {\"answer\":1,\"text\":\"服药时饮水300ml,保持立位或坐位30分钟\",\"value\":2}, {\"answer\":0,\"text\":\"服药30分钟后,饮用清水300ml\",\"value\":3}]",
+    "title": "服用阿仑膦酸钠时,为防止溃疡性食管炎发生,正确做法是"
+  },
+  {
+    "id": 36639,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2小时\",\"value\":0}, {\"answer\":0,\"text\":\"4小时\",\"value\":1}, {\"answer\":1,\"text\":\"6小时\",\"value\":2}, {\"answer\":0,\"text\":\"8小时\",\"value\":3}]",
+    "title": "氟比洛芬口服吸收良好,其血浆半衰期为"
+  },
+  {
+    "id": 36628,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"40%-50%\",\"value\":0}, {\"answer\":0,\"text\":\"50-60%\",\"value\":1}, {\"answer\":0,\"text\":\"70-80%\",\"value\":2}, {\"answer\":1,\"text\":\"85-95%\",\"value\":3}]",
+    "title": "丙磺舒口服吸收完全,血浆蛋白结合率为"
+  },
+  {
+    "id": 36654,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":0,\"text\":\"阿伦磷酸盐\",\"value\":2}, {\"answer\":0,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "下列抗骨质疏松药属于选择性雌激素受体调节剂的是"
+  },
+  {
+    "id": 36681,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"鲑鱼降钙素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"甲状旁腺素\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "可用于缓解骨痛的药物是"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36671,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "患者,男,78岁,临床诊断为老年性骨质疏松症,该患者不宜选用的药物是"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36585,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"一周\",\"value\":0}, {\"answer\":0,\"text\":\"一个月\",\"value\":1}, {\"answer\":1,\"text\":\"三个月\",\"value\":2}, {\"answer\":0,\"text\":\"半年\",\"value\":3}]",
+    "title": "依替膦酸钠在骨中半衰期可达"
+  },
+  {
+    "id": 36593,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":0}, {\"answer\":0,\"text\":\"帕米磷酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"唑来膦酸钠\",\"value\":3}]",
+    "title": "双膦酸盐类药物中可导致骨软化的是"
+  },
+  {
+    "id": 36606,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌激素\",\"value\":0}, {\"answer\":1,\"text\":\"唑来磷酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"替勃龙\",\"value\":3}]",
+    "title": "可引起“流感样症状”的药物是"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36573,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病患者\",\"value\":0}, {\"answer\":1,\"text\":\"肝肾功能损害患者\",\"value\":1}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":2}, {\"answer\":0,\"text\":\"心功能不全患者\",\"value\":3}]",
+    "title": "哪类患者选用氯唑沙宗时应慎用"
+  },
+  {
+    "id": 36674,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"别嘌醇\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "尿酸生成过多的高尿酸血症首选的治疗药物是"
+  },
+  {
+    "id": 36587,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"骨化三醇\",\"value\":3}]",
+    "title": "以下不属于治疗骨质疏松症用药的是"
+  },
+  {
+    "id": 36672,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"非布索坦\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "患者,男,50岁,2周前痛风急性发作,治疗后病情缓解,后期针对其痛风治疗不宜选用"
+  },
+  {
+    "id": 36682,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双醋瑞因胶囊\",\"value\":0}, {\"answer\":0,\"text\":\"氨基葡萄糖胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":2}, {\"answer\":1,\"text\":\"甲强龙片\",\"value\":3}]",
+    "title": "不推荐使用的治疗骨关节炎的全身治疗的药物是"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36600,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能不良者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":1}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"儿童\",\"value\":3}, {\"answer\":0,\"text\":\"老年人\",\"value\":4}]",
+    "title": "依替膦酸钠禁用于"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36650,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风慢性期应长期使用的促尿酸排泄药是"
+  },
+  {
+    "id": 36657,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "用于治疗痛风性关节炎的急性发作、预防复发性痛风性关节炎急性发作的药物是"
+  },
+  {
+    "id": 36589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "长期服用钙剂会导致"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36662,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丙磺舒\",\"value\":0}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":3}]",
+    "title": "主要用于治疗风湿性和类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36706,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"强直性脊柱炎\",\"value\":0}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"类风湿关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"系统性红斑狼疮\",\"value\":3}]",
+    "title": "女,70岁,双手远端指间关节肿痛,以一侧凸出较明显。ESR：15 mm／h,CRP：5 mg／L,RF(-)。该患者最可能的诊断是"
+  },
+  {
+    "id": 36635,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性痛风\",\"value\":0}, {\"answer\":1,\"text\":\"急性痛风\",\"value\":1}, {\"answer\":0,\"text\":\"原发性高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"继发性高尿酸血症\",\"value\":3}]",
+    "title": "不属于苯溴马隆的临床适应症是"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36606,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌激素\",\"value\":0}, {\"answer\":1,\"text\":\"唑来磷酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"替勃龙\",\"value\":3}]",
+    "title": "可引起“流感样症状”的药物是"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36639,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2小时\",\"value\":0}, {\"answer\":0,\"text\":\"4小时\",\"value\":1}, {\"answer\":1,\"text\":\"6小时\",\"value\":2}, {\"answer\":0,\"text\":\"8小时\",\"value\":3}]",
+    "title": "氟比洛芬口服吸收良好,其血浆半衰期为"
+  },
+  {
+    "id": 36615,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌类药物\",\"value\":0}, {\"answer\":1,\"text\":\"非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"甾体抗炎药\",\"value\":2}, {\"answer\":0,\"text\":\"激素类药物\",\"value\":3}]",
+    "title": "双氯芬酸钠属于"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36683,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体疗加内服药物\",\"value\":0}, {\"answer\":1,\"text\":\"醋酸强的松龙局部封闭\",\"value\":1}, {\"answer\":0,\"text\":\"伤湿止痛膏局部贴敷\",\"value\":2}, {\"answer\":0,\"text\":\"理疗\",\"value\":3}]",
+    "title": "狭窄性腱鞘炎治疗效果较好的是"
+  },
+  {
+    "id": 36591,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨痛\",\"value\":0}, {\"answer\":0,\"text\":\"骨软化\",\"value\":1}, {\"answer\":1,\"text\":\"骨裂\",\"value\":2}, {\"answer\":0,\"text\":\"骨折\",\"value\":3}]",
+    "title": "以下不属于骨矿化受损表现的是"
+  },
+  {
+    "id": 36603,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"继发性骨质疏松症\",\"value\":2}, {\"answer\":1,\"text\":\"骨肿瘤引起的骨痛\",\"value\":3}, {\"answer\":1,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":4}]",
+    "title": "帕米磷酸钠可用于治疗"
+  },
+  {
+    "id": 36623,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头痛\",\"value\":0}, {\"answer\":0,\"text\":\"精神失常\",\"value\":1}, {\"answer\":1,\"text\":\"皮肤红斑\",\"value\":2}, {\"answer\":1,\"text\":\"皮疹\",\"value\":3}, {\"answer\":1,\"text\":\"胃肠道功能紊乱\",\"value\":4}]",
+    "title": "双氯芬酸钠的不良发应有"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36662,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丙磺舒\",\"value\":0}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":3}]",
+    "title": "主要用于治疗风湿性和类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36707,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"近端指间关节肿胀\",\"value\":0}, {\"answer\":1,\"text\":\"远端指间关节肿胀\",\"value\":1}, {\"answer\":0,\"text\":\"掌指关节肿胀\",\"value\":2}, {\"answer\":0,\"text\":\"腕关节肿胀\",\"value\":3}]",
+    "title": "不属于类风湿关节炎的临床特征的一项是"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36674,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"别嘌醇\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "尿酸生成过多的高尿酸血症首选的治疗药物是"
+  },
+  {
+    "id": 36695,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不引起胃肠道反应\",\"value\":0}, {\"answer\":0,\"text\":\"易于吸收\",\"value\":1}, {\"answer\":1,\"text\":\"含钙量高\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "钙剂中,无机钙的优点是"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36664,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":0}, {\"answer\":1,\"text\":\"地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"甲钴胺片\",\"value\":2}, {\"answer\":0,\"text\":\"乙哌立松片\",\"value\":3}]",
+    "title": "不推荐使用的治疗腰间盘突出症的治疗药物是"
+  },
+  {
+    "id": 36602,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1年以上\",\"value\":0}, {\"answer\":0,\"text\":\"3年以上\",\"value\":1}, {\"answer\":0,\"text\":\"5年以上\",\"value\":2}, {\"answer\":1,\"text\":\"10年以上\",\"value\":3}]",
+    "title": "阿仑膦酸钠的骨中消除半衰期约为"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36598,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"餐前服药,保持立位或坐位30分钟\",\"value\":0}, {\"answer\":0,\"text\":\"餐后服药,保持立位或坐位30分钟\",\"value\":1}, {\"answer\":1,\"text\":\"服药时饮水300ml,保持立位或坐位30分钟\",\"value\":2}, {\"answer\":0,\"text\":\"服药30分钟后,饮用清水300ml\",\"value\":3}]",
+    "title": "服用阿仑膦酸钠时,为防止溃疡性食管炎发生,正确做法是"
+  },
+  {
+    "id": 36627,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吞噬功能升高\",\"value\":0}, {\"answer\":0,\"text\":\"促进白三烯B4的合成\",\"value\":1}, {\"answer\":1,\"text\":\"中性粒细胞迁移\",\"value\":2}, {\"answer\":0,\"text\":\"血红细胞数量降低\",\"value\":3}]",
+    "title": "秋水仙碱使用期间会导致"
+  },
+  {
+    "id": 36675,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利塞磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"伊班膦酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸二钠\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "下列哪一双磷酸盐类药物需在两餐间服用"
+  },
+  {
+    "id": 36570,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"逐渐减量,直至停药\",\"value\":0}, {\"answer\":0,\"text\":\"使用其他药物进行联合治疗\",\"value\":1}, {\"answer\":1,\"text\":\"停药即可\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗出现不良反应后,若想消除不良反应需"
+  },
+  {
+    "id": 36577,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"婴幼儿\",\"value\":0}, {\"answer\":1,\"text\":\"儿童及青少年\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "骨与关节结核好发年龄"
+  },
+  {
+    "id": 36591,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨痛\",\"value\":0}, {\"answer\":0,\"text\":\"骨软化\",\"value\":1}, {\"answer\":1,\"text\":\"骨裂\",\"value\":2}, {\"answer\":0,\"text\":\"骨折\",\"value\":3}]",
+    "title": "以下不属于骨矿化受损表现的是"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36643,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制血小板聚集\",\"value\":0}, {\"answer\":0,\"text\":\"儿童易引起瑞夷综合征\",\"value\":1}, {\"answer\":1,\"text\":\"中毒时应酸化尿液,促进排泄\",\"value\":2}, {\"answer\":0,\"text\":\"会引起胃出血\",\"value\":3}]",
+    "title": "以下关于阿司匹林说法有误的是"
+  },
+  {
+    "id": 36623,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头痛\",\"value\":0}, {\"answer\":0,\"text\":\"精神失常\",\"value\":1}, {\"answer\":1,\"text\":\"皮肤红斑\",\"value\":2}, {\"answer\":1,\"text\":\"皮疹\",\"value\":3}, {\"answer\":1,\"text\":\"胃肠道功能紊乱\",\"value\":4}]",
+    "title": "双氯芬酸钠的不良发应有"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36568,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性软组织挫伤\",\"value\":0}, {\"answer\":1,\"text\":\"慢性软组织扭伤\",\"value\":1}, {\"answer\":1,\"text\":\"中枢神经病变引起的肌肉痉挛\",\"value\":2}, {\"answer\":1,\"text\":\"慢性筋膜炎\",\"value\":3}, {\"answer\":0,\"text\":\"神经骨痛\",\"value\":4}]",
+    "title": "氯唑沙宗的适应症有哪些"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36586,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"适量钙剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素C\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"降钙素\",\"value\":3}, {\"answer\":1,\"text\":\"适量碳酸钙\",\"value\":4}]",
+    "title": "依替膦酸钠停药期间需补充"
+  },
+  {
+    "id": 36716,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"塞来昔布胶囊\",\"value\":1}, {\"answer\":1,\"text\":\"秋水仙碱片\",\"value\":2}, {\"answer\":1,\"text\":\"依托考昔片\",\"value\":3}, {\"answer\":1,\"text\":\"泼尼松片\",\"value\":4}]",
+    "title": "下列药物能用于痛风急性期抗炎治疗的有"
+  },
+  {
+    "id": 36583,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"餐前\",\"value\":0}, {\"answer\":0,\"text\":\"餐后\",\"value\":1}, {\"answer\":0,\"text\":\"睡前\",\"value\":2}, {\"answer\":1,\"text\":\"餐后两小时\",\"value\":3}, {\"answer\":0,\"text\":\"睡前一小时\",\"value\":4}]",
+    "title": "服用依替膦酸钠的时间段为"
+  },
+  {
+    "id": 36628,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"40%-50%\",\"value\":0}, {\"answer\":0,\"text\":\"50-60%\",\"value\":1}, {\"answer\":0,\"text\":\"70-80%\",\"value\":2}, {\"answer\":1,\"text\":\"85-95%\",\"value\":3}]",
+    "title": "丙磺舒口服吸收完全,血浆蛋白结合率为"
+  },
+  {
+    "id": 36650,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风慢性期应长期使用的促尿酸排泄药是"
+  },
+  {
+    "id": 36642,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺栓塞\",\"value\":0}, {\"answer\":0,\"text\":\"术后血栓形成\",\"value\":1}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"心肌梗死\",\"value\":3}]",
+    "title": "使用大剂量的阿司匹林可用于"
+  },
+  {
+    "id": 36608,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":0,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"防治绝经后骨质疏松症\",\"value\":2}, {\"answer\":0,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":3}]",
+    "title": "利塞膦酸钠主要用于"
+  },
+  {
+    "id": 36712,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非甾体抗炎药+甲氨蝶呤+SASP\",\"value\":0}, {\"answer\":0,\"text\":\"非甾体抗炎药+糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体抗炎药+硫唑嘌呤\",\"value\":2}, {\"answer\":0,\"text\":\"非甾体抗炎药\",\"value\":3}]",
+    "title": "一中年女性,因手指、掌指、腕关节肿痛和僵硬半年,ESR 80mm/H,RF500IU,抗CCP抗体120U,X片示腕关节骨质疏松,有囊性变。该病人选择的最佳治疗方案是"
+  },
+  {
+    "id": 36590,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与骨骼表面的羟磷灰石结合\",\"value\":0}, {\"answer\":0,\"text\":\"增加小肠对钙的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"增加肾小管对钙的重吸收\",\"value\":2}, {\"answer\":0,\"text\":\"促进骨细胞介导的细胞因子产生\",\"value\":3}]",
+    "title": "属于双磷酸类药物的作用机制的是"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36599,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":1,\"text\":\"绝经后妇女\",\"value\":3}]",
+    "title": "下列不属于阿仑膦酸钠禁忌人群的是"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36654,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":0,\"text\":\"阿伦磷酸盐\",\"value\":2}, {\"answer\":0,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "下列抗骨质疏松药属于选择性雌激素受体调节剂的是"
+  },
+  {
+    "id": 36614,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲状腺素\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"螺内酯\",\"value\":3}]",
+    "title": "可用于治疗骨质疏松症的药物是"
+  },
+  {
+    "id": 36660,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,女,29岁,4年来全身各大小关节疼痛,活动后减轻,临床诊断为类风湿性关节炎,该患者首选的药物是"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36596,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钠进食\",\"value\":0}, {\"answer\":1,\"text\":\"高钙进食\",\"value\":1}, {\"answer\":0,\"text\":\"低钠进食\",\"value\":2}, {\"answer\":0,\"text\":\"低钙进食\",\"value\":3}]",
+    "title": "服用依替膦酸钠2小时内应避免"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36657,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "用于治疗痛风性关节炎的急性发作、预防复发性痛风性关节炎急性发作的药物是"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36570,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"逐渐减量,直至停药\",\"value\":0}, {\"answer\":0,\"text\":\"使用其他药物进行联合治疗\",\"value\":1}, {\"answer\":1,\"text\":\"停药即可\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗出现不良反应后,若想消除不良反应需"
+  },
+  {
+    "id": 36685,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱治疗急性痛风性关节炎\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇是抑制尿酸合成的药物\",\"value\":1}, {\"answer\":1,\"text\":\"塞来昔布用于骨关节炎、类风湿性关节炎的治疗\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱可降低血中尿酸,对慢性痛风效果较佳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列叙述正确的是"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36630,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水样腹泻\",\"value\":0}, {\"answer\":1,\"text\":\"血便\",\"value\":1}, {\"answer\":0,\"text\":\"哮喘\",\"value\":2}, {\"answer\":1,\"text\":\"脱水\",\"value\":3}, {\"answer\":1,\"text\":\"休克\",\"value\":4}]",
+    "title": "以下属于秋水仙碱不良反应的是"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36637,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "布洛芬口服吸收完全,血浆半衰期为"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36594,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝功能不全者\",\"value\":0}, {\"answer\":0,\"text\":\"心功能不全者\",\"value\":1}, {\"answer\":1,\"text\":\"肾功能不全者\",\"value\":2}, {\"answer\":0,\"text\":\"肝硬化患者\",\"value\":3}]",
+    "title": "依替膦酸钠的禁用人群有"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36590,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与骨骼表面的羟磷灰石结合\",\"value\":0}, {\"answer\":0,\"text\":\"增加小肠对钙的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"增加肾小管对钙的重吸收\",\"value\":2}, {\"answer\":0,\"text\":\"促进骨细胞介导的细胞因子产生\",\"value\":3}]",
+    "title": "属于双磷酸类药物的作用机制的是"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36679,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":1}, {\"answer\":1,\"text\":\"钙制剂\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素\",\"value\":3}]",
+    "title": "下列属于促进骨矿化剂的是"
+  },
+  {
+    "id": 36683,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体疗加内服药物\",\"value\":0}, {\"answer\":1,\"text\":\"醋酸强的松龙局部封闭\",\"value\":1}, {\"answer\":0,\"text\":\"伤湿止痛膏局部贴敷\",\"value\":2}, {\"answer\":0,\"text\":\"理疗\",\"value\":3}]",
+    "title": "狭窄性腱鞘炎治疗效果较好的是"
+  },
+  {
+    "id": 36656,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钙冲剂\",\"value\":0}, {\"answer\":0,\"text\":\"无机钙\",\"value\":1}, {\"answer\":1,\"text\":\"有机钙\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "对胃肠机能差的可选择的钙剂是"
+  },
+  {
+    "id": 36695,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不引起胃肠道反应\",\"value\":0}, {\"answer\":0,\"text\":\"易于吸收\",\"value\":1}, {\"answer\":1,\"text\":\"含钙量高\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "钙剂中,无机钙的优点是"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36707,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"近端指间关节肿胀\",\"value\":0}, {\"answer\":1,\"text\":\"远端指间关节肿胀\",\"value\":1}, {\"answer\":0,\"text\":\"掌指关节肿胀\",\"value\":2}, {\"answer\":0,\"text\":\"腕关节肿胀\",\"value\":3}]",
+    "title": "不属于类风湿关节炎的临床特征的一项是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36660,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,女,29岁,4年来全身各大小关节疼痛,活动后减轻,临床诊断为类风湿性关节炎,该患者首选的药物是"
+  },
+  {
+    "id": 36650,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风慢性期应长期使用的促尿酸排泄药是"
+  },
+  {
+    "id": 36705,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"关节腔注射,1年内不宜超过5次\",\"value\":0}, {\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":2}, {\"answer\":1,\"text\":\"短期使用\",\"value\":3}, {\"answer\":1,\"text\":\"密切监测血压及血糖变化\",\"value\":4}]",
+    "title": "类风湿关节炎的糖皮质激素治疗,正确的为"
+  },
+  {
+    "id": 36601,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":1,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":1,\"text\":\"孕妇\",\"value\":2}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":3}, {\"answer\":0,\"text\":\"绝经后妇女\",\"value\":4}]",
+    "title": "阿仑膦酸钠禁用于"
+  },
+  {
+    "id": 36568,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性软组织挫伤\",\"value\":0}, {\"answer\":1,\"text\":\"慢性软组织扭伤\",\"value\":1}, {\"answer\":1,\"text\":\"中枢神经病变引起的肌肉痉挛\",\"value\":2}, {\"answer\":1,\"text\":\"慢性筋膜炎\",\"value\":3}, {\"answer\":0,\"text\":\"神经骨痛\",\"value\":4}]",
+    "title": "氯唑沙宗的适应症有哪些"
+  },
+  {
+    "id": 36688,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"剂量个化\",\"value\":0}, {\"answer\":1,\"text\":\"尽量使用最低有效剂量\",\"value\":1}, {\"answer\":1,\"text\":\"用药3个月,检查肝肾功能\",\"value\":2}, {\"answer\":0,\"text\":\"为实现镇痛作用,尽量使用负荷剂量\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "全身应用非甾体抗炎药治疗骨性关节炎的原则是"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36681,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"鲑鱼降钙素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"甲状旁腺素\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "可用于缓解骨痛的药物是"
+  },
+  {
+    "id": 36695,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不引起胃肠道反应\",\"value\":0}, {\"answer\":0,\"text\":\"易于吸收\",\"value\":1}, {\"answer\":1,\"text\":\"含钙量高\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "钙剂中,无机钙的优点是"
+  },
+  {
+    "id": 36665,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"甲钴胺片\",\"value\":3}]",
+    "title": "类风湿性关节炎不被推荐使用的药物是"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36717,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯妥英钠\",\"value\":0}, {\"answer\":0,\"text\":\"阿斯匹林\",\"value\":1}, {\"answer\":1,\"text\":\"美洛昔康\",\"value\":2}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":3}]",
+    "title": "可长期用于类风湿性关节炎治疗的药物是"
+  },
+  {
+    "id": 36662,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丙磺舒\",\"value\":0}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":3}]",
+    "title": "主要用于治疗风湿性和类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36710,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"羟氯喹\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"CTX\",\"value\":3}]",
+    "title": "患者,女性,26岁,因双膝关节肿痛半年,发热伴面部红斑2周就诊。体检：体温38.0℃,面部红斑,口腔黏膜有溃疡,肝脾不肿大,双膝关节肿胀,有压痛。尿液检查蛋白(+),ANA(+),抗Sm抗体(+),确诊为SLE。首选治疗药是"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36696,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"双羟维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"普通维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"二者均可\",\"value\":2}, {\"answer\":0,\"text\":\"二者均不可\",\"value\":3}]",
+    "title": "对于某些肝肾功能异常,体内的二次羟化都会受到损害的患者,如果又合并有严重的骨质疏松,可以选用的维生素D剂型为"
+  },
+  {
+    "id": 36585,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"一周\",\"value\":0}, {\"answer\":0,\"text\":\"一个月\",\"value\":1}, {\"answer\":1,\"text\":\"三个月\",\"value\":2}, {\"answer\":0,\"text\":\"半年\",\"value\":3}]",
+    "title": "依替膦酸钠在骨中半衰期可达"
+  },
+  {
+    "id": 36646,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尼美舒利\",\"value\":0}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "属于非选择性环氧酶抑制剂的药物是"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36637,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "布洛芬口服吸收完全,血浆半衰期为"
+  },
+  {
+    "id": 36671,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "患者,男,78岁,临床诊断为老年性骨质疏松症,该患者不宜选用的药物是"
+  },
+  {
+    "id": 36630,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水样腹泻\",\"value\":0}, {\"answer\":1,\"text\":\"血便\",\"value\":1}, {\"answer\":0,\"text\":\"哮喘\",\"value\":2}, {\"answer\":1,\"text\":\"脱水\",\"value\":3}, {\"answer\":1,\"text\":\"休克\",\"value\":4}]",
+    "title": "以下属于秋水仙碱不良反应的是"
+  },
+  {
+    "id": 36701,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多有外伤史\",\"value\":0}, {\"answer\":1,\"text\":\"疼痛\",\"value\":1}, {\"answer\":1,\"text\":\"膝关节弹响\",\"value\":2}, {\"answer\":1,\"text\":\"膝关节交索现象\",\"value\":3}, {\"answer\":0,\"text\":\"无异常\",\"value\":4}]",
+    "title": "膝关节半月板损伤的表现有"
+  },
+  {
+    "id": 36572,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯二氮卓类\",\"value\":0}, {\"answer\":1,\"text\":\"吩噻嗪类\",\"value\":1}, {\"answer\":1,\"text\":\"巴比妥类\",\"value\":2}, {\"answer\":1,\"text\":\"单胺氧化酶抑制剂\",\"value\":3}, {\"answer\":0,\"text\":\"金刚烷类\",\"value\":4}]",
+    "title": "氯唑沙宗与哪类药物合用会加强其疗效"
+  },
+  {
+    "id": 36626,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":1,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":0,\"text\":\"来氟米特\",\"value\":3}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":4}]",
+    "title": "以下属于抗痛风药的是"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36629,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性痛风性关节炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性痛风性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"肩周炎\",\"value\":2}, {\"answer\":0,\"text\":\"风湿性关节炎\",\"value\":3}]",
+    "title": "秋水仙碱的适应症为"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36606,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌激素\",\"value\":0}, {\"answer\":1,\"text\":\"唑来磷酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"替勃龙\",\"value\":3}]",
+    "title": "可引起“流感样症状”的药物是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36657,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "用于治疗痛风性关节炎的急性发作、预防复发性痛风性关节炎急性发作的药物是"
+  },
+  {
+    "id": 36596,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钠进食\",\"value\":0}, {\"answer\":1,\"text\":\"高钙进食\",\"value\":1}, {\"answer\":0,\"text\":\"低钠进食\",\"value\":2}, {\"answer\":0,\"text\":\"低钙进食\",\"value\":3}]",
+    "title": "服用依替膦酸钠2小时内应避免"
+  },
+  {
+    "id": 36593,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":0}, {\"answer\":0,\"text\":\"帕米磷酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"唑来膦酸钠\",\"value\":3}]",
+    "title": "双膦酸盐类药物中可导致骨软化的是"
+  },
+  {
+    "id": 36625,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"来氟米特\",\"value\":3}]",
+    "title": "以下可用于治疗风湿病药的是"
+  },
+  {
+    "id": 36712,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非甾体抗炎药+甲氨蝶呤+SASP\",\"value\":0}, {\"answer\":0,\"text\":\"非甾体抗炎药+糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体抗炎药+硫唑嘌呤\",\"value\":2}, {\"answer\":0,\"text\":\"非甾体抗炎药\",\"value\":3}]",
+    "title": "一中年女性,因手指、掌指、腕关节肿痛和僵硬半年,ESR 80mm/H,RF500IU,抗CCP抗体120U,X片示腕关节骨质疏松,有囊性变。该病人选择的最佳治疗方案是"
+  },
+  {
+    "id": 36599,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":1,\"text\":\"绝经后妇女\",\"value\":3}]",
+    "title": "下列不属于阿仑膦酸钠禁忌人群的是"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36595,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮肤瘙痒\",\"value\":0}, {\"answer\":1,\"text\":\"过敏性皮疹\",\"value\":1}, {\"answer\":0,\"text\":\"头痛\",\"value\":2}, {\"answer\":0,\"text\":\"腹泻\",\"value\":3}, {\"answer\":1,\"text\":\"发生骨折\",\"value\":4}]",
+    "title": "服用依替膦酸钠时出现哪些症状需停药"
+  },
+  {
+    "id": 36685,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱治疗急性痛风性关节炎\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇是抑制尿酸合成的药物\",\"value\":1}, {\"answer\":1,\"text\":\"塞来昔布用于骨关节炎、类风湿性关节炎的治疗\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱可降低血中尿酸,对慢性痛风效果较佳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列叙述正确的是"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36687,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":1}, {\"answer\":1,\"text\":\"密切监测血压和血糖的变化\",\"value\":2}, {\"answer\":0,\"text\":\"关节腔注射,一年内不宜超过5次\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于应用糖皮质激素治疗类风湿性关节炎,正确的是"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36691,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "痛风急性发作期不宜使用的药物是"
+  },
+  {
+    "id": 36626,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":1,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":0,\"text\":\"来氟米特\",\"value\":3}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":4}]",
+    "title": "以下属于抗痛风药的是"
+  },
+  {
+    "id": 36573,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病患者\",\"value\":0}, {\"answer\":1,\"text\":\"肝肾功能损害患者\",\"value\":1}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":2}, {\"answer\":0,\"text\":\"心功能不全患者\",\"value\":3}]",
+    "title": "哪类患者选用氯唑沙宗时应慎用"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36660,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,女,29岁,4年来全身各大小关节疼痛,活动后减轻,临床诊断为类风湿性关节炎,该患者首选的药物是"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36661,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异烟肼\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "类风湿关节炎患者消炎止痛常选用"
+  },
+  {
+    "id": 36594,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝功能不全者\",\"value\":0}, {\"answer\":0,\"text\":\"心功能不全者\",\"value\":1}, {\"answer\":1,\"text\":\"肾功能不全者\",\"value\":2}, {\"answer\":0,\"text\":\"肝硬化患者\",\"value\":3}]",
+    "title": "依替膦酸钠的禁用人群有"
+  },
+  {
+    "id": 36577,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"婴幼儿\",\"value\":0}, {\"answer\":1,\"text\":\"儿童及青少年\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "骨与关节结核好发年龄"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36627,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吞噬功能升高\",\"value\":0}, {\"answer\":0,\"text\":\"促进白三烯B4的合成\",\"value\":1}, {\"answer\":1,\"text\":\"中性粒细胞迁移\",\"value\":2}, {\"answer\":0,\"text\":\"血红细胞数量降低\",\"value\":3}]",
+    "title": "秋水仙碱使用期间会导致"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36637,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "布洛芬口服吸收完全,血浆半衰期为"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36587,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"骨化三醇\",\"value\":3}]",
+    "title": "以下不属于治疗骨质疏松症用药的是"
+  },
+  {
+    "id": 36602,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1年以上\",\"value\":0}, {\"answer\":0,\"text\":\"3年以上\",\"value\":1}, {\"answer\":0,\"text\":\"5年以上\",\"value\":2}, {\"answer\":1,\"text\":\"10年以上\",\"value\":3}]",
+    "title": "阿仑膦酸钠的骨中消除半衰期约为"
+  },
+  {
+    "id": 36586,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"适量钙剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素C\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"降钙素\",\"value\":3}, {\"answer\":1,\"text\":\"适量碳酸钙\",\"value\":4}]",
+    "title": "依替膦酸钠停药期间需补充"
+  },
+  {
+    "id": 36572,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯二氮卓类\",\"value\":0}, {\"answer\":1,\"text\":\"吩噻嗪类\",\"value\":1}, {\"answer\":1,\"text\":\"巴比妥类\",\"value\":2}, {\"answer\":1,\"text\":\"单胺氧化酶抑制剂\",\"value\":3}, {\"answer\":0,\"text\":\"金刚烷类\",\"value\":4}]",
+    "title": "氯唑沙宗与哪类药物合用会加强其疗效"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36677,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"老年性骨质疏松\",\"value\":0}, {\"answer\":1,\"text\":\"妇女绝经后骨质疏松\",\"value\":1}, {\"answer\":0,\"text\":\"原发性骨质疏松\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "钙制剂、雌激素、维生素D联合用药,用于治疗"
+  },
+  {
+    "id": 36585,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"一周\",\"value\":0}, {\"answer\":0,\"text\":\"一个月\",\"value\":1}, {\"answer\":1,\"text\":\"三个月\",\"value\":2}, {\"answer\":0,\"text\":\"半年\",\"value\":3}]",
+    "title": "依替膦酸钠在骨中半衰期可达"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36675,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利塞磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"伊班膦酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸二钠\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "下列哪一双磷酸盐类药物需在两餐间服用"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36590,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与骨骼表面的羟磷灰石结合\",\"value\":0}, {\"answer\":0,\"text\":\"增加小肠对钙的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"增加肾小管对钙的重吸收\",\"value\":2}, {\"answer\":0,\"text\":\"促进骨细胞介导的细胞因子产生\",\"value\":3}]",
+    "title": "属于双磷酸类药物的作用机制的是"
+  },
+  {
+    "id": 36615,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌类药物\",\"value\":0}, {\"answer\":1,\"text\":\"非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"甾体抗炎药\",\"value\":2}, {\"answer\":0,\"text\":\"激素类药物\",\"value\":3}]",
+    "title": "双氯芬酸钠属于"
+  },
+  {
+    "id": 36665,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"甲钴胺片\",\"value\":3}]",
+    "title": "类风湿性关节炎不被推荐使用的药物是"
+  },
+  {
+    "id": 36660,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "患者,女,29岁,4年来全身各大小关节疼痛,活动后减轻,临床诊断为类风湿性关节炎,该患者首选的药物是"
+  },
+  {
+    "id": 36642,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺栓塞\",\"value\":0}, {\"answer\":0,\"text\":\"术后血栓形成\",\"value\":1}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"心肌梗死\",\"value\":3}]",
+    "title": "使用大剂量的阿司匹林可用于"
+  },
+  {
+    "id": 36587,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"骨化三醇\",\"value\":3}]",
+    "title": "以下不属于治疗骨质疏松症用药的是"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36681,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"鲑鱼降钙素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"甲状旁腺素\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "可用于缓解骨痛的药物是"
+  },
+  {
+    "id": 36629,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性痛风性关节炎\",\"value\":0}, {\"answer\":0,\"text\":\"慢性痛风性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"肩周炎\",\"value\":2}, {\"answer\":0,\"text\":\"风湿性关节炎\",\"value\":3}]",
+    "title": "秋水仙碱的适应症为"
+  },
+  {
+    "id": 36589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "长期服用钙剂会导致"
+  },
+  {
+    "id": 36628,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"40%-50%\",\"value\":0}, {\"answer\":0,\"text\":\"50-60%\",\"value\":1}, {\"answer\":0,\"text\":\"70-80%\",\"value\":2}, {\"answer\":1,\"text\":\"85-95%\",\"value\":3}]",
+    "title": "丙磺舒口服吸收完全,血浆蛋白结合率为"
+  },
+  {
+    "id": 36701,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多有外伤史\",\"value\":0}, {\"answer\":1,\"text\":\"疼痛\",\"value\":1}, {\"answer\":1,\"text\":\"膝关节弹响\",\"value\":2}, {\"answer\":1,\"text\":\"膝关节交索现象\",\"value\":3}, {\"answer\":0,\"text\":\"无异常\",\"value\":4}]",
+    "title": "膝关节半月板损伤的表现有"
+  },
+  {
+    "id": 36572,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯二氮卓类\",\"value\":0}, {\"answer\":1,\"text\":\"吩噻嗪类\",\"value\":1}, {\"answer\":1,\"text\":\"巴比妥类\",\"value\":2}, {\"answer\":1,\"text\":\"单胺氧化酶抑制剂\",\"value\":3}, {\"answer\":0,\"text\":\"金刚烷类\",\"value\":4}]",
+    "title": "氯唑沙宗与哪类药物合用会加强其疗效"
+  },
+  {
+    "id": 36640,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"水杨酸反应\",\"value\":1}, {\"answer\":1,\"text\":\"过敏性反应\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林哮喘\",\"value\":3}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":4}]",
+    "title": "阿司匹林的不良反应有"
+  },
+  {
+    "id": 36600,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能不良者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":1}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"儿童\",\"value\":3}, {\"answer\":0,\"text\":\"老年人\",\"value\":4}]",
+    "title": "依替膦酸钠禁用于"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36626,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":1,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":0,\"text\":\"来氟米特\",\"value\":3}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":4}]",
+    "title": "以下属于抗痛风药的是"
+  },
+  {
+    "id": 36603,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"继发性骨质疏松症\",\"value\":2}, {\"answer\":1,\"text\":\"骨肿瘤引起的骨痛\",\"value\":3}, {\"answer\":1,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":4}]",
+    "title": "帕米磷酸钠可用于治疗"
+  },
+  {
+    "id": 36610,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症患者\",\"value\":0}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症患者\",\"value\":2}, {\"answer\":1,\"text\":\"低钙血症患者\",\"value\":3}]",
+    "title": "利塞膦酸钠禁用于"
+  },
+  {
+    "id": 36614,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲状腺素\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"螺内酯\",\"value\":3}]",
+    "title": "可用于治疗骨质疏松症的药物是"
+  },
+  {
+    "id": 36682,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双醋瑞因胶囊\",\"value\":0}, {\"answer\":0,\"text\":\"氨基葡萄糖胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":2}, {\"answer\":1,\"text\":\"甲强龙片\",\"value\":3}]",
+    "title": "不推荐使用的治疗骨关节炎的全身治疗的药物是"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36625,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"来氟米特\",\"value\":3}]",
+    "title": "以下可用于治疗风湿病药的是"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36637,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "布洛芬口服吸收完全,血浆半衰期为"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36672,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"非布索坦\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":3}]",
+    "title": "患者,男,50岁,2周前痛风急性发作,治疗后病情缓解,后期针对其痛风治疗不宜选用"
+  },
+  {
+    "id": 36598,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"餐前服药,保持立位或坐位30分钟\",\"value\":0}, {\"answer\":0,\"text\":\"餐后服药,保持立位或坐位30分钟\",\"value\":1}, {\"answer\":1,\"text\":\"服药时饮水300ml,保持立位或坐位30分钟\",\"value\":2}, {\"answer\":0,\"text\":\"服药30分钟后,饮用清水300ml\",\"value\":3}]",
+    "title": "服用阿仑膦酸钠时,为防止溃疡性食管炎发生,正确做法是"
+  },
+  {
+    "id": 36585,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"一周\",\"value\":0}, {\"answer\":0,\"text\":\"一个月\",\"value\":1}, {\"answer\":1,\"text\":\"三个月\",\"value\":2}, {\"answer\":0,\"text\":\"半年\",\"value\":3}]",
+    "title": "依替膦酸钠在骨中半衰期可达"
+  },
+  {
+    "id": 36639,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2小时\",\"value\":0}, {\"answer\":0,\"text\":\"4小时\",\"value\":1}, {\"answer\":1,\"text\":\"6小时\",\"value\":2}, {\"answer\":0,\"text\":\"8小时\",\"value\":3}]",
+    "title": "氟比洛芬口服吸收良好,其血浆半衰期为"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36621,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"提高地高辛血药浓度\",\"value\":0}, {\"answer\":0,\"text\":\"降低地高辛血药浓度\",\"value\":1}, {\"answer\":0,\"text\":\"对地高辛血药浓度无影响\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "双氯芬酸钠与地高辛联合用药,会导致"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36633,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"促进肾近曲小管对尿酸的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸合成\",\"value\":1}, {\"answer\":1,\"text\":\"促进尿酸排泄\",\"value\":2}, {\"answer\":0,\"text\":\"升高血中尿酸浓度\",\"value\":3}]",
+    "title": "苯溴马隆抗痛风的药理作用是"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36679,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":1}, {\"answer\":1,\"text\":\"钙制剂\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素\",\"value\":3}]",
+    "title": "下列属于促进骨矿化剂的是"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36705,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"关节腔注射,1年内不宜超过5次\",\"value\":0}, {\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":2}, {\"answer\":1,\"text\":\"短期使用\",\"value\":3}, {\"answer\":1,\"text\":\"密切监测血压及血糖变化\",\"value\":4}]",
+    "title": "类风湿关节炎的糖皮质激素治疗,正确的为"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36689,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"塞来昔布抑制血小板活性\",\"value\":0}, {\"answer\":1,\"text\":\"磺胺过敏者禁用塞来昔布\",\"value\":1}, {\"answer\":1,\"text\":\"避免同时服用两种以上NSAIDs\",\"value\":2}, {\"answer\":1,\"text\":\"老年患者宜选用半衰期短的NSAIDs药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "骨性关节炎药物治疗叙述正确的是"
+  },
+  {
+    "id": 36600,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能不良者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":1}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"儿童\",\"value\":3}, {\"answer\":0,\"text\":\"老年人\",\"value\":4}]",
+    "title": "依替膦酸钠禁用于"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36617,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"镇静\",\"value\":0}, {\"answer\":0,\"text\":\"镇痛\",\"value\":1}, {\"answer\":0,\"text\":\"抗炎\",\"value\":2}, {\"answer\":0,\"text\":\"解热\",\"value\":3}]",
+    "title": "以下不属于双氯芬酸钠药理作用的是"
+  },
+  {
+    "id": 36650,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风慢性期应长期使用的促尿酸排泄药是"
+  },
+  {
+    "id": 36652,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服硫酸氨基葡萄糖\",\"value\":0}, {\"answer\":1,\"text\":\"口服非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"关节内注射激素\",\"value\":2}, {\"answer\":0,\"text\":\"关节内注射透明质酸钠\",\"value\":3}]",
+    "title": "患者,男,63岁,膝关节疼痛2年,关节边缘有骨刺形成,该患者首选的药物是"
+  },
+  {
+    "id": 36589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钾血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "长期服用钙剂会导致"
+  },
+  {
+    "id": 36682,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双醋瑞因胶囊\",\"value\":0}, {\"answer\":0,\"text\":\"氨基葡萄糖胶囊\",\"value\":1}, {\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":2}, {\"answer\":1,\"text\":\"甲强龙片\",\"value\":3}]",
+    "title": "不推荐使用的治疗骨关节炎的全身治疗的药物是"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36606,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌激素\",\"value\":0}, {\"answer\":1,\"text\":\"唑来磷酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"替勃龙\",\"value\":3}]",
+    "title": "可引起“流感样症状”的药物是"
+  },
+  {
+    "id": 36644,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗炎作用强,解热镇痛作用很弱\",\"value\":0}, {\"answer\":1,\"text\":\"解热镇痛作用温和持久,抗炎、抗风湿作用很弱\",\"value\":1}, {\"answer\":0,\"text\":\"抑制血栓形成\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量可减少肾小管对尿酸盐的再吸收\",\"value\":3}]",
+    "title": "对乙酰氨基酚的药理作用特点是"
+  },
+  {
+    "id": 36598,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"餐前服药,保持立位或坐位30分钟\",\"value\":0}, {\"answer\":0,\"text\":\"餐后服药,保持立位或坐位30分钟\",\"value\":1}, {\"answer\":1,\"text\":\"服药时饮水300ml,保持立位或坐位30分钟\",\"value\":2}, {\"answer\":0,\"text\":\"服药30分钟后,饮用清水300ml\",\"value\":3}]",
+    "title": "服用阿仑膦酸钠时,为防止溃疡性食管炎发生,正确做法是"
+  },
+  {
+    "id": 36674,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"别嘌醇\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "尿酸生成过多的高尿酸血症首选的治疗药物是"
+  },
+  {
+    "id": 36643,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制血小板聚集\",\"value\":0}, {\"answer\":0,\"text\":\"儿童易引起瑞夷综合征\",\"value\":1}, {\"answer\":1,\"text\":\"中毒时应酸化尿液,促进排泄\",\"value\":2}, {\"answer\":0,\"text\":\"会引起胃出血\",\"value\":3}]",
+    "title": "以下关于阿司匹林说法有误的是"
+  },
+  {
+    "id": 36646,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尼美舒利\",\"value\":0}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "属于非选择性环氧酶抑制剂的药物是"
+  },
+  {
+    "id": 36605,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.1\",\"value\":0}, {\"answer\":0,\"text\":\"0.2\",\"value\":1}, {\"answer\":1,\"text\":\"0.33\",\"value\":2}, {\"answer\":0,\"text\":\"0.5\",\"value\":3}]",
+    "title": "服用唑来磷酸钠大概多大比例患者出现不良反应"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36684,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"H2受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"钙剂\",\"value\":3}]",
+    "title": "使用非甾体抗炎药治疗类风湿性关节炎,为预防其胃肠副作用常联合应用"
+  },
+  {
+    "id": 36615,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌类药物\",\"value\":0}, {\"answer\":1,\"text\":\"非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"甾体抗炎药\",\"value\":2}, {\"answer\":0,\"text\":\"激素类药物\",\"value\":3}]",
+    "title": "双氯芬酸钠属于"
+  },
+  {
+    "id": 36701,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多有外伤史\",\"value\":0}, {\"answer\":1,\"text\":\"疼痛\",\"value\":1}, {\"answer\":1,\"text\":\"膝关节弹响\",\"value\":2}, {\"answer\":1,\"text\":\"膝关节交索现象\",\"value\":3}, {\"answer\":0,\"text\":\"无异常\",\"value\":4}]",
+    "title": "膝关节半月板损伤的表现有"
+  },
+  {
+    "id": 36616,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨质疏松\",\"value\":0}, {\"answer\":0,\"text\":\"骨质增生\",\"value\":1}, {\"answer\":1,\"text\":\"骨关节炎\",\"value\":2}, {\"answer\":1,\"text\":\"类风湿关节炎\",\"value\":3}, {\"answer\":1,\"text\":\"强直性脊柱炎\",\"value\":4}]",
+    "title": "双氯芬酸钠可用于治疗"
+  },
+  {
+    "id": 36603,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"继发性骨质疏松症\",\"value\":2}, {\"answer\":1,\"text\":\"骨肿瘤引起的骨痛\",\"value\":3}, {\"answer\":1,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":4}]",
+    "title": "帕米磷酸钠可用于治疗"
+  },
+  {
+    "id": 36611,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"促进降钙素分泌,增加肠钙的吸收\",\"value\":0}, {\"answer\":0,\"text\":\"抑制降钙素分泌,减少肠钙的吸收\",\"value\":1}, {\"answer\":1,\"text\":\"抑制PTH调节的骨吸收作用\",\"value\":2}, {\"answer\":0,\"text\":\"促进PTH调节的骨吸收作用\",\"value\":3}, {\"answer\":1,\"text\":\"作用于成骨细胞和破骨细胞的雌激素受体,促进破骨细胞凋亡\",\"value\":4}]",
+    "title": "雌激素防治绝经后骨质疏松症的机制包括"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36569,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头晕\",\"value\":0}, {\"answer\":1,\"text\":\"嗜睡\",\"value\":1}, {\"answer\":1,\"text\":\"恶心\",\"value\":2}, {\"answer\":0,\"text\":\"精神失常\",\"value\":3}, {\"answer\":1,\"text\":\"头昏脑胀\",\"value\":4}]",
+    "title": "氯唑沙宗常见不良发应有"
+  },
+  {
+    "id": 36595,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮肤瘙痒\",\"value\":0}, {\"answer\":1,\"text\":\"过敏性皮疹\",\"value\":1}, {\"answer\":0,\"text\":\"头痛\",\"value\":2}, {\"answer\":0,\"text\":\"腹泻\",\"value\":3}, {\"answer\":1,\"text\":\"发生骨折\",\"value\":4}]",
+    "title": "服用依替膦酸钠时出现哪些症状需停药"
+  },
+  {
+    "id": 36596,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钠进食\",\"value\":0}, {\"answer\":1,\"text\":\"高钙进食\",\"value\":1}, {\"answer\":0,\"text\":\"低钠进食\",\"value\":2}, {\"answer\":0,\"text\":\"低钙进食\",\"value\":3}]",
+    "title": "服用依替膦酸钠2小时内应避免"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36610,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低钠血症患者\",\"value\":0}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":1}, {\"answer\":0,\"text\":\"高钾血症患者\",\"value\":2}, {\"answer\":1,\"text\":\"低钙血症患者\",\"value\":3}]",
+    "title": "利塞膦酸钠禁用于"
+  },
+  {
+    "id": 36659,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"减少对肝脏的损害\",\"value\":0}, {\"answer\":1,\"text\":\"减少对消化道的刺激\",\"value\":1}, {\"answer\":0,\"text\":\"避免尿少时析出结晶\",\"value\":2}, {\"answer\":0,\"text\":\"降低药物毒性\",\"value\":3}]",
+    "title": "患者,女,37岁,因风湿性关节炎引起关节疼痛,在服用阿司匹林时,嘱其饭后服用,原因是"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36675,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利塞磷酸盐\",\"value\":0}, {\"answer\":0,\"text\":\"伊班膦酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"依替膦酸二钠\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "下列哪一双磷酸盐类药物需在两餐间服用"
+  },
+  {
+    "id": 36635,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性痛风\",\"value\":0}, {\"answer\":1,\"text\":\"急性痛风\",\"value\":1}, {\"answer\":0,\"text\":\"原发性高尿酸血症\",\"value\":2}, {\"answer\":0,\"text\":\"继发性高尿酸血症\",\"value\":3}]",
+    "title": "不属于苯溴马隆的临床适应症是"
+  },
+  {
+    "id": 36639,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2小时\",\"value\":0}, {\"answer\":0,\"text\":\"4小时\",\"value\":1}, {\"answer\":1,\"text\":\"6小时\",\"value\":2}, {\"answer\":0,\"text\":\"8小时\",\"value\":3}]",
+    "title": "氟比洛芬口服吸收良好,其血浆半衰期为"
+  },
+  {
+    "id": 36646,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"尼美舒利\",\"value\":0}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "属于非选择性环氧酶抑制剂的药物是"
+  },
+  {
+    "id": 36599,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":1,\"text\":\"绝经后妇女\",\"value\":3}]",
+    "title": "下列不属于阿仑膦酸钠禁忌人群的是"
+  },
+  {
+    "id": 36602,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1年以上\",\"value\":0}, {\"answer\":0,\"text\":\"3年以上\",\"value\":1}, {\"answer\":0,\"text\":\"5年以上\",\"value\":2}, {\"answer\":1,\"text\":\"10年以上\",\"value\":3}]",
+    "title": "阿仑膦酸钠的骨中消除半衰期约为"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36668,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双磷酸盐\",\"value\":1}, {\"answer\":0,\"text\":\"氟制剂\",\"value\":2}, {\"answer\":0,\"text\":\"钙制剂\",\"value\":3}]",
+    "title": "属于骨吸收抑制剂的是"
+  },
+  {
+    "id": 36574,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"中枢神经肌肉松弛剂\",\"value\":0}, {\"answer\":0,\"text\":\"外周神经肌肉松弛剂\",\"value\":1}, {\"answer\":0,\"text\":\"非神经性肌肉松弛剂\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗属于"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36627,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吞噬功能升高\",\"value\":0}, {\"answer\":0,\"text\":\"促进白三烯B4的合成\",\"value\":1}, {\"answer\":1,\"text\":\"中性粒细胞迁移\",\"value\":2}, {\"answer\":0,\"text\":\"血红细胞数量降低\",\"value\":3}]",
+    "title": "秋水仙碱使用期间会导致"
+  },
+  {
+    "id": 36703,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"塞来昔布\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸\",\"value\":3}]",
+    "title": "以下非甾体抗炎药中,胃肠道损害相对较大的是"
+  },
+  {
+    "id": 36696,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"双羟维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"普通维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"二者均可\",\"value\":2}, {\"answer\":0,\"text\":\"二者均不可\",\"value\":3}]",
+    "title": "对于某些肝肾功能异常,体内的二次羟化都会受到损害的患者,如果又合并有严重的骨质疏松,可以选用的维生素D剂型为"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36687,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":1}, {\"answer\":1,\"text\":\"密切监测血压和血糖的变化\",\"value\":2}, {\"answer\":0,\"text\":\"关节腔注射,一年内不宜超过5次\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于应用糖皮质激素治疗类风湿性关节炎,正确的是"
+  },
+  {
+    "id": 36583,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"餐前\",\"value\":0}, {\"answer\":0,\"text\":\"餐后\",\"value\":1}, {\"answer\":0,\"text\":\"睡前\",\"value\":2}, {\"answer\":1,\"text\":\"餐后两小时\",\"value\":3}, {\"answer\":0,\"text\":\"睡前一小时\",\"value\":4}]",
+    "title": "服用依替膦酸钠的时间段为"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36603,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":1,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"继发性骨质疏松症\",\"value\":2}, {\"answer\":1,\"text\":\"骨肿瘤引起的骨痛\",\"value\":3}, {\"answer\":1,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":4}]",
+    "title": "帕米磷酸钠可用于治疗"
+  },
+  {
+    "id": 36575,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨吸收抑制药\",\"value\":0}, {\"answer\":1,\"text\":\"骨形成促进药\",\"value\":1}, {\"answer\":0,\"text\":\"骨吸收促进药\",\"value\":2}, {\"answer\":1,\"text\":\"骨矿化促进药\",\"value\":3}, {\"answer\":0,\"text\":\"骨矿化抑制药\",\"value\":4}]",
+    "title": "临床上用于治疗骨质疏松症的药物有"
+  },
+  {
+    "id": 36600,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾功能不良者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":1}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"儿童\",\"value\":3}, {\"answer\":0,\"text\":\"老年人\",\"value\":4}]",
+    "title": "依替膦酸钠禁用于"
+  },
+  {
+    "id": 36685,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱治疗急性痛风性关节炎\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇是抑制尿酸合成的药物\",\"value\":1}, {\"answer\":1,\"text\":\"塞来昔布用于骨关节炎、类风湿性关节炎的治疗\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱可降低血中尿酸,对慢性痛风效果较佳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "下列叙述正确的是"
+  },
+  {
+    "id": 36595,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮肤瘙痒\",\"value\":0}, {\"answer\":1,\"text\":\"过敏性皮疹\",\"value\":1}, {\"answer\":0,\"text\":\"头痛\",\"value\":2}, {\"answer\":0,\"text\":\"腹泻\",\"value\":3}, {\"answer\":1,\"text\":\"发生骨折\",\"value\":4}]",
+    "title": "服用依替膦酸钠时出现哪些症状需停药"
+  },
+  {
+    "id": 36584,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-2小时\",\"value\":0}, {\"answer\":1,\"text\":\"2-6小时\",\"value\":1}, {\"answer\":0,\"text\":\"6-12小时\",\"value\":2}, {\"answer\":0,\"text\":\"12-24小时\",\"value\":3}]",
+    "title": "依替膦酸钠血浆半衰期为"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36698,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"曾经发生过骨质疏松性骨折的患者\",\"value\":0}, {\"answer\":0,\"text\":\"具有发生骨折的多重危险因素的骨质疏松患者\",\"value\":1}, {\"answer\":0,\"text\":\"接受其他的骨质疏松药物治疗效果不好的或者是耐受性不好的患者\",\"value\":2}, {\"answer\":1,\"text\":\"以上都是\",\"value\":3}]",
+    "title": "并不是每一个患者都适合使用甲状旁腺素,临床上经常使用的情况是"
+  },
+  {
+    "id": 36606,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌激素\",\"value\":0}, {\"answer\":1,\"text\":\"唑来磷酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"替勃龙\",\"value\":3}]",
+    "title": "可引起“流感样症状”的药物是"
+  },
+  {
+    "id": 36596,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钠进食\",\"value\":0}, {\"answer\":1,\"text\":\"高钙进食\",\"value\":1}, {\"answer\":0,\"text\":\"低钠进食\",\"value\":2}, {\"answer\":0,\"text\":\"低钙进食\",\"value\":3}]",
+    "title": "服用依替膦酸钠2小时内应避免"
+  },
+  {
+    "id": 36657,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "用于治疗痛风性关节炎的急性发作、预防复发性痛风性关节炎急性发作的药物是"
+  },
+  {
+    "id": 36625,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"来氟米特\",\"value\":3}]",
+    "title": "以下可用于治疗风湿病药的是"
+  },
+  {
+    "id": 36706,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"强直性脊柱炎\",\"value\":0}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":1}, {\"answer\":0,\"text\":\"类风湿关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"系统性红斑狼疮\",\"value\":3}]",
+    "title": "女,70岁,双手远端指间关节肿痛,以一侧凸出较明显。ESR：15 mm／h,CRP：5 mg／L,RF(-)。该患者最可能的诊断是"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36674,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"别嘌醇\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":3}]",
+    "title": "尿酸生成过多的高尿酸血症首选的治疗药物是"
+  },
+  {
+    "id": 36710,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"羟氯喹\",\"value\":1}, {\"answer\":1,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"CTX\",\"value\":3}]",
+    "title": "患者,女性,26岁,因双膝关节肿痛半年,发热伴面部红斑2周就诊。体检：体温38.0℃,面部红斑,口腔黏膜有溃疡,肝脾不肿大,双膝关节肿胀,有压痛。尿液检查蛋白(+),ANA(+),抗Sm抗体(+),确诊为SLE。首选治疗药是"
+  },
+  {
+    "id": 36709,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":3}]",
+    "title": "常用的免疫抑制剂不包括"
+  },
+  {
+    "id": 36655,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普通维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"双羟维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"普通维生素D+双羟维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "某患者肝肾功能异常,体内二次羟化都会受到损害的患者,又合并有严重的骨质疏松,可选用的维生素D的剂型是"
+  },
+  {
+    "id": 36627,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吞噬功能升高\",\"value\":0}, {\"answer\":0,\"text\":\"促进白三烯B4的合成\",\"value\":1}, {\"answer\":1,\"text\":\"中性粒细胞迁移\",\"value\":2}, {\"answer\":0,\"text\":\"血红细胞数量降低\",\"value\":3}]",
+    "title": "秋水仙碱使用期间会导致"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36615,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌类药物\",\"value\":0}, {\"answer\":1,\"text\":\"非甾体抗炎药\",\"value\":1}, {\"answer\":0,\"text\":\"甾体抗炎药\",\"value\":2}, {\"answer\":0,\"text\":\"激素类药物\",\"value\":3}]",
+    "title": "双氯芬酸钠属于"
+  },
+  {
+    "id": 36711,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"支气管扩张剂\",\"value\":1}, {\"answer\":0,\"text\":\"免疫抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "患儿8岁,突然出现喘憋,烦躁不安,大汗,不能平卧,既往曾有喘息发作2次。查体,两肺布满哮鸣音,考虑为支气管哮喘,目前治疗首选"
+  },
+  {
+    "id": 36717,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯妥英钠\",\"value\":0}, {\"answer\":0,\"text\":\"阿斯匹林\",\"value\":1}, {\"answer\":1,\"text\":\"美洛昔康\",\"value\":2}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":3}]",
+    "title": "可长期用于类风湿性关节炎治疗的药物是"
+  },
+  {
+    "id": 36671,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "患者,男,78岁,临床诊断为老年性骨质疏松症,该患者不宜选用的药物是"
+  },
+  {
+    "id": 36656,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钙冲剂\",\"value\":0}, {\"answer\":0,\"text\":\"无机钙\",\"value\":1}, {\"answer\":1,\"text\":\"有机钙\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "对胃肠机能差的可选择的钙剂是"
+  },
+  {
+    "id": 36582,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食物\",\"value\":0}, {\"answer\":0,\"text\":\"钾离子\",\"value\":1}, {\"answer\":0,\"text\":\"钠离子\",\"value\":2}, {\"answer\":0,\"text\":\"镁离子\",\"value\":3}]",
+    "title": "可影响依替膦酸钠吸收效率的有"
+  },
+  {
+    "id": 36669,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"托瑞米芬\",\"value\":0}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"克罗米芬\",\"value\":2}, {\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":3}]",
+    "title": "已批准用于绝经后妇女OP防治的选择性雌激素调节因子类药物是"
+  },
+  {
+    "id": 36703,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"塞来昔布\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸\",\"value\":3}]",
+    "title": "以下非甾体抗炎药中,胃肠道损害相对较大的是"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36696,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"双羟维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"普通维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"二者均可\",\"value\":2}, {\"answer\":0,\"text\":\"二者均不可\",\"value\":3}]",
+    "title": "对于某些肝肾功能异常,体内的二次羟化都会受到损害的患者,如果又合并有严重的骨质疏松,可以选用的维生素D剂型为"
+  },
+  {
+    "id": 36608,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"变形性骨炎\",\"value\":0}, {\"answer\":0,\"text\":\"原发性骨质疏松症\",\"value\":1}, {\"answer\":1,\"text\":\"防治绝经后骨质疏松症\",\"value\":2}, {\"answer\":0,\"text\":\"恶性肿瘤转移引起的高钙血症\",\"value\":3}]",
+    "title": "利塞膦酸钠主要用于"
+  },
+  {
+    "id": 36594,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肝功能不全者\",\"value\":0}, {\"answer\":0,\"text\":\"心功能不全者\",\"value\":1}, {\"answer\":1,\"text\":\"肾功能不全者\",\"value\":2}, {\"answer\":0,\"text\":\"肝硬化患者\",\"value\":3}]",
+    "title": "依替膦酸钠的禁用人群有"
+  },
+  {
+    "id": 36640,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"水杨酸反应\",\"value\":1}, {\"answer\":1,\"text\":\"过敏性反应\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林哮喘\",\"value\":3}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":4}]",
+    "title": "阿司匹林的不良反应有"
+  },
+  {
+    "id": 36620,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重肝功能衰竭患者\",\"value\":0}, {\"answer\":1,\"text\":\"严重肾功能衰竭患者\",\"value\":1}, {\"answer\":1,\"text\":\"严重心功能衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症患者\",\"value\":3}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":4}]",
+    "title": "双氯芬酸钠禁忌人群有"
+  },
+  {
+    "id": 36568,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"急性软组织挫伤\",\"value\":0}, {\"answer\":1,\"text\":\"慢性软组织扭伤\",\"value\":1}, {\"answer\":1,\"text\":\"中枢神经病变引起的肌肉痉挛\",\"value\":2}, {\"answer\":1,\"text\":\"慢性筋膜炎\",\"value\":3}, {\"answer\":0,\"text\":\"神经骨痛\",\"value\":4}]",
+    "title": "氯唑沙宗的适应症有哪些"
+  },
+  {
+    "id": 36572,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯二氮卓类\",\"value\":0}, {\"answer\":1,\"text\":\"吩噻嗪类\",\"value\":1}, {\"answer\":1,\"text\":\"巴比妥类\",\"value\":2}, {\"answer\":1,\"text\":\"单胺氧化酶抑制剂\",\"value\":3}, {\"answer\":0,\"text\":\"金刚烷类\",\"value\":4}]",
+    "title": "氯唑沙宗与哪类药物合用会加强其疗效"
+  },
+  {
+    "id": 36686,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"青霉胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"双氯芬酸钠\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列属于治疗类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36689,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"塞来昔布抑制血小板活性\",\"value\":0}, {\"answer\":1,\"text\":\"磺胺过敏者禁用塞来昔布\",\"value\":1}, {\"answer\":1,\"text\":\"避免同时服用两种以上NSAIDs\",\"value\":2}, {\"answer\":1,\"text\":\"老年患者宜选用半衰期短的NSAIDs药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "骨性关节炎药物治疗叙述正确的是"
+  },
+  {
+    "id": 36583,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"餐前\",\"value\":0}, {\"answer\":0,\"text\":\"餐后\",\"value\":1}, {\"answer\":0,\"text\":\"睡前\",\"value\":2}, {\"answer\":1,\"text\":\"餐后两小时\",\"value\":3}, {\"answer\":0,\"text\":\"睡前一小时\",\"value\":4}]",
+    "title": "服用依替膦酸钠的时间段为"
+  },
+  {
+    "id": 36654,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雷洛昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":0,\"text\":\"阿伦磷酸盐\",\"value\":2}, {\"answer\":0,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "下列抗骨质疏松药属于选择性雌激素受体调节剂的是"
+  },
+  {
+    "id": 36634,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":1,\"text\":\"非布司他\",\"value\":3}]",
+    "title": "首个非嘌呤结构的黄嘌呤氧化酶抑制剂药物的是"
+  },
+  {
+    "id": 36712,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"非甾体抗炎药+甲氨蝶呤+SASP\",\"value\":0}, {\"answer\":0,\"text\":\"非甾体抗炎药+糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体抗炎药+硫唑嘌呤\",\"value\":2}, {\"answer\":0,\"text\":\"非甾体抗炎药\",\"value\":3}]",
+    "title": "一中年女性,因手指、掌指、腕关节肿痛和僵硬半年,ESR 80mm/H,RF500IU,抗CCP抗体120U,X片示腕关节骨质疏松,有囊性变。该病人选择的最佳治疗方案是"
+  },
+  {
+    "id": 36657,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "用于治疗痛风性关节炎的急性发作、预防复发性痛风性关节炎急性发作的药物是"
+  },
+  {
+    "id": 36571,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1小时以内\",\"value\":0}, {\"answer\":1,\"text\":\"2小时\",\"value\":1}, {\"answer\":0,\"text\":\"3小时\",\"value\":2}, {\"answer\":0,\"text\":\"4小时\",\"value\":3}]",
+    "title": "氯唑沙宗片消化道吸收完全,多长时间达到血药浓度峰值"
+  },
+  {
+    "id": 36613,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双膦酸类药物\",\"value\":0}, {\"answer\":1,\"text\":\"雌激素类药物\",\"value\":1}, {\"answer\":0,\"text\":\"降钙素\",\"value\":2}, {\"answer\":0,\"text\":\"依普黄酮\",\"value\":3}]",
+    "title": "防治原发性Ⅰ型骨质疏松症的首选药物是"
+  },
+  {
+    "id": 36592,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"咽喉灼热感\",\"value\":2}, {\"answer\":1,\"text\":\"便秘\",\"value\":3}]",
+    "title": "不属于依替膦酸钠消化道不良反应表现的是"
+  },
+  {
+    "id": 36697,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"年龄的增大\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素的减少\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素的减少\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "绝经后骨质疏松发生的主要原因是"
+  },
+  {
+    "id": 36599,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"哺乳期妇女\",\"value\":2}, {\"answer\":1,\"text\":\"绝经后妇女\",\"value\":3}]",
+    "title": "下列不属于阿仑膦酸钠禁忌人群的是"
+  },
+  {
+    "id": 36590,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与骨骼表面的羟磷灰石结合\",\"value\":0}, {\"answer\":0,\"text\":\"增加小肠对钙的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"增加肾小管对钙的重吸收\",\"value\":2}, {\"answer\":0,\"text\":\"促进骨细胞介导的细胞因子产生\",\"value\":3}]",
+    "title": "属于双磷酸类药物的作用机制的是"
+  },
+  {
+    "id": 36618,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通过促进环氧化酶而阻断前列腺素的合成\",\"value\":0}, {\"answer\":1,\"text\":\"通过抑制环氧化酶而阻断前列腺素的合成\",\"value\":1}, {\"answer\":0,\"text\":\"通过促进环氧化酶而加速前列腺素的合成\",\"value\":2}, {\"answer\":0,\"text\":\"通过抑制环氧化酶而加速前列腺素的合成\",\"value\":3}]",
+    "title": "双氯芬酸钠发挥抗炎作用的机制是"
+  },
+  {
+    "id": 36695,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不引起胃肠道反应\",\"value\":0}, {\"answer\":0,\"text\":\"易于吸收\",\"value\":1}, {\"answer\":1,\"text\":\"含钙量高\",\"value\":2}, {\"answer\":0,\"text\":\"不确定\",\"value\":3}]",
+    "title": "钙剂中,无机钙的优点是"
+  },
+  {
+    "id": 36570,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"逐渐减量,直至停药\",\"value\":0}, {\"answer\":0,\"text\":\"使用其他药物进行联合治疗\",\"value\":1}, {\"answer\":1,\"text\":\"停药即可\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "氯唑沙宗出现不良反应后,若想消除不良反应需"
+  },
+  {
+    "id": 36683,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体疗加内服药物\",\"value\":0}, {\"answer\":1,\"text\":\"醋酸强的松龙局部封闭\",\"value\":1}, {\"answer\":0,\"text\":\"伤湿止痛膏局部贴敷\",\"value\":2}, {\"answer\":0,\"text\":\"理疗\",\"value\":3}]",
+    "title": "狭窄性腱鞘炎治疗效果较好的是"
+  },
+  {
+    "id": 36602,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1年以上\",\"value\":0}, {\"answer\":0,\"text\":\"3年以上\",\"value\":1}, {\"answer\":0,\"text\":\"5年以上\",\"value\":2}, {\"answer\":1,\"text\":\"10年以上\",\"value\":3}]",
+    "title": "阿仑膦酸钠的骨中消除半衰期约为"
+  },
+  {
+    "id": 36649,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"保泰松\",\"value\":1}, {\"answer\":0,\"text\":\"吲哚美辛\",\"value\":2}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "广泛用于解热镇痛和抗炎抗风湿,无水杨酸反应的是"
+  },
+  {
+    "id": 36708,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心理治疗\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"非甾体药物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素预防感染\",\"value\":3}]",
+    "title": "重症系统性红斑狼疮的治疗首选"
+  },
+  {
+    "id": 36653,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用非甾体抗炎药\",\"value\":0}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":1}, {\"answer\":1,\"text\":\"休息牵引\",\"value\":2}, {\"answer\":0,\"text\":\"手术治疗\",\"value\":3}]",
+    "title": "患者,男,30岁,搬重物时突然腰痛就医,临床诊断为腰椎间盘突出症,首选的治疗方法是"
+  },
+  {
+    "id": 36641,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制近端肾小管对尿酸盐的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸分解,将尿酸转化为尿囊素\",\"value\":1}, {\"answer\":0,\"text\":\"抑制粒细胞浸润和白细胞趋化\",\"value\":2}, {\"answer\":0,\"text\":\"防止尿酸形成结晶并沉积在关节及其他组织内\",\"value\":3}]",
+    "title": "丙磺舒的作用机制为"
+  },
+  {
+    "id": 36587,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"阿仑膦酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"骨化三醇\",\"value\":3}]",
+    "title": "以下不属于治疗骨质疏松症用药的是"
+  },
+  {
+    "id": 36633,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"促进肾近曲小管对尿酸的重吸收\",\"value\":0}, {\"answer\":0,\"text\":\"促进尿酸合成\",\"value\":1}, {\"answer\":1,\"text\":\"促进尿酸排泄\",\"value\":2}, {\"answer\":0,\"text\":\"升高血中尿酸浓度\",\"value\":3}]",
+    "title": "苯溴马隆抗痛风的药理作用是"
+  },
+  {
+    "id": 36693,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不参与钙及骨质代谢\",\"value\":0}, {\"answer\":0,\"text\":\"属多链多肽类激素\",\"value\":1}, {\"answer\":0,\"text\":\"从甲状腺β细胞分泌\",\"value\":2}, {\"answer\":1,\"text\":\"临床应用的均为鱼降钙素\",\"value\":3}]",
+    "title": "对降钙素的正确描述是"
+  },
+  {
+    "id": 36619,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心绞痛患者\",\"value\":0}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":1}, {\"answer\":1,\"text\":\"重度心力衰竭患者\",\"value\":2}, {\"answer\":0,\"text\":\"高血钾症患者\",\"value\":3}]",
+    "title": "双氯芬酸钠禁用于"
+  },
+  {
+    "id": 36642,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺栓塞\",\"value\":0}, {\"answer\":0,\"text\":\"术后血栓形成\",\"value\":1}, {\"answer\":1,\"text\":\"风湿性关节炎\",\"value\":2}, {\"answer\":0,\"text\":\"心肌梗死\",\"value\":3}]",
+    "title": "使用大剂量的阿司匹林可用于"
+  },
+  {
+    "id": 36676,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"泼尼松\",\"value\":2}, {\"answer\":0,\"text\":\"双氯芬酸钠\",\"value\":3}]",
+    "title": "痛风缓解期宜选用"
+  },
+  {
+    "id": 36664,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"芬必得胶囊\",\"value\":0}, {\"answer\":1,\"text\":\"地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"甲钴胺片\",\"value\":2}, {\"answer\":0,\"text\":\"乙哌立松片\",\"value\":3}]",
+    "title": "不推荐使用的治疗腰间盘突出症的治疗药物是"
+  },
+  {
+    "id": 36661,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异烟肼\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "类风湿关节炎患者消炎止痛常选用"
+  },
+  {
+    "id": 36666,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"增加子宫内膜病变的风险\",\"value\":0}, {\"answer\":0,\"text\":\"脑卒中风险\",\"value\":1}, {\"answer\":0,\"text\":\"脱发风险\",\"value\":2}, {\"answer\":0,\"text\":\"体重增加的风险\",\"value\":3}]",
+    "title": "激素替代治疗妇女绝经后骨质疏松,主要不良反应是"
+  },
+  {
+    "id": 36677,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"老年性骨质疏松\",\"value\":0}, {\"answer\":1,\"text\":\"妇女绝经后骨质疏松\",\"value\":1}, {\"answer\":0,\"text\":\"原发性骨质疏松\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "钙制剂、雌激素、维生素D联合用药,用于治疗"
+  },
+  {
+    "id": 36644,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗炎作用强,解热镇痛作用很弱\",\"value\":0}, {\"answer\":1,\"text\":\"解热镇痛作用温和持久,抗炎、抗风湿作用很弱\",\"value\":1}, {\"answer\":0,\"text\":\"抑制血栓形成\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量可减少肾小管对尿酸盐的再吸收\",\"value\":3}]",
+    "title": "对乙酰氨基酚的药理作用特点是"
+  },
+  {
+    "id": 36694,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"降血钙作用\",\"value\":0}, {\"answer\":0,\"text\":\"抑制肾脏对钙和磷的重吸收\",\"value\":1}, {\"answer\":0,\"text\":\"抑制破骨细胞活性\",\"value\":2}, {\"answer\":1,\"text\":\"抑制钠镁氯的排泄\",\"value\":3}]",
+    "title": "降钙素的作用不包括"
+  },
+  {
+    "id": 36704,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"塞来昔布\",\"value\":0}, {\"answer\":0,\"text\":\"美洛昔康\",\"value\":1}, {\"answer\":0,\"text\":\"依托度酸\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "与华法林同时使用,可能增加INR值的药物是"
+  },
+  {
+    "id": 36648,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"丙磺舒\",\"value\":2}, {\"answer\":0,\"text\":\"别嘌醇\",\"value\":3}]",
+    "title": "痛风急性发作时宜选用的药物是"
+  },
+  {
+    "id": 36667,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"800mg\",\"value\":0}, {\"answer\":0,\"text\":\"1000mg\",\"value\":1}, {\"answer\":0,\"text\":\"1500mg\",\"value\":2}, {\"answer\":0,\"text\":\"1600mg\",\"value\":3}]",
+    "title": "为了骨骼健康,我国营养学会制定的成人每日钙摄入推荐量是"
+  },
+  {
+    "id": 36621,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"提高地高辛血药浓度\",\"value\":0}, {\"answer\":0,\"text\":\"降低地高辛血药浓度\",\"value\":1}, {\"answer\":0,\"text\":\"对地高辛血药浓度无影响\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "双氯芬酸钠与地高辛联合用药,会导致"
+  },
+  {
+    "id": 36577,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"婴幼儿\",\"value\":0}, {\"answer\":1,\"text\":\"儿童及青少年\",\"value\":1}, {\"answer\":0,\"text\":\"中年\",\"value\":2}, {\"answer\":0,\"text\":\"老年\",\"value\":3}]",
+    "title": "骨与关节结核好发年龄"
+  },
+  {
+    "id": 36662,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丙磺舒\",\"value\":0}, {\"answer\":1,\"text\":\"布洛芬\",\"value\":1}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":2}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":3}]",
+    "title": "主要用于治疗风湿性和类风湿性关节炎的药物是"
+  },
+  {
+    "id": 36581,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1~6%\",\"value\":0}, {\"answer\":0,\"text\":\"8~15%\",\"value\":1}, {\"answer\":0,\"text\":\"20~30%\",\"value\":2}, {\"answer\":0,\"text\":\"33~50%\",\"value\":3}]",
+    "title": "依替膦酸钠口服吸收率约为"
+  },
+  {
+    "id": 36573,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖尿病患者\",\"value\":0}, {\"answer\":1,\"text\":\"肝肾功能损害患者\",\"value\":1}, {\"answer\":0,\"text\":\"高血压患者\",\"value\":2}, {\"answer\":0,\"text\":\"心功能不全患者\",\"value\":3}]",
+    "title": "哪类患者选用氯唑沙宗时应慎用"
+  },
+  {
+    "id": 36626,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"秋水仙碱\",\"value\":0}, {\"answer\":1,\"text\":\"丙磺舒\",\"value\":1}, {\"answer\":1,\"text\":\"苯溴马隆\",\"value\":2}, {\"answer\":0,\"text\":\"来氟米特\",\"value\":3}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":4}]",
+    "title": "以下属于抗痛风药的是"
+  },
+  {
+    "id": 36580,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧化钙\",\"value\":0}, {\"answer\":0,\"text\":\"降钙素\",\"value\":1}, {\"answer\":1,\"text\":\"维生素D\",\"value\":2}, {\"answer\":1,\"text\":\"骨化三醇\",\"value\":3}, {\"answer\":1,\"text\":\"阿法骨化醇\",\"value\":4}]",
+    "title": "以下属于骨矿化促进药物的有"
+  },
+  {
+    "id": 36640,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"水杨酸反应\",\"value\":1}, {\"answer\":1,\"text\":\"过敏性反应\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林哮喘\",\"value\":3}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":4}]",
+    "title": "阿司匹林的不良反应有"
+  },
+  {
+    "id": 36691,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯溴马隆\",\"value\":0}, {\"answer\":1,\"text\":\"别嘌醇\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"秋水仙碱\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "痛风急性发作期不宜使用的药物是"
+  },
+  {
+    "id": 36714,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"消化性溃疡\",\"value\":1}, {\"answer\":1,\"text\":\"骨质疏松\",\"value\":2}, {\"answer\":1,\"text\":\"股骨头无菌性坏死\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病\",\"value\":4}]",
+    "title": "糖皮质激素长期应用的不良反应有"
+  },
+  {
+    "id": 36716,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"塞来昔布胶囊\",\"value\":1}, {\"answer\":1,\"text\":\"秋水仙碱片\",\"value\":2}, {\"answer\":1,\"text\":\"依托考昔片\",\"value\":3}, {\"answer\":1,\"text\":\"泼尼松片\",\"value\":4}]",
+    "title": "下列药物能用于痛风急性期抗炎治疗的有"
+  },
+  {
+    "id": 36630,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水样腹泻\",\"value\":0}, {\"answer\":1,\"text\":\"血便\",\"value\":1}, {\"answer\":0,\"text\":\"哮喘\",\"value\":2}, {\"answer\":1,\"text\":\"脱水\",\"value\":3}, {\"answer\":1,\"text\":\"休克\",\"value\":4}]",
+    "title": "以下属于秋水仙碱不良反应的是"
+  },
+  {
+    "id": 36688,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"剂量个化\",\"value\":0}, {\"answer\":1,\"text\":\"尽量使用最低有效剂量\",\"value\":1}, {\"answer\":1,\"text\":\"用药3个月,检查肝肾功能\",\"value\":2}, {\"answer\":0,\"text\":\"为实现镇痛作用,尽量使用负荷剂量\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "全身应用非甾体抗炎药治疗骨性关节炎的原则是"
+  },
+  {
+    "id": 36601,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"食管失弛缓症\",\"value\":0}, {\"answer\":1,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":1,\"text\":\"孕妇\",\"value\":2}, {\"answer\":1,\"text\":\"哺乳期妇女\",\"value\":3}, {\"answer\":0,\"text\":\"绝经后妇女\",\"value\":4}]",
+    "title": "阿仑膦酸钠禁用于"
+  },
+  {
+    "id": 36705,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"关节腔注射,1年内不宜超过5次\",\"value\":0}, {\"answer\":1,\"text\":\"使用糖皮质激素时,需同时补充钙剂和维生素D\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量使用\",\"value\":2}, {\"answer\":1,\"text\":\"短期使用\",\"value\":3}, {\"answer\":1,\"text\":\"密切监测血压及血糖变化\",\"value\":4}]",
+    "title": "类风湿关节炎的糖皮质激素治疗,正确的为"
+  },
+  {
+    "id": 36623,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头痛\",\"value\":0}, {\"answer\":0,\"text\":\"精神失常\",\"value\":1}, {\"answer\":1,\"text\":\"皮肤红斑\",\"value\":2}, {\"answer\":1,\"text\":\"皮疹\",\"value\":3}, {\"answer\":1,\"text\":\"胃肠道功能紊乱\",\"value\":4}]",
+    "title": "双氯芬酸钠的不良发应有"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"实例\",\"value\":0}, {\"answer\":0,\"text\":\"实例\",\"value\":1}, {\"answer\":0,\"text\":\"实例\",\"value\":2}, {\"answer\":1,\"text\":\"实例\",\"value\":3}]",
+    "title": "实例"
+  }
+]

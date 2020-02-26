@@ -1,0 +1,1568 @@
+[
+  {
+    "id": 36882,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺素\",\"value\":0}, {\"answer\":1,\"text\":\"倍氯米松\",\"value\":1}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":2}, {\"answer\":0,\"text\":\"异丙基阿托品\",\"value\":3}]",
+    "title": "明显抑制支气管炎症过程的平喘药是"
+  },
+  {
+    "id": 36847,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吗啡\",\"value\":0}, {\"answer\":1,\"text\":\"氨茶碱\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":3}]",
+    "title": "患者,男性,45岁,反复发作夜间呼吸困难1个月,加重一天就诊,体格检查：血压180/110mHg,呼吸急促,双肺散在哮鸣音,双肺底细湿啰音,心率130次/分,在未确诊情况下又急需尽快缓解呼吸困难时,该患者可选用的药物是"
+  },
+  {
+    "id": 36814,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"95mmHg\",\"value\":0}, {\"answer\":0,\"text\":\"85mmHg\",\"value\":1}, {\"answer\":1,\"text\":\"65mmHg\",\"value\":2}, {\"answer\":0,\"text\":\"50mmHg\",\"value\":3}]",
+    "title": "慢性支气管炎,肺气肿患者,血气分析结果为：pH7.38,PaCO281mmHg,给予吸氧后,PaO2维持多少较为合适"
+  },
+  {
+    "id": 36730,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺部遗留纤维化\",\"value\":0}, {\"answer\":0,\"text\":\"造成胸膜粘连增厚\",\"value\":1}, {\"answer\":0,\"text\":\"肺泡受损产生局部肺气肿、肺大泡\",\"value\":2}, {\"answer\":1,\"text\":\"肺组织完全恢复正常\",\"value\":3}]",
+    "title": "肺炎球菌肺炎在炎症消散后常见的是"
+  },
+  {
+    "id": 36839,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"普萘洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":1}, {\"answer\":0,\"text\":\"布地奈德\",\"value\":2}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":3}]",
+    "title": "支气管哮喘的治疗药物不能选用"
+  },
+  {
+    "id": 36974,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"症状控制且无副作用也应减量\",\"value\":0}, {\"answer\":0,\"text\":\"症状控制且无副作用也应就诊\",\"value\":1}, {\"answer\":1,\"text\":\"症状控制无需加量,调整剂量后重新检测茶碱浓度\",\"value\":2}, {\"answer\":0,\"text\":\"重新检测茶碱浓度,增加剂量\",\"value\":3}]",
+    "title": "某患者经治疗后,茶碱浓度10-12ug/ml时的处理是"
+  },
+  {
+    "id": 36757,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"支气管动脉先天性解剖畸形\",\"value\":0}, {\"answer\":1,\"text\":\"支气管动脉与肺动脉终末支扩张血管瘤破裂\",\"value\":1}, {\"answer\":0,\"text\":\"支气管发生囊性扩张\",\"value\":2}, {\"answer\":0,\"text\":\"支气管粘膜溃疡\",\"value\":3}]",
+    "title": "支气管扩张引起大咯血的原因为"
+  },
+  {
+    "id": 36784,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"俯卧位\",\"value\":0}, {\"answer\":1,\"text\":\"患侧卧位\",\"value\":1}, {\"answer\":0,\"text\":\"头低足高位\",\"value\":2}, {\"answer\":0,\"text\":\"头高足低位\",\"value\":3}]",
+    "title": "肺结核患者胸痛时应采取"
+  },
+  {
+    "id": 36895,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯化铵\",\"value\":0}, {\"answer\":0,\"text\":\"喷他维林\",\"value\":1}, {\"answer\":1,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":3}]",
+    "title": "宜与异丙肾上腺素同用的祛痰药是"
+  },
+  {
+    "id": 36911,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"羧甲司坦\",\"value\":0}, {\"answer\":0,\"text\":\"曲尼司特\",\"value\":1}, {\"answer\":1,\"text\":\"孟鲁司特\",\"value\":2}, {\"answer\":0,\"text\":\"多索茶碱\",\"value\":3}]",
+    "title": "治疗慢性阻塞性肺病的药物中,属于白三烯受体阻断剂的是"
+  },
+  {
+    "id": 36878,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制磷酸二酯酶,阻止cAMP分解为ADP\",\"value\":0}, {\"answer\":0,\"text\":\"稳定肥大细胞膜\",\"value\":1}, {\"answer\":0,\"text\":\"激活腺苷环化酶使cAMP形成增加\",\"value\":2}, {\"answer\":0,\"text\":\"抑制鸟苷环化酶使cAMP形成减少\",\"value\":3}]",
+    "title": "茶碱的平喘作用是"
+  },
+  {
+    "id": 36812,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"胸部摄片明确病因\",\"value\":0}, {\"answer\":1,\"text\":\"补液,增加有效血容量\",\"value\":1}, {\"answer\":0,\"text\":\"给予多巴胺静点\",\"value\":2}, {\"answer\":0,\"text\":\"静注西地兰\",\"value\":3}]",
+    "title": "男性,19岁,受凉后突起寒战、高热至39.9℃,伴咳嗽、咳铁锈色痰和胸痛2天,2小时前自服巴米尔后出现全身大汗、热退,但感觉周身虚弱无力和心悸,并逐渐出现神志模糊,遂收入院进一步诊疗。体格检查：BP75/55mmHg,心率128次/分,肢体湿凉,肤色苍白,左胸叩浊,左肺呼吸音弱,心音低钝,各瓣膜听诊区未闻病理性杂音。在对该患者接诊后立即采取的措施应为"
+  },
+  {
+    "id": 36869,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚洛尔\",\"value\":0}, {\"answer\":1,\"text\":\"克伦特罗\",\"value\":1}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":2}, {\"answer\":0,\"text\":\"多巴酚丁胺\",\"value\":3}]",
+    "title": "对β2受体有较强的选择性的平喘药是"
+  },
+  {
+    "id": 36766,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"细菌\",\"value\":0}, {\"answer\":1,\"text\":\"病毒\",\"value\":1}, {\"answer\":0,\"text\":\"原虫\",\"value\":2}, {\"answer\":0,\"text\":\"螺旋体\",\"value\":3}]",
+    "title": "引起急性上呼吸道感染的主要病原为"
+  },
+  {
+    "id": 36891,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"苯丙哌林\",\"value\":2}, {\"answer\":0,\"text\":\"苯佐那酯\",\"value\":3}]",
+    "title": "具有成瘾性的中枢镇咳药"
+  },
+  {
+    "id": 36740,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"突发性呼吸困难\",\"value\":0}, {\"answer\":0,\"text\":\"夜间阵发性呼吸困难\",\"value\":1}, {\"answer\":0,\"text\":\"心悸\",\"value\":2}, {\"answer\":1,\"text\":\"逐渐加重的呼吸困难,以活动后为重\",\"value\":3}]",
+    "title": "肺气肿的主要症状是"
+  },
+  {
+    "id": 36807,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌素剂量不够\",\"value\":0}, {\"answer\":1,\"text\":\"出现并发症\",\"value\":1}, {\"answer\":0,\"text\":\"细菌产生耐药性\",\"value\":2}, {\"answer\":0,\"text\":\"没有配用退热剂\",\"value\":3}]",
+    "title": "肺炎球菌肺炎患者,在抗菌素治疗下热退又再发热,白细胞增高,应考虑是"
+  },
+  {
+    "id": 36815,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"增加肺泡通气量才能纠正呼吸性酸中毒\",\"value\":0}, {\"answer\":1,\"text\":\"呼吸兴奋剂可用于有呼吸肌病变及肺间质纤维化的患者\",\"value\":1}, {\"answer\":0,\"text\":\"采用PEEP方式有利于改善换气功能\",\"value\":2}, {\"answer\":0,\"text\":\"在合并心衰时,如有血氧饱和度上升,则有使用利尿剂的指征\",\"value\":3}]",
+    "title": "关于呼吸衰竭的治疗,下列哪些提法不正确"
+  },
+  {
+    "id": 36823,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"出现呼吸衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"存在体循环功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"出现右心功能异常\",\"value\":2}, {\"answer\":0,\"text\":\"合并下肢静脉血栓\",\"value\":3}]",
+    "title": "判断肺血栓栓塞患者需要溶栓治疗的主要依据是"
+  },
+  {
+    "id": 36990,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"晨起空腹\",\"value\":0}, {\"answer\":1,\"text\":\"睡前\",\"value\":1}, {\"answer\":0,\"text\":\"早餐后\",\"value\":2}, {\"answer\":0,\"text\":\"午餐前\",\"value\":3}]",
+    "title": "患儿,男,5岁,体重18KG,主诉“咳嗽,憋喘2天”,临床诊断为“急性支气管炎,支气管哮喘”。医生开列的药有孟鲁司特,该患儿使用孟鲁司特的时间应该是"
+  },
+  {
+    "id": 36863,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"胃溃疡\",\"value\":0}, {\"answer\":0,\"text\":\"过敏者\",\"value\":1}, {\"answer\":1,\"text\":\"18岁以下儿童\",\"value\":2}, {\"answer\":0,\"text\":\"心脏病\",\"value\":3}]",
+    "title": "左氧氟沙星禁用与下列哪类患者"
+  },
+  {
+    "id": 36794,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长期吸入抗胆碱能药\",\"value\":0}, {\"answer\":0,\"text\":\"长期小剂量口服氨茶碱\",\"value\":1}, {\"answer\":1,\"text\":\"肺减容手术\",\"value\":2}, {\"answer\":0,\"text\":\"长期吸入糖皮质激素\",\"value\":3}]",
+    "title": "目前认为,可以肯定改善COPD患者长期预后的治疗措施"
+  },
+  {
+    "id": 36994,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"控制30S核糖体亚基的形成\",\"value\":0}, {\"answer\":0,\"text\":\"可用于化脓性链球菌引起的急性咽炎\",\"value\":1}, {\"answer\":0,\"text\":\"可作为青霉素过敏者革兰阳性菌感染的用药\",\"value\":2}, {\"answer\":0,\"text\":\"对支原体感染效果明显\",\"value\":3}]",
+    "title": "下列关于阿奇霉素的说法不正确的是"
+  },
+  {
+    "id": 37034,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利福平\",\"value\":0}, {\"answer\":1,\"text\":\"对氨基水杨酸\",\"value\":1}, {\"answer\":1,\"text\":\"异烟肼\",\"value\":2}, {\"answer\":1,\"text\":\"吡嗪酰胺\",\"value\":3}, {\"answer\":1,\"text\":\"乙胺丁醇\",\"value\":4}]",
+    "title": "下列药物不属于肝药酶诱导剂的抗结核药物是"
+  },
+  {
+    "id": 36908,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乏力\",\"value\":0}, {\"answer\":1,\"text\":\"午后低热\",\"value\":1}, {\"answer\":0,\"text\":\"食欲增加\",\"value\":2}, {\"answer\":1,\"text\":\"少量咯血\",\"value\":3}, {\"answer\":1,\"text\":\"咳嗽\",\"value\":4}]",
+    "title": "下列典型结核病的临床表现,叙述正确的是"
+  },
+  {
+    "id": 36865,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"克林霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":0,\"text\":\"利巴韦林\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "军团菌所致的社区获得性肺炎门诊治疗,经验性抗感染药宜首选"
+  },
+  {
+    "id": 36872,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":0}, {\"answer\":0,\"text\":\"麻黄碱\",\"value\":1}, {\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":2}, {\"answer\":0,\"text\":\"茶碱\",\"value\":3}]",
+    "title": "心血管系统不良反应较少的平喘药是"
+  },
+  {
+    "id": 36777,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"逐渐加重的呼吸困难\",\"value\":0}, {\"answer\":0,\"text\":\"心悸\",\"value\":1}, {\"answer\":0,\"text\":\"咯血\",\"value\":2}, {\"answer\":0,\"text\":\"咳痰\",\"value\":3}]",
+    "title": "慢性弥漫性阻塞性肺气肿最主要的症状是"
+  },
+  {
+    "id": 36868,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"松弛支气管平滑肌\",\"value\":0}, {\"answer\":1,\"text\":\"抑制气管炎炎症及炎症介质\",\"value\":1}, {\"answer\":0,\"text\":\"收缩支气管粘膜血管\",\"value\":2}, {\"answer\":0,\"text\":\"增强呼吸肌收缩力\",\"value\":3}]",
+    "title": "喘息的根本治疗方式是"
+  },
+  {
+    "id": 36858,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"逐渐加重的呼吸困难,以活动后为重\",\"value\":0}, {\"answer\":0,\"text\":\"心悸\",\"value\":1}, {\"answer\":0,\"text\":\"夜间阵发性呼吸困难\",\"value\":2}, {\"answer\":0,\"text\":\"突发性呼吸困难\",\"value\":3}]",
+    "title": "肺气肿的主要症状是"
+  },
+  {
+    "id": 36768,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.2\",\"value\":0}, {\"answer\":1,\"text\":\"0.4\",\"value\":1}, {\"answer\":0,\"text\":\"0.5\",\"value\":2}, {\"answer\":0,\"text\":\"0.6\",\"value\":3}]",
+    "title": "支气管肺炎一般用鼻前庭导管浓度不超过"
+  },
+  {
+    "id": 36752,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"重复吸入速效β2受体激动药,必要时口服糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"机械通气治疗\",\"value\":1}, {\"answer\":0,\"text\":\"氧疗\",\"value\":2}, {\"answer\":0,\"text\":\"静脉注射或滴注全身性糖皮质激素\",\"value\":3}]",
+    "title": "成人哮喘轻度急性发作时的治疗策略为"
+  },
+  {
+    "id": 36797,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉注射氨茶碱\",\"value\":0}, {\"answer\":0,\"text\":\"静脉使用糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"雾化吸入沙丁胺醇\",\"value\":2}, {\"answer\":0,\"text\":\"雾化吸入异丙托溴铵\",\"value\":3}]",
+    "title": "支气管哮喘急性发作首选治疗方法是"
+  },
+  {
+    "id": 36852,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"β2受体激动剂\",\"value\":0}, {\"answer\":0,\"text\":\"抗生素类药品\",\"value\":1}, {\"answer\":0,\"text\":\"α受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"α受体阻断剂\",\"value\":3}]",
+    "title": "患者,女性,20岁,反复发作性呼吸困难,胸闷、咳嗽3年,每年春季发作,可自行缓解,此次已发作一天,症状仍持续加重。体检：双肺满布哮鸣音,心率89次/分,心律齐,无杂音,该患者治疗应选用的药物为"
+  },
+  {
+    "id": 36927,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"利福平\",\"value\":1}, {\"answer\":0,\"text\":\"对氨基水杨酸\",\"value\":2}, {\"answer\":1,\"text\":\"异烟肼\",\"value\":3}]",
+    "title": "患者,男,40岁,因肺结核使用抗结核药后,四肢出现针刺感,导致这种症状的药物是"
+  },
+  {
+    "id": 36748,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制支气管炎症\",\"value\":0}, {\"answer\":0,\"text\":\"治疗剂量就有明显的全身不良反应\",\"value\":1}, {\"answer\":0,\"text\":\"强大的松弛支气管平滑肌作用\",\"value\":2}, {\"answer\":0,\"text\":\"一般采用口服给药\",\"value\":3}]",
+    "title": "倍氯米松治疗支气管哮喘的特点"
+  },
+  {
+    "id": 36787,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"10小时\",\"value\":0}, {\"answer\":0,\"text\":\"12小时\",\"value\":1}, {\"answer\":1,\"text\":\"24小时\",\"value\":2}, {\"answer\":0,\"text\":\"36小时\",\"value\":3}]",
+    "title": "哮喘持续状态是指严重哮喘时间持续"
+  },
+  {
+    "id": 36721,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1~2L/min\",\"value\":0}, {\"answer\":1,\"text\":\"2~4L/min\",\"value\":1}, {\"answer\":0,\"text\":\"4~5L/min\",\"value\":2}, {\"answer\":0,\"text\":\"5~6L/min\",\"value\":3}]",
+    "title": "支气管肺炎缺氧明显者,宜用面罩给氧,氧流量为"
+  },
+  {
+    "id": 36860,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":0}, {\"answer\":0,\"text\":\"利福平+曲安奈德\",\"value\":1}, {\"answer\":1,\"text\":\"异烟肼+乙胺丁醇+利福平\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "患者男性,35岁,午后体温37.5℃,胸痛、乏力、食欲减退、消瘦、盗汗、咳嗽、咳痰,痰液呈粘液脓性,PPD试验呈阳性。该患者优先使用的药物应该是"
+  },
+  {
+    "id": 36888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"不能阻止过敏介质的释放\",\"value\":0}, {\"answer\":1,\"text\":\"不能直接对抗过敏介质的作用\",\"value\":1}, {\"answer\":0,\"text\":\"吸入给药可能引起呛咳\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定作用\",\"value\":3}]",
+    "title": "色甘酸钠对已发作的哮喘无效是因为"
+  },
+  {
+    "id": 36789,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利用呼吸机改善呼吸功能\",\"value\":0}, {\"answer\":0,\"text\":\"纠正电解质紊乱\",\"value\":1}, {\"answer\":1,\"text\":\"积极控制感染,解除支气管痉挛,改善通气功能\",\"value\":2}, {\"answer\":0,\"text\":\"低流量吸氧\",\"value\":3}]",
+    "title": "肺心病急性加重期的治疗关键是"
+  },
+  {
+    "id": 37001,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙美特罗\",\"value\":0}, {\"answer\":0,\"text\":\"克伦特罗\",\"value\":1}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":2}, {\"answer\":0,\"text\":\"特布他林\",\"value\":3}]",
+    "title": "维持时间最长的β2受体激动药是"
+  },
+  {
+    "id": 36761,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"10%-45%\",\"value\":0}, {\"answer\":0,\"text\":\"35%-40%\",\"value\":1}, {\"answer\":0,\"text\":\"51%-60%\",\"value\":2}, {\"answer\":1,\"text\":\"25%-35%\",\"value\":3}]",
+    "title": "对于Ⅱ型呼吸衰竭的患者,最适宜的氧气浓度为"
+  },
+  {
+    "id": 36919,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"提高药物疗效\",\"value\":0}, {\"answer\":0,\"text\":\"加速细菌细胞壁破裂\",\"value\":1}, {\"answer\":0,\"text\":\"延缓细菌耐药性的产生\",\"value\":2}, {\"answer\":0,\"text\":\"减少药物不良反应\",\"value\":3}]",
+    "title": "注射普鲁卡因青霉素+口服丙璜舒治疗敏感菌感染属于"
+  },
+  {
+    "id": 36772,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"需氧代谢障碍\",\"value\":0}, {\"answer\":0,\"text\":\"饥饿\",\"value\":1}, {\"answer\":0,\"text\":\"高热\",\"value\":2}, {\"answer\":1,\"text\":\"二氧化碳潴留\",\"value\":3}]",
+    "title": "支气管肺炎合并呼吸性酸中毒的原因是"
+  },
+  {
+    "id": 36907,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"胆碱能受体激动剂\",\"value\":0}, {\"answer\":1,\"text\":\"茶碱\",\"value\":1}, {\"answer\":1,\"text\":\"β2受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"β受体阻断剂\",\"value\":3}, {\"answer\":0,\"text\":\"β1受体激动剂\",\"value\":4}]",
+    "title": "具有舒张支气管作用的药物包括"
+  },
+  {
+    "id": 37025,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇控释剂适用于夜间发作\",\"value\":0}, {\"answer\":0,\"text\":\"麻黄碱可用于支气管哮喘急性发作\",\"value\":1}, {\"answer\":1,\"text\":\"倍氯米松可用于重症哮喘发作\",\"value\":2}, {\"answer\":1,\"text\":\"异丙阿托品吸入可有效预防夜间哮喘发作\",\"value\":3}, {\"answer\":0,\"text\":\"对抗过敏介质的作用\",\"value\":4}]",
+    "title": "关于平喘药的临床应用正确的是"
+  },
+  {
+    "id": 36874,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"H1受体拮抗剂\",\"value\":0}, {\"answer\":0,\"text\":\"长效β2受体激动剂\",\"value\":1}, {\"answer\":0,\"text\":\"M受体拮抗剂\",\"value\":2}, {\"answer\":1,\"text\":\"白三烯受体调节剂\",\"value\":3}]",
+    "title": "主要作用机制为控制支气管哮喘气道炎症的药物是"
+  },
+  {
+    "id": 36737,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"动-静脉样分流增加\",\"value\":0}, {\"answer\":1,\"text\":\"肺泡通气功能障碍\",\"value\":1}, {\"answer\":0,\"text\":\"通气／血流比例失调\",\"value\":2}, {\"answer\":0,\"text\":\"机体氧耗量增加\",\"value\":3}]",
+    "title": "Ⅱ型呼吸衰竭患者的肺功能改变主要是"
+  },
+  {
+    "id": 36909,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"羧甲司坦\",\"value\":0}, {\"answer\":0,\"text\":\"曲尼司特\",\"value\":1}, {\"answer\":0,\"text\":\"孟鲁司特\",\"value\":2}, {\"answer\":0,\"text\":\"多索茶碱\",\"value\":3}]",
+    "title": "治疗慢性阻塞性肺病的药物中,属于粘痰调节剂的是"
+  },
+  {
+    "id": 36883,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗炎、抗过敏作用\",\"value\":0}, {\"answer\":0,\"text\":\"阻断M受体\",\"value\":1}, {\"answer\":0,\"text\":\"激活腺苷酸环化酶\",\"value\":2}, {\"answer\":0,\"text\":\"直接松弛支气管平滑肌\",\"value\":3}]",
+    "title": "糖皮质激素的平喘机制是"
+  },
+  {
+    "id": 36970,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血糖升高\",\"value\":0}, {\"answer\":0,\"text\":\"有协同作用,可减少糖皮质激素用量\",\"value\":1}, {\"answer\":1,\"text\":\"增加胃溃疡几率\",\"value\":2}, {\"answer\":0,\"text\":\"钾过度流失\",\"value\":3}]",
+    "title": "糖皮质激素联用非甾体抗炎药可导致"
+  },
+  {
+    "id": 36840,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呼吸频率轻度增加,可闻及散在哮鸣音\",\"value\":0}, {\"answer\":0,\"text\":\"肺通气功能和血气分析检查正常\",\"value\":1}, {\"answer\":1,\"text\":\"心率加快,超过120次/分\",\"value\":2}, {\"answer\":0,\"text\":\"步行或上楼时气短\",\"value\":3}]",
+    "title": "轻度支气管的临床表现不包括"
+  },
+  {
+    "id": 36817,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"<25%\",\"value\":0}, {\"answer\":1,\"text\":\"<35%\",\"value\":1}, {\"answer\":0,\"text\":\"<45%\",\"value\":2}, {\"answer\":0,\"text\":\"<55%\",\"value\":3}]",
+    "title": "慢性呼吸衰竭缺氧明显伴二氧化碳潴留时,采用氧疗的给氧浓度,下列哪项是正确的"
+  },
+  {
+    "id": 36756,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"仅有反复咯血,一般无咳嗽、咳痰\",\"value\":0}, {\"answer\":0,\"text\":\"仅有早晨咳嗽及咳痰\",\"value\":1}, {\"answer\":0,\"text\":\"纤维支气管镜检见支气管粘膜干燥、萎缩\",\"value\":2}, {\"answer\":0,\"text\":\"干咳为主\",\"value\":3}]",
+    "title": "干性支气管扩张是指"
+  },
+  {
+    "id": 36973,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"症状控制且无副作用也停止1次用药,减少50%剂量\",\"value\":0}, {\"answer\":0,\"text\":\"症状控制且无副作用也应减量\",\"value\":1}, {\"answer\":0,\"text\":\"症状控制无需加量,调整剂量后重新检测茶碱浓度\",\"value\":2}, {\"answer\":1,\"text\":\"重新检测茶碱浓度,增加剂量\",\"value\":3}]",
+    "title": "某患者经治疗后,茶碱浓度<5.0ug/ml时的处理是"
+  },
+  {
+    "id": 36738,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特发性肺间质纤维化\",\"value\":0}, {\"answer\":1,\"text\":\"肺气肿\",\"value\":1}, {\"answer\":0,\"text\":\"间质性肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"矽肺\",\"value\":3}]",
+    "title": "下列那种疾病可使患者残气量增加"
+  },
+  {
+    "id": 36983,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"增加25%\",\"value\":0}, {\"answer\":0,\"text\":\"减少25%\",\"value\":1}, {\"answer\":1,\"text\":\"减少50%\",\"value\":2}, {\"answer\":0,\"text\":\"减少10%\",\"value\":3}]",
+    "title": "某患者支气管哮喘急性发作,使用布地奈德、沙丁胺醇吸入,氨茶碱静脉滴注治疗。治疗后患者茶碱血药浓度测得为23.2ug/ml,正确的剂量调整方法是"
+  },
+  {
+    "id": 36829,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"链霉素\",\"value\":0}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":1}, {\"answer\":0,\"text\":\"利福平\",\"value\":2}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":3}]",
+    "title": "仅对细胞外碱性环境中的结核菌有杀菌作用的药物是"
+  },
+  {
+    "id": 36986,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"噻托溴铵\",\"value\":0}, {\"answer\":0,\"text\":\"坦洛新\",\"value\":1}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":2}, {\"answer\":0,\"text\":\"莫西沙星\",\"value\":3}]",
+    "title": "某患者以“慢性阻塞性肺疾病急性加重期”收住院,医嘱用药有莫西沙星注射液400mg,0.9%氯化钠注射液100ml+注射用甲泼尼龙琥珀酸钠40mg,注射用奥美拉唑40mg,沙美特罗替卡松粉吸入剂50/500ug,噻托溴铵粉吸入剂18ug,左旋氨氯地平片2.5mg,坦洛新缓释胶囊0.2mg,呋塞米20mg。该患者入院第七天,出现排尿困难,可能与使用的哪种药物有关？"
+  },
+  {
+    "id": 36980,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"右美沙芬\",\"value\":0}, {\"answer\":1,\"text\":\"苯丙哌林\",\"value\":1}, {\"answer\":0,\"text\":\"羟甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"氯化铵\",\"value\":3}]",
+    "title": "没有成瘾性,兼有中枢和外周镇咳作用的药品是"
+  },
+  {
+    "id": 36925,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"利福平\",\"value\":0}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":1}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":3}]",
+    "title": "用药期间尿液可呈橘红色的抗结核药是"
+  },
+  {
+    "id": 36719,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诱发代谢性碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"可引起氧中毒\",\"value\":1}, {\"answer\":0,\"text\":\"兴奋呼吸中枢,促使CO2排过快,诱发呼碱\",\"value\":2}, {\"answer\":1,\"text\":\"以上都不对\",\"value\":3}]",
+    "title": "严重的Ⅱ型呼衰患者,不能吸入高浓度氧,主要是因为"
+  },
+  {
+    "id": 36788,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨茶碱\",\"value\":0}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":2}, {\"answer\":1,\"text\":\"吗啡\",\"value\":3}]",
+    "title": "支气管哮喘发作时禁用的药物为"
+  },
+  {
+    "id": 36921,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"SM\",\"value\":0}, {\"answer\":0,\"text\":\"PZA\",\"value\":1}, {\"answer\":1,\"text\":\"EMB\",\"value\":2}, {\"answer\":0,\"text\":\"PAS\",\"value\":3}]",
+    "title": "下列药物可能引起球后视神经炎的是"
+  },
+  {
+    "id": 36870,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"激动骨骼肌β2受体\",\"value\":0}, {\"answer\":0,\"text\":\"激动骨骼肌N2受体\",\"value\":1}, {\"answer\":0,\"text\":\"阻断中枢多巴胺D2受体\",\"value\":2}, {\"answer\":0,\"text\":\"阻断骨骼肌β2受体\",\"value\":3}]",
+    "title": "沙丁胺醇剂量过大引起手指震颤的原因"
+  },
+  {
+    "id": 36732,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"慢性支气管炎、阻塞性肺气肿\",\"value\":0}, {\"answer\":0,\"text\":\"肺结核\",\"value\":1}, {\"answer\":0,\"text\":\"胸部畸形\",\"value\":2}, {\"answer\":0,\"text\":\"原发性肺动脉高压症\",\"value\":3}]",
+    "title": "引起慢性肺心病的病因中,下列哪项最常见"
+  },
+  {
+    "id": 37028,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可预防I型变态反应所致哮喘\",\"value\":0}, {\"answer\":0,\"text\":\"对运动或其他刺激所致哮喘无预防作用\",\"value\":1}, {\"answer\":1,\"text\":\"可用于过敏性鼻炎\",\"value\":2}, {\"answer\":1,\"text\":\"气雾吸入,避免了全身性不良反应\",\"value\":3}, {\"answer\":1,\"text\":\"可与糖皮质激素联合应用\",\"value\":4}]",
+    "title": "关于色甘酸钠的描述,下列的说法正确的有"
+  },
+  {
+    "id": 37031,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"收缩小血管,减少渗出\",\"value\":0}, {\"answer\":1,\"text\":\"平喘作用与抗炎和抗过敏有关\",\"value\":1}, {\"answer\":1,\"text\":\"减少炎症介质的产生和反应\",\"value\":2}, {\"answer\":1,\"text\":\"气雾吸入,避免了全身性不良反应\",\"value\":3}, {\"answer\":0,\"text\":\"主要用于支气管哮喘的预防\",\"value\":4}]",
+    "title": "关于糖皮质激素的平喘作用,下列哪些是正确的"
+  },
+  {
+    "id": 36838,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"654-2静脉注射\",\"value\":0}, {\"answer\":0,\"text\":\"色甘酸钠吸入+糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"补液+糖皮质激素静脉滴注+氨茶碱静脉滴注\",\"value\":2}, {\"answer\":0,\"text\":\"沙丁胺醇雾化吸入+溴化异丙托品吸入\",\"value\":3}]",
+    "title": "支气管哮喘患者持续发作24小时,大汗淋漓、发绀、端坐呼吸,双肺散在哮鸣音,首选治疗方案是"
+  },
+  {
+    "id": 36753,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"吸入\",\"value\":0}, {\"answer\":0,\"text\":\"口服\",\"value\":1}, {\"answer\":0,\"text\":\"注射\",\"value\":2}, {\"answer\":0,\"text\":\"滴注\",\"value\":3}]",
+    "title": "妊娠期哮喘患者的给药途径应尽量选择哪种用药方式使胎儿受影响最少"
+  },
+  {
+    "id": 36755,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"出现呼吸性碱中毒\",\"value\":0}, {\"answer\":0,\"text\":\"病情好转\",\"value\":1}, {\"answer\":1,\"text\":\"病情恶化\",\"value\":2}, {\"answer\":0,\"text\":\"出现心衰\",\"value\":3}]",
+    "title": "支气管哮喘急性发作患者血气分析Pa-CO2增高提示"
+  },
+  {
+    "id": 36982,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"茶碱血药浓度检测\",\"value\":0}, {\"answer\":0,\"text\":\"胸部CT\",\"value\":1}, {\"answer\":0,\"text\":\"脑部CT\",\"value\":2}, {\"answer\":0,\"text\":\"血常规\",\"value\":3}]",
+    "title": "某患者支气管哮喘急性发作,使用布地奈德、沙丁胺醇吸入,氨茶碱静脉滴注治疗。治疗后患者出现烦躁、乱语,应立即进一步做哪一项检查"
+  },
+  {
+    "id": 37004,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"厄他培南\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"罗红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"头孢曲松\",\"value\":3}]",
+    "title": "老年人、有基础疾病或需要住院的社区获得性肺炎患者,一般不采用的治疗药物是"
+  },
+  {
+    "id": 36873,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对抗组胺、白三烯等过敏介质\",\"value\":0}, {\"answer\":0,\"text\":\"具有较强的抗炎作用\",\"value\":1}, {\"answer\":1,\"text\":\"稳定肥大细胞膜,阻止其释放过敏介质\",\"value\":2}, {\"answer\":0,\"text\":\"松弛支气管平滑肌,扩张支气管\",\"value\":3}]",
+    "title": "色甘酸钠预防哮喘发作的机制为"
+  },
+  {
+    "id": 36893,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"剧烈的刺激性干咳\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎引起的咳嗽\",\"value\":1}, {\"answer\":0,\"text\":\"上呼吸道感染引起的咳嗽\",\"value\":2}, {\"answer\":0,\"text\":\"支气管哮喘\",\"value\":3}]",
+    "title": "可待因主要用于治疗"
+  },
+  {
+    "id": 36856,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"患者所用餐具应在餐后煮沸消毒\",\"value\":0}, {\"answer\":0,\"text\":\"定期随诊,检测血常规和肝肾功能\",\"value\":1}, {\"answer\":0,\"text\":\"增强体质,增加高蛋白质和维生素的摄入\",\"value\":2}, {\"answer\":1,\"text\":\"口服抗结核药可自行决定饭后服药\",\"value\":3}]",
+    "title": "下列治疗结核病患者的注意事项,错误的是"
+  },
+  {
+    "id": 36792,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"少量镇咳剂\",\"value\":0}, {\"answer\":0,\"text\":\"应用抗生素治疗\",\"value\":1}, {\"answer\":1,\"text\":\"提高机体抗病能力,避免上呼吸道感染\",\"value\":2}, {\"answer\":0,\"text\":\"应用少量激素,减少气道非特异性炎症\",\"value\":3}]",
+    "title": "慢性支气管炎偶有轻微咳嗽,少量痰液,采取下列措施最为合适"
+  },
+  {
+    "id": 36916,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"提高药物疗效\",\"value\":0}, {\"answer\":0,\"text\":\"加速细菌细胞壁破裂\",\"value\":1}, {\"answer\":1,\"text\":\"延缓细菌耐药性的产生\",\"value\":2}, {\"answer\":0,\"text\":\"减少药物不良反应\",\"value\":3}]",
+    "title": "异烟肼+链霉素+对氨基水杨酸钠治疗结核病属于"
+  },
+  {
+    "id": 36959,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制炎症物质的释放\",\"value\":0}, {\"answer\":1,\"text\":\"抑制白三烯受体\",\"value\":1}, {\"answer\":0,\"text\":\"阻断腺苷受体\",\"value\":2}, {\"answer\":0,\"text\":\"激动肾上腺素β4受体\",\"value\":3}]",
+    "title": "孟鲁司特平喘的主要机制是"
+  },
+  {
+    "id": 36859,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"真菌\",\"value\":0}, {\"answer\":0,\"text\":\"厌氧菌\",\"value\":1}, {\"answer\":1,\"text\":\"革兰阴性杆菌\",\"value\":2}, {\"answer\":0,\"text\":\"革兰阳性球菌\",\"value\":3}]",
+    "title": "医院内获得性肺炎,最常见的致病菌是"
+  },
+  {
+    "id": 36930,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟喹诺酮类\",\"value\":0}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":1}, {\"answer\":0,\"text\":\"利福喷丁\",\"value\":2}, {\"answer\":1,\"text\":\"对氨基水杨酸\",\"value\":3}]",
+    "title": "临床上不推荐顿服的抗结核药物是"
+  },
+  {
+    "id": 36846,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"异丙托溴铵气雾剂\",\"value\":0}, {\"answer\":0,\"text\":\"多索茶碱注射液\",\"value\":1}, {\"answer\":0,\"text\":\"孟鲁司特钠咀嚼片\",\"value\":2}, {\"answer\":0,\"text\":\"布地奈德混悬液\",\"value\":3}]",
+    "title": "患者,男,48岁,患有青光眼3年,近日因支气管哮喘急性发作,给予舒张支气管、抗炎等治疗,其应慎用"
+  },
+  {
+    "id": 36989,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":0,\"text\":\"维生素C\",\"value\":2}, {\"answer\":1,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "某患者以“慢性阻塞性肺疾病急性加重期”收住院,医嘱用药有莫西沙星注射液400mg,0.9%氯化钠注射液100ml+注射用甲泼尼龙琥珀酸钠40mg,注射用奥美拉唑40mg,沙美特罗替卡松粉吸入剂50/500ug,噻托溴铵粉吸入剂18ug,左旋氨氯地平片2.5mg,坦洛新缓释胶囊0.2mg,呋塞米23mg。该患者使用甲泼尼龙,需要检测的指标是"
+  },
+  {
+    "id": 36841,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"沙美特罗+布地奈德\",\"value\":0}, {\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":1}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":2}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":3}]",
+    "title": "支气管哮喘在急性发作期（轻度）可选用的药物是"
+  },
+  {
+    "id": 37024,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯化铵\",\"value\":0}, {\"answer\":1,\"text\":\"溴己新\",\"value\":1}, {\"answer\":1,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":0,\"text\":\"苯佐那酯\",\"value\":3}, {\"answer\":0,\"text\":\"特布他林吸入\",\"value\":4}]",
+    "title": "黏痰溶解药包括"
+  },
+  {
+    "id": 37019,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喷托维林\",\"value\":0}, {\"answer\":1,\"text\":\"厄多司坦\",\"value\":1}, {\"answer\":1,\"text\":\"溴己新\",\"value\":2}, {\"answer\":1,\"text\":\"氨溴索\",\"value\":3}, {\"answer\":0,\"text\":\"可待因\",\"value\":4}]",
+    "title": "下列药物中属于祛痰药的是"
+  },
+  {
+    "id": 36896,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"剧烈干咳\",\"value\":0}, {\"answer\":1,\"text\":\"痰粘稠不易咳出\",\"value\":1}, {\"answer\":0,\"text\":\"支气管哮喘咳嗽\",\"value\":2}, {\"answer\":0,\"text\":\"以上都不是\",\"value\":3}]",
+    "title": "乙酰半胱氨酸可用于"
+  },
+  {
+    "id": 36949,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"短效β2受体激动剂\",\"value\":0}, {\"answer\":0,\"text\":\"M胆碱受体阻断剂\",\"value\":1}, {\"answer\":0,\"text\":\"白三烯受体阻断剂\",\"value\":2}, {\"answer\":0,\"text\":\"吸入性糖皮质激素\",\"value\":3}]",
+    "title": "哮喘急性发作首选的治疗药物是"
+  },
+  {
+    "id": 36731,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血液粘稠度增加\",\"value\":0}, {\"answer\":1,\"text\":\"缺氧引起肺动脉痉挛\",\"value\":1}, {\"answer\":0,\"text\":\"肺小动脉炎\",\"value\":2}, {\"answer\":0,\"text\":\"肺气肿压迫及肺泡壁破坏使毛细血管床减少\",\"value\":3}]",
+    "title": "慢性肺心病肺动脉高压形成的最主要原因,也是临床治疗能减轻肺动\n脉高压的病理生理主要基础是"
+  },
+  {
+    "id": 36924,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利福平\",\"value\":0}, {\"answer\":1,\"text\":\"乙胺丁醇\",\"value\":1}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":3}]",
+    "title": "用药期间有可能出现球后视神经炎的抗结核药是"
+  },
+  {
+    "id": 36849,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"酮替芬\",\"value\":0}, {\"answer\":0,\"text\":\"特布他林气雾剂\",\"value\":1}, {\"answer\":0,\"text\":\"溴化异丙托品气雾剂\",\"value\":2}, {\"answer\":1,\"text\":\"丙酸倍氯米松气雾剂\",\"value\":3}]",
+    "title": "患者,男性30岁,确诊哮喘入院治疗3周,经正规治疗缓解病情,仅偶有胸闷。为巩固治疗效果,建议患者继续使用哪种药物控制气道炎症？"
+  },
+  {
+    "id": 36733,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"克雷伯杆菌肺炎\",\"value\":0}, {\"answer\":1,\"text\":\"葡萄球菌肺炎\",\"value\":1}, {\"answer\":0,\"text\":\"支原体肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"军团菌肺炎\",\"value\":3}]",
+    "title": "下列哪种肺炎最易并发肺脓肿"
+  },
+  {
+    "id": 36885,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"倍氯米松吸入\",\"value\":0}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"沙丁胺醇吸入\",\"value\":2}, {\"answer\":0,\"text\":\"氨茶碱口服\",\"value\":3}]",
+    "title": "对哮喘急性发作迅速有效的药物是"
+  },
+  {
+    "id": 36724,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺部是否有固定的中小水泡音\",\"value\":0}, {\"answer\":0,\"text\":\"咳嗽的轻重\",\"value\":1}, {\"answer\":0,\"text\":\"血白细胞数的高低\",\"value\":2}, {\"answer\":0,\"text\":\"发热的高低\",\"value\":3}]",
+    "title": "支气管肺炎与支气管炎的主要鉴别点是"
+  },
+  {
+    "id": 36744,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"畏寒高热\",\"value\":0}, {\"answer\":0,\"text\":\"咳嗽伴胸痛\",\"value\":1}, {\"answer\":1,\"text\":\"咳大量脓臭痰\",\"value\":2}, {\"answer\":0,\"text\":\"咳嗽伴咯血\",\"value\":3}]",
+    "title": "急性肺脓肿最显著特征是"
+  },
+  {
+    "id": 36726,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"感染性休克\",\"value\":0}, {\"answer\":0,\"text\":\"严重喘憋\",\"value\":1}, {\"answer\":0,\"text\":\"中毒性脑病\",\"value\":2}, {\"answer\":1,\"text\":\"剧烈的咳嗽\",\"value\":3}]",
+    "title": "肺炎时应用激素的适应症不包括"
+  },
+  {
+    "id": 36800,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效β2受体激动剂\",\"value\":0}, {\"answer\":0,\"text\":\"短效β2受体激动剂\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素气雾剂\",\"value\":2}, {\"answer\":1,\"text\":\"联合吸入糖皮质激素和长效β2受体激动剂\",\"value\":3}]",
+    "title": "女,35岁。支气管哮喘史20年,近2周来出现活动耐力下降。该患者最重要的治疗措施是规律使用"
+  },
+  {
+    "id": 36831,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异烟肼、对氨基水杨酸、链霉素、手术腹腔引流\",\"value\":0}, {\"answer\":0,\"text\":\"异烟肼、对氨基水杨酸、糖皮质激素、链霉素\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼、利福平、对氨基水杨酸\",\"value\":2}, {\"answer\":1,\"text\":\"异烟肼、利福平、吡嗪酰胺、链霉素\",\"value\":3}]",
+    "title": "渗出性结核性腹膜炎的最佳的强化治疗方案是"
+  },
+  {
+    "id": 36842,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙美特罗+布地奈德\",\"value\":0}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":1}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":2}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":3}]",
+    "title": "支气管哮喘在慢性持续期可选用的药物是"
+  },
+  {
+    "id": 36790,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺寄生虫病\",\"value\":0}, {\"answer\":1,\"text\":\"支气管扩张\",\"value\":1}, {\"answer\":0,\"text\":\"良性支气管肿瘤\",\"value\":2}, {\"answer\":0,\"text\":\"支气管非特异性炎症\",\"value\":3}]",
+    "title": "引起咯血最常见的支气管-肺部疾病是"
+  },
+  {
+    "id": 37012,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"头孢哌酮舒巴坦\",\"value\":0}, {\"answer\":1,\"text\":\"多西环素\",\"value\":1}, {\"answer\":1,\"text\":\"莫西沙星\",\"value\":2}, {\"answer\":0,\"text\":\"氨苄西林\",\"value\":3}, {\"answer\":1,\"text\":\"链霉素\",\"value\":4}]",
+    "title": "新生儿患有医院获得性肺炎,不宜选用的药物是"
+  },
+  {
+    "id": 37013,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素C\",\"value\":0}, {\"answer\":1,\"text\":\"头孢曲松钠\",\"value\":1}, {\"answer\":1,\"text\":\"依托红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}, {\"answer\":1,\"text\":\"青霉素G\",\"value\":4}]",
+    "title": "长期使用,不需要定期检测听力、肾功能的药物是"
+  },
+  {
+    "id": 36953,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诱发精神错乱\",\"value\":0}, {\"answer\":0,\"text\":\"增强止痛效果\",\"value\":1}, {\"answer\":1,\"text\":\"加重便秘\",\"value\":2}, {\"answer\":0,\"text\":\"增强镇静作用\",\"value\":3}]",
+    "title": "可待因合用阿托品,可"
+  },
+  {
+    "id": 36995,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"均应在吸气时吸入\",\"value\":0}, {\"answer\":0,\"text\":\"洗完立即漱口\",\"value\":1}, {\"answer\":1,\"text\":\"均可激动β受体\",\"value\":2}, {\"answer\":0,\"text\":\"均有协同扩张支气管作用\",\"value\":3}]",
+    "title": "对丙酸氟替卡松吸入气雾剂和沙丁胺醇气雾剂,下列说法不正确的是"
+  },
+  {
+    "id": 36948,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯雷他定\",\"value\":0}, {\"answer\":0,\"text\":\"氯苯那敏\",\"value\":1}, {\"answer\":1,\"text\":\"孟鲁司特\",\"value\":2}, {\"answer\":0,\"text\":\"特非那定\",\"value\":3}]",
+    "title": "下列药物可用于治疗哮喘的"
+  },
+  {
+    "id": 36736,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"为控制急性哮喘应快速静脉注射\",\"value\":0}, {\"answer\":0,\"text\":\"可松弛支气管和其他平滑肌\",\"value\":1}, {\"answer\":0,\"text\":\"可兴奋中枢\",\"value\":2}, {\"answer\":0,\"text\":\"有一定的利尿作用\",\"value\":3}]",
+    "title": "氨茶碱的作用不包括"
+  },
+  {
+    "id": 36774,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体温正常后2-3天\",\"value\":0}, {\"answer\":0,\"text\":\"体温正常后2-5天\",\"value\":1}, {\"answer\":0,\"text\":\"体温正常后2-7天\",\"value\":2}, {\"answer\":1,\"text\":\"体温正常后5-7天\",\"value\":3}]",
+    "title": "治疗支气管肺炎抗生素应持续用至"
+  },
+  {
+    "id": 36920,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"SM\",\"value\":0}, {\"answer\":1,\"text\":\"PZA\",\"value\":1}, {\"answer\":0,\"text\":\"EMB\",\"value\":2}, {\"answer\":0,\"text\":\"PAS\",\"value\":3}]",
+    "title": "下列药物最易出现不良反应的是"
+  },
+  {
+    "id": 36781,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"观察生命体征\",\"value\":0}, {\"answer\":0,\"text\":\"吸氧\",\"value\":1}, {\"answer\":1,\"text\":\"取患侧卧位\",\"value\":2}, {\"answer\":0,\"text\":\"雾化吸入\",\"value\":3}]",
+    "title": "肺炎球菌性肺炎患者出现剧烈胸痛时,应采取的措施是"
+  },
+  {
+    "id": 36754,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"FEV1/FVC%下降\",\"value\":0}, {\"answer\":0,\"text\":\"PEER降低\",\"value\":1}, {\"answer\":0,\"text\":\"RV/TLC%增加\",\"value\":2}, {\"answer\":1,\"text\":\"DLCO增加\",\"value\":3}]",
+    "title": "哮喘发作不会出现"
+  },
+  {
+    "id": 36897,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺素\",\"value\":0}, {\"answer\":0,\"text\":\"麻黄碱\",\"value\":1}, {\"answer\":1,\"text\":\"多巴胺\",\"value\":2}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":3}]",
+    "title": "不能用于平喘的肾上腺素受体激动药是"
+  },
+  {
+    "id": 36828,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对氨基水杨酸\",\"value\":0}, {\"answer\":1,\"text\":\"异烟肼\",\"value\":1}, {\"answer\":0,\"text\":\"氨硫脲\",\"value\":2}, {\"answer\":0,\"text\":\"利福平\",\"value\":3}]",
+    "title": "常用于杀菌作用,并能透过血脑屏障,以及在胸水、干酪性病灶中浓度较高的抗结核药是"
+  },
+  {
+    "id": 36968,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"氟替卡松\",\"value\":3}]",
+    "title": "下列药物中属于M受体阻断剂的是"
+  },
+  {
+    "id": 36785,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"皮肤及面部变化\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸变化\",\"value\":1}, {\"answer\":1,\"text\":\"神智与精神变化\",\"value\":2}, {\"answer\":0,\"text\":\"心率与血压变化\",\"value\":3}]",
+    "title": "呼吸衰竭患者的病情观察,下列哪项对发现肺性脑病先兆极为重要"
+  },
+  {
+    "id": 36933,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"右美沙芬\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":2}, {\"answer\":0,\"text\":\"苯丙哌林\",\"value\":3}]",
+    "title": "下列属于非依赖性中枢性镇咳药的是"
+  },
+  {
+    "id": 36801,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特异性免疫治疗\",\"value\":0}, {\"answer\":0,\"text\":\"吸入支气管舒张剂\",\"value\":1}, {\"answer\":0,\"text\":\"使用H1受体拮抗剂\",\"value\":2}, {\"answer\":1,\"text\":\"吸入糖皮质激素\",\"value\":3}]",
+    "title": "目前用于控制支气管哮喘患者气道高反应最主要的措施是"
+  },
+  {
+    "id": 36877,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缓解支气管平滑肌痉挛\",\"value\":0}, {\"answer\":0,\"text\":\"抑制迷走神经\",\"value\":1}, {\"answer\":1,\"text\":\"产生封闭抗体IgG,组织IgE与抗原结合\",\"value\":2}, {\"answer\":0,\"text\":\"抑制肥大细胞脱颗粒,释放生物活性物质\",\"value\":3}]",
+    "title": "抗原脱敏疗法治疗支气管哮喘的机理是"
+  },
+  {
+    "id": 36972,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血糖升高\",\"value\":0}, {\"answer\":1,\"text\":\"有协同作用,可减少糖皮质激素用量\",\"value\":1}, {\"answer\":0,\"text\":\"增加胃溃疡几率\",\"value\":2}, {\"answer\":0,\"text\":\"血压升高\",\"value\":3}]",
+    "title": "糖皮质激素联用长效β2受体激动剂可导致"
+  },
+  {
+    "id": 36834,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左氧氟沙星\",\"value\":0}, {\"answer\":0,\"text\":\"阿卡米星\",\"value\":1}, {\"answer\":0,\"text\":\"多西环素\",\"value\":2}, {\"answer\":0,\"text\":\"头孢氨卡\",\"value\":3}]",
+    "title": "有一肺炎链球菌感染患者,对青霉素过敏,宜选用的有效抗菌药物是"
+  },
+  {
+    "id": 37036,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"异丙肾上腺素\",\"value\":0}, {\"answer\":1,\"text\":\"麻黄碱\",\"value\":1}, {\"answer\":0,\"text\":\"特布他林\",\"value\":2}, {\"answer\":0,\"text\":\"克伦特罗\",\"value\":3}, {\"answer\":0,\"text\":\"去甲肾上腺素\",\"value\":4}]",
+    "title": "能够引起心脏兴奋的平喘药有"
+  },
+  {
+    "id": 37035,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特布他林\",\"value\":0}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":1}, {\"answer\":1,\"text\":\"麻黄碱\",\"value\":2}, {\"answer\":0,\"text\":\"去甲肾上腺素\",\"value\":3}, {\"answer\":0,\"text\":\"异丙基阿托品\",\"value\":4}]",
+    "title": "能够促进cAMP升高的药物有"
+  },
+  {
+    "id": 37003,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿米卡星\",\"value\":0}, {\"answer\":1,\"text\":\"米诺环素\",\"value\":1}, {\"answer\":0,\"text\":\"头孢唑林\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "可影响婴幼儿软骨发育,导致关节受损的药物是"
+  },
+  {
+    "id": 36926,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利福平\",\"value\":0}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":1}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":2}, {\"answer\":1,\"text\":\"吡嗪酰胺\",\"value\":3}]",
+    "title": "用药后可出现非痛风性多关节痛的抗结核药是"
+  },
+  {
+    "id": 36966,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"氟替卡松\",\"value\":1}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"乙酰胆碱\",\"value\":3}]",
+    "title": "下列药物中属于β受体阻断剂的是"
+  },
+  {
+    "id": 36867,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"沙丁胺醇气雾剂\",\"value\":0}, {\"answer\":0,\"text\":\"布地奈德吸入剂\",\"value\":1}, {\"answer\":1,\"text\":\"茶碱片\",\"value\":2}, {\"answer\":0,\"text\":\"孟鲁司特钠咀嚼片\",\"value\":3}]",
+    "title": "与环丙沙星有相互作用,合并使用时应做血药浓度检测的药物是"
+  },
+  {
+    "id": 36808,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"生理盐水\",\"value\":0}, {\"answer\":0,\"text\":\"5%葡萄糖\",\"value\":1}, {\"answer\":0,\"text\":\"10%葡萄糖\",\"value\":2}, {\"answer\":1,\"text\":\"低分子右旋糖酐\",\"value\":3}]",
+    "title": "肺炎球菌肺炎伴随休克患者,首选补充血容量液体为"
+  },
+  {
+    "id": 36898,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"促进儿茶酚胺类物质释放\",\"value\":0}, {\"answer\":0,\"text\":\"抑制磷酸二酯酶,减少cAMP破坏\",\"value\":1}, {\"answer\":0,\"text\":\"阻断腺苷受体\",\"value\":2}, {\"answer\":1,\"text\":\"直接激动β2受体\",\"value\":3}]",
+    "title": "氨茶碱的平喘机制不包括"
+  },
+  {
+    "id": 36944,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"孟鲁司特\",\"value\":0}, {\"answer\":1,\"text\":\"噻托溴铵\",\"value\":1}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":2}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":3}]",
+    "title": "青光眼患者应该禁用"
+  },
+  {
+    "id": 36936,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"50-100ug/d\",\"value\":0}, {\"answer\":0,\"text\":\"100-250ug/d\",\"value\":1}, {\"answer\":1,\"text\":\"250-500ug/d\",\"value\":2}, {\"answer\":0,\"text\":\"500-750ug/d\",\"value\":3}]",
+    "title": "丙酸氟替卡松吸入给药时,中剂量范围是指"
+  },
+  {
+    "id": 36770,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"混合性酸中毒\",\"value\":0}, {\"answer\":0,\"text\":\"代谢性酸中毒\",\"value\":1}, {\"answer\":0,\"text\":\"代谢性碱中毒\",\"value\":2}, {\"answer\":0,\"text\":\"呼吸性酸中毒\",\"value\":3}]",
+    "title": "支气管肺炎重症往往出现"
+  },
+  {
+    "id": 36992,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"作为哮喘维持治疗药物\",\"value\":0}, {\"answer\":0,\"text\":\"可根据患者症状逐渐减量\",\"value\":1}, {\"answer\":1,\"text\":\"属于长效β2受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"应在吸气时吸入\",\"value\":3}]",
+    "title": "患儿,男,5岁,体重18KG,主诉“咳嗽,憋喘2天”,临床诊断为“急性支气管炎,支气管哮喘”。治疗后患儿出院带药“丙酸氟替卡松吸入气雾剂”,下列说法不正确的是"
+  },
+  {
+    "id": 36913,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗菌药物+短效支气管舒张剂+糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"吸入型糖皮质激素+磷酸二酯酶抑制剂\",\"value\":1}, {\"answer\":0,\"text\":\"吸入型糖皮质激素+祛痰药+镇咳药\",\"value\":2}, {\"answer\":1,\"text\":\"长效β2受体激动剂+吸入型糖皮质激素\",\"value\":3}]",
+    "title": "慢性阻塞性肺病稳定期患者（FEV1<50%预计值）宜选用的治疗方案是"
+  },
+  {
+    "id": 37027,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"可激动α受体\",\"value\":0}, {\"answer\":1,\"text\":\"剂量过大可引起手指震颤\",\"value\":1}, {\"answer\":1,\"text\":\"心血管系统的不良反应少\",\"value\":2}, {\"answer\":0,\"text\":\"均能皮下注射\",\"value\":3}, {\"answer\":0,\"text\":\"直接对抗支气管平滑肌\",\"value\":4}]",
+    "title": "β2受体激动剂平喘作用的特点是"
+  },
+  {
+    "id": 37030,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺素\",\"value\":0}, {\"answer\":1,\"text\":\"特布他林\",\"value\":1}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"异丙基阿托品\",\"value\":3}, {\"answer\":0,\"text\":\"溴己新\",\"value\":4}]",
+    "title": "激活腺苷环化酶而产生平喘作用的药物是"
+  },
+  {
+    "id": 37008,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"扎鲁司特\",\"value\":0}, {\"answer\":1,\"text\":\"曲尼斯特\",\"value\":1}, {\"answer\":1,\"text\":\"茶碱类\",\"value\":2}, {\"answer\":1,\"text\":\"糖皮质激素\",\"value\":3}, {\"answer\":0,\"text\":\"可待因\",\"value\":4}]",
+    "title": "以下药物中可以选作治疗慢性阻塞性肺疾病的是"
+  },
+  {
+    "id": 36905,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药物如阿司匹林、抗生素\",\"value\":0}, {\"answer\":1,\"text\":\"食物如鱼、虾、蛋类、牛奶等\",\"value\":1}, {\"answer\":1,\"text\":\"职业性过敏原如油漆、饲料、活性染料等\",\"value\":2}, {\"answer\":1,\"text\":\"室外过敏原如花粉、草粉\",\"value\":3}, {\"answer\":1,\"text\":\"室内过敏原如尘螨、家养宠物、蟑螂等\",\"value\":4}]",
+    "title": "具有哮喘易感基因的人群发病受环境因素的影响较大,过敏性因素包括"
+  },
+  {
+    "id": 36934,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"右美沙芬\",\"value\":0}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":1}, {\"answer\":1,\"text\":\"可待因\",\"value\":2}, {\"answer\":0,\"text\":\"苯丙哌林\",\"value\":3}]",
+    "title": "属于吗啡的前药,过量或长期使用易产生成瘾性的是"
+  },
+  {
+    "id": 36853,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"酮替芬\",\"value\":0}, {\"answer\":0,\"text\":\"扎鲁司特\",\"value\":1}, {\"answer\":1,\"text\":\"茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松\",\"value\":3}]",
+    "title": "以下治疗慢性阻塞性肺病的支气管舒张剂中,适用于急性加重期的是"
+  },
+  {
+    "id": 36718,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"β2受体激动剂\",\"value\":0}, {\"answer\":0,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"抗胆碱能药物\",\"value\":2}, {\"answer\":0,\"text\":\"肥大细胞膜稳定剂\",\"value\":3}]",
+    "title": "支气管哮喘症状急性发作首选药物是"
+  },
+  {
+    "id": 36811,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"选用敏感抗生素\",\"value\":0}, {\"answer\":0,\"text\":\"退热止痛\",\"value\":1}, {\"answer\":0,\"text\":\"祛咳止咳\",\"value\":2}, {\"answer\":0,\"text\":\"卧床休息,补液\",\"value\":3}]",
+    "title": "普通型肺炎球菌肺炎的治疗最主要的是"
+  },
+  {
+    "id": 36735,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯丙哌林\",\"value\":0}, {\"answer\":1,\"text\":\"可待因\",\"value\":1}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":2}, {\"answer\":0,\"text\":\"那可丁\",\"value\":3}]",
+    "title": "剧烈干咳,宜选用哪种镇咳药"
+  },
+  {
+    "id": 36779,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"厌氧菌\",\"value\":0}, {\"answer\":0,\"text\":\"克雷伯杆菌\",\"value\":1}, {\"answer\":0,\"text\":\"化脓性链球菌\",\"value\":2}, {\"answer\":0,\"text\":\"金黄色葡萄球菌\",\"value\":3}]",
+    "title": "吸入性肺脓肿最常见的感染菌是"
+  },
+  {
+    "id": 36985,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与激素同时使用可导致血钾升高\",\"value\":0}, {\"answer\":0,\"text\":\"需监测患者电解质水平\",\"value\":1}, {\"answer\":0,\"text\":\"主要用于缓解下肢水肿\",\"value\":2}, {\"answer\":0,\"text\":\"具有利尿作用\",\"value\":3}]",
+    "title": "关于呋塞米下列说法不正确的是"
+  },
+  {
+    "id": 36854,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乙胺丁醇（E）\",\"value\":0}, {\"answer\":0,\"text\":\"利福平（R）\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼（H）\",\"value\":2}, {\"answer\":1,\"text\":\"链霉素（S）\",\"value\":3}]",
+    "title": "以下药物中,不属于WHO划定的一线抗结核药物是"
+  },
+  {
+    "id": 36760,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"通气/血流比例失调\",\"value\":0}, {\"answer\":1,\"text\":\"肺组织通气不足\",\"value\":1}, {\"answer\":0,\"text\":\"弥散障碍\",\"value\":2}, {\"answer\":0,\"text\":\"无效腔通气\",\"value\":3}]",
+    "title": "呼吸衰竭时发生二氧化碳潴留的主要机制是"
+  },
+  {
+    "id": 37015,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"扎鲁司特\",\"value\":0}, {\"answer\":1,\"text\":\"二丙酸倍氯米松\",\"value\":1}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":2}, {\"answer\":1,\"text\":\"孟鲁司特\",\"value\":3}, {\"answer\":1,\"text\":\"氨茶碱\",\"value\":4}]",
+    "title": "一名12岁儿童突发哮喘就诊,下列药物不是其首选药物的是"
+  },
+  {
+    "id": 36734,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"止血\",\"value\":0}, {\"answer\":0,\"text\":\"输血\",\"value\":1}, {\"answer\":0,\"text\":\"吸氧\",\"value\":2}, {\"answer\":1,\"text\":\"保持呼吸道通畅.防止窒息\",\"value\":3}]",
+    "title": "支气管扩张患者大咯血时,最关键的抢救措施在于"
+  },
+  {
+    "id": 36850,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"钙通道阻滞剂\",\"value\":0}, {\"answer\":1,\"text\":\"β受体阻断剂\",\"value\":1}, {\"answer\":0,\"text\":\"β受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"抗胆碱能药物\",\"value\":3}]",
+    "title": "患者,男性30岁,确诊哮喘入院治疗4周,经正规治疗缓解病情,仅偶有胸闷。该患者禁用下列哪种药物"
+  },
+  {
+    "id": 36810,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"头孢菌素类\",\"value\":0}, {\"answer\":1,\"text\":\"大环内酯类\",\"value\":1}, {\"answer\":0,\"text\":\"氨基糖苷类\",\"value\":2}, {\"answer\":0,\"text\":\"糖肽类\",\"value\":3}]",
+    "title": "治疗社区获得性肺炎时,可覆盖非典型病原体的抗生素是"
+  },
+  {
+    "id": 36843,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙美特罗+布地奈德\",\"value\":0}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":1}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":2}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":3}]",
+    "title": "咳嗽变异性哮喘可选用的药物是"
+  },
+  {
+    "id": 36771,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":0}, {\"answer\":1,\"text\":\"耐青霉素酶青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"红霉素\",\"value\":3}]",
+    "title": "金黄色葡萄球菌肺炎首选的抗生素为"
+  },
+  {
+    "id": 36750,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"房性早搏和室上性心动过速\",\"value\":0}, {\"answer\":0,\"text\":\"心房纤颤\",\"value\":1}, {\"answer\":0,\"text\":\"心房扑动\",\"value\":2}, {\"answer\":0,\"text\":\"室性早搏\",\"value\":3}]",
+    "title": "慢性肺心病最常见的心律失常是"
+  },
+  {
+    "id": 36939,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1-5ug/ml\",\"value\":0}, {\"answer\":0,\"text\":\"0.05-1ug/ml\",\"value\":1}, {\"answer\":1,\"text\":\"5-20ug/ml\",\"value\":2}, {\"answer\":0,\"text\":\"20-30ug/ml\",\"value\":3}]",
+    "title": "茶碱的有效血浆浓度范围是"
+  },
+  {
+    "id": 36956,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加重呼吸抑制\",\"value\":0}, {\"answer\":0,\"text\":\"诱发精神错乱\",\"value\":1}, {\"answer\":0,\"text\":\"加重便秘\",\"value\":2}, {\"answer\":1,\"text\":\"增强镇静作用\",\"value\":3}]",
+    "title": "可待因合用酒精,可"
+  },
+  {
+    "id": 37002,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"多粘痰性咳嗽\",\"value\":0}, {\"answer\":1,\"text\":\"剧烈的刺激性干咳\",\"value\":1}, {\"answer\":0,\"text\":\"支气管哮喘性咳嗽\",\"value\":2}, {\"answer\":0,\"text\":\"感冒引起的咳嗽\",\"value\":3}]",
+    "title": "可待因主要治疗"
+  },
+  {
+    "id": 36743,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"每年发作至少3个月,持续10年以上\",\"value\":0}, {\"answer\":0,\"text\":\"每年发作至少1个月,持续2年以上\",\"value\":1}, {\"answer\":1,\"text\":\"每年发作至少3个月,持续2年以上\",\"value\":2}, {\"answer\":0,\"text\":\"每年发作至少1个月,持续3年以上\",\"value\":3}]",
+    "title": "慢性支气管炎诊断标准中,咳嗽、咳痰反复发作时间应为"
+  },
+  {
+    "id": 37006,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"异烟肼\",\"value\":0}, {\"answer\":1,\"text\":\"吡嗪酰胺\",\"value\":1}, {\"answer\":1,\"text\":\"利福平\",\"value\":2}, {\"answer\":1,\"text\":\"乙胺丁醇\",\"value\":3}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":4}]",
+    "title": "抗结核病的一线治疗药物是"
+  },
+  {
+    "id": 37011,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所有长期接受吸入治疗者应定期检测身高\",\"value\":0}, {\"answer\":1,\"text\":\"剂量分为起始和维持剂量\",\"value\":1}, {\"answer\":1,\"text\":\"患有活动性肺结核患者及肺部真菌、病毒感染者慎用\",\"value\":2}, {\"answer\":1,\"text\":\"系预防性用药,即使无症状时仍应连续和规律的应用\",\"value\":3}, {\"answer\":1,\"text\":\"喷后应立即采用氯化钠溶液漱口\",\"value\":4}]",
+    "title": "下列有关“规范应用吸入型糖皮质激素,治疗慢性阻塞性肺疾病”的观点叙述正确的是"
+  },
+  {
+    "id": 36998,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿托品\",\"value\":0}, {\"answer\":0,\"text\":\"麻黄碱\",\"value\":1}, {\"answer\":0,\"text\":\"异丙阿托品\",\"value\":2}, {\"answer\":1,\"text\":\"异丙肾上腺素\",\"value\":3}]",
+    "title": "为避免色甘酸钠诱发哮喘,一般和下列哪种药物合用"
+  },
+  {
+    "id": 36899,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氢化可的松\",\"value\":0}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":1}, {\"answer\":1,\"text\":\"色甘酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":3}]",
+    "title": "不能控制哮喘发作症状的药物是"
+  },
+  {
+    "id": 36786,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"贫血\",\"value\":0}, {\"answer\":0,\"text\":\"肺不张\",\"value\":1}, {\"answer\":1,\"text\":\"窒息\",\"value\":2}, {\"answer\":0,\"text\":\"肺部感染\",\"value\":3}]",
+    "title": "病人发生大咯血是最危险的并发症是"
+  },
+  {
+    "id": 36977,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"预先应用β2受体激动剂\",\"value\":0}, {\"answer\":0,\"text\":\"加服钙剂和维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"合用抗菌药物\",\"value\":2}, {\"answer\":1,\"text\":\"漱口\",\"value\":3}]",
+    "title": "使用呼吸系统药物时,为减少口腔真菌继发感染,应"
+  },
+  {
+    "id": 36837,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨溴索\",\"value\":0}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":1}, {\"answer\":0,\"text\":\"头孢呋辛酯\",\"value\":2}, {\"answer\":1,\"text\":\"莫西沙星\",\"value\":3}]",
+    "title": "患者女,45岁,既往有心律失常（Q-T时间延长）、低钾血症病史。近日因发热、咳嗽、咳痰就诊,诊断为社区获得性肺炎。该患者不宜选用的药物是"
+  },
+  {
+    "id": 36795,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":0}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":1}, {\"answer\":1,\"text\":\"氨茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"杜冷丁\",\"value\":3}]",
+    "title": "急症哮喘患者,病因未明,为缓解症状,应立即选用"
+  },
+  {
+    "id": 36751,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"紫绀\",\"value\":0}, {\"answer\":0,\"text\":\"心率加快\",\"value\":1}, {\"answer\":1,\"text\":\"呼吸困难\",\"value\":2}, {\"answer\":0,\"text\":\"兴奋\",\"value\":3}]",
+    "title": "缺氧患者最典型症状是"
+  },
+  {
+    "id": 36821,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"介入治疗\",\"value\":0}, {\"answer\":0,\"text\":\"起搏器置入\",\"value\":1}, {\"answer\":0,\"text\":\"外科手术\",\"value\":2}, {\"answer\":1,\"text\":\"溶栓治疗\",\"value\":3}]",
+    "title": "男性,75岁,下肢骨折术后1周突发呼吸困难,晕厥1次,查体：BP85/55mmHg,口唇发绀,颈静脉充盈,肺动脉瓣区第二心音亢进。该患者首选的治疗是"
+  },
+  {
+    "id": 36767,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"脓气胸\",\"value\":0}, {\"answer\":0,\"text\":\"肺大泡\",\"value\":1}, {\"answer\":1,\"text\":\"心力衰竭\",\"value\":2}, {\"answer\":0,\"text\":\"张力性气胸\",\"value\":3}]",
+    "title": "腺病毒肺炎最易出现的并发症是"
+  },
+  {
+    "id": 36876,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺炎克雷伯杆菌\",\"value\":0}, {\"answer\":0,\"text\":\"铜绿假单胞菌\",\"value\":1}, {\"answer\":0,\"text\":\"军团菌\",\"value\":2}, {\"answer\":1,\"text\":\"肺炎链球菌\",\"value\":3}]",
+    "title": "对β内酰胺类抗生素耐药的病原中,主要机制为青霉素结合蛋白结构改变的是"
+  },
+  {
+    "id": 36904,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"短效抗胆碱药\",\"value\":0}, {\"answer\":0,\"text\":\"缓释茶碱片\",\"value\":1}, {\"answer\":1,\"text\":\"静脉滴注茶碱类药物\",\"value\":2}, {\"answer\":1,\"text\":\"激素混悬液\",\"value\":3}, {\"answer\":1,\"text\":\"持续雾化吸入SABA\",\"value\":4}]",
+    "title": "重度至危重度哮喘急性发作期的治疗药物主要有"
+  },
+  {
+    "id": 36950,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"低镁血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":2}, {\"answer\":1,\"text\":\"低钾血症\",\"value\":3}]",
+    "title": "应用高剂量β2受体激动剂可导致的严重点性不良反应是"
+  },
+  {
+    "id": 36918,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"提高药物疗效\",\"value\":0}, {\"answer\":0,\"text\":\"加速细菌细胞壁破裂\",\"value\":1}, {\"answer\":0,\"text\":\"延缓细菌耐药性的产生\",\"value\":2}, {\"answer\":1,\"text\":\"减少药物不良反应\",\"value\":3}]",
+    "title": "异烟肼+盐酸吡哆辛（维生素B6）治疗结核病属于"
+  },
+  {
+    "id": 36887,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麻黄碱\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":1,\"text\":\"氢化可的松\",\"value\":2}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":3}]",
+    "title": "哮喘持续状态或危重发作的抢救应选用"
+  },
+  {
+    "id": 36728,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺性脑病\",\"value\":0}, {\"answer\":0,\"text\":\"DIC\",\"value\":1}, {\"answer\":0,\"text\":\"上消化道出血\",\"value\":2}, {\"answer\":0,\"text\":\"心律失常\",\"value\":3}]",
+    "title": "肺心病的首要死亡原因是"
+  },
+  {
+    "id": 36725,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立即静脉给予心肌营养剂\",\"value\":0}, {\"answer\":0,\"text\":\"立即静脉给予地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"立即静脉给予酚妥拉明\",\"value\":2}, {\"answer\":1,\"text\":\"立即静脉给予毒毛K制剂\",\"value\":3}]",
+    "title": "支气管肺炎合并心力衰竭时,应立即给予何种处理"
+  },
+  {
+    "id": 36845,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"沙丁胺醇气雾剂\",\"value\":0}, {\"answer\":0,\"text\":\"异丙托溴铵气雾剂\",\"value\":1}, {\"answer\":0,\"text\":\"孟鲁司特钠咀嚼片\",\"value\":2}, {\"answer\":1,\"text\":\"布地奈德吸入剂\",\"value\":3}]",
+    "title": "起效较缓慢,应告知患者使用后须漱口的药物是"
+  },
+  {
+    "id": 36991,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"孟鲁司特\",\"value\":0}, {\"answer\":0,\"text\":\"阿奇霉素\",\"value\":1}, {\"answer\":0,\"text\":\"丙酸氟替卡松\",\"value\":2}, {\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":3}]",
+    "title": "患儿,男,5岁,体重18KG,主诉“咳嗽,憋喘2天”,临床诊断为“急性支气管炎,支气管哮喘”。该患儿使用哪种药物缓解哮喘急性发作效果最佳"
+  },
+  {
+    "id": 36935,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服给药\",\"value\":0}, {\"answer\":0,\"text\":\"静脉滴注\",\"value\":1}, {\"answer\":0,\"text\":\"透皮给药\",\"value\":2}, {\"answer\":1,\"text\":\"吸入给药\",\"value\":3}]",
+    "title": "哮喘急性发作时应用平喘药,最适宜的给药途径是"
+  },
+  {
+    "id": 37014,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不宜用于13岁以下儿童\",\"value\":0}, {\"answer\":0,\"text\":\"与氢氧化铝合用有协同作用\",\"value\":1}, {\"answer\":1,\"text\":\"需定期监测肝功能\",\"value\":2}, {\"answer\":1,\"text\":\"需定期监测尿酸\",\"value\":3}, {\"answer\":1,\"text\":\"用药期间需定期评估视力和红绿色分辨能力\",\"value\":4}]",
+    "title": "关于乙胺丁醇的用药指导正确的是"
+  },
+  {
+    "id": 36830,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"宜采用分阶段治疗方案\",\"value\":0}, {\"answer\":0,\"text\":\"强化治疗采用INH+RFP+PZA\",\"value\":1}, {\"answer\":1,\"text\":\"巩固维持治疗采用INH+PZA\",\"value\":2}, {\"answer\":0,\"text\":\"RPF疗程6-12个月\",\"value\":3}]",
+    "title": "有关活动性原发型肺结核的治疗错误的是"
+  },
+  {
+    "id": 36775,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"腺病毒肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"巨细胞病毒肺炎\",\"value\":1}, {\"answer\":1,\"text\":\"呼吸道合胞病毒肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"流感病毒肺炎\",\"value\":3}]",
+    "title": "目前发病率最高的病毒性肺炎是"
+  },
+  {
+    "id": 36955,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加重呼吸抑制\",\"value\":0}, {\"answer\":1,\"text\":\"增强止痛效果\",\"value\":1}, {\"answer\":0,\"text\":\"诱发精神错乱\",\"value\":2}, {\"answer\":0,\"text\":\"增强镇静作用\",\"value\":3}]",
+    "title": "可待因合用对乙酰氨基酚,可"
+  },
+  {
+    "id": 36917,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"提高药物疗效\",\"value\":0}, {\"answer\":0,\"text\":\"加速细菌细胞壁破裂\",\"value\":1}, {\"answer\":0,\"text\":\"延缓细菌耐药性的产生\",\"value\":2}, {\"answer\":0,\"text\":\"减少药物不良反应\",\"value\":3}]",
+    "title": "单胺氧化酶抑制剂+氯丙嗪治疗紧张、焦虑和烦躁症状属于"
+  },
+  {
+    "id": 36723,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"X线见融合病灶\",\"value\":0}, {\"answer\":1,\"text\":\"全身多系统损害\",\"value\":1}, {\"answer\":0,\"text\":\"剧烈咳嗽\",\"value\":2}, {\"answer\":0,\"text\":\"喘息\",\"value\":3}]",
+    "title": "重症肺炎的主要依据是"
+  },
+  {
+    "id": 36981,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"支气管痉挛\",\"value\":0}, {\"answer\":0,\"text\":\"血糖升高\",\"value\":1}, {\"answer\":0,\"text\":\"血压下降\",\"value\":2}, {\"answer\":1,\"text\":\"心律失常\",\"value\":3}]",
+    "title": "氨茶碱静脉滴注速度不宜过快,否则容易出现"
+  },
+  {
+    "id": 36923,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"SM\",\"value\":0}, {\"answer\":1,\"text\":\"PZA\",\"value\":1}, {\"answer\":0,\"text\":\"EMB\",\"value\":2}, {\"answer\":0,\"text\":\"PAS\",\"value\":3}]",
+    "title": "下列药物可发生高尿酸血症,不良反应与计量、疗程有关的是"
+  },
+  {
+    "id": 36769,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"氢化考的松\",\"answer\":0},{\"value\":1,\"text\":\"泼尼松\",\"answer\":0},{\"value\":2,\"text\":\"地塞米松\",\"answer\":1},{\"value\":3,\"text\":\"甲基强的松龙\",\"answer\":0}]",
+    "title": "支气管肺炎应用的肾上腺皮质激素"
+  },
+  {
+    "id": 36820,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"鼻导管持续高浓度给氧\",\"value\":0}, {\"answer\":1,\"text\":\"呼气末正压给氧\",\"value\":1}, {\"answer\":0,\"text\":\"持续低流量给氧\",\"value\":2}, {\"answer\":0,\"text\":\"高压氧疗\",\"value\":3}]",
+    "title": "对成人呼吸窘迫综合征的治疗采用"
+  },
+  {
+    "id": 37032,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"消灭组织内的结核菌,最大限度减少复发\",\"value\":0}, {\"answer\":0,\"text\":\"避免继发感染\",\"value\":1}, {\"answer\":0,\"text\":\"减轻症状\",\"value\":2}, {\"answer\":1,\"text\":\"防止耐药\",\"value\":3}, {\"answer\":1,\"text\":\"迅速杀伤结核分歧杆菌,最大限度地降低传染性\",\"value\":4}]",
+    "title": "抗结核化学药物治疗的作用是"
+  },
+  {
+    "id": 36906,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗胆碱药\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素\",\"value\":1}, {\"answer\":1,\"text\":\"白三烯受体阻断剂\",\"value\":2}, {\"answer\":1,\"text\":\"磷酸二酯酶抑制剂\",\"value\":3}, {\"answer\":1,\"text\":\"β2受体激动剂\",\"value\":4}]",
+    "title": "可用于治疗哮喘的药物种类有"
+  },
+  {
+    "id": 36791,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺炎球菌肺炎\",\"value\":0}, {\"answer\":1,\"text\":\"支气管异物\",\"value\":1}, {\"answer\":0,\"text\":\"支气管哮喘\",\"value\":2}, {\"answer\":0,\"text\":\"慢性阻塞性肺疾病\",\"value\":3}]",
+    "title": "吸气性呼吸困难最常见于"
+  },
+  {
+    "id": 36871,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":0}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":1}, {\"answer\":0,\"text\":\"克伦特罗\",\"value\":2}, {\"answer\":1,\"text\":\"特布他林\",\"value\":3}]",
+    "title": "选择性作用于β2受体又能皮下注射的平喘药是"
+  },
+  {
+    "id": 36818,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3.64%THAM\",\"value\":0}, {\"answer\":0,\"text\":\"11.2%乳酸钠\",\"value\":1}, {\"answer\":0,\"text\":\"醋唑酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"2.5%碳酸氢钠\",\"value\":3}]",
+    "title": "患者血气分析结果为:PH7.16.PaO27.5KPa(56mmHg),PaCO212KPa(90mmHg),BE-18mmol/L(-18mEq/L),应采用哪种药物"
+  },
+  {
+    "id": 37010,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"泼尼松龙\",\"value\":0}, {\"answer\":1,\"text\":\"丙酸倍氯米松\",\"value\":1}, {\"answer\":1,\"text\":\"氟替卡松\",\"value\":2}, {\"answer\":1,\"text\":\"布地奈德\",\"value\":3}, {\"answer\":0,\"text\":\"甲泼尼龙\",\"value\":4}]",
+    "title": "用于治疗支气管哮喘的吸入型糖皮质激素药物有"
+  },
+  {
+    "id": 36993,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口腔念珠菌感染\",\"value\":0}, {\"answer\":1,\"text\":\"血糖降低\",\"value\":1}, {\"answer\":0,\"text\":\"咽部不适\",\"value\":2}, {\"answer\":0,\"text\":\"长期大剂量应用可能导致骨密度降低等全身不良反应\",\"value\":3}]",
+    "title": "吸入激素的不良反应不包括"
+  },
+  {
+    "id": 36915,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异烟肼\",\"value\":0}, {\"answer\":1,\"text\":\"乙胺丁醇\",\"value\":1}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "具有球后视神经炎不良反应的药物是"
+  },
+  {
+    "id": 36914,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"由直接毒性作用或变态反应产生\",\"value\":0}, {\"answer\":0,\"text\":\"抗生素后效应\",\"value\":1}, {\"answer\":0,\"text\":\"降解产物\",\"value\":2}, {\"answer\":0,\"text\":\"酶诱导作用\",\"value\":3}]",
+    "title": "以下说明利福平容易引起肝损害的作用机制中,正确的是"
+  },
+  {
+    "id": 36967,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟替卡松\",\"value\":0}, {\"answer\":0,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":1,\"text\":\"乙酰胆碱\",\"value\":3}]",
+    "title": "下列药物中属于M受体激动剂的是"
+  },
+  {
+    "id": 36951,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"漱口\",\"value\":0}, {\"answer\":0,\"text\":\"加服钙剂和维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"何用抗菌药物\",\"value\":2}, {\"answer\":0,\"text\":\"使用镇咳药\",\"value\":3}]",
+    "title": "下列哪项措施可避免吸入性糖皮质激素用药后发生声音嘶哑"
+  },
+  {
+    "id": 36780,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":1,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":3}]",
+    "title": "军团菌的药物治疗首选是"
+  },
+  {
+    "id": 36722,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺部体征出现较晚\",\"value\":0}, {\"answer\":0,\"text\":\"弛张高热\",\"value\":1}, {\"answer\":0,\"text\":\"合并脓胸、肺大疱\",\"value\":2}, {\"answer\":0,\"text\":\"中毒症状明显\",\"value\":3}]",
+    "title": "关于金黄色葡萄球菌肺炎的临床特点,一下哪项说法是错误的"
+  },
+  {
+    "id": 36836,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左氧氟沙星\",\"value\":0}, {\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":2}, {\"answer\":0,\"text\":\"甘草合剂\",\"value\":3}]",
+    "title": "患者男,80岁,因发热、咳嗽、咳痰2天就诊,诊断为社区获得性肺炎,给予左氧氟沙星、甘草合剂、氨溴索、对乙酰氨基酚、维生素C等治疗。患者用药3天后出现失眠、烦躁不安等症状,最可能引起"
+  },
+  {
+    "id": 36763,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"寒战和高热\",\"value\":0}, {\"answer\":0,\"text\":\"咳粘液脓性痰\",\"value\":1}, {\"answer\":1,\"text\":\"咳铁锈色痰\",\"value\":2}, {\"answer\":0,\"text\":\"患侧胸部疼痛\",\"value\":3}]",
+    "title": "肺炎球菌肺炎的典型症状是"
+  },
+  {
+    "id": 36816,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"补充血容量\",\"value\":0}, {\"answer\":0,\"text\":\"提高通气量,给予氧疗\",\"value\":1}, {\"answer\":0,\"text\":\"静脉点滴5%碳酸氢钠,积极纠正酸中毒\",\"value\":2}, {\"answer\":0,\"text\":\"纠正电解质紊乱\",\"value\":3}]",
+    "title": "男性,62岁,咳嗽气喘40年,5年来间断加重。一周来咳喘、痰多,伴有嗜睡,血气结果显示呼吸性酸中毒伴代谢性酸中毒。下列治疗方法中哪项不正确"
+  },
+  {
+    "id": 36833,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"体温正常48-72小时内,无肺炎任何一项临床不稳定征象可停用抗菌药物\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎的抗菌药物治疗应尽早进行,一旦怀疑为肺炎应马上给予首剂抗菌药物\",\"value\":1}, {\"answer\":0,\"text\":\"抗菌治疗后48-72小时内应对病情进行评价\",\"value\":2}, {\"answer\":1,\"text\":\"肺炎的药物治疗应尽量避免使用抗生素,其他药物无效时再考虑使用抗生素\",\"value\":3}]",
+    "title": "关于治疗肺炎的用药注意事项,叙述不正确的是"
+  },
+  {
+    "id": 36806,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先锋V\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素+链霉素\",\"value\":1}, {\"answer\":1,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素+大庆霉素\",\"value\":3}]",
+    "title": "男性,24岁高热三天,咳嗽,咳铁锈色痰,血白细胞增高,胸片呈右上叶片装阴影,抗生素首选"
+  },
+  {
+    "id": 36960,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制炎症物质的释放\",\"value\":0}, {\"answer\":0,\"text\":\"抑制白三烯受体\",\"value\":1}, {\"answer\":1,\"text\":\"拮抗M胆碱受体\",\"value\":2}, {\"answer\":0,\"text\":\"阻断腺苷受体\",\"value\":3}]",
+    "title": "噻托溴铵平喘的主要机制是"
+  },
+  {
+    "id": 36971,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血糖升高\",\"value\":0}, {\"answer\":1,\"text\":\"有协同作用,可减少糖皮质激素用量\",\"value\":1}, {\"answer\":0,\"text\":\"增加胃溃疡几率\",\"value\":2}, {\"answer\":0,\"text\":\"钾过度流失\",\"value\":3}]",
+    "title": "糖皮质激素联用白三烯受体阻断剂可导致"
+  },
+  {
+    "id": 36832,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"莫西沙星\",\"value\":0}, {\"answer\":0,\"text\":\"第一代头孢菌素\",\"value\":1}, {\"answer\":1,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"吉米沙星\",\"value\":3}]",
+    "title": "青壮年和无基础疾病的社区获得性肺炎患者,一般不选用的药物是"
+  },
+  {
+    "id": 36987,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血常规\",\"value\":0}, {\"answer\":0,\"text\":\"脑电图\",\"value\":1}, {\"answer\":1,\"text\":\"血糖\",\"value\":2}, {\"answer\":0,\"text\":\"电解质\",\"value\":3}]",
+    "title": "某患者以“慢性阻塞性肺疾病急性加重期”收住院,医嘱用药有莫西沙星注射液400mg,0.9%氯化钠注射液100ml+注射用甲泼尼龙琥珀酸钠40mg,注射用奥美拉唑40mg,沙美特罗替卡松粉吸入剂50/500ug,噻托溴铵粉吸入剂18ug,左旋氨氯地平片2.5mg,坦洛新缓释胶囊0.2mg,呋塞米21mg。该患者使用甲泼尼龙,需要检测的指标是"
+  },
+  {
+    "id": 36822,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮下注射低分子肝素\",\"value\":0}, {\"answer\":0,\"text\":\"机械通气\",\"value\":1}, {\"answer\":0,\"text\":\"介入治疗\",\"value\":2}, {\"answer\":0,\"text\":\"迅速止痛\",\"value\":3}]",
+    "title": "男,45岁,突发右胸痛、呼吸困难2天。CTPA示右下肺动脉分支中可见充盈缺损,该患者首选的治疗措施是"
+  },
+  {
+    "id": 36758,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"止血药\",\"value\":0}, {\"answer\":1,\"text\":\"支气管舒张药\",\"value\":1}, {\"answer\":0,\"text\":\"镇静药\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素\",\"value\":3}]",
+    "title": "支气管扩张合并咯血症状治疗时一般不主张应用"
+  },
+  {
+    "id": 36855,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"避免与克服耐药细菌耐药\",\"value\":0}, {\"answer\":0,\"text\":\"采用大剂量\",\"value\":1}, {\"answer\":0,\"text\":\"采用长程疗法\",\"value\":2}, {\"answer\":0,\"text\":\"采用短程疗法\",\"value\":3}]",
+    "title": "结核病化学治疗成功的关键措施是"
+  },
+  {
+    "id": 36922,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"SM\",\"value\":0}, {\"answer\":0,\"text\":\"PZA\",\"value\":1}, {\"answer\":0,\"text\":\"EMB\",\"value\":2}, {\"answer\":0,\"text\":\"PAS\",\"value\":3}]",
+    "title": "下列药物可损害第Ⅷ对脑神经的是"
+  },
+  {
+    "id": 36957,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制炎症物质的释放\",\"value\":0}, {\"answer\":0,\"text\":\"阻断腺苷受体\",\"value\":1}, {\"answer\":0,\"text\":\"拮抗M胆碱受体\",\"value\":2}, {\"answer\":0,\"text\":\"激动肾上腺素β2受体\",\"value\":3}]",
+    "title": "氢化可的松平喘的主要机制是"
+  },
+  {
+    "id": 36928,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"利福平\",\"value\":1}, {\"answer\":0,\"text\":\"对氨基水杨酸\",\"value\":2}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":3}]",
+    "title": "肺结核患者平日佩戴隐形眼镜,使用抗结核药后,可导致患者隐形眼镜染色的药物是"
+  },
+  {
+    "id": 36742,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"积极控制感染和改善呼吸功能\",\"value\":0}, {\"answer\":0,\"text\":\"使用小剂量强心剂\",\"value\":1}, {\"answer\":0,\"text\":\"使用小剂量作用缓和的利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"使用血管扩张剂\",\"value\":3}]",
+    "title": "治疗肺心病心力衰竭的首要措施是"
+  },
+  {
+    "id": 36773,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"1个月内\",\"value\":0}, {\"answer\":0,\"text\":\"2个月内\",\"value\":1}, {\"answer\":0,\"text\":\"3个月内\",\"value\":2}, {\"answer\":0,\"text\":\"4个月内\",\"value\":3}]",
+    "title": "急性肺炎病程为"
+  },
+  {
+    "id": 36759,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氧的弥散能力是二氧化碳的1/20\",\"value\":0}, {\"answer\":0,\"text\":\"氧的弥散能力是二氧化碳的20倍\",\"value\":1}, {\"answer\":0,\"text\":\"氧的弥散能力是二氧化碳的1/30\",\"value\":2}, {\"answer\":0,\"text\":\"氧的弥散能力是二氧化碳的30倍\",\"value\":3}]",
+    "title": "肺组织弥散功能障碍时引起的单纯性缺氧是由于"
+  },
+  {
+    "id": 36826,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":0}, {\"answer\":0,\"text\":\"利福平\",\"value\":1}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":2}, {\"answer\":1,\"text\":\"异烟肼\",\"value\":3}]",
+    "title": "对结核分枝杆菌A菌群作用最强的药物是"
+  },
+  {
+    "id": 36961,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟替卡松\",\"value\":0}, {\"answer\":1,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"噻托溴铵\",\"value\":3}]",
+    "title": "下列药物中属于长效β2受体激动剂的是"
+  },
+  {
+    "id": 36804,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"庆大霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":1,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"氧氟沙星\",\"value\":3}]",
+    "title": "军团菌肺炎治疗首选"
+  },
+  {
+    "id": 36890,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":1,\"text\":\"苯丙哌林\",\"value\":2}, {\"answer\":0,\"text\":\"苯佐那酯\",\"value\":3}]",
+    "title": "具有中枢和外周双重作用的镇咳药是"
+  },
+  {
+    "id": 36848,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"吗啡\",\"value\":0}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":1}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":3}]",
+    "title": "患者,男性,45岁,反复发作夜间呼吸困难1个月,加重一天就诊,体格检查：血压180/110mHg,呼吸急促,双肺散在哮鸣音,双肺底细湿啰音,心率131次/分,在未确诊情况下,该患者不宜使用的药物是"
+  },
+  {
+    "id": 36813,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿卡米星\",\"value\":0}, {\"answer\":0,\"text\":\"左氧氟沙星\",\"value\":1}, {\"answer\":1,\"text\":\"阿奇霉素\",\"value\":2}, {\"answer\":0,\"text\":\"头孢拉定\",\"value\":3}]",
+    "title": "男,16岁,发热、干咳三天,最高体温37.8℃,N0.75。胸部X片示右下肺纹理增粗、模糊。首选药物是"
+  },
+  {
+    "id": 36729,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"反复发作阵发性呼吸困难\",\"value\":0}, {\"answer\":0,\"text\":\"夜间阵发性呼吸困难\",\"value\":1}, {\"answer\":0,\"text\":\"反复发作混合性呼吸困难\",\"value\":2}, {\"answer\":0,\"text\":\"反复发作吸气性呼吸困难\",\"value\":3}]",
+    "title": "支气管哮喘的主要临床特征是"
+  },
+  {
+    "id": 36798,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"抗组胺药\",\"value\":1}, {\"answer\":0,\"text\":\"抗生素\",\"value\":2}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":3}]",
+    "title": "消除支气管哮喘气道炎症最有效的药物"
+  },
+  {
+    "id": 36947,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布地奈德\",\"value\":0}, {\"answer\":1,\"text\":\"可待因\",\"value\":1}, {\"answer\":0,\"text\":\"沙美特罗\",\"value\":2}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":3}]",
+    "title": "下列药物中可导致新生儿的戒断症状和呼吸抑制的是"
+  },
+  {
+    "id": 36942,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"酮替芬\",\"value\":0}, {\"answer\":0,\"text\":\"溴己新\",\"value\":1}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":2}, {\"answer\":1,\"text\":\"右美沙芬\",\"value\":3}]",
+    "title": "具有镇咳作用的药物是"
+  },
+  {
+    "id": 37029,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺素\",\"value\":1}, {\"answer\":1,\"text\":\"茶碱\",\"value\":2}, {\"answer\":1,\"text\":\"异丙肾上腺素\",\"value\":3}, {\"answer\":1,\"text\":\"麻黄碱\",\"value\":4}]",
+    "title": "心血管系统不良反应较少的平喘药不包括"
+  },
+  {
+    "id": 36765,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氧氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "治疗肺炎链球菌肺炎首选的抗菌药物是"
+  },
+  {
+    "id": 36825,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肺癌\",\"value\":0}, {\"answer\":0,\"text\":\"革兰阴性杆菌肺炎\",\"value\":1}, {\"answer\":1,\"text\":\"干酪性肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"葡萄球菌肺炎\",\"value\":3}]",
+    "title": "上肺部病变伴低热、乏力,经正规抗菌药物治疗后肺部病灶不吸收,最先考虑的是"
+  },
+  {
+    "id": 36835,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿卡米星\",\"value\":0}, {\"answer\":0,\"text\":\"亚胺培南-西司他丁\",\"value\":1}, {\"answer\":1,\"text\":\"头孢拉定\",\"value\":2}, {\"answer\":0,\"text\":\"头孢哌酮-舒巴坦\",\"value\":3}]",
+    "title": "患者,男,26岁,2天前因淋雨后出现发热,体温最高达39℃,经实验室和胸片检查,临床诊断为社区获得性肺炎,无其他基础疾病。可首选的抗菌药物是"
+  },
+  {
+    "id": 36782,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"间歇热\",\"value\":0}, {\"answer\":1,\"text\":\"稽留热\",\"value\":1}, {\"answer\":0,\"text\":\"弛张热\",\"value\":2}, {\"answer\":0,\"text\":\"不规则热\",\"value\":3}]",
+    "title": "肺炎球菌性肺炎患者的热型常为"
+  },
+  {
+    "id": 36937,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"定量气雾剂吸入\",\"value\":0}, {\"answer\":0,\"text\":\"持续雾化吸入\",\"value\":1}, {\"answer\":0,\"text\":\"干粉吸入\",\"value\":2}, {\"answer\":1,\"text\":\"液化吸入\",\"value\":3}]",
+    "title": "吸入给药的方式不包括"
+  },
+  {
+    "id": 36741,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呼吸性碱中毒合并代谢性酸中毒\",\"value\":0}, {\"answer\":0,\"text\":\"代谢性酸中毒\",\"value\":1}, {\"answer\":0,\"text\":\"呼吸性酸中毒合并代谢性酸中毒\",\"value\":2}, {\"answer\":1,\"text\":\"低钾低氯性碱中毒\",\"value\":3}]",
+    "title": "慢性肺心病急性加重期使用利尿剂,可能引起"
+  },
+  {
+    "id": 36963,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特布他林\",\"value\":0}, {\"answer\":0,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":0,\"text\":\"氟替卡松\",\"value\":2}, {\"answer\":1,\"text\":\"噻托溴铵\",\"value\":3}]",
+    "title": "下列药物中属于长效M胆碱受体阻断剂的是"
+  },
+  {
+    "id": 36965,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟替卡松\",\"value\":0}, {\"answer\":1,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"乙酰胆碱\",\"value\":3}]",
+    "title": "下列药物中属于β受体激动剂的是"
+  },
+  {
+    "id": 36931,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"利福平\",\"value\":1}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":2}, {\"answer\":0,\"text\":\"链霉素\",\"value\":3}]",
+    "title": "以下抗结核药物中,具有“早期杀菌活性、灭菌活性、防止耐药”三大作用的药物是"
+  },
+  {
+    "id": 36884,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服\",\"value\":0}, {\"answer\":0,\"text\":\"静脉滴注\",\"value\":1}, {\"answer\":0,\"text\":\"皮下注射\",\"value\":2}, {\"answer\":1,\"text\":\"气雾吸入\",\"value\":3}]",
+    "title": "为减少使用的不良反应,用糖皮质激素平喘时宜"
+  },
+  {
+    "id": 36881,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氨茶碱\",\"value\":0}, {\"answer\":0,\"text\":\"异丙基阿托品\",\"value\":1}, {\"answer\":0,\"text\":\"色甘酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"奈多罗米\",\"value\":3}]",
+    "title": "用于平喘的腺苷受体阻断药是"
+  },
+  {
+    "id": 36851,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大剂量二丙酸倍氯米松吸入\",\"value\":0}, {\"answer\":1,\"text\":\"静脉滴注琥珀酸氢化可的松\",\"value\":1}, {\"answer\":0,\"text\":\"静脉滴注头孢菌素\",\"value\":2}, {\"answer\":0,\"text\":\"原有药物加大剂量再用1天\",\"value\":3}]",
+    "title": "患者,女性,20岁,反复发作性呼吸困难,胸闷、咳嗽3年,每年春季发作,可自行缓解,此次已发作一天,症状仍持续加重。体检：双肺满布哮鸣音,心率88次/分,心律齐,无杂音。给予足量特布他林和氨茶碱治疗1天,病情无好转,呼吸困难加重,口唇发绀,此时应采取"
+  },
+  {
+    "id": 36943,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"M受体拮抗剂\",\"value\":0}, {\"answer\":1,\"text\":\"β2受体激动剂\",\"value\":1}, {\"answer\":0,\"text\":\"吸入用糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"磷酸二酯酶抑制剂\",\"value\":3}]",
+    "title": "下属药物中长期使用易产生耐受性的是"
+  },
+  {
+    "id": 36747,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"PaCO2↑PH↓血清氯↑\",\"value\":0}, {\"answer\":1,\"text\":\"PaCO2↑PH↓血清钾↑氯↓\",\"value\":1}, {\"answer\":0,\"text\":\"PaCO2↑PH↑血清钾↑\",\"value\":2}, {\"answer\":0,\"text\":\"PaCO2↑PH↑血清钾↓氯↓\",\"value\":3}]",
+    "title": "某患者为慢性肺源性心脏病、呼吸衰竭合并电解质紊乱、酸碱失衡,下列哪一项血气分析符合单纯呼吸性酸中毒失代偿的改变"
+  },
+  {
+    "id": 36902,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨茶碱静脉滴注\",\"value\":0}, {\"answer\":0,\"text\":\"氨茶碱口服\",\"value\":1}, {\"answer\":0,\"text\":\"氢化可的松静脉滴注\",\"value\":2}, {\"answer\":1,\"text\":\"色甘酸钠\",\"value\":3}]",
+    "title": "预防外因性支气管哮喘发作宜选用"
+  },
+  {
+    "id": 36999,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"心脏病\",\"value\":0}, {\"answer\":0,\"text\":\"过敏反应\",\"value\":1}, {\"answer\":0,\"text\":\"丙酮酸升高\",\"value\":2}, {\"answer\":0,\"text\":\"肌肉震颤\",\"value\":3}]",
+    "title": "异丙肾上腺素治疗支气管哮喘最严重的的不良反应是"
+  },
+  {
+    "id": 36962,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"特布他林\",\"value\":0}, {\"answer\":0,\"text\":\"氟替卡松\",\"value\":1}, {\"answer\":0,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"噻托溴铵\",\"value\":3}]",
+    "title": "下列药物中属于短效β2受体激动剂的是"
+  },
+  {
+    "id": 36793,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"积极控制感染\",\"value\":0}, {\"answer\":0,\"text\":\"应用支气管舒张剂\",\"value\":1}, {\"answer\":1,\"text\":\"应用5%碳酸氢钠纠正酸中毒\",\"value\":2}, {\"answer\":0,\"text\":\"应用无创呼吸机改善通气\",\"value\":3}]",
+    "title": "男性,60岁。反复咳喘40余年,活动后气短10余年,间断双下肢水肿5年,家中1天入院,吸烟史40年。查体：嗜睡,口唇发绀,颈静脉怒张,桶状胸,双肺可闻及干湿啰音,心率110次/分,心率整,肝肋下3.0cm,双下肢水肿,血气分析显示PH7.26,PaO275mmHg。下列治疗措施错误的是"
+  },
+  {
+    "id": 36979,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加服钙剂和维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"预先应用β2受体激动剂\",\"value\":1}, {\"answer\":1,\"text\":\"合用抗菌药物\",\"value\":2}, {\"answer\":0,\"text\":\"使用镇咳药\",\"value\":3}]",
+    "title": "使用呼吸系统药物时,合并感染且必须使用吸入激素时,应"
+  },
+  {
+    "id": 36964,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"特布他林\",\"value\":0}, {\"answer\":0,\"text\":\"福莫特罗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙托溴铵\",\"value\":2}, {\"answer\":0,\"text\":\"氟替卡松\",\"value\":3}]",
+    "title": "下列药物中属于短效M胆碱受体阻断剂的是"
+  },
+  {
+    "id": 36809,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"青霉素（大剂量）\",\"value\":0}, {\"answer\":0,\"text\":\"先锋霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺霉素\",\"value\":2}, {\"answer\":0,\"text\":\"洁霉素\",\"value\":3}]",
+    "title": "急性肺脓肿的感染菌中,50%-90%是厌氧菌,首选抗生素是"
+  },
+  {
+    "id": 36954,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"加重呼吸抑制\",\"value\":0}, {\"answer\":0,\"text\":\"增强止痛效果\",\"value\":1}, {\"answer\":0,\"text\":\"加重便秘\",\"value\":2}, {\"answer\":0,\"text\":\"诱发精神错乱\",\"value\":3}]",
+    "title": "可待因合用美沙酮,可"
+  },
+  {
+    "id": 36952,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效β2受体激动剂+长效M胆碱受体阻断剂\",\"value\":0}, {\"answer\":0,\"text\":\"长效β2受体激动剂+白三烯受体阻断剂\",\"value\":1}, {\"answer\":1,\"text\":\"吸入性糖皮质激素+长效β2受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"吸入性糖皮质激素+短效β2受体激动剂\",\"value\":3}]",
+    "title": "对中、重度持续哮喘患者的长期维持治疗的推荐方案是"
+  },
+  {
+    "id": 36978,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加强运动\",\"value\":0}, {\"answer\":1,\"text\":\"加服钙剂和维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"预先应用β2受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"合用抗菌药物\",\"value\":3}]",
+    "title": "使用呼吸系统药物时,预防骨质疏松症,应"
+  },
+  {
+    "id": 36778,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用脱水剂减轻脑水肿\",\"value\":0}, {\"answer\":0,\"text\":\"纠正电解质紊乱\",\"value\":1}, {\"answer\":0,\"text\":\"输碱性溶液,使PH回复正常\",\"value\":2}, {\"answer\":1,\"text\":\"以上都不是\",\"value\":3}]",
+    "title": "纠正呼吸性酸中毒,最主要的措施是"
+  },
+  {
+    "id": 36988,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"扩张支气管\",\"value\":0}, {\"answer\":0,\"text\":\"预防骨质疏松\",\"value\":1}, {\"answer\":1,\"text\":\"预防激素引起的消化道溃疡\",\"value\":2}, {\"answer\":0,\"text\":\"缓解下肢水肿症状\",\"value\":3}]",
+    "title": "某患者以“慢性阻塞性肺疾病急性加重期”收住院,医嘱用药有莫西沙星注射液400mg,0.9%氯化钠注射液100ml+注射用甲泼尼龙琥珀酸钠40mg,注射用奥美拉唑40mg,沙美特罗替卡松粉吸入剂50/500ug,噻托溴铵粉吸入剂18ug,左旋氨氯地平片2.5mg,坦洛新缓释胶囊0.2mg,呋塞米22mg。该患者使用奥美拉唑的的目的是"
+  },
+  {
+    "id": 36940,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"孟鲁司特\",\"value\":1}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"沙丁胺醇\",\"value\":3}]",
+    "title": "治疗哮喘持续状态宜选用"
+  },
+  {
+    "id": 36929,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝毒性\",\"value\":0}, {\"answer\":0,\"text\":\"肾毒性\",\"value\":1}, {\"answer\":0,\"text\":\"消化道刺激\",\"value\":2}, {\"answer\":0,\"text\":\"球后视神经炎\",\"value\":3}]",
+    "title": "利福平的主要不良反应是"
+  },
+  {
+    "id": 37016,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇气雾剂\",\"value\":0}, {\"answer\":0,\"text\":\"异丙托溴铵气雾剂\",\"value\":1}, {\"answer\":1,\"text\":\"孟鲁司特钠咀嚼片\",\"value\":2}, {\"answer\":1,\"text\":\"多索茶碱注射液\",\"value\":3}, {\"answer\":1,\"text\":\"布地奈德混悬液\",\"value\":4}]",
+    "title": "患者,男,48岁,患有青光眼3年。近日因支气管哮喘急性发作,给予舒张支气管、抗炎等治疗,该患者可考虑使用的药物是"
+  },
+  {
+    "id": 37026,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制炎症介质的释放\",\"value\":0}, {\"answer\":1,\"text\":\"抑制咳嗽反射弧中的感受器\",\"value\":1}, {\"answer\":1,\"text\":\"抑制咳嗽反射弧中的传入神经纤维末梢\",\"value\":2}, {\"answer\":1,\"text\":\"抑制延脑咳嗽中枢\",\"value\":3}, {\"answer\":0,\"text\":\"可抑制α受体\",\"value\":4}]",
+    "title": "关于镇咳药的作用机制,下列哪项是正确的"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"实例\",\"value\":0}, {\"answer\":0,\"text\":\"实例\",\"value\":1}, {\"answer\":0,\"text\":\"实例\",\"value\":2}, {\"answer\":1,\"text\":\"实例\",\"value\":3}]",
+    "title": "实例"
+  }
+]

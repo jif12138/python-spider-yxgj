@@ -1,0 +1,106 @@
+[
+  {
+    "code": "ekyy",
+    "id": 447,
+    "name": "儿科用药",
+    "nameOriginId": 26,
+    "questionBankId": 31,
+    "questionNumber": 200
+  },
+  {
+    "code": "fckyy",
+    "id": 448,
+    "name": "妇产科用药",
+    "nameOriginId": 21,
+    "questionBankId": 31,
+    "questionNumber": 200
+  },
+  {
+    "code": "gkyy",
+    "id": 449,
+    "name": "骨科用药",
+    "nameOriginId": 61,
+    "questionBankId": 31,
+    "questionNumber": 150
+  },
+  {
+    "code": "hxxtyy",
+    "id": 450,
+    "name": "呼吸系统用药",
+    "nameOriginId": 4,
+    "questionBankId": 31,
+    "questionNumber": 321
+  },
+  {
+    "code": "kgryw",
+    "id": 451,
+    "name": "抗感染药物",
+    "nameOriginId": 8,
+    "questionBankId": 31,
+    "questionNumber": 185
+  },
+  {
+    "code": "kzlyw",
+    "id": 459,
+    "name": "抗肿瘤药物",
+    "nameOriginId": 10,
+    "questionBankId": 31,
+    "questionNumber": 281
+  },
+  {
+    "code": "111",
+    "id": 452,
+    "name": "慢病用药",
+    "nameOriginId": 131,
+    "questionBankId": 31,
+    "questionNumber": 555
+  },
+  {
+    "code": "nfmxtyy",
+    "id": 453,
+    "name": "内分泌系统用药",
+    "nameOriginId": 7,
+    "questionBankId": 31,
+    "questionNumber": 395
+  },
+  {
+    "code": "555",
+    "id": 454,
+    "name": "肾内科",
+    "nameOriginId": 132,
+    "questionBankId": 31,
+    "questionNumber": 295
+  },
+  {
+    "code": "xhxtyy",
+    "id": 455,
+    "name": "消化系统用药",
+    "nameOriginId": 5,
+    "questionBankId": 31,
+    "questionNumber": 592
+  },
+  {
+    "code": "xxgyy",
+    "id": 456,
+    "name": "心血管系统用药",
+    "nameOriginId": 3,
+    "questionBankId": 31,
+    "questionNumber": 380
+  },
+  {
+    "code": "xyxtyy",
+    "id": 457,
+    "name": "血液系统用药",
+    "nameOriginId": 59,
+    "questionBankId": 31,
+    "questionNumber": 185
+  },
+  {
+    "code": "zty",
+    "id": 458,
+    "name": "镇痛药",
+    "nameOriginId": 1,
+    "questionBankId": 31,
+    "questionNumber": 192
+  }
+]

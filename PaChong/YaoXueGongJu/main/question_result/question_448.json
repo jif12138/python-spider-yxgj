@@ -1,0 +1,3356 @@
+[
+  {
+    "id": 36418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道分泌物培养为衣原体,首选的药物是"
+  },
+  {
+    "id": 36532,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甘油三酯降低\",\"value\":0}, {\"answer\":0,\"text\":\"高密度脂蛋白胆固醇降低\",\"value\":1}, {\"answer\":0,\"text\":\"低密度脂蛋白胆固醇降低\",\"value\":2}, {\"answer\":1,\"text\":\"糖耐量异常\",\"value\":3}]",
+    "title": "口服避孕药对机体代谢的影响,正确的是"
+  },
+  {
+    "id": 36524,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素不能透过胎盘屏障,因此孕妇可以放心使用\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可由乳汁中排泄,因此哺乳期妇女接受大剂量糖皮质激素时不宜哺乳\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素可以促进小儿生长和发育,因此可以长期使用\",\"value\":2}, {\"answer\":0,\"text\":\"糖皮质激素隔日疗法对肾上腺皮质功能的抑制较大\",\"value\":3}]",
+    "title": "关于孕妇使用糖皮质激素的说法正确的是"
+  },
+  {
+    "id": 36375,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大剂量可用作长效避孕针\",\"value\":0}, {\"answer\":0,\"text\":\"长期使用需注意监测肝功能\",\"value\":1}, {\"answer\":0,\"text\":\"用药期间妇女不宜吸烟\",\"value\":2}, {\"answer\":1,\"text\":\"慎用于心血管疾病患者\",\"value\":3}]",
+    "title": "下列关于甲羟孕酮的描述错误的"
+  },
+  {
+    "id": 36473,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后止血\",\"value\":0}, {\"answer\":0,\"text\":\"催乳\",\"value\":1}, {\"answer\":0,\"text\":\"引产\",\"value\":2}, {\"answer\":0,\"text\":\"催产\",\"value\":3}]",
+    "title": "大剂量缩宫素适用于"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36488,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药物安全性低者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠及哺乳妇女、小儿\",\"value\":1}, {\"answer\":0,\"text\":\"用药后出现不良反应者\",\"value\":2}, {\"answer\":0,\"text\":\"药物治疗效果不明显者\",\"value\":3}]",
+    "title": "下列属于用药特殊人群的是"
+  },
+  {
+    "id": 36393,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕激素配伍而成\",\"value\":0}, {\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕酮配伍而成\",\"value\":1}, {\"answer\":1,\"text\":\"为主要通过抑制排卵的避孕药\",\"value\":2}, {\"answer\":0,\"text\":\"为主要通过抗着床的避孕药\",\"value\":3}]",
+    "title": "关于长效口服避孕药说法正确的是"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36550,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯丙哌林\",\"value\":0}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":1,\"text\":\"右美沙芬\",\"value\":3}]",
+    "title": "妊娠妇女禁用的镇咳药和祛痰药是"
+  },
+  {
+    "id": 36483,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "女性在哺乳期可以使用的抗菌药是"
+  },
+  {
+    "id": 36510,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"发生性接触的时间超过24h\",\"value\":0}, {\"answer\":0,\"text\":\"发生性接触的时间超过72h\",\"value\":1}, {\"answer\":0,\"text\":\"她正在使用对乙酰氨基酚治疗头痛\",\"value\":2}, {\"answer\":1,\"text\":\"她之前已经使用过紧急避孕药且未超过一个周期\",\"value\":3}]",
+    "title": "年龄大于16岁的女生,漏服了平时按时服用的口服避孕药。在交流询问后药师决定拒绝售药给她,原因是"
+  },
+  {
+    "id": 36436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"黄体酮\",\"value\":0}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":1}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}]",
+    "title": "卵巢功能不全和闭经宜选用"
+  },
+  {
+    "id": 36415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高血压\",\"value\":0}, {\"answer\":0,\"text\":\"体重下降\",\"value\":1}, {\"answer\":1,\"text\":\"阴道出血\",\"value\":2}, {\"answer\":0,\"text\":\"脱发\",\"value\":3}]",
+    "title": "长期服用雌激素可导致"
+  },
+  {
+    "id": 36369,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"通过反馈机制,抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"抑制子宫内膜正常增殖,不利于受精卵着床\",\"value\":1}, {\"answer\":0,\"text\":\"使宫颈黏液变稠,精子不易进入宫腔\",\"value\":2}, {\"answer\":0,\"text\":\"抑制卵巢黄体分泌激素\",\"value\":3}]",
+    "title": "复方炔诺酮片的主要避孕作用机制是"
+  },
+  {
+    "id": 36462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"叶酸,＜0.8mg/d\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B12,5mg/d\",\"value\":1}, {\"answer\":0,\"text\":\"叶酸,5mg/d\",\"value\":2}, {\"answer\":0,\"text\":\"维生素B12,0.8mg/d\",\"value\":3}]",
+    "title": "用于预防妊娠期妇女胎儿神经管畸形的药物及其剂量正确的是"
+  },
+  {
+    "id": 36502,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"恶心、呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"乳腺增生\",\"value\":1}, {\"answer\":1,\"text\":\"严重的胃病\",\"value\":2}, {\"answer\":0,\"text\":\"突然喘不过气来\",\"value\":3}]",
+    "title": "避孕药在哪种情况下应该立刻停止使用"
+  },
+  {
+    "id": 36467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方甘草酸苷片\",\"value\":0}, {\"answer\":0,\"text\":\"硫普罗宁\",\"value\":1}, {\"answer\":0,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":1,\"text\":\"丁二磺酸腺苷蛋氨酸片\",\"value\":3}]",
+    "title": "下列保肝药物中,适用于妊娠期肝内胆汁淤积的药物是"
+  },
+  {
+    "id": 36470,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢菌素\",\"value\":1}, {\"answer\":1,\"text\":\"异维A酸\",\"value\":2}, {\"answer\":0,\"text\":\"兰索拉唑\",\"value\":3}]",
+    "title": "根据妊娠期用药分级标准,属于孕妇禁用的是"
+  },
+  {
+    "id": 36396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":1,\"text\":\"出血\",\"value\":2}, {\"answer\":1,\"text\":\"妊娠斑\",\"value\":3}, {\"answer\":0,\"text\":\"体重减少\",\"value\":4}]",
+    "title": "口服避孕药的不良反应有"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素禁用于血管硬化和冠状动脉疾病患者\",\"value\":0}, {\"answer\":1,\"text\":\"缩宫素禁用于产道异常、胎位不正、前置胎盘、有剖腹产史者,以防止子宫破裂或胎儿窒息\",\"value\":1}, {\"answer\":1,\"text\":\"垂体后叶素禁用于冠状动脉硬化性心脏病患者\",\"value\":2}, {\"answer\":1,\"text\":\"麦角制剂禁用于催产和引产\",\"value\":3}, {\"answer\":1,\"text\":\"麦角制剂禁用于血管硬化和冠状动脉疾病患者\",\"value\":4}]",
+    "title": "下列说法正确的是"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36541,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"围绝经期开始绝经激素的治疗可增加心血管风险\",\"value\":0}, {\"answer\":0,\"text\":\"对于合并有急迫性尿失禁的绝经后期妇女,一线治疗药物是5α还原酶抑制剂\",\"value\":1}, {\"answer\":1,\"text\":\"替勃龙具有更高的乳腺安全性\",\"value\":2}, {\"answer\":1,\"text\":\"对于有胆囊疾病患者推荐经皮吸收的雌激素制剂\",\"value\":3}, {\"answer\":1,\"text\":\"规范应用孕激素不会增加子宫内膜癌的发生风险\",\"value\":4}]",
+    "title": "有关绝经激素治疗正确的是"
+  },
+  {
+    "id": 36445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"曲古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"伊曲康唑\",\"value\":2}, {\"answer\":0,\"text\":\"克霉唑栓\",\"value\":3}]",
+    "title": "治疗细菌性阴道炎常用的处方药是"
+  },
+  {
+    "id": 36406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"米非司酮\",\"value\":3}]",
+    "title": "卵巢功能不全可选用"
+  },
+  {
+    "id": 36483,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "女性在哺乳期可以使用的抗菌药是"
+  },
+  {
+    "id": 36393,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕激素配伍而成\",\"value\":0}, {\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕酮配伍而成\",\"value\":1}, {\"answer\":1,\"text\":\"为主要通过抑制排卵的避孕药\",\"value\":2}, {\"answer\":0,\"text\":\"为主要通过抗着床的避孕药\",\"value\":3}]",
+    "title": "关于长效口服避孕药说法正确的是"
+  },
+  {
+    "id": 36405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"避孕\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期综合征\",\"value\":1}, {\"answer\":0,\"text\":\"功能性子宫出血\",\"value\":2}, {\"answer\":1,\"text\":\"痛经和子宫内膜异位\",\"value\":3}]",
+    "title": "雌激素在临床不用于"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36493,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"腺苷蛋氨酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素E\",\"value\":1}, {\"answer\":0,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":0,\"text\":\"甲基多巴\",\"value\":3}]",
+    "title": "可以用于妊娠期肝内胆汁淤积"
+  },
+  {
+    "id": 36524,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素不能透过胎盘屏障,因此孕妇可以放心使用\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可由乳汁中排泄,因此哺乳期妇女接受大剂量糖皮质激素时不宜哺乳\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素可以促进小儿生长和发育,因此可以长期使用\",\"value\":2}, {\"answer\":0,\"text\":\"糖皮质激素隔日疗法对肾上腺皮质功能的抑制较大\",\"value\":3}]",
+    "title": "关于孕妇使用糖皮质激素的说法正确的是"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道分泌物培养为衣原体,首选的药物是"
+  },
+  {
+    "id": 36564,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碘制剂\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":1}, {\"answer\":0,\"text\":\"甲巯咪唑\",\"value\":2}, {\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":3}]",
+    "title": "妊娠期女性患有甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36472,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"败血症\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇无症状菌尿\",\"value\":1}, {\"answer\":0,\"text\":\"感染性心内膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"腹腔感染\",\"value\":3}]",
+    "title": "氨基糖苷类抗生素不宜用于"
+  },
+  {
+    "id": 36508,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦可以穿过胎盘\",\"value\":0}, {\"answer\":0,\"text\":\"有潜在致畸作用\",\"value\":1}, {\"answer\":0,\"text\":\"怀孕期间不可使用\",\"value\":2}, {\"answer\":1,\"text\":\"更昔洛韦可以安全用于妊娠\",\"value\":3}]",
+    "title": "关于孕妇使用更昔洛韦说法不正确的是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36473,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后止血\",\"value\":0}, {\"answer\":0,\"text\":\"催乳\",\"value\":1}, {\"answer\":0,\"text\":\"引产\",\"value\":2}, {\"answer\":0,\"text\":\"催产\",\"value\":3}]",
+    "title": "大剂量缩宫素适用于"
+  },
+  {
+    "id": 36471,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠3-12周\",\"value\":0}, {\"answer\":0,\"text\":\"妊娠2-6周\",\"value\":1}, {\"answer\":0,\"text\":\"妊娠6-10个月\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠14-16周\",\"value\":3}]",
+    "title": "在妊娠期不同阶段,药物对组织器官形成的影响最大的是"
+  },
+  {
+    "id": 36436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"黄体酮\",\"value\":0}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":1}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}]",
+    "title": "卵巢功能不全和闭经宜选用"
+  },
+  {
+    "id": 36416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,痛痒明显,阴道检查时发现粘稠的奶酪样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36494,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬对胎儿心脏或血液有影响\",\"value\":0}, {\"answer\":0,\"text\":\"晚期妊娠妇女使用可使妊娠期延长,导致难产\",\"value\":1}, {\"answer\":0,\"text\":\"孕妇及哺乳期妇女禁用\",\"value\":2}, {\"answer\":1,\"text\":\"布洛芬安全性高,孕妇及哺乳期妇女可以使用\",\"value\":3}]",
+    "title": "关于孕妇服用布洛芬的说法不正确的是"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":1,\"text\":\"双氢麦角碱\",\"value\":3}]",
+    "title": "具有降压作用的妇产科药物是"
+  },
+  {
+    "id": 36531,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"莫沙必利\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":1,\"text\":\"伊托必利\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "以下促胃动力药可刺激垂体泌乳素过度分泌的是"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36518,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"孕妇慎用\",\"value\":0}, {\"answer\":1,\"text\":\"对昏迷状态患者应禁止催吐\",\"value\":1}, {\"answer\":1,\"text\":\"呕吐时须防止呕吐物吸入气管发生窒息或引起肺炎\",\"value\":2}, {\"answer\":1,\"text\":\"患有食管静脉曲张、主动脉瘤、胃溃疡出血等患者不宜催吐\",\"value\":3}, {\"answer\":1,\"text\":\"中毒引起抽搐、惊厥未被控制之前不宜催吐\",\"value\":4}]",
+    "title": "中毒患者催吐时应注意"
+  },
+  {
+    "id": 36486,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"导致新生儿神经损伤\",\"value\":0}, {\"answer\":0,\"text\":\"引起乳婴肝肾功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"胎儿畸形\",\"value\":2}, {\"answer\":0,\"text\":\"导致新生儿溶血\",\"value\":3}]",
+    "title": "妊娠早期服用甲氨蝶呤可导致"
+  },
+  {
+    "id": 36409,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"矿物油\",\"value\":0}, {\"answer\":1,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"硫糖铝\",\"value\":2}, {\"answer\":0,\"text\":\"考来烯胺\",\"value\":3}]",
+    "title": "下列药物中,能促进小肠对维生素D吸收的药物是"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36473,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后止血\",\"value\":0}, {\"answer\":0,\"text\":\"催乳\",\"value\":1}, {\"answer\":0,\"text\":\"引产\",\"value\":2}, {\"answer\":0,\"text\":\"催产\",\"value\":3}]",
+    "title": "大剂量缩宫素适用于"
+  },
+  {
+    "id": 36408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":2}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":3}]",
+    "title": "功能性子宫出血可选用的药物是"
+  },
+  {
+    "id": 36388,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"过量引起子宫高频率甚至持续性强直收缩\",\"answer\":0},{\"value\":1,\"text\":\"恶心、呕吐\",\"answer\":0},{\"value\":2,\"text\":\"高血压\",\"answer\":0},{\"value\":3,\"text\":\"血糖升高\",\"answer\":1}]",
+    "title": "以下哪项不是缩宫素的主要不良反应"
+  },
+  {
+    "id": 36428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"丙环定\",\"value\":2}, {\"answer\":0,\"text\":\"益母草\",\"value\":3}]",
+    "title": "可用于防治早产的药物是"
+  },
+  {
+    "id": 36448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道出血\",\"value\":0}, {\"answer\":0,\"text\":\"子宫内膜异位\",\"value\":1}, {\"answer\":0,\"text\":\"习惯性流产\",\"value\":2}, {\"answer\":0,\"text\":\"避孕\",\"value\":3}]",
+    "title": "甲地孕酮不可用于"
+  },
+  {
+    "id": 36416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,痛痒明显,阴道检查时发现粘稠的奶酪样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36548,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿苯片\",\"value\":3}]",
+    "title": "可透过胎盘,但无发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":1}, {\"answer\":0,\"text\":\"华法林\",\"value\":2}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":3}]",
+    "title": "下列药物中与雌激素不存在相互作用的是"
+  },
+  {
+    "id": 36481,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":1}, {\"answer\":0,\"text\":\"甲氧苄啶\",\"value\":2}, {\"answer\":0,\"text\":\"利福平\",\"value\":3}]",
+    "title": "治疗滴虫病首选口服药物是"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氯地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"大剂量雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":1,\"text\":\"大剂量甲地孕酮\",\"value\":3}]",
+    "title": "抗着床避孕药是"
+  },
+  {
+    "id": 36417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道检查时发现大量泡沫样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"曲古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"伊曲康唑\",\"value\":2}, {\"answer\":0,\"text\":\"克霉唑栓\",\"value\":3}]",
+    "title": "治疗细菌性阴道炎常用的处方药是"
+  },
+  {
+    "id": 36374,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"雌三醇\",\"value\":1}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":2}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":3}]",
+    "title": "下列药物不属于雌激素的是"
+  },
+  {
+    "id": 36439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先兆流产\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期前乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓造血功能低\",\"value\":3}]",
+    "title": "己烯雌酚可用于"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36476,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药物分子量小于200时,血浆与乳汁浓度相近\",\"value\":0}, {\"answer\":1,\"text\":\"弱碱性药物在乳汁中浓度等于或高于血浆浓度\",\"value\":1}, {\"answer\":1,\"text\":\"药物蛋白结合率高,进入乳汁的药量少\",\"value\":2}, {\"answer\":0,\"text\":\"弱酸性药物在乳汁中浓度等于或高于血浆浓度\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于药物在乳汁的浓度的叙述正确的是"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36513,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氟喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"四环素类\",\"value\":1}, {\"answer\":1,\"text\":\"大环内酯类\",\"value\":2}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧苄啶\",\"value\":4}]",
+    "title": "下列抗菌药物在乳汁中分泌量较高是"
+  },
+  {
+    "id": 36520,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素可透过胎盘\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可增加胎盘功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"可导致新生儿体重减轻\",\"value\":2}, {\"answer\":1,\"text\":\"增加死胎的发生率\",\"value\":3}, {\"answer\":1,\"text\":\"妊娠早期妇女避免使用糖皮质激素\",\"value\":4}]",
+    "title": "关于妊娠早期服用糖皮质激素说法正确的是"
+  },
+  {
+    "id": 36401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"应用广,用于健康育龄妇女\",\"value\":0}, {\"answer\":1,\"text\":\"连续用药时间长,可达10年以上\",\"value\":1}, {\"answer\":1,\"text\":\"安全性高\",\"value\":2}, {\"answer\":0,\"text\":\"疗效高,达70%-80%\",\"value\":3}, {\"answer\":1,\"text\":\"女用避孕药较男用避孕药发展快\",\"value\":4}]",
+    "title": "女用避孕药与其他药相比,具备"
+  },
+  {
+    "id": 36462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"叶酸,＜0.8mg/d\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B12,5mg/d\",\"value\":1}, {\"answer\":0,\"text\":\"叶酸,5mg/d\",\"value\":2}, {\"answer\":0,\"text\":\"维生素B12,0.8mg/d\",\"value\":3}]",
+    "title": "用于预防妊娠期妇女胎儿神经管畸形的药物及其剂量正确的是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36496,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"拉坦前列素\",\"value\":1}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"苄氟噻嗪\",\"value\":3}]",
+    "title": "处于哺乳期的女性,下列哪种药物不适用"
+  },
+  {
+    "id": 36425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"缩宫素\",\"value\":3}]",
+    "title": "长期服用可导致肢端干性坏疽的药物"
+  },
+  {
+    "id": 36437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氯地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"大剂量雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":1,\"text\":\"大剂量甲地孕酮\",\"value\":3}]",
+    "title": "抗着床避孕药是"
+  },
+  {
+    "id": 36448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道出血\",\"value\":0}, {\"answer\":0,\"text\":\"子宫内膜异位\",\"value\":1}, {\"answer\":0,\"text\":\"习惯性流产\",\"value\":2}, {\"answer\":0,\"text\":\"避孕\",\"value\":3}]",
+    "title": "甲地孕酮不可用于"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36562,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"RAAS抑制剂\",\"value\":1}, {\"answer\":0,\"text\":\"地西泮\",\"value\":2}, {\"answer\":0,\"text\":\"磷酸二酯酶抑制剂\",\"value\":3}]",
+    "title": "患者,女,28岁,处于妊娠期,并患有心力衰竭,下列哪种药物禁用于该患者"
+  },
+  {
+    "id": 36406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"米非司酮\",\"value\":3}]",
+    "title": "卵巢功能不全可选用"
+  },
+  {
+    "id": 36528,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不应超过6mg/ml\",\"value\":0}, {\"answer\":0,\"text\":\"不应超过8mg/ml\",\"value\":1}, {\"answer\":0,\"text\":\"不应超过10mg/ml\",\"value\":2}, {\"answer\":0,\"text\":\"不应超过12mg/ml\",\"value\":3}]",
+    "title": "在进行人工流产术,所用克林霉素适宜浓度为"
+  },
+  {
+    "id": 36432,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "较大剂量用于产后止血,但作用不持久的药物"
+  },
+  {
+    "id": 36422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左炔诺孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"罗格列酮\",\"value\":2}, {\"answer\":0,\"text\":\"丁螺环酮\",\"value\":3}]",
+    "title": "用于紧急避孕的药物是"
+  },
+  {
+    "id": 36502,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"恶心、呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"乳腺增生\",\"value\":1}, {\"answer\":1,\"text\":\"严重的胃病\",\"value\":2}, {\"answer\":0,\"text\":\"突然喘不过气来\",\"value\":3}]",
+    "title": "避孕药在哪种情况下应该立刻停止使用"
+  },
+  {
+    "id": 36508,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦可以穿过胎盘\",\"value\":0}, {\"answer\":0,\"text\":\"有潜在致畸作用\",\"value\":1}, {\"answer\":0,\"text\":\"怀孕期间不可使用\",\"value\":2}, {\"answer\":1,\"text\":\"更昔洛韦可以安全用于妊娠\",\"value\":3}]",
+    "title": "关于孕妇使用更昔洛韦说法不正确的是"
+  },
+  {
+    "id": 36477,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"耐受性\",\"value\":0}, {\"answer\":1,\"text\":\"可抑制新生儿呼吸\",\"value\":1}, {\"answer\":0,\"text\":\"成瘾性\",\"value\":2}, {\"answer\":0,\"text\":\"镇痛作用较弱\",\"value\":3}]",
+    "title": "分娩止痛禁用吗啡的主要原因是"
+  },
+  {
+    "id": 36549,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"萘普生\",\"value\":1}, {\"answer\":0,\"text\":\"贝诺酯\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "可透过胎盘,发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36382,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"改变子宫颈黏液\",\"value\":1}, {\"answer\":0,\"text\":\"减少子宫腺体制造肝糖\",\"value\":2}, {\"answer\":1,\"text\":\"使子宫粘膜内腺体生长\",\"value\":3}]",
+    "title": "避孕药的作用机制不包括"
+  },
+  {
+    "id": 36493,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"腺苷蛋氨酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素E\",\"value\":1}, {\"answer\":0,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":0,\"text\":\"甲基多巴\",\"value\":3}]",
+    "title": "可以用于妊娠期肝内胆汁淤积"
+  },
+  {
+    "id": 36564,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碘制剂\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":1}, {\"answer\":0,\"text\":\"甲巯咪唑\",\"value\":2}, {\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":3}]",
+    "title": "妊娠期女性患有甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36507,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用米非司酮单剂量来终止妊娠\",\"value\":0}, {\"answer\":1,\"text\":\"可使子宫收缩\",\"value\":1}, {\"answer\":1,\"text\":\"增加子宫肌层对前列腺素的敏感性\",\"value\":2}, {\"answer\":1,\"text\":\"促进宫颈成熟\",\"value\":3}, {\"answer\":0,\"text\":\"以上均错误\",\"value\":4}]",
+    "title": "关于米非司酮叙述正确的是"
+  },
+  {
+    "id": 36556,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道炎易发作,每个疗程后应检查阴道分泌物\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇及哺乳期妇女禁用聚甲酚磺醛栓\",\"value\":1}, {\"answer\":1,\"text\":\"阴道连续用药不宜超过10天,同时服用复方维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"涂敷硝酸咪康唑乳膏有刺激感或出现局部红肿,应立即停药并用冷水冲洗\",\"value\":3}, {\"answer\":0,\"text\":\"可用热水、高锰酸钾溶液清洗阴部\",\"value\":4}]",
+    "title": "关于药物治疗阴道炎的注意事项正确的是"
+  },
+  {
+    "id": 36397,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对雌激素作用的组织有选择性的激动作用\",\"value\":0}, {\"answer\":1,\"text\":\"预防绝经后妇女的骨质疏松\",\"value\":1}, {\"answer\":1,\"text\":\"对骨代谢起激动剂作用\",\"value\":2}, {\"answer\":1,\"text\":\"能够降低椎体骨折的发生率\",\"value\":3}, {\"answer\":0,\"text\":\"口服吸收较慢\",\"value\":4}]",
+    "title": "雷洛昔芬作用机制包括"
+  },
+  {
+    "id": 36520,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素可透过胎盘\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可增加胎盘功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"可导致新生儿体重减轻\",\"value\":2}, {\"answer\":1,\"text\":\"增加死胎的发生率\",\"value\":3}, {\"answer\":1,\"text\":\"妊娠早期妇女避免使用糖皮质激素\",\"value\":4}]",
+    "title": "关于妊娠早期服用糖皮质激素说法正确的是"
+  },
+  {
+    "id": 36467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方甘草酸苷片\",\"value\":0}, {\"answer\":0,\"text\":\"硫普罗宁\",\"value\":1}, {\"answer\":0,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":1,\"text\":\"丁二磺酸腺苷蛋氨酸片\",\"value\":3}]",
+    "title": "下列保肝药物中,适用于妊娠期肝内胆汁淤积的药物是"
+  },
+  {
+    "id": 36432,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "较大剂量用于产后止血,但作用不持久的药物"
+  },
+  {
+    "id": 36525,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物的继发反应\",\"value\":0}, {\"answer\":0,\"text\":\"药物的致突变作用\",\"value\":1}, {\"answer\":1,\"text\":\"药物的致畸作用\",\"value\":2}, {\"answer\":0,\"text\":\"药物的副作用\",\"value\":3}]",
+    "title": "反应停引起近万例海豚形畸胎属于"
+  },
+  {
+    "id": 36492,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"建议育龄妇女自计划怀孕开始到怀孕后3个月,每天0.4mg的叶酸\",\"value\":0}, {\"answer\":1,\"text\":\"叶酸不可以预防胎儿大部分神经管畸形的发生\",\"value\":1}, {\"answer\":0,\"text\":\"在妊娠安全性用药分类中0.4mg的叶酸片属A类,即最安全的一类\",\"value\":2}, {\"answer\":0,\"text\":\"叶酸缺乏可引起神经管未能闭合而导致以脊柱裂和无脑畸形\",\"value\":3}]",
+    "title": "关于孕前服用叶酸的叙述错误的是"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左炔诺孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"罗格列酮\",\"value\":2}, {\"answer\":0,\"text\":\"丁螺环酮\",\"value\":3}]",
+    "title": "用于紧急避孕的药物是"
+  },
+  {
+    "id": 36437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氯地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"大剂量雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":1,\"text\":\"大剂量甲地孕酮\",\"value\":3}]",
+    "title": "抗着床避孕药是"
+  },
+  {
+    "id": 36517,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶最小有效量\",\"value\":0}, {\"answer\":0,\"text\":\"甲巯咪唑最小有效量\",\"value\":1}, {\"answer\":0,\"text\":\"卡比马唑最小有效量\",\"value\":2}, {\"answer\":0,\"text\":\"碘剂最小有效量\",\"value\":3}]",
+    "title": "患甲亢的妊娠妇女宜采用"
+  },
+  {
+    "id": 36505,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硝基安定\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":0,\"text\":\"茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"氨己烯酸\",\"value\":3}]",
+    "title": "下列哪一药可以提高催乳素浓度"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36562,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"RAAS抑制剂\",\"value\":1}, {\"answer\":0,\"text\":\"地西泮\",\"value\":2}, {\"answer\":0,\"text\":\"磷酸二酯酶抑制剂\",\"value\":3}]",
+    "title": "患者,女,28岁,处于妊娠期,并患有心力衰竭,下列哪种药物禁用于该患者"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑片\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":1,\"text\":\"聚甲酚磺醛栓\",\"value\":2}, {\"answer\":0,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗真菌、细菌、滴虫混合感染的阴道炎,可选用的非口服处方药是"
+  },
+  {
+    "id": 36494,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬对胎儿心脏或血液有影响\",\"value\":0}, {\"answer\":0,\"text\":\"晚期妊娠妇女使用可使妊娠期延长,导致难产\",\"value\":1}, {\"answer\":0,\"text\":\"孕妇及哺乳期妇女禁用\",\"value\":2}, {\"answer\":1,\"text\":\"布洛芬安全性高,孕妇及哺乳期妇女可以使用\",\"value\":3}]",
+    "title": "关于孕妇服用布洛芬的说法不正确的是"
+  },
+  {
+    "id": 36433,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":1,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "妊娠毒血症产妇产后止血应慎用"
+  },
+  {
+    "id": 36418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道分泌物培养为衣原体,首选的药物是"
+  },
+  {
+    "id": 36510,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"发生性接触的时间超过24h\",\"value\":0}, {\"answer\":0,\"text\":\"发生性接触的时间超过72h\",\"value\":1}, {\"answer\":0,\"text\":\"她正在使用对乙酰氨基酚治疗头痛\",\"value\":2}, {\"answer\":1,\"text\":\"她之前已经使用过紧急避孕药且未超过一个周期\",\"value\":3}]",
+    "title": "年龄大于16岁的女生,漏服了平时按时服用的口服避孕药。在交流询问后药师决定拒绝售药给她,原因是"
+  },
+  {
+    "id": 36563,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"卡马西平\",\"value\":0}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":1}, {\"answer\":0,\"text\":\"丙戊酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "育龄期女性患有癫痫,可选用哪个药物治疗"
+  },
+  {
+    "id": 36388,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"过量引起子宫高频率甚至持续性强直收缩\",\"answer\":0},{\"value\":1,\"text\":\"恶心、呕吐\",\"answer\":0},{\"value\":2,\"text\":\"高血压\",\"answer\":0},{\"value\":3,\"text\":\"血糖升高\",\"answer\":1}]",
+    "title": "以下哪项不是缩宫素的主要不良反应"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"应用广,用于健康育龄妇女\",\"value\":0}, {\"answer\":1,\"text\":\"连续用药时间长,可达10年以上\",\"value\":1}, {\"answer\":1,\"text\":\"安全性高\",\"value\":2}, {\"answer\":0,\"text\":\"疗效高,达70%-80%\",\"value\":3}, {\"answer\":1,\"text\":\"女用避孕药较男用避孕药发展快\",\"value\":4}]",
+    "title": "女用避孕药与其他药相比,具备"
+  },
+  {
+    "id": 36449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"同化激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":3}, {\"answer\":1,\"text\":\"甲睾酮\",\"value\":4}]",
+    "title": "有水钠潴留作用的药物"
+  },
+  {
+    "id": 36396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":1,\"text\":\"出血\",\"value\":2}, {\"answer\":1,\"text\":\"妊娠斑\",\"value\":3}, {\"answer\":0,\"text\":\"体重减少\",\"value\":4}]",
+    "title": "口服避孕药的不良反应有"
+  },
+  {
+    "id": 36395,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝脏疾病者禁用\",\"value\":0}, {\"answer\":1,\"text\":\"血栓性疾病患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"心脏病患者禁用\",\"value\":2}, {\"answer\":1,\"text\":\"不明原因阴道出血者禁用\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":4}]",
+    "title": "口服避孕药的应用禁忌包括"
+  },
+  {
+    "id": 36557,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"外部阴道出现湿疹\",\"value\":0}, {\"answer\":1,\"text\":\"大部分是夫妻两人共同患有\",\"value\":1}, {\"answer\":1,\"text\":\"阴道有腥臭味\",\"value\":2}, {\"answer\":1,\"text\":\"泡沫样白带\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "滴虫性阴道炎的临床表现包括"
+  },
+  {
+    "id": 36440,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"炔诺酮\",\"value\":1}, {\"answer\":0,\"text\":\"己烯雌酚\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素\",\"value\":3}]",
+    "title": "用于中期引产的药物"
+  },
+  {
+    "id": 36522,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"替硝唑\",\"value\":3}]",
+    "title": "临产期孕妇应用可引起新生儿循环障碍的药品是"
+  },
+  {
+    "id": 36483,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "女性在哺乳期可以使用的抗菌药是"
+  },
+  {
+    "id": 36424,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后子宫出血\",\"value\":0}, {\"answer\":0,\"text\":\"扩张及软化宫颈\",\"value\":1}, {\"answer\":0,\"text\":\"催产\",\"value\":2}, {\"answer\":0,\"text\":\"抗早孕\",\"value\":3}]",
+    "title": "麦角新碱的临床应用"
+  },
+  {
+    "id": 36410,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"甲状腺素\",\"value\":1}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":2}, {\"answer\":1,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "治疗绝经后妇女的骨质疏松选用"
+  },
+  {
+    "id": 36505,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硝基安定\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":0,\"text\":\"茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"氨己烯酸\",\"value\":3}]",
+    "title": "下列哪一药可以提高催乳素浓度"
+  },
+  {
+    "id": 36544,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":1,\"text\":\"维生素C\",\"value\":2}, {\"answer\":0,\"text\":\"维生素AD\",\"value\":3}]",
+    "title": "孕妇服用过量可诱发新生儿坏血症的是"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36561,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福辛普利\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}]",
+    "title": "患者,女,30岁,妊娠20周,最近出现头晕5天,临床诊断为妊娠期高血压,首选的药物是"
+  },
+  {
+    "id": 36436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"黄体酮\",\"value\":0}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":1}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}]",
+    "title": "卵巢功能不全和闭经宜选用"
+  },
+  {
+    "id": 36447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑片\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":1,\"text\":\"聚甲酚磺醛栓\",\"value\":2}, {\"answer\":0,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗真菌、细菌、滴虫混合感染的阴道炎,可选用的非口服处方药是"
+  },
+  {
+    "id": 36532,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甘油三酯降低\",\"value\":0}, {\"answer\":0,\"text\":\"高密度脂蛋白胆固醇降低\",\"value\":1}, {\"answer\":0,\"text\":\"低密度脂蛋白胆固醇降低\",\"value\":2}, {\"answer\":1,\"text\":\"糖耐量异常\",\"value\":3}]",
+    "title": "口服避孕药对机体代谢的影响,正确的是"
+  },
+  {
+    "id": 36422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左炔诺孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"罗格列酮\",\"value\":2}, {\"answer\":0,\"text\":\"丁螺环酮\",\"value\":3}]",
+    "title": "用于紧急避孕的药物是"
+  },
+  {
+    "id": 36419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"单纯孕激素补充\",\"value\":0}, {\"answer\":1,\"text\":\"单纯雌激素补充\",\"value\":1}, {\"answer\":0,\"text\":\"雌孕激素序贯用药\",\"value\":2}, {\"answer\":0,\"text\":\"雌孕激素联合用药\",\"value\":3}]",
+    "title": "适用于已切除子宫的妇女"
+  },
+  {
+    "id": 36384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":1}, {\"answer\":0,\"text\":\"华法林\",\"value\":2}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":3}]",
+    "title": "下列药物中与雌激素不存在相互作用的是"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36388,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"过量引起子宫高频率甚至持续性强直收缩\",\"answer\":0},{\"value\":1,\"text\":\"恶心、呕吐\",\"answer\":0},{\"value\":2,\"text\":\"高血压\",\"answer\":0},{\"value\":3,\"text\":\"血糖升高\",\"answer\":1}]",
+    "title": "以下哪项不是缩宫素的主要不良反应"
+  },
+  {
+    "id": 36444,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺疾病\",\"value\":0}, {\"answer\":1,\"text\":\"血液病\",\"value\":1}, {\"answer\":1,\"text\":\"血管栓塞\",\"value\":2}, {\"answer\":0,\"text\":\"哮喘\",\"value\":3}, {\"answer\":0,\"text\":\"心血管疾病\",\"value\":4}]",
+    "title": "米非司酮的使用禁忌症有"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"应用广,用于健康育龄妇女\",\"value\":0}, {\"answer\":1,\"text\":\"连续用药时间长,可达10年以上\",\"value\":1}, {\"answer\":1,\"text\":\"安全性高\",\"value\":2}, {\"answer\":0,\"text\":\"疗效高,达70%-80%\",\"value\":3}, {\"answer\":1,\"text\":\"女用避孕药较男用避孕药发展快\",\"value\":4}]",
+    "title": "女用避孕药与其他药相比,具备"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙醇\",\"value\":0}, {\"answer\":1,\"text\":\"四环素\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}, {\"answer\":0,\"text\":\"青霉素\",\"value\":4}]",
+    "title": "下列药物有致畸作用的是"
+  },
+  {
+    "id": 36531,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"莫沙必利\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":1,\"text\":\"伊托必利\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "以下促胃动力药可刺激垂体泌乳素过度分泌的是"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36474,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"A类\",\"value\":0}, {\"answer\":1,\"text\":\"B类\",\"value\":1}, {\"answer\":0,\"text\":\"C类\",\"value\":2}, {\"answer\":0,\"text\":\"D类\",\"value\":3}]",
+    "title": "在FDA公布的五类致畸药物中β-内酰胺类抗生素属于"
+  },
+  {
+    "id": 36387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"直接兴奋子宫平滑肌,为子宫平滑肌兴奋药\",\"value\":0}, {\"answer\":0,\"text\":\"兴奋子宫作用性质与正常分娩时不同\",\"value\":1}, {\"answer\":0,\"text\":\"小剂量可引起强制性收缩\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠早期的子宫平滑肌对缩宫素的敏感性高\",\"value\":3}]",
+    "title": "缩宫素兴奋子宫作用表现"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氯芬酸\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"氢化可的松\",\"value\":3}]",
+    "title": "某一孕妇发烧,需用解热镇痛药时可选用"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道出血\",\"value\":0}, {\"answer\":0,\"text\":\"子宫内膜异位\",\"value\":1}, {\"answer\":0,\"text\":\"习惯性流产\",\"value\":2}, {\"answer\":0,\"text\":\"避孕\",\"value\":3}]",
+    "title": "甲地孕酮不可用于"
+  },
+  {
+    "id": 36405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"避孕\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期综合征\",\"value\":1}, {\"answer\":0,\"text\":\"功能性子宫出血\",\"value\":2}, {\"answer\":1,\"text\":\"痛经和子宫内膜异位\",\"value\":3}]",
+    "title": "雌激素在临床不用于"
+  },
+  {
+    "id": 36377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肥胖或抽烟的女性应谨慎选择避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"产后即可使用复方激素类避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"漏服超过12h需补服\",\"value\":2}, {\"answer\":0,\"text\":\"漏服时间不同,补服方案不同\",\"value\":3}]",
+    "title": "下列关于避孕药的描述错误的是"
+  },
+  {
+    "id": 36486,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"导致新生儿神经损伤\",\"value\":0}, {\"answer\":0,\"text\":\"引起乳婴肝肾功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"胎儿畸形\",\"value\":2}, {\"answer\":0,\"text\":\"导致新生儿溶血\",\"value\":3}]",
+    "title": "妊娠早期服用甲氨蝶呤可导致"
+  },
+  {
+    "id": 36423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"小剂量缩宫素可用于催产和引产\",\"value\":0}, {\"answer\":0,\"text\":\"小剂量缩宫素可用于产后止血\",\"value\":1}, {\"answer\":0,\"text\":\"缩宫素具有抗利尿活性,可用于治疗尿崩症\",\"value\":2}, {\"answer\":0,\"text\":\"临床应用与麦角类生物碱相似\",\"value\":3}]",
+    "title": "缩宫素的临床应用"
+  },
+  {
+    "id": 36452,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"链霉素\",\"value\":1}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "可导致灰婴综合征的是"
+  },
+  {
+    "id": 36435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":1,\"text\":\"大剂量己烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":3}]",
+    "title": "回乳宜选用"
+  },
+  {
+    "id": 36472,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"败血症\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇无症状菌尿\",\"value\":1}, {\"answer\":0,\"text\":\"感染性心内膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"腹腔感染\",\"value\":3}]",
+    "title": "氨基糖苷类抗生素不宜用于"
+  },
+  {
+    "id": 36488,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药物安全性低者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠及哺乳妇女、小儿\",\"value\":1}, {\"answer\":0,\"text\":\"用药后出现不良反应者\",\"value\":2}, {\"answer\":0,\"text\":\"药物治疗效果不明显者\",\"value\":3}]",
+    "title": "下列属于用药特殊人群的是"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36460,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"链霉素\",\"value\":0}, {\"answer\":1,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":1,\"text\":\"卡那霉素\",\"value\":2}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":3}, {\"answer\":0,\"text\":\"以上都是\",\"value\":4}]",
+    "title": "对胎儿听神经有损伤的药物是"
+  },
+  {
+    "id": 36557,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"外部阴道出现湿疹\",\"value\":0}, {\"answer\":1,\"text\":\"大部分是夫妻两人共同患有\",\"value\":1}, {\"answer\":1,\"text\":\"阴道有腥臭味\",\"value\":2}, {\"answer\":1,\"text\":\"泡沫样白带\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "滴虫性阴道炎的临床表现包括"
+  },
+  {
+    "id": 36397,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对雌激素作用的组织有选择性的激动作用\",\"value\":0}, {\"answer\":1,\"text\":\"预防绝经后妇女的骨质疏松\",\"value\":1}, {\"answer\":1,\"text\":\"对骨代谢起激动剂作用\",\"value\":2}, {\"answer\":1,\"text\":\"能够降低椎体骨折的发生率\",\"value\":3}, {\"answer\":0,\"text\":\"口服吸收较慢\",\"value\":4}]",
+    "title": "雷洛昔芬作用机制包括"
+  },
+  {
+    "id": 36444,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺疾病\",\"value\":0}, {\"answer\":1,\"text\":\"血液病\",\"value\":1}, {\"answer\":1,\"text\":\"血管栓塞\",\"value\":2}, {\"answer\":0,\"text\":\"哮喘\",\"value\":3}, {\"answer\":0,\"text\":\"心血管疾病\",\"value\":4}]",
+    "title": "米非司酮的使用禁忌症有"
+  },
+  {
+    "id": 36458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙醇\",\"value\":0}, {\"answer\":1,\"text\":\"四环素\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}, {\"answer\":0,\"text\":\"青霉素\",\"value\":4}]",
+    "title": "下列药物有致畸作用的是"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36517,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶最小有效量\",\"value\":0}, {\"answer\":0,\"text\":\"甲巯咪唑最小有效量\",\"value\":1}, {\"answer\":0,\"text\":\"卡比马唑最小有效量\",\"value\":2}, {\"answer\":0,\"text\":\"碘剂最小有效量\",\"value\":3}]",
+    "title": "患甲亢的妊娠妇女宜采用"
+  },
+  {
+    "id": 36492,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"建议育龄妇女自计划怀孕开始到怀孕后3个月,每天0.4mg的叶酸\",\"value\":0}, {\"answer\":1,\"text\":\"叶酸不可以预防胎儿大部分神经管畸形的发生\",\"value\":1}, {\"answer\":0,\"text\":\"在妊娠安全性用药分类中0.4mg的叶酸片属A类,即最安全的一类\",\"value\":2}, {\"answer\":0,\"text\":\"叶酸缺乏可引起神经管未能闭合而导致以脊柱裂和无脑畸形\",\"value\":3}]",
+    "title": "关于孕前服用叶酸的叙述错误的是"
+  },
+  {
+    "id": 36499,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急避孕药只在24小时内服用才有效\",\"value\":0}, {\"answer\":1,\"text\":\"急避孕药72小时内服用是有效\",\"value\":1}, {\"answer\":0,\"text\":\"事后服药紧急避孕药无效\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "一位女性24小时前进行了没有保护措施的性行为,事前没有口服避孕药,对她的建议正确的是"
+  },
+  {
+    "id": 36375,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大剂量可用作长效避孕针\",\"value\":0}, {\"answer\":0,\"text\":\"长期使用需注意监测肝功能\",\"value\":1}, {\"answer\":0,\"text\":\"用药期间妇女不宜吸烟\",\"value\":2}, {\"answer\":1,\"text\":\"慎用于心血管疾病患者\",\"value\":3}]",
+    "title": "下列关于甲羟孕酮的描述错误的"
+  },
+  {
+    "id": 36487,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"灰黄霉素\",\"value\":1}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":3}]",
+    "title": "女性阴道及外阴道念珠菌病可以选用"
+  },
+  {
+    "id": 36483,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "女性在哺乳期可以使用的抗菌药是"
+  },
+  {
+    "id": 36427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角碱\",\"value\":0}, {\"answer\":1,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":3}]",
+    "title": "有抗利尿作用的妇产科药物是"
+  },
+  {
+    "id": 36387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"直接兴奋子宫平滑肌,为子宫平滑肌兴奋药\",\"value\":0}, {\"answer\":0,\"text\":\"兴奋子宫作用性质与正常分娩时不同\",\"value\":1}, {\"answer\":0,\"text\":\"小剂量可引起强制性收缩\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠早期的子宫平滑肌对缩宫素的敏感性高\",\"value\":3}]",
+    "title": "缩宫素兴奋子宫作用表现"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36521,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢氨苄\",\"value\":1}, {\"answer\":1,\"text\":\"磺胺嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"甲硝唑\",\"value\":3}]",
+    "title": "红细胞缺乏葡萄糖-6-磷酸脱氢酶的孕妇,临产期使用可引起新生儿溶血的药品是"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36382,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"改变子宫颈黏液\",\"value\":1}, {\"answer\":0,\"text\":\"减少子宫腺体制造肝糖\",\"value\":2}, {\"answer\":1,\"text\":\"使子宫粘膜内腺体生长\",\"value\":3}]",
+    "title": "避孕药的作用机制不包括"
+  },
+  {
+    "id": 36411,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"米非司酮\",\"value\":0}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"雌二醇\",\"value\":2}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":3}]",
+    "title": "用于先兆性流产和习惯性流产"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36370,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"子宫不规则出血\",\"value\":0}, {\"answer\":0,\"text\":\"肾功能损害\",\"value\":1}, {\"answer\":0,\"text\":\"多毛、痤疮\",\"value\":2}, {\"answer\":0,\"text\":\"乳房肿块\",\"value\":3}]",
+    "title": "抑制排卵避孕药的较常见不良反应是"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36560,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"螺内酯\",\"value\":0}, {\"answer\":0,\"text\":\"尼莫地平注射液\",\"value\":1}, {\"answer\":1,\"text\":\"硫酸镁注射液\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺注射液\",\"value\":3}]",
+    "title": "患者,女,25岁,妊娠26周,头晕,临床诊断为先兆子痫,急救时时应选择的药物是"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36444,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺疾病\",\"value\":0}, {\"answer\":1,\"text\":\"血液病\",\"value\":1}, {\"answer\":1,\"text\":\"血管栓塞\",\"value\":2}, {\"answer\":0,\"text\":\"哮喘\",\"value\":3}, {\"answer\":0,\"text\":\"心血管疾病\",\"value\":4}]",
+    "title": "米非司酮的使用禁忌症有"
+  },
+  {
+    "id": 36395,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝脏疾病者禁用\",\"value\":0}, {\"answer\":1,\"text\":\"血栓性疾病患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"心脏病患者禁用\",\"value\":2}, {\"answer\":1,\"text\":\"不明原因阴道出血者禁用\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":4}]",
+    "title": "口服避孕药的应用禁忌包括"
+  },
+  {
+    "id": 36543,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗盐皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"抗孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"抗糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"抗雌激素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "米非司酮的药理作用机制是"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36518,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"孕妇慎用\",\"value\":0}, {\"answer\":1,\"text\":\"对昏迷状态患者应禁止催吐\",\"value\":1}, {\"answer\":1,\"text\":\"呕吐时须防止呕吐物吸入气管发生窒息或引起肺炎\",\"value\":2}, {\"answer\":1,\"text\":\"患有食管静脉曲张、主动脉瘤、胃溃疡出血等患者不宜催吐\",\"value\":3}, {\"answer\":1,\"text\":\"中毒引起抽搐、惊厥未被控制之前不宜催吐\",\"value\":4}]",
+    "title": "中毒患者催吐时应注意"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36549,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"萘普生\",\"value\":1}, {\"answer\":0,\"text\":\"贝诺酯\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "可透过胎盘,发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"小剂量缩宫素可用于催产和引产\",\"value\":0}, {\"answer\":0,\"text\":\"小剂量缩宫素可用于产后止血\",\"value\":1}, {\"answer\":0,\"text\":\"缩宫素具有抗利尿活性,可用于治疗尿崩症\",\"value\":2}, {\"answer\":0,\"text\":\"临床应用与麦角类生物碱相似\",\"value\":3}]",
+    "title": "缩宫素的临床应用"
+  },
+  {
+    "id": 36408,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":2}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":3}]",
+    "title": "功能性子宫出血可选用的药物是"
+  },
+  {
+    "id": 36427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角碱\",\"value\":0}, {\"answer\":1,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":3}]",
+    "title": "有抗利尿作用的妇产科药物是"
+  },
+  {
+    "id": 36486,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"导致新生儿神经损伤\",\"value\":0}, {\"answer\":0,\"text\":\"引起乳婴肝肾功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"胎儿畸形\",\"value\":2}, {\"answer\":0,\"text\":\"导致新生儿溶血\",\"value\":3}]",
+    "title": "妊娠早期服用甲氨蝶呤可导致"
+  },
+  {
+    "id": 36508,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦可以穿过胎盘\",\"value\":0}, {\"answer\":0,\"text\":\"有潜在致畸作用\",\"value\":1}, {\"answer\":0,\"text\":\"怀孕期间不可使用\",\"value\":2}, {\"answer\":1,\"text\":\"更昔洛韦可以安全用于妊娠\",\"value\":3}]",
+    "title": "关于孕妇使用更昔洛韦说法不正确的是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高血压\",\"value\":0}, {\"answer\":0,\"text\":\"体重下降\",\"value\":1}, {\"answer\":1,\"text\":\"阴道出血\",\"value\":2}, {\"answer\":0,\"text\":\"脱发\",\"value\":3}]",
+    "title": "长期服用雌激素可导致"
+  },
+  {
+    "id": 36480,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素类\",\"value\":0}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":1}, {\"answer\":0,\"text\":\"头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "在妊娠期间使用,严重导致胎儿永久性耳聋的抗菌药是"
+  },
+  {
+    "id": 36525,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物的继发反应\",\"value\":0}, {\"answer\":0,\"text\":\"药物的致突变作用\",\"value\":1}, {\"answer\":1,\"text\":\"药物的致畸作用\",\"value\":2}, {\"answer\":0,\"text\":\"药物的副作用\",\"value\":3}]",
+    "title": "反应停引起近万例海豚形畸胎属于"
+  },
+  {
+    "id": 36522,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"替硝唑\",\"value\":3}]",
+    "title": "临产期孕妇应用可引起新生儿循环障碍的药品是"
+  },
+  {
+    "id": 36374,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"雌三醇\",\"value\":1}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":2}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":3}]",
+    "title": "下列药物不属于雌激素的是"
+  },
+  {
+    "id": 36470,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢菌素\",\"value\":1}, {\"answer\":1,\"text\":\"异维A酸\",\"value\":2}, {\"answer\":0,\"text\":\"兰索拉唑\",\"value\":3}]",
+    "title": "根据妊娠期用药分级标准,属于孕妇禁用的是"
+  },
+  {
+    "id": 36526,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"性别因素\",\"value\":0}, {\"answer\":0,\"text\":\"过敏反应\",\"value\":1}, {\"answer\":0,\"text\":\"遗传因素\",\"value\":2}, {\"answer\":0,\"text\":\"基础病因素\",\"value\":3}]",
+    "title": "妇女经期对泻药和刺激性强药物敏感性增高,因为"
+  },
+  {
+    "id": 36377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肥胖或抽烟的女性应谨慎选择避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"产后即可使用复方激素类避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"漏服超过12h需补服\",\"value\":2}, {\"answer\":0,\"text\":\"漏服时间不同,补服方案不同\",\"value\":3}]",
+    "title": "下列关于避孕药的描述错误的是"
+  },
+  {
+    "id": 36561,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福辛普利\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}]",
+    "title": "患者,女,30岁,妊娠20周,最近出现头晕5天,临床诊断为妊娠期高血压,首选的药物是"
+  },
+  {
+    "id": 36496,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"拉坦前列素\",\"value\":1}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"苄氟噻嗪\",\"value\":3}]",
+    "title": "处于哺乳期的女性,下列哪种药物不适用"
+  },
+  {
+    "id": 36439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先兆流产\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期前乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓造血功能低\",\"value\":3}]",
+    "title": "己烯雌酚可用于"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36454,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"磺胺类药物\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "可导致胎儿高胆红素脑病的是"
+  },
+  {
+    "id": 36403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用药初期类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"子宫不规则出血\",\"value\":1}, {\"answer\":1,\"text\":\"乳汁减少\",\"value\":2}, {\"answer\":0,\"text\":\"肝功能损伤\",\"value\":3}, {\"answer\":0,\"text\":\"低血钾、肌无力症状\",\"value\":4}]",
+    "title": "短效口服避孕药的不良反应包括"
+  },
+  {
+    "id": 36530,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"奥美拉唑\",\"value\":0}, {\"answer\":1,\"text\":\"枸橼酸铋钾\",\"value\":1}, {\"answer\":1,\"text\":\"胶体果胶铋\",\"value\":2}, {\"answer\":1,\"text\":\"阿托品\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":4}]",
+    "title": "下列属于妊娠期妇女禁用或慎用的消化系统用药的是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36557,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"外部阴道出现湿疹\",\"value\":0}, {\"answer\":1,\"text\":\"大部分是夫妻两人共同患有\",\"value\":1}, {\"answer\":1,\"text\":\"阴道有腥臭味\",\"value\":2}, {\"answer\":1,\"text\":\"泡沫样白带\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "滴虫性阴道炎的临床表现包括"
+  },
+  {
+    "id": 36460,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"链霉素\",\"value\":0}, {\"answer\":1,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":1,\"text\":\"卡那霉素\",\"value\":2}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":3}, {\"answer\":0,\"text\":\"以上都是\",\"value\":4}]",
+    "title": "对胎儿听神经有损伤的药物是"
+  },
+  {
+    "id": 36563,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"卡马西平\",\"value\":0}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":1}, {\"answer\":0,\"text\":\"丙戊酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "育龄期女性患有癫痫,可选用哪个药物治疗"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36391,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制卵巢雌激素合成,发挥抗雌激素作用\",\"value\":0}, {\"answer\":0,\"text\":\"主要用于抗乳腺癌的治疗\",\"value\":1}, {\"answer\":1,\"text\":\"主要用于不孕症治疗\",\"value\":2}, {\"answer\":0,\"text\":\"阻断下丘脑的雌激素受体,减少垂体前叶促性腺激素分泌\",\"value\":3}]",
+    "title": "氯米芬特点"
+  },
+  {
+    "id": 36468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氯芬酸\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"氢化可的松\",\"value\":3}]",
+    "title": "某一孕妇发烧,需用解热镇痛药时可选用"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36549,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"萘普生\",\"value\":1}, {\"answer\":0,\"text\":\"贝诺酯\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "可透过胎盘,发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诺氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"哌拉西林\",\"value\":1}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":2}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":3}]",
+    "title": "妊娠期妇女可以选用的抗菌药物有"
+  },
+  {
+    "id": 36452,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"链霉素\",\"value\":1}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "可导致灰婴综合征的是"
+  },
+  {
+    "id": 36448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道出血\",\"value\":0}, {\"answer\":0,\"text\":\"子宫内膜异位\",\"value\":1}, {\"answer\":0,\"text\":\"习惯性流产\",\"value\":2}, {\"answer\":0,\"text\":\"避孕\",\"value\":3}]",
+    "title": "甲地孕酮不可用于"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36534,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴茎套\",\"value\":0}, {\"answer\":0,\"text\":\"长效避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"皮下埋植剂\",\"value\":2}, {\"answer\":0,\"text\":\"安全期避孕法\",\"value\":3}]",
+    "title": "哺乳期妇女首选的避孕方法"
+  },
+  {
+    "id": 36474,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"A类\",\"value\":0}, {\"answer\":1,\"text\":\"B类\",\"value\":1}, {\"answer\":0,\"text\":\"C类\",\"value\":2}, {\"answer\":0,\"text\":\"D类\",\"value\":3}]",
+    "title": "在FDA公布的五类致畸药物中β-内酰胺类抗生素属于"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36517,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶最小有效量\",\"value\":0}, {\"answer\":0,\"text\":\"甲巯咪唑最小有效量\",\"value\":1}, {\"answer\":0,\"text\":\"卡比马唑最小有效量\",\"value\":2}, {\"answer\":0,\"text\":\"碘剂最小有效量\",\"value\":3}]",
+    "title": "患甲亢的妊娠妇女宜采用"
+  },
+  {
+    "id": 36509,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"21\",\"value\":0}, {\"answer\":0,\"text\":\"10\",\"value\":1}, {\"answer\":0,\"text\":\"5\",\"value\":2}, {\"answer\":0,\"text\":\"7\",\"value\":3}]",
+    "title": "一女性敏高乐避孕药以用完,在周一前她无法开到这个药,当天是周日晚上,在诊断她后向其紧急供应,你可以给她多少粒"
+  },
+  {
+    "id": 36387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"直接兴奋子宫平滑肌,为子宫平滑肌兴奋药\",\"value\":0}, {\"answer\":0,\"text\":\"兴奋子宫作用性质与正常分娩时不同\",\"value\":1}, {\"answer\":0,\"text\":\"小剂量可引起强制性收缩\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠早期的子宫平滑肌对缩宫素的敏感性高\",\"value\":3}]",
+    "title": "缩宫素兴奋子宫作用表现"
+  },
+  {
+    "id": 36419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"单纯孕激素补充\",\"value\":0}, {\"answer\":1,\"text\":\"单纯雌激素补充\",\"value\":1}, {\"answer\":0,\"text\":\"雌孕激素序贯用药\",\"value\":2}, {\"answer\":0,\"text\":\"雌孕激素联合用药\",\"value\":3}]",
+    "title": "适用于已切除子宫的妇女"
+  },
+  {
+    "id": 36467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方甘草酸苷片\",\"value\":0}, {\"answer\":0,\"text\":\"硫普罗宁\",\"value\":1}, {\"answer\":0,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":1,\"text\":\"丁二磺酸腺苷蛋氨酸片\",\"value\":3}]",
+    "title": "下列保肝药物中,适用于妊娠期肝内胆汁淤积的药物是"
+  },
+  {
+    "id": 36472,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"败血症\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇无症状菌尿\",\"value\":1}, {\"answer\":0,\"text\":\"感染性心内膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"腹腔感染\",\"value\":3}]",
+    "title": "氨基糖苷类抗生素不宜用于"
+  },
+  {
+    "id": 36531,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"莫沙必利\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":1,\"text\":\"伊托必利\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "以下促胃动力药可刺激垂体泌乳素过度分泌的是"
+  },
+  {
+    "id": 36395,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝脏疾病者禁用\",\"value\":0}, {\"answer\":1,\"text\":\"血栓性疾病患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"心脏病患者禁用\",\"value\":2}, {\"answer\":1,\"text\":\"不明原因阴道出血者禁用\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":4}]",
+    "title": "口服避孕药的应用禁忌包括"
+  },
+  {
+    "id": 36396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":1,\"text\":\"出血\",\"value\":2}, {\"answer\":1,\"text\":\"妊娠斑\",\"value\":3}, {\"answer\":0,\"text\":\"体重减少\",\"value\":4}]",
+    "title": "口服避孕药的不良反应有"
+  },
+  {
+    "id": 36400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对各期妊娠子宫均有兴奋作用\",\"value\":0}, {\"answer\":1,\"text\":\"静脉滴注、阴道内、宫腔内或羊膜腔内给药均有效\",\"value\":1}, {\"answer\":0,\"text\":\"大剂量对妊娠和非妊娠子宫均有抑制作用\",\"value\":2}, {\"answer\":0,\"text\":\"临床已试用于作为防止早产药物\",\"value\":3}, {\"answer\":1,\"text\":\"临床已试用于作为催经、抗早孕药物\",\"value\":4}]",
+    "title": "前列腺素对生殖系统的作用包括"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36491,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"利巴韦林注射剂有较强的致畸作用\",\"answer\":1},{\"value\":1,\"text\":\"停药后4周尚不能完全自体内清除,不能准备怀孕\",\"answer\":1},{\"value\":2,\"text\":\"在治疗开始前、治疗期间和停药后至少6个月应避免怀孕\",\"answer\":1},{\"value\":3,\"text\":\"使用本品的男性和女性均应避孕,应采取至少2种以上避孕方式有效避孕\",\"answer\":1},{\"value\":4,\"text\":\"以上均错误\",\"answer\":0}]",
+    "title": "一位女患者因上呼吸道感染静脉滴注利巴韦林注射剂,关于该患者能否准备怀孕叙述正确的是"
+  },
+  {
+    "id": 36379,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"痛经\",\"value\":0}, {\"answer\":1,\"text\":\"功能性子宫出血\",\"value\":1}, {\"answer\":0,\"text\":\"消耗性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"先兆性流产\",\"value\":3}]",
+    "title": "雌激素的适应症是"
+  },
+  {
+    "id": 36552,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":0}, {\"answer\":1,\"text\":\"硝酸咪康唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"伊曲康唑片\",\"value\":2}, {\"answer\":0,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗真菌性阴道炎首选的非处方药是"
+  },
+  {
+    "id": 36426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":1,\"text\":\"双氢麦角碱\",\"value\":3}]",
+    "title": "具有降压作用的妇产科药物是"
+  },
+  {
+    "id": 36517,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶最小有效量\",\"value\":0}, {\"answer\":0,\"text\":\"甲巯咪唑最小有效量\",\"value\":1}, {\"answer\":0,\"text\":\"卡比马唑最小有效量\",\"value\":2}, {\"answer\":0,\"text\":\"碘剂最小有效量\",\"value\":3}]",
+    "title": "患甲亢的妊娠妇女宜采用"
+  },
+  {
+    "id": 36433,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":1,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "妊娠毒血症产妇产后止血应慎用"
+  },
+  {
+    "id": 36452,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"链霉素\",\"value\":1}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":2}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":3}]",
+    "title": "可导致灰婴综合征的是"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36496,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"拉坦前列素\",\"value\":1}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"苄氟噻嗪\",\"value\":3}]",
+    "title": "处于哺乳期的女性,下列哪种药物不适用"
+  },
+  {
+    "id": 36417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道检查时发现大量泡沫样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"米非司酮\",\"value\":3}]",
+    "title": "卵巢功能不全可选用"
+  },
+  {
+    "id": 36425,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"缩宫素\",\"value\":3}]",
+    "title": "长期服用可导致肢端干性坏疽的药物"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36528,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不应超过6mg/ml\",\"value\":0}, {\"answer\":0,\"text\":\"不应超过8mg/ml\",\"value\":1}, {\"answer\":0,\"text\":\"不应超过10mg/ml\",\"value\":2}, {\"answer\":0,\"text\":\"不应超过12mg/ml\",\"value\":3}]",
+    "title": "在进行人工流产术,所用克林霉素适宜浓度为"
+  },
+  {
+    "id": 36516,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"经尿道作前列腺切除术\",\"value\":0}, {\"answer\":0,\"text\":\"青光眼\",\"value\":1}, {\"answer\":0,\"text\":\"宫颈糜烂\",\"value\":2}, {\"answer\":0,\"text\":\"阴道炎\",\"value\":3}]",
+    "title": "甘露醇冲洗剂可用于"
+  },
+  {
+    "id": 36477,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"耐受性\",\"value\":0}, {\"answer\":1,\"text\":\"可抑制新生儿呼吸\",\"value\":1}, {\"answer\":0,\"text\":\"成瘾性\",\"value\":2}, {\"answer\":0,\"text\":\"镇痛作用较弱\",\"value\":3}]",
+    "title": "分娩止痛禁用吗啡的主要原因是"
+  },
+  {
+    "id": 36486,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"导致新生儿神经损伤\",\"value\":0}, {\"answer\":0,\"text\":\"引起乳婴肝肾功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"胎儿畸形\",\"value\":2}, {\"answer\":0,\"text\":\"导致新生儿溶血\",\"value\":3}]",
+    "title": "妊娠早期服用甲氨蝶呤可导致"
+  },
+  {
+    "id": 36411,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"米非司酮\",\"value\":0}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"雌二醇\",\"value\":2}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":3}]",
+    "title": "用于先兆性流产和习惯性流产"
+  },
+  {
+    "id": 36474,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"A类\",\"value\":0}, {\"answer\":1,\"text\":\"B类\",\"value\":1}, {\"answer\":0,\"text\":\"C类\",\"value\":2}, {\"answer\":0,\"text\":\"D类\",\"value\":3}]",
+    "title": "在FDA公布的五类致畸药物中β-内酰胺类抗生素属于"
+  },
+  {
+    "id": 36513,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氟喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"四环素类\",\"value\":1}, {\"answer\":1,\"text\":\"大环内酯类\",\"value\":2}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧苄啶\",\"value\":4}]",
+    "title": "下列抗菌药物在乳汁中分泌量较高是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36543,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗盐皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"抗孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"抗糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"抗雌激素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "米非司酮的药理作用机制是"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36507,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用米非司酮单剂量来终止妊娠\",\"value\":0}, {\"answer\":1,\"text\":\"可使子宫收缩\",\"value\":1}, {\"answer\":1,\"text\":\"增加子宫肌层对前列腺素的敏感性\",\"value\":2}, {\"answer\":1,\"text\":\"促进宫颈成熟\",\"value\":3}, {\"answer\":0,\"text\":\"以上均错误\",\"value\":4}]",
+    "title": "关于米非司酮叙述正确的是"
+  },
+  {
+    "id": 36442,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"新婚期可选择复方短效口服避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"复方短效口服避孕药一般停药后即可妊娠\",\"value\":1}, {\"answer\":1,\"text\":\"长效避孕药一般停药6个月后妊娠较安全\",\"value\":2}, {\"answer\":1,\"text\":\"绝经过渡期原来使用宫内节育器无不良反应者可继续使用至绝经后半年再取出\",\"value\":3}, {\"answer\":0,\"text\":\"哺乳期选用雌孕激素复合避孕针比单孕激素长效避孕针安全\",\"value\":4}]",
+    "title": "关于避孕措施和患者教育的说法,正确的有"
+  },
+  {
+    "id": 36428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"丙环定\",\"value\":2}, {\"answer\":0,\"text\":\"益母草\",\"value\":3}]",
+    "title": "可用于防治早产的药物是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36534,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴茎套\",\"value\":0}, {\"answer\":0,\"text\":\"长效避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"皮下埋植剂\",\"value\":2}, {\"answer\":0,\"text\":\"安全期避孕法\",\"value\":3}]",
+    "title": "哺乳期妇女首选的避孕方法"
+  },
+  {
+    "id": 36467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方甘草酸苷片\",\"value\":0}, {\"answer\":0,\"text\":\"硫普罗宁\",\"value\":1}, {\"answer\":0,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":1,\"text\":\"丁二磺酸腺苷蛋氨酸片\",\"value\":3}]",
+    "title": "下列保肝药物中,适用于妊娠期肝内胆汁淤积的药物是"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36433,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":1,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "妊娠毒血症产妇产后止血应慎用"
+  },
+  {
+    "id": 36473,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后止血\",\"value\":0}, {\"answer\":0,\"text\":\"催乳\",\"value\":1}, {\"answer\":0,\"text\":\"引产\",\"value\":2}, {\"answer\":0,\"text\":\"催产\",\"value\":3}]",
+    "title": "大剂量缩宫素适用于"
+  },
+  {
+    "id": 36419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"单纯孕激素补充\",\"value\":0}, {\"answer\":1,\"text\":\"单纯雌激素补充\",\"value\":1}, {\"answer\":0,\"text\":\"雌孕激素序贯用药\",\"value\":2}, {\"answer\":0,\"text\":\"雌孕激素联合用药\",\"value\":3}]",
+    "title": "适用于已切除子宫的妇女"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36498,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立刻服用一片,然后等到晚上常规时间再吃下一片\",\"value\":0}, {\"answer\":0,\"text\":\"在未来的7天使用避孕套或不行房\",\"value\":1}, {\"answer\":0,\"text\":\"下一个月不服用避孕药\",\"value\":2}, {\"answer\":1,\"text\":\"超过24h,正常服药,采取其他的避孕方式\",\"value\":3}]",
+    "title": "一位女士每天晚上9点服用避孕药敏高乐,她正处于经期的中间,而昨晚忘记服药了,对她的建议正确的是"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36382,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"改变子宫颈黏液\",\"value\":1}, {\"answer\":0,\"text\":\"减少子宫腺体制造肝糖\",\"value\":2}, {\"answer\":1,\"text\":\"使子宫粘膜内腺体生长\",\"value\":3}]",
+    "title": "避孕药的作用机制不包括"
+  },
+  {
+    "id": 36435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":1,\"text\":\"大剂量己烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":3}]",
+    "title": "回乳宜选用"
+  },
+  {
+    "id": 36480,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素类\",\"value\":0}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":1}, {\"answer\":0,\"text\":\"头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "在妊娠期间使用,严重导致胎儿永久性耳聋的抗菌药是"
+  },
+  {
+    "id": 36388,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"过量引起子宫高频率甚至持续性强直收缩\",\"answer\":0},{\"value\":1,\"text\":\"恶心、呕吐\",\"answer\":0},{\"value\":2,\"text\":\"高血压\",\"answer\":0},{\"value\":3,\"text\":\"血糖升高\",\"answer\":1}]",
+    "title": "以下哪项不是缩宫素的主要不良反应"
+  },
+  {
+    "id": 36393,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕激素配伍而成\",\"value\":0}, {\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕酮配伍而成\",\"value\":1}, {\"answer\":1,\"text\":\"为主要通过抑制排卵的避孕药\",\"value\":2}, {\"answer\":0,\"text\":\"为主要通过抗着床的避孕药\",\"value\":3}]",
+    "title": "关于长效口服避孕药说法正确的是"
+  },
+  {
+    "id": 36538,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"60岁以后\",\"value\":0}, {\"answer\":1,\"text\":\"绝经后10年之内或60岁以前\",\"value\":1}, {\"answer\":0,\"text\":\"绝经20年内\",\"value\":2}, {\"answer\":0,\"text\":\"绝经10年内\",\"value\":3}]",
+    "title": "合理的绝经激素治疗的窗口期是"
+  },
+  {
+    "id": 36447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑片\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":1,\"text\":\"聚甲酚磺醛栓\",\"value\":2}, {\"answer\":0,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗真菌、细菌、滴虫混合感染的阴道炎,可选用的非口服处方药是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36530,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"奥美拉唑\",\"value\":0}, {\"answer\":1,\"text\":\"枸橼酸铋钾\",\"value\":1}, {\"answer\":1,\"text\":\"胶体果胶铋\",\"value\":2}, {\"answer\":1,\"text\":\"阿托品\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":4}]",
+    "title": "下列属于妊娠期妇女禁用或慎用的消化系统用药的是"
+  },
+  {
+    "id": 36541,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"围绝经期开始绝经激素的治疗可增加心血管风险\",\"value\":0}, {\"answer\":0,\"text\":\"对于合并有急迫性尿失禁的绝经后期妇女,一线治疗药物是5α还原酶抑制剂\",\"value\":1}, {\"answer\":1,\"text\":\"替勃龙具有更高的乳腺安全性\",\"value\":2}, {\"answer\":1,\"text\":\"对于有胆囊疾病患者推荐经皮吸收的雌激素制剂\",\"value\":3}, {\"answer\":1,\"text\":\"规范应用孕激素不会增加子宫内膜癌的发生风险\",\"value\":4}]",
+    "title": "有关绝经激素治疗正确的是"
+  },
+  {
+    "id": 36520,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素可透过胎盘\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可增加胎盘功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"可导致新生儿体重减轻\",\"value\":2}, {\"answer\":1,\"text\":\"增加死胎的发生率\",\"value\":3}, {\"answer\":1,\"text\":\"妊娠早期妇女避免使用糖皮质激素\",\"value\":4}]",
+    "title": "关于妊娠早期服用糖皮质激素说法正确的是"
+  },
+  {
+    "id": 36507,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用米非司酮单剂量来终止妊娠\",\"value\":0}, {\"answer\":1,\"text\":\"可使子宫收缩\",\"value\":1}, {\"answer\":1,\"text\":\"增加子宫肌层对前列腺素的敏感性\",\"value\":2}, {\"answer\":1,\"text\":\"促进宫颈成熟\",\"value\":3}, {\"answer\":0,\"text\":\"以上均错误\",\"value\":4}]",
+    "title": "关于米非司酮叙述正确的是"
+  },
+  {
+    "id": 36458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙醇\",\"value\":0}, {\"answer\":1,\"text\":\"四环素\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}, {\"answer\":0,\"text\":\"青霉素\",\"value\":4}]",
+    "title": "下列药物有致畸作用的是"
+  },
+  {
+    "id": 36395,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝脏疾病者禁用\",\"value\":0}, {\"answer\":1,\"text\":\"血栓性疾病患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"心脏病患者禁用\",\"value\":2}, {\"answer\":1,\"text\":\"不明原因阴道出血者禁用\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":4}]",
+    "title": "口服避孕药的应用禁忌包括"
+  },
+  {
+    "id": 36498,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立刻服用一片,然后等到晚上常规时间再吃下一片\",\"value\":0}, {\"answer\":0,\"text\":\"在未来的7天使用避孕套或不行房\",\"value\":1}, {\"answer\":0,\"text\":\"下一个月不服用避孕药\",\"value\":2}, {\"answer\":1,\"text\":\"超过24h,正常服药,采取其他的避孕方式\",\"value\":3}]",
+    "title": "一位女士每天晚上9点服用避孕药敏高乐,她正处于经期的中间,而昨晚忘记服药了,对她的建议正确的是"
+  },
+  {
+    "id": 36488,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药物安全性低者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠及哺乳妇女、小儿\",\"value\":1}, {\"answer\":0,\"text\":\"用药后出现不良反应者\",\"value\":2}, {\"answer\":0,\"text\":\"药物治疗效果不明显者\",\"value\":3}]",
+    "title": "下列属于用药特殊人群的是"
+  },
+  {
+    "id": 36375,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大剂量可用作长效避孕针\",\"value\":0}, {\"answer\":0,\"text\":\"长期使用需注意监测肝功能\",\"value\":1}, {\"answer\":0,\"text\":\"用药期间妇女不宜吸烟\",\"value\":2}, {\"answer\":1,\"text\":\"慎用于心血管疾病患者\",\"value\":3}]",
+    "title": "下列关于甲羟孕酮的描述错误的"
+  },
+  {
+    "id": 36371,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药理作用拮抗\",\"value\":0}, {\"answer\":0,\"text\":\"不良反应叠加\",\"value\":1}, {\"answer\":0,\"text\":\"后者血药浓度升高,不良反应增加\",\"value\":2}, {\"answer\":1,\"text\":\"后者血药浓度下降,药效降低\",\"value\":3}]",
+    "title": "利福平与口服避孕药合用"
+  },
+  {
+    "id": 36524,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素不能透过胎盘屏障,因此孕妇可以放心使用\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可由乳汁中排泄,因此哺乳期妇女接受大剂量糖皮质激素时不宜哺乳\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素可以促进小儿生长和发育,因此可以长期使用\",\"value\":2}, {\"answer\":0,\"text\":\"糖皮质激素隔日疗法对肾上腺皮质功能的抑制较大\",\"value\":3}]",
+    "title": "关于孕妇使用糖皮质激素的说法正确的是"
+  },
+  {
+    "id": 36428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"丙环定\",\"value\":2}, {\"answer\":0,\"text\":\"益母草\",\"value\":3}]",
+    "title": "可用于防治早产的药物是"
+  },
+  {
+    "id": 36432,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "较大剂量用于产后止血,但作用不持久的药物"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道分泌物培养为衣原体,首选的药物是"
+  },
+  {
+    "id": 36561,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福辛普利\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}]",
+    "title": "患者,女,30岁,妊娠20周,最近出现头晕5天,临床诊断为妊娠期高血压,首选的药物是"
+  },
+  {
+    "id": 36480,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素类\",\"value\":0}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":1}, {\"answer\":0,\"text\":\"头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "在妊娠期间使用,严重导致胎儿永久性耳聋的抗菌药是"
+  },
+  {
+    "id": 36423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"小剂量缩宫素可用于催产和引产\",\"value\":0}, {\"answer\":0,\"text\":\"小剂量缩宫素可用于产后止血\",\"value\":1}, {\"answer\":0,\"text\":\"缩宫素具有抗利尿活性,可用于治疗尿崩症\",\"value\":2}, {\"answer\":0,\"text\":\"临床应用与麦角类生物碱相似\",\"value\":3}]",
+    "title": "缩宫素的临床应用"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36526,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"性别因素\",\"value\":0}, {\"answer\":0,\"text\":\"过敏反应\",\"value\":1}, {\"answer\":0,\"text\":\"遗传因素\",\"value\":2}, {\"answer\":0,\"text\":\"基础病因素\",\"value\":3}]",
+    "title": "妇女经期对泻药和刺激性强药物敏感性增高,因为"
+  },
+  {
+    "id": 36416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,痛痒明显,阴道检查时发现粘稠的奶酪样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36534,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴茎套\",\"value\":0}, {\"answer\":0,\"text\":\"长效避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"皮下埋植剂\",\"value\":2}, {\"answer\":0,\"text\":\"安全期避孕法\",\"value\":3}]",
+    "title": "哺乳期妇女首选的避孕方法"
+  },
+  {
+    "id": 36493,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"腺苷蛋氨酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素E\",\"value\":1}, {\"answer\":0,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":0,\"text\":\"甲基多巴\",\"value\":3}]",
+    "title": "可以用于妊娠期肝内胆汁淤积"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36530,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"奥美拉唑\",\"value\":0}, {\"answer\":1,\"text\":\"枸橼酸铋钾\",\"value\":1}, {\"answer\":1,\"text\":\"胶体果胶铋\",\"value\":2}, {\"answer\":1,\"text\":\"阿托品\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":4}]",
+    "title": "下列属于妊娠期妇女禁用或慎用的消化系统用药的是"
+  },
+  {
+    "id": 36403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用药初期类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"子宫不规则出血\",\"value\":1}, {\"answer\":1,\"text\":\"乳汁减少\",\"value\":2}, {\"answer\":0,\"text\":\"肝功能损伤\",\"value\":3}, {\"answer\":0,\"text\":\"低血钾、肌无力症状\",\"value\":4}]",
+    "title": "短效口服避孕药的不良反应包括"
+  },
+  {
+    "id": 36399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素禁用于血管硬化和冠状动脉疾病患者\",\"value\":0}, {\"answer\":1,\"text\":\"缩宫素禁用于产道异常、胎位不正、前置胎盘、有剖腹产史者,以防止子宫破裂或胎儿窒息\",\"value\":1}, {\"answer\":1,\"text\":\"垂体后叶素禁用于冠状动脉硬化性心脏病患者\",\"value\":2}, {\"answer\":1,\"text\":\"麦角制剂禁用于催产和引产\",\"value\":3}, {\"answer\":1,\"text\":\"麦角制剂禁用于血管硬化和冠状动脉疾病患者\",\"value\":4}]",
+    "title": "下列说法正确的是"
+  },
+  {
+    "id": 36556,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道炎易发作,每个疗程后应检查阴道分泌物\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇及哺乳期妇女禁用聚甲酚磺醛栓\",\"value\":1}, {\"answer\":1,\"text\":\"阴道连续用药不宜超过10天,同时服用复方维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"涂敷硝酸咪康唑乳膏有刺激感或出现局部红肿,应立即停药并用冷水冲洗\",\"value\":3}, {\"answer\":0,\"text\":\"可用热水、高锰酸钾溶液清洗阴部\",\"value\":4}]",
+    "title": "关于药物治疗阴道炎的注意事项正确的是"
+  },
+  {
+    "id": 36557,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"外部阴道出现湿疹\",\"value\":0}, {\"answer\":1,\"text\":\"大部分是夫妻两人共同患有\",\"value\":1}, {\"answer\":1,\"text\":\"阴道有腥臭味\",\"value\":2}, {\"answer\":1,\"text\":\"泡沫样白带\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "滴虫性阴道炎的临床表现包括"
+  },
+  {
+    "id": 36396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":1,\"text\":\"出血\",\"value\":2}, {\"answer\":1,\"text\":\"妊娠斑\",\"value\":3}, {\"answer\":0,\"text\":\"体重减少\",\"value\":4}]",
+    "title": "口服避孕药的不良反应有"
+  },
+  {
+    "id": 36543,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗盐皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"抗孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"抗糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"抗雌激素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "米非司酮的药理作用机制是"
+  },
+  {
+    "id": 36505,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"硝基安定\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":0,\"text\":\"茶碱\",\"value\":2}, {\"answer\":0,\"text\":\"氨己烯酸\",\"value\":3}]",
+    "title": "下列哪一药可以提高催乳素浓度"
+  },
+  {
+    "id": 36385,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期使用需监测血糖\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素治疗可能增加乳腺癌的风险\",\"value\":1}, {\"answer\":0,\"text\":\"雌激素治疗前需评估患者发生血栓的风险\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素的治疗可能诱发阴道出血\",\"value\":3}]",
+    "title": "下列关于雌激素描述错误的是"
+  },
+  {
+    "id": 36561,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福辛普利\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}]",
+    "title": "患者,女,30岁,妊娠20周,最近出现头晕5天,临床诊断为妊娠期高血压,首选的药物是"
+  },
+  {
+    "id": 36409,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"矿物油\",\"value\":0}, {\"answer\":1,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"硫糖铝\",\"value\":2}, {\"answer\":0,\"text\":\"考来烯胺\",\"value\":3}]",
+    "title": "下列药物中,能促进小肠对维生素D吸收的药物是"
+  },
+  {
+    "id": 36553,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗念珠菌、滴虫混合感染的阴道炎,首选的处方药是"
+  },
+  {
+    "id": 36563,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"卡马西平\",\"value\":0}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":1}, {\"answer\":0,\"text\":\"丙戊酸钠\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "育龄期女性患有癫痫,可选用哪个药物治疗"
+  },
+  {
+    "id": 36417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道检查时发现大量泡沫样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36450,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"克霉素\",\"value\":0}, {\"answer\":0,\"text\":\"制霉素\",\"value\":1}, {\"answer\":1,\"text\":\"灰黄霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}]",
+    "title": "下列药物对胎儿有致畸作用的是"
+  },
+  {
+    "id": 36525,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物的继发反应\",\"value\":0}, {\"answer\":0,\"text\":\"药物的致突变作用\",\"value\":1}, {\"answer\":1,\"text\":\"药物的致畸作用\",\"value\":2}, {\"answer\":0,\"text\":\"药物的副作用\",\"value\":3}]",
+    "title": "反应停引起近万例海豚形畸胎属于"
+  },
+  {
+    "id": 36508,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦可以穿过胎盘\",\"value\":0}, {\"answer\":0,\"text\":\"有潜在致畸作用\",\"value\":1}, {\"answer\":0,\"text\":\"怀孕期间不可使用\",\"value\":2}, {\"answer\":1,\"text\":\"更昔洛韦可以安全用于妊娠\",\"value\":3}]",
+    "title": "关于孕妇使用更昔洛韦说法不正确的是"
+  },
+  {
+    "id": 36498,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立刻服用一片,然后等到晚上常规时间再吃下一片\",\"value\":0}, {\"answer\":0,\"text\":\"在未来的7天使用避孕套或不行房\",\"value\":1}, {\"answer\":0,\"text\":\"下一个月不服用避孕药\",\"value\":2}, {\"answer\":1,\"text\":\"超过24h,正常服药,采取其他的避孕方式\",\"value\":3}]",
+    "title": "一位女士每天晚上9点服用避孕药敏高乐,她正处于经期的中间,而昨晚忘记服药了,对她的建议正确的是"
+  },
+  {
+    "id": 36379,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"痛经\",\"value\":0}, {\"answer\":1,\"text\":\"功能性子宫出血\",\"value\":1}, {\"answer\":0,\"text\":\"消耗性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"先兆性流产\",\"value\":3}]",
+    "title": "雌激素的适应症是"
+  },
+  {
+    "id": 36404,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大剂量缩宫素口服\",\"value\":0}, {\"answer\":0,\"text\":\"小剂量缩宫素肌内注射\",\"value\":1}, {\"answer\":1,\"text\":\"小剂量缩宫素静脉滴注\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量缩宫素静脉滴注\",\"value\":3}, {\"answer\":0,\"text\":\"小剂量缩宫素静脉注射\",\"value\":4}]",
+    "title": "对于无产道障碍而缩宫无力的孕妇催产宜用"
+  },
+  {
+    "id": 36464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诺氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"哌拉西林\",\"value\":1}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":2}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":3}]",
+    "title": "妊娠期妇女可以选用的抗菌药物有"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36509,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"21\",\"value\":0}, {\"answer\":0,\"text\":\"10\",\"value\":1}, {\"answer\":0,\"text\":\"5\",\"value\":2}, {\"answer\":0,\"text\":\"7\",\"value\":3}]",
+    "title": "一女性敏高乐避孕药以用完,在周一前她无法开到这个药,当天是周日晚上,在诊断她后向其紧急供应,你可以给她多少粒"
+  },
+  {
+    "id": 36536,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"200mg\",\"value\":0}, {\"answer\":0,\"text\":\"100mg\",\"value\":1}, {\"answer\":0,\"text\":\"150mg\",\"value\":2}, {\"answer\":0,\"text\":\"50mg\",\"value\":3}]",
+    "title": "患者,女,28岁,停经48天,临床诊断为早孕,患者要求药物流产,医师为其开具米非司酮顿服,剂量应为"
+  },
+  {
+    "id": 36519,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"孕妇患者\",\"value\":0}, {\"answer\":1,\"text\":\"昏迷状态患者\",\"value\":1}, {\"answer\":1,\"text\":\"患有严重心脏病的患者\",\"value\":2}, {\"answer\":1,\"text\":\"患有食管静脉曲张的患者\",\"value\":3}, {\"answer\":0,\"text\":\"中毒引起的抽搐、惊厥被控制之后的清醒患者\",\"value\":4}]",
+    "title": "中毒时不可采用催吐处理方法的患者有"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36513,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氟喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"四环素类\",\"value\":1}, {\"answer\":1,\"text\":\"大环内酯类\",\"value\":2}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧苄啶\",\"value\":4}]",
+    "title": "下列抗菌药物在乳汁中分泌量较高是"
+  },
+  {
+    "id": 36400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对各期妊娠子宫均有兴奋作用\",\"value\":0}, {\"answer\":1,\"text\":\"静脉滴注、阴道内、宫腔内或羊膜腔内给药均有效\",\"value\":1}, {\"answer\":0,\"text\":\"大剂量对妊娠和非妊娠子宫均有抑制作用\",\"value\":2}, {\"answer\":0,\"text\":\"临床已试用于作为防止早产药物\",\"value\":3}, {\"answer\":1,\"text\":\"临床已试用于作为催经、抗早孕药物\",\"value\":4}]",
+    "title": "前列腺素对生殖系统的作用包括"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36491,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"利巴韦林注射剂有较强的致畸作用\",\"answer\":1},{\"value\":1,\"text\":\"停药后4周尚不能完全自体内清除,不能准备怀孕\",\"answer\":1},{\"value\":2,\"text\":\"在治疗开始前、治疗期间和停药后至少6个月应避免怀孕\",\"answer\":1},{\"value\":3,\"text\":\"使用本品的男性和女性均应避孕,应采取至少2种以上避孕方式有效避孕\",\"answer\":1},{\"value\":4,\"text\":\"以上均错误\",\"answer\":0}]",
+    "title": "一位女患者因上呼吸道感染静脉滴注利巴韦林注射剂,关于该患者能否准备怀孕叙述正确的是"
+  },
+  {
+    "id": 36532,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甘油三酯降低\",\"value\":0}, {\"answer\":0,\"text\":\"高密度脂蛋白胆固醇降低\",\"value\":1}, {\"answer\":0,\"text\":\"低密度脂蛋白胆固醇降低\",\"value\":2}, {\"answer\":1,\"text\":\"糖耐量异常\",\"value\":3}]",
+    "title": "口服避孕药对机体代谢的影响,正确的是"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角碱\",\"value\":0}, {\"answer\":1,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":3}]",
+    "title": "有抗利尿作用的妇产科药物是"
+  },
+  {
+    "id": 36554,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"克霉唑栓\",\"value\":0}, {\"answer\":0,\"text\":\"炉甘石洗剂\",\"value\":1}, {\"answer\":0,\"text\":\"复方苯甲酸酊\",\"value\":2}, {\"answer\":0,\"text\":\"复方角菜酸酯栓\",\"value\":3}]",
+    "title": "治疗真菌性阴道炎可选用"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36466,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠第3～8周\",\"value\":0}, {\"answer\":0,\"text\":\"妊娠20天内\",\"value\":1}, {\"answer\":0,\"text\":\"妊娠6个月内\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠1周内\",\"value\":3}]",
+    "title": "妊娠期间,被称为致畸高危期的是"
+  },
+  {
+    "id": 36445,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"曲古霉素\",\"value\":1}, {\"answer\":0,\"text\":\"伊曲康唑\",\"value\":2}, {\"answer\":0,\"text\":\"克霉唑栓\",\"value\":3}]",
+    "title": "治疗细菌性阴道炎常用的处方药是"
+  },
+  {
+    "id": 36382,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"改变子宫颈黏液\",\"value\":1}, {\"answer\":0,\"text\":\"减少子宫腺体制造肝糖\",\"value\":2}, {\"answer\":1,\"text\":\"使子宫粘膜内腺体生长\",\"value\":3}]",
+    "title": "避孕药的作用机制不包括"
+  },
+  {
+    "id": 36435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":1,\"text\":\"大剂量己烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":3}]",
+    "title": "回乳宜选用"
+  },
+  {
+    "id": 36388,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"过量引起子宫高频率甚至持续性强直收缩\",\"answer\":0},{\"value\":1,\"text\":\"恶心、呕吐\",\"answer\":0},{\"value\":2,\"text\":\"高血压\",\"answer\":0},{\"value\":3,\"text\":\"血糖升高\",\"answer\":1}]",
+    "title": "以下哪项不是缩宫素的主要不良反应"
+  },
+  {
+    "id": 36384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":1}, {\"answer\":0,\"text\":\"华法林\",\"value\":2}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":3}]",
+    "title": "下列药物中与雌激素不存在相互作用的是"
+  },
+  {
+    "id": 36464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诺氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"哌拉西林\",\"value\":1}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":2}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":3}]",
+    "title": "妊娠期妇女可以选用的抗菌药物有"
+  },
+  {
+    "id": 36544,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":1,\"text\":\"维生素C\",\"value\":2}, {\"answer\":0,\"text\":\"维生素AD\",\"value\":3}]",
+    "title": "孕妇服用过量可诱发新生儿坏血症的是"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36536,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"200mg\",\"value\":0}, {\"answer\":0,\"text\":\"100mg\",\"value\":1}, {\"answer\":0,\"text\":\"150mg\",\"value\":2}, {\"answer\":0,\"text\":\"50mg\",\"value\":3}]",
+    "title": "患者,女,28岁,停经48天,临床诊断为早孕,患者要求药物流产,医师为其开具米非司酮顿服,剂量应为"
+  },
+  {
+    "id": 36521,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢氨苄\",\"value\":1}, {\"answer\":1,\"text\":\"磺胺嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"甲硝唑\",\"value\":3}]",
+    "title": "红细胞缺乏葡萄糖-6-磷酸脱氢酶的孕妇,临产期使用可引起新生儿溶血的药品是"
+  },
+  {
+    "id": 36516,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"经尿道作前列腺切除术\",\"value\":0}, {\"answer\":0,\"text\":\"青光眼\",\"value\":1}, {\"answer\":0,\"text\":\"宫颈糜烂\",\"value\":2}, {\"answer\":0,\"text\":\"阴道炎\",\"value\":3}]",
+    "title": "甘露醇冲洗剂可用于"
+  },
+  {
+    "id": 36444,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺疾病\",\"value\":0}, {\"answer\":1,\"text\":\"血液病\",\"value\":1}, {\"answer\":1,\"text\":\"血管栓塞\",\"value\":2}, {\"answer\":0,\"text\":\"哮喘\",\"value\":3}, {\"answer\":0,\"text\":\"心血管疾病\",\"value\":4}]",
+    "title": "米非司酮的使用禁忌症有"
+  },
+  {
+    "id": 36396,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":1}, {\"answer\":1,\"text\":\"出血\",\"value\":2}, {\"answer\":1,\"text\":\"妊娠斑\",\"value\":3}, {\"answer\":0,\"text\":\"体重减少\",\"value\":4}]",
+    "title": "口服避孕药的不良反应有"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36530,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"奥美拉唑\",\"value\":0}, {\"answer\":1,\"text\":\"枸橼酸铋钾\",\"value\":1}, {\"answer\":1,\"text\":\"胶体果胶铋\",\"value\":2}, {\"answer\":1,\"text\":\"阿托品\",\"value\":3}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":4}]",
+    "title": "下列属于妊娠期妇女禁用或慎用的消化系统用药的是"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"直接兴奋子宫平滑肌,为子宫平滑肌兴奋药\",\"value\":0}, {\"answer\":0,\"text\":\"兴奋子宫作用性质与正常分娩时不同\",\"value\":1}, {\"answer\":0,\"text\":\"小剂量可引起强制性收缩\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠早期的子宫平滑肌对缩宫素的敏感性高\",\"value\":3}]",
+    "title": "缩宫素兴奋子宫作用表现"
+  },
+  {
+    "id": 36371,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药理作用拮抗\",\"value\":0}, {\"answer\":0,\"text\":\"不良反应叠加\",\"value\":1}, {\"answer\":0,\"text\":\"后者血药浓度升高,不良反应增加\",\"value\":2}, {\"answer\":1,\"text\":\"后者血药浓度下降,药效降低\",\"value\":3}]",
+    "title": "利福平与口服避孕药合用"
+  },
+  {
+    "id": 36436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"黄体酮\",\"value\":0}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":1}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}]",
+    "title": "卵巢功能不全和闭经宜选用"
+  },
+  {
+    "id": 36383,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"具有广泛而重要的生理作用\",\"value\":0}, {\"answer\":0,\"text\":\"可促进女性生殖器官发育\",\"value\":1}, {\"answer\":1,\"text\":\"可抑制卵泡发育\",\"value\":2}, {\"answer\":0,\"text\":\"可抑制或促进促性腺激素释放\",\"value\":3}]",
+    "title": "关于雌激素作用特点的描述错误的是"
+  },
+  {
+    "id": 36529,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药乳汁透入量多少\",\"value\":0}, {\"answer\":0,\"text\":\"哪些药物可透过乳汁\",\"value\":1}, {\"answer\":1,\"text\":\"告知患者哺乳期不要用药\",\"value\":2}, {\"answer\":0,\"text\":\"所用药对婴幼儿的影响\",\"value\":3}]",
+    "title": "对哺乳期患者用药指导内容不包括"
+  },
+  {
+    "id": 36377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肥胖或抽烟的女性应谨慎选择避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"产后即可使用复方激素类避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"漏服超过12h需补服\",\"value\":2}, {\"answer\":0,\"text\":\"漏服时间不同,补服方案不同\",\"value\":3}]",
+    "title": "下列关于避孕药的描述错误的是"
+  },
+  {
+    "id": 36533,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"使用较大剂量的雌激素可发生血栓性疾病\",\"value\":0}, {\"answer\":0,\"text\":\"口服避孕药引起类早孕反应,一般不需要特殊处理,坚持服药数个周期后可自然消失\",\"value\":1}, {\"answer\":0,\"text\":\"应用复方短效口服避孕药者,停药后即可妊娠\",\"value\":2}, {\"answer\":1,\"text\":\"口服避孕药中的雌激素可使高密度脂蛋白胆固醇降低\",\"value\":3}]",
+    "title": "关于口服避孕药的使用,下列说法不正确的是"
+  },
+  {
+    "id": 36494,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬对胎儿心脏或血液有影响\",\"value\":0}, {\"answer\":0,\"text\":\"晚期妊娠妇女使用可使妊娠期延长,导致难产\",\"value\":1}, {\"answer\":0,\"text\":\"孕妇及哺乳期妇女禁用\",\"value\":2}, {\"answer\":1,\"text\":\"布洛芬安全性高,孕妇及哺乳期妇女可以使用\",\"value\":3}]",
+    "title": "关于孕妇服用布洛芬的说法不正确的是"
+  },
+  {
+    "id": 36502,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"恶心、呕吐\",\"value\":0}, {\"answer\":0,\"text\":\"乳腺增生\",\"value\":1}, {\"answer\":1,\"text\":\"严重的胃病\",\"value\":2}, {\"answer\":0,\"text\":\"突然喘不过气来\",\"value\":3}]",
+    "title": "避孕药在哪种情况下应该立刻停止使用"
+  },
+  {
+    "id": 36426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":1,\"text\":\"双氢麦角碱\",\"value\":3}]",
+    "title": "具有降压作用的妇产科药物是"
+  },
+  {
+    "id": 36411,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"米非司酮\",\"value\":0}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"雌二醇\",\"value\":2}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":3}]",
+    "title": "用于先兆性流产和习惯性流产"
+  },
+  {
+    "id": 36424,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后子宫出血\",\"value\":0}, {\"answer\":0,\"text\":\"扩张及软化宫颈\",\"value\":1}, {\"answer\":0,\"text\":\"催产\",\"value\":2}, {\"answer\":0,\"text\":\"抗早孕\",\"value\":3}]",
+    "title": "麦角新碱的临床应用"
+  },
+  {
+    "id": 36532,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甘油三酯降低\",\"value\":0}, {\"answer\":0,\"text\":\"高密度脂蛋白胆固醇降低\",\"value\":1}, {\"answer\":0,\"text\":\"低密度脂蛋白胆固醇降低\",\"value\":2}, {\"answer\":1,\"text\":\"糖耐量异常\",\"value\":3}]",
+    "title": "口服避孕药对机体代谢的影响,正确的是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36467,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方甘草酸苷片\",\"value\":0}, {\"answer\":0,\"text\":\"硫普罗宁\",\"value\":1}, {\"answer\":0,\"text\":\"乙酰半胱氨酸\",\"value\":2}, {\"answer\":1,\"text\":\"丁二磺酸腺苷蛋氨酸片\",\"value\":3}]",
+    "title": "下列保肝药物中,适用于妊娠期肝内胆汁淤积的药物是"
+  },
+  {
+    "id": 36510,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"发生性接触的时间超过24h\",\"value\":0}, {\"answer\":0,\"text\":\"发生性接触的时间超过72h\",\"value\":1}, {\"answer\":0,\"text\":\"她正在使用对乙酰氨基酚治疗头痛\",\"value\":2}, {\"answer\":1,\"text\":\"她之前已经使用过紧急避孕药且未超过一个周期\",\"value\":3}]",
+    "title": "年龄大于16岁的女生,漏服了平时按时服用的口服避孕药。在交流询问后药师决定拒绝售药给她,原因是"
+  },
+  {
+    "id": 36468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氯芬酸\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"氢化可的松\",\"value\":3}]",
+    "title": "某一孕妇发烧,需用解热镇痛药时可选用"
+  },
+  {
+    "id": 36525,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物的继发反应\",\"value\":0}, {\"answer\":0,\"text\":\"药物的致突变作用\",\"value\":1}, {\"answer\":1,\"text\":\"药物的致畸作用\",\"value\":2}, {\"answer\":0,\"text\":\"药物的副作用\",\"value\":3}]",
+    "title": "反应停引起近万例海豚形畸胎属于"
+  },
+  {
+    "id": 36537,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"6个月内有静脉血栓栓塞性疾病史的患者\",\"value\":0}, {\"answer\":0,\"text\":\"合并有骨质疏松的患者\",\"value\":1}, {\"answer\":0,\"text\":\"合并有高血压的患者\",\"value\":2}, {\"answer\":0,\"text\":\"合并有糖尿病的患者\",\"value\":3}]",
+    "title": "绝经激素治疗应禁用的人群是"
+  },
+  {
+    "id": 36549,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"萘普生\",\"value\":1}, {\"answer\":0,\"text\":\"贝诺酯\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "可透过胎盘,发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"应用广,用于健康育龄妇女\",\"value\":0}, {\"answer\":1,\"text\":\"连续用药时间长,可达10年以上\",\"value\":1}, {\"answer\":1,\"text\":\"安全性高\",\"value\":2}, {\"answer\":0,\"text\":\"疗效高,达70%-80%\",\"value\":3}, {\"answer\":1,\"text\":\"女用避孕药较男用避孕药发展快\",\"value\":4}]",
+    "title": "女用避孕药与其他药相比,具备"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36507,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用米非司酮单剂量来终止妊娠\",\"value\":0}, {\"answer\":1,\"text\":\"可使子宫收缩\",\"value\":1}, {\"answer\":1,\"text\":\"增加子宫肌层对前列腺素的敏感性\",\"value\":2}, {\"answer\":1,\"text\":\"促进宫颈成熟\",\"value\":3}, {\"answer\":0,\"text\":\"以上均错误\",\"value\":4}]",
+    "title": "关于米非司酮叙述正确的是"
+  },
+  {
+    "id": 36540,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"首先应用大剂量,后期逐渐减量\",\"value\":0}, {\"answer\":1,\"text\":\"耳硬化症患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"必须有明确的适应症且无禁忌症\",\"value\":2}, {\"answer\":1,\"text\":\"药物的选择需个体化\",\"value\":3}, {\"answer\":1,\"text\":\"对于有子宫的妇女,采取雌、孕激素联合使用\",\"value\":4}]",
+    "title": "绝经激素治疗临床应用原则有哪些"
+  },
+  {
+    "id": 36449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"同化激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":3}, {\"answer\":1,\"text\":\"甲睾酮\",\"value\":4}]",
+    "title": "有水钠潴留作用的药物"
+  },
+  {
+    "id": 36479,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利血平\",\"value\":0}, {\"answer\":0,\"text\":\"酮康唑\",\"value\":1}, {\"answer\":0,\"text\":\"维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"维生素E\",\"value\":3}]",
+    "title": "长期大量服用,导致乳腺肿大,并有出现血栓性静脉炎的药物是"
+  },
+  {
+    "id": 36423,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"小剂量缩宫素可用于催产和引产\",\"value\":0}, {\"answer\":0,\"text\":\"小剂量缩宫素可用于产后止血\",\"value\":1}, {\"answer\":0,\"text\":\"缩宫素具有抗利尿活性,可用于治疗尿崩症\",\"value\":2}, {\"answer\":0,\"text\":\"临床应用与麦角类生物碱相似\",\"value\":3}]",
+    "title": "缩宫素的临床应用"
+  },
+  {
+    "id": 36462,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"叶酸,＜0.8mg/d\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B12,5mg/d\",\"value\":1}, {\"answer\":0,\"text\":\"叶酸,5mg/d\",\"value\":2}, {\"answer\":0,\"text\":\"维生素B12,0.8mg/d\",\"value\":3}]",
+    "title": "用于预防妊娠期妇女胎儿神经管畸形的药物及其剂量正确的是"
+  },
+  {
+    "id": 36416,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,痛痒明显,阴道检查时发现粘稠的奶酪样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36528,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不应超过6mg/ml\",\"value\":0}, {\"answer\":0,\"text\":\"不应超过8mg/ml\",\"value\":1}, {\"answer\":0,\"text\":\"不应超过10mg/ml\",\"value\":2}, {\"answer\":0,\"text\":\"不应超过12mg/ml\",\"value\":3}]",
+    "title": "在进行人工流产术,所用克林霉素适宜浓度为"
+  },
+  {
+    "id": 36468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氯芬酸\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"氢化可的松\",\"value\":3}]",
+    "title": "某一孕妇发烧,需用解热镇痛药时可选用"
+  },
+  {
+    "id": 36483,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "女性在哺乳期可以使用的抗菌药是"
+  },
+  {
+    "id": 36413,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乳腺癌\",\"value\":0}, {\"answer\":0,\"text\":\"生殖系统恶性肿瘤\",\"value\":1}, {\"answer\":1,\"text\":\"儿童禁用\",\"value\":2}, {\"answer\":0,\"text\":\"急慢性肝功能不全\",\"value\":3}]",
+    "title": "下列不属于雌激素禁忌症的是"
+  },
+  {
+    "id": 36500,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"戊酸雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素和黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "患者一年前做过子宫切除手术,以下哪种药适合该患者"
+  },
+  {
+    "id": 36564,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碘制剂\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":1}, {\"answer\":0,\"text\":\"甲巯咪唑\",\"value\":2}, {\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":3}]",
+    "title": "妊娠期女性患有甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36496,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"拉坦前列素\",\"value\":1}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"苄氟噻嗪\",\"value\":3}]",
+    "title": "处于哺乳期的女性,下列哪种药物不适用"
+  },
+  {
+    "id": 36498,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立刻服用一片,然后等到晚上常规时间再吃下一片\",\"value\":0}, {\"answer\":0,\"text\":\"在未来的7天使用避孕套或不行房\",\"value\":1}, {\"answer\":0,\"text\":\"下一个月不服用避孕药\",\"value\":2}, {\"answer\":1,\"text\":\"超过24h,正常服药,采取其他的避孕方式\",\"value\":3}]",
+    "title": "一位女士每天晚上9点服用避孕药敏高乐,她正处于经期的中间,而昨晚忘记服药了,对她的建议正确的是"
+  },
+  {
+    "id": 36387,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"直接兴奋子宫平滑肌,为子宫平滑肌兴奋药\",\"value\":0}, {\"answer\":0,\"text\":\"兴奋子宫作用性质与正常分娩时不同\",\"value\":1}, {\"answer\":0,\"text\":\"小剂量可引起强制性收缩\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠早期的子宫平滑肌对缩宫素的敏感性高\",\"value\":3}]",
+    "title": "缩宫素兴奋子宫作用表现"
+  },
+  {
+    "id": 36490,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"亚胺培南\",\"value\":1}, {\"answer\":1,\"text\":\"阿奇霉素分散片\",\"value\":2}, {\"answer\":0,\"text\":\"埃索美拉唑\",\"value\":3}]",
+    "title": "某一女性,临床诊断为盆腔炎,可选用的药物是"
+  },
+  {
+    "id": 36475,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环丙沙星\",\"value\":0}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":1}, {\"answer\":0,\"text\":\"双八面体蒙脱石\",\"value\":2}, {\"answer\":0,\"text\":\"葡萄糖酸钙\",\"value\":3}]",
+    "title": "哺乳期妇女禁用的药品是"
+  },
+  {
+    "id": 36550,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯丙哌林\",\"value\":0}, {\"answer\":0,\"text\":\"氨溴索\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":1,\"text\":\"右美沙芬\",\"value\":3}]",
+    "title": "妊娠妇女禁用的镇咳药和祛痰药是"
+  },
+  {
+    "id": 36466,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠第3～8周\",\"value\":0}, {\"answer\":0,\"text\":\"妊娠20天内\",\"value\":1}, {\"answer\":0,\"text\":\"妊娠6个月内\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠1周内\",\"value\":3}]",
+    "title": "妊娠期间,被称为致畸高危期的是"
+  },
+  {
+    "id": 36439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先兆流产\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期前乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓造血功能低\",\"value\":3}]",
+    "title": "己烯雌酚可用于"
+  },
+  {
+    "id": 36374,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"雌三醇\",\"value\":1}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":2}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":3}]",
+    "title": "下列药物不属于雌激素的是"
+  },
+  {
+    "id": 36410,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"甲状腺素\",\"value\":1}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":2}, {\"answer\":1,\"text\":\"阿仑膦酸钠\",\"value\":3}]",
+    "title": "治疗绝经后妇女的骨质疏松选用"
+  },
+  {
+    "id": 36499,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急避孕药只在24小时内服用才有效\",\"value\":0}, {\"answer\":1,\"text\":\"急避孕药72小时内服用是有效\",\"value\":1}, {\"answer\":0,\"text\":\"事后服药紧急避孕药无效\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "一位女性24小时前进行了没有保护措施的性行为,事前没有口服避孕药,对她的建议正确的是"
+  },
+  {
+    "id": 36435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":1,\"text\":\"大剂量己烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":3}]",
+    "title": "回乳宜选用"
+  },
+  {
+    "id": 36436,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"黄体酮\",\"value\":0}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":1}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}]",
+    "title": "卵巢功能不全和闭经宜选用"
+  },
+  {
+    "id": 36417,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素钠\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道检查时发现大量泡沫样分泌物,经验治疗首选的药物是"
+  },
+  {
+    "id": 36442,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"新婚期可选择复方短效口服避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"复方短效口服避孕药一般停药后即可妊娠\",\"value\":1}, {\"answer\":1,\"text\":\"长效避孕药一般停药6个月后妊娠较安全\",\"value\":2}, {\"answer\":1,\"text\":\"绝经过渡期原来使用宫内节育器无不良反应者可继续使用至绝经后半年再取出\",\"value\":3}, {\"answer\":0,\"text\":\"哺乳期选用雌孕激素复合避孕针比单孕激素长效避孕针安全\",\"value\":4}]",
+    "title": "关于避孕措施和患者教育的说法,正确的有"
+  },
+  {
+    "id": 36449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"同化激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":3}, {\"answer\":1,\"text\":\"甲睾酮\",\"value\":4}]",
+    "title": "有水钠潴留作用的药物"
+  },
+  {
+    "id": 36461,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌替啶\",\"value\":0}, {\"answer\":0,\"text\":\"可待因\",\"value\":1}, {\"answer\":1,\"text\":\"静脉注射缩宫素\",\"value\":2}, {\"answer\":0,\"text\":\"口服缩宫素\",\"value\":3}, {\"answer\":1,\"text\":\"预防和控制子痫发作的硫酸镁\",\"value\":4}]",
+    "title": "下列药物对分娩有利的是"
+  },
+  {
+    "id": 36545,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠与哺乳期妇女\",\"value\":0}, {\"answer\":1,\"text\":\"儿童\",\"value\":1}, {\"answer\":1,\"text\":\"有哮喘患者\",\"value\":2}, {\"answer\":1,\"text\":\"儿童病毒性感染引起发热者\",\"value\":3}, {\"answer\":1,\"text\":\"上消化道出血者\",\"value\":4}]",
+    "title": "阿司匹林禁用或不宜应用的人群有哪些"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36556,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道炎易发作,每个疗程后应检查阴道分泌物\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇及哺乳期妇女禁用聚甲酚磺醛栓\",\"value\":1}, {\"answer\":1,\"text\":\"阴道连续用药不宜超过10天,同时服用复方维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"涂敷硝酸咪康唑乳膏有刺激感或出现局部红肿,应立即停药并用冷水冲洗\",\"value\":3}, {\"answer\":0,\"text\":\"可用热水、高锰酸钾溶液清洗阴部\",\"value\":4}]",
+    "title": "关于药物治疗阴道炎的注意事项正确的是"
+  },
+  {
+    "id": 36468,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双氯芬酸\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"氢化可的松\",\"value\":3}]",
+    "title": "某一孕妇发烧,需用解热镇痛药时可选用"
+  },
+  {
+    "id": 36379,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"痛经\",\"value\":0}, {\"answer\":1,\"text\":\"功能性子宫出血\",\"value\":1}, {\"answer\":0,\"text\":\"消耗性疾病\",\"value\":2}, {\"answer\":0,\"text\":\"先兆性流产\",\"value\":3}]",
+    "title": "雌激素的适应症是"
+  },
+  {
+    "id": 36554,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"克霉唑栓\",\"value\":0}, {\"answer\":0,\"text\":\"炉甘石洗剂\",\"value\":1}, {\"answer\":0,\"text\":\"复方苯甲酸酊\",\"value\":2}, {\"answer\":0,\"text\":\"复方角菜酸酯栓\",\"value\":3}]",
+    "title": "治疗真菌性阴道炎可选用"
+  },
+  {
+    "id": 36370,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"子宫不规则出血\",\"value\":0}, {\"answer\":0,\"text\":\"肾功能损害\",\"value\":1}, {\"answer\":0,\"text\":\"多毛、痤疮\",\"value\":2}, {\"answer\":0,\"text\":\"乳房肿块\",\"value\":3}]",
+    "title": "抑制排卵避孕药的较常见不良反应是"
+  },
+  {
+    "id": 36528,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不应超过6mg/ml\",\"value\":0}, {\"answer\":0,\"text\":\"不应超过8mg/ml\",\"value\":1}, {\"answer\":0,\"text\":\"不应超过10mg/ml\",\"value\":2}, {\"answer\":0,\"text\":\"不应超过12mg/ml\",\"value\":3}]",
+    "title": "在进行人工流产术,所用克林霉素适宜浓度为"
+  },
+  {
+    "id": 36440,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"炔诺酮\",\"value\":1}, {\"answer\":0,\"text\":\"己烯雌酚\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素\",\"value\":3}]",
+    "title": "用于中期引产的药物"
+  },
+  {
+    "id": 36548,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吲哚美辛\",\"value\":0}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":1}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":2}, {\"answer\":0,\"text\":\"阿苯片\",\"value\":3}]",
+    "title": "可透过胎盘,但无发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36369,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"通过反馈机制,抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"抑制子宫内膜正常增殖,不利于受精卵着床\",\"value\":1}, {\"answer\":0,\"text\":\"使宫颈黏液变稠,精子不易进入宫腔\",\"value\":2}, {\"answer\":0,\"text\":\"抑制卵巢黄体分泌激素\",\"value\":3}]",
+    "title": "复方炔诺酮片的主要避孕作用机制是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36477,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"耐受性\",\"value\":0}, {\"answer\":1,\"text\":\"可抑制新生儿呼吸\",\"value\":1}, {\"answer\":0,\"text\":\"成瘾性\",\"value\":2}, {\"answer\":0,\"text\":\"镇痛作用较弱\",\"value\":3}]",
+    "title": "分娩止痛禁用吗啡的主要原因是"
+  },
+  {
+    "id": 36560,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"螺内酯\",\"value\":0}, {\"answer\":0,\"text\":\"尼莫地平注射液\",\"value\":1}, {\"answer\":1,\"text\":\"硫酸镁注射液\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺注射液\",\"value\":3}]",
+    "title": "患者,女,25岁,妊娠26周,头晕,临床诊断为先兆子痫,急救时时应选择的药物是"
+  },
+  {
+    "id": 36422,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"左炔诺孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"罗格列酮\",\"value\":2}, {\"answer\":0,\"text\":\"丁螺环酮\",\"value\":3}]",
+    "title": "用于紧急避孕的药物是"
+  },
+  {
+    "id": 36391,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制卵巢雌激素合成,发挥抗雌激素作用\",\"value\":0}, {\"answer\":0,\"text\":\"主要用于抗乳腺癌的治疗\",\"value\":1}, {\"answer\":1,\"text\":\"主要用于不孕症治疗\",\"value\":2}, {\"answer\":0,\"text\":\"阻断下丘脑的雌激素受体,减少垂体前叶促性腺激素分泌\",\"value\":3}]",
+    "title": "氯米芬特点"
+  },
+  {
+    "id": 36415,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高血压\",\"value\":0}, {\"answer\":0,\"text\":\"体重下降\",\"value\":1}, {\"answer\":1,\"text\":\"阴道出血\",\"value\":2}, {\"answer\":0,\"text\":\"脱发\",\"value\":3}]",
+    "title": "长期服用雌激素可导致"
+  },
+  {
+    "id": 36427,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角碱\",\"value\":0}, {\"answer\":1,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":3}]",
+    "title": "有抗利尿作用的妇产科药物是"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36487,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"灰黄霉素\",\"value\":1}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":3}]",
+    "title": "女性阴道及外阴道念珠菌病可以选用"
+  },
+  {
+    "id": 36411,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"米非司酮\",\"value\":0}, {\"answer\":1,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":0,\"text\":\"雌二醇\",\"value\":2}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":3}]",
+    "title": "用于先兆性流产和习惯性流产"
+  },
+  {
+    "id": 36472,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"败血症\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇无症状菌尿\",\"value\":1}, {\"answer\":0,\"text\":\"感染性心内膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"腹腔感染\",\"value\":3}]",
+    "title": "氨基糖苷类抗生素不宜用于"
+  },
+  {
+    "id": 36471,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠3-12周\",\"value\":0}, {\"answer\":0,\"text\":\"妊娠2-6周\",\"value\":1}, {\"answer\":0,\"text\":\"妊娠6-10个月\",\"value\":2}, {\"answer\":0,\"text\":\"妊娠14-16周\",\"value\":3}]",
+    "title": "在妊娠期不同阶段,药物对组织器官形成的影响最大的是"
+  },
+  {
+    "id": 36481,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":1}, {\"answer\":0,\"text\":\"甲氧苄啶\",\"value\":2}, {\"answer\":0,\"text\":\"利福平\",\"value\":3}]",
+    "title": "治疗滴虫病首选口服药物是"
+  },
+  {
+    "id": 36532,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甘油三酯降低\",\"value\":0}, {\"answer\":0,\"text\":\"高密度脂蛋白胆固醇降低\",\"value\":1}, {\"answer\":0,\"text\":\"低密度脂蛋白胆固醇降低\",\"value\":2}, {\"answer\":1,\"text\":\"糖耐量异常\",\"value\":3}]",
+    "title": "口服避孕药对机体代谢的影响,正确的是"
+  },
+  {
+    "id": 36426,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"麦角胺\",\"value\":0}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":1}, {\"answer\":0,\"text\":\"益母草\",\"value\":2}, {\"answer\":1,\"text\":\"双氢麦角碱\",\"value\":3}]",
+    "title": "具有降压作用的妇产科药物是"
+  },
+  {
+    "id": 36419,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"单纯孕激素补充\",\"value\":0}, {\"answer\":1,\"text\":\"单纯雌激素补充\",\"value\":1}, {\"answer\":0,\"text\":\"雌孕激素序贯用药\",\"value\":2}, {\"answer\":0,\"text\":\"雌孕激素联合用药\",\"value\":3}]",
+    "title": "适用于已切除子宫的妇女"
+  },
+  {
+    "id": 36458,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙醇\",\"value\":0}, {\"answer\":1,\"text\":\"四环素\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"己烯雌酚\",\"value\":3}, {\"answer\":0,\"text\":\"青霉素\",\"value\":4}]",
+    "title": "下列药物有致畸作用的是"
+  },
+  {
+    "id": 36540,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"首先应用大剂量,后期逐渐减量\",\"value\":0}, {\"answer\":1,\"text\":\"耳硬化症患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"必须有明确的适应症且无禁忌症\",\"value\":2}, {\"answer\":1,\"text\":\"药物的选择需个体化\",\"value\":3}, {\"answer\":1,\"text\":\"对于有子宫的妇女,采取雌、孕激素联合使用\",\"value\":4}]",
+    "title": "绝经激素治疗临床应用原则有哪些"
+  },
+  {
+    "id": 36491,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"利巴韦林注射剂有较强的致畸作用\",\"answer\":1},{\"value\":1,\"text\":\"停药后4周尚不能完全自体内清除,不能准备怀孕\",\"answer\":1},{\"value\":2,\"text\":\"在治疗开始前、治疗期间和停药后至少6个月应避免怀孕\",\"answer\":1},{\"value\":3,\"text\":\"使用本品的男性和女性均应避孕,应采取至少2种以上避孕方式有效避孕\",\"answer\":1},{\"value\":4,\"text\":\"以上均错误\",\"answer\":0}]",
+    "title": "一位女患者因上呼吸道感染静脉滴注利巴韦林注射剂,关于该患者能否准备怀孕叙述正确的是"
+  },
+  {
+    "id": 36519,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"孕妇患者\",\"value\":0}, {\"answer\":1,\"text\":\"昏迷状态患者\",\"value\":1}, {\"answer\":1,\"text\":\"患有严重心脏病的患者\",\"value\":2}, {\"answer\":1,\"text\":\"患有食管静脉曲张的患者\",\"value\":3}, {\"answer\":0,\"text\":\"中毒引起的抽搐、惊厥被控制之后的清醒患者\",\"value\":4}]",
+    "title": "中毒时不可采用催吐处理方法的患者有"
+  },
+  {
+    "id": 36506,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"前三个月的呕吐反应一般比较轻微,无须用药物治疗\",\"value\":0}, {\"answer\":1,\"text\":\"在极少数情况下,如果呕吐很严重可以用抗组胺剂如异丙嗪进行短期治疗\",\"value\":1}, {\"answer\":1,\"text\":\"异丙嗪可被作为二线治疗用药\",\"value\":2}, {\"answer\":0,\"text\":\"甲氧氯普胺应作为妊娠期轻度恶心的一线治疗药\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于怀孕前三个月的呕吐反应叙述正确的是"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36520,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素可透过胎盘\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可增加胎盘功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"可导致新生儿体重减轻\",\"value\":2}, {\"answer\":1,\"text\":\"增加死胎的发生率\",\"value\":3}, {\"answer\":1,\"text\":\"妊娠早期妇女避免使用糖皮质激素\",\"value\":4}]",
+    "title": "关于妊娠早期服用糖皮质激素说法正确的是"
+  },
+  {
+    "id": 36476,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药物分子量小于200时,血浆与乳汁浓度相近\",\"value\":0}, {\"answer\":1,\"text\":\"弱碱性药物在乳汁中浓度等于或高于血浆浓度\",\"value\":1}, {\"answer\":1,\"text\":\"药物蛋白结合率高,进入乳汁的药量少\",\"value\":2}, {\"answer\":0,\"text\":\"弱酸性药物在乳汁中浓度等于或高于血浆浓度\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于药物在乳汁的浓度的叙述正确的是"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36403,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用药初期类早孕反应\",\"value\":0}, {\"answer\":1,\"text\":\"子宫不规则出血\",\"value\":1}, {\"answer\":1,\"text\":\"乳汁减少\",\"value\":2}, {\"answer\":0,\"text\":\"肝功能损伤\",\"value\":3}, {\"answer\":0,\"text\":\"低血钾、肌无力症状\",\"value\":4}]",
+    "title": "短效口服避孕药的不良反应包括"
+  },
+  {
+    "id": 36498,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"立刻服用一片,然后等到晚上常规时间再吃下一片\",\"value\":0}, {\"answer\":0,\"text\":\"在未来的7天使用避孕套或不行房\",\"value\":1}, {\"answer\":0,\"text\":\"下一个月不服用避孕药\",\"value\":2}, {\"answer\":1,\"text\":\"超过24h,正常服药,采取其他的避孕方式\",\"value\":3}]",
+    "title": "一位女士每天晚上9点服用避孕药敏高乐,她正处于经期的中间,而昨晚忘记服药了,对她的建议正确的是"
+  },
+  {
+    "id": 36496,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"对乙酰氨基酚\",\"value\":0}, {\"answer\":1,\"text\":\"拉坦前列素\",\"value\":1}, {\"answer\":0,\"text\":\"胰岛素\",\"value\":2}, {\"answer\":0,\"text\":\"苄氟噻嗪\",\"value\":3}]",
+    "title": "处于哺乳期的女性,下列哪种药物不适用"
+  },
+  {
+    "id": 36495,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌激素和周期性孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"雌二醇透皮贴剂\",\"value\":1}, {\"answer\":0,\"text\":\"多巴胺受体激动剂\",\"value\":2}, {\"answer\":0,\"text\":\"口服雌激素\",\"value\":3}]",
+    "title": "为一名55岁女性提供合适的激素替代治疗方案,该患者子宫完整,无其他并发症病史,也未接受其他药物治疗,无食物药物过敏,下列哪种药物是最佳选择"
+  },
+  {
+    "id": 36428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"丙环定\",\"value\":2}, {\"answer\":0,\"text\":\"益母草\",\"value\":3}]",
+    "title": "可用于防治早产的药物是"
+  },
+  {
+    "id": 36564,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碘制剂\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":1}, {\"answer\":0,\"text\":\"甲巯咪唑\",\"value\":2}, {\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":3}]",
+    "title": "妊娠期女性患有甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36524,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"糖皮质激素不能透过胎盘屏障,因此孕妇可以放心使用\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可由乳汁中排泄,因此哺乳期妇女接受大剂量糖皮质激素时不宜哺乳\",\"value\":1}, {\"answer\":0,\"text\":\"糖皮质激素可以促进小儿生长和发育,因此可以长期使用\",\"value\":2}, {\"answer\":0,\"text\":\"糖皮质激素隔日疗法对肾上腺皮质功能的抑制较大\",\"value\":3}]",
+    "title": "关于孕妇使用糖皮质激素的说法正确的是"
+  },
+  {
+    "id": 36474,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"A类\",\"value\":0}, {\"answer\":1,\"text\":\"B类\",\"value\":1}, {\"answer\":0,\"text\":\"C类\",\"value\":2}, {\"answer\":0,\"text\":\"D类\",\"value\":3}]",
+    "title": "在FDA公布的五类致畸药物中β-内酰胺类抗生素属于"
+  },
+  {
+    "id": 36561,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"美托洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"福辛普利\",\"value\":1}, {\"answer\":0,\"text\":\"依那普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}]",
+    "title": "患者,女,30岁,妊娠20周,最近出现头晕5天,临床诊断为妊娠期高血压,首选的药物是"
+  },
+  {
+    "id": 36478,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":2}, {\"answer\":0,\"text\":\"头孢克肟\",\"value\":3}]",
+    "title": "对胎儿的骨骼和牙齿正常发育不利,孕妇应禁用的药物"
+  },
+  {
+    "id": 36434,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":0,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "催产和引产可选用"
+  },
+  {
+    "id": 36384,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":1}, {\"answer\":0,\"text\":\"华法林\",\"value\":2}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":3}]",
+    "title": "下列药物中与雌激素不存在相互作用的是"
+  },
+  {
+    "id": 36439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先兆流产\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期前乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓造血功能低\",\"value\":3}]",
+    "title": "己烯雌酚可用于"
+  },
+  {
+    "id": 36538,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"60岁以后\",\"value\":0}, {\"answer\":1,\"text\":\"绝经后10年之内或60岁以前\",\"value\":1}, {\"answer\":0,\"text\":\"绝经20年内\",\"value\":2}, {\"answer\":0,\"text\":\"绝经10年内\",\"value\":3}]",
+    "title": "合理的绝经激素治疗的窗口期是"
+  },
+  {
+    "id": 36516,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"经尿道作前列腺切除术\",\"value\":0}, {\"answer\":0,\"text\":\"青光眼\",\"value\":1}, {\"answer\":0,\"text\":\"宫颈糜烂\",\"value\":2}, {\"answer\":0,\"text\":\"阴道炎\",\"value\":3}]",
+    "title": "甘露醇冲洗剂可用于"
+  },
+  {
+    "id": 36372,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗着床\",\"value\":0}, {\"answer\":0,\"text\":\"促进蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"抑制排卵作用\",\"value\":2}, {\"answer\":0,\"text\":\"减少精子数目\",\"value\":3}]",
+    "title": "大剂量炔诺酮的"
+  },
+  {
+    "id": 36534,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴茎套\",\"value\":0}, {\"answer\":0,\"text\":\"长效避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"皮下埋植剂\",\"value\":2}, {\"answer\":0,\"text\":\"安全期避孕法\",\"value\":3}]",
+    "title": "哺乳期妇女首选的避孕方法"
+  },
+  {
+    "id": 36477,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"耐受性\",\"value\":0}, {\"answer\":1,\"text\":\"可抑制新生儿呼吸\",\"value\":1}, {\"answer\":0,\"text\":\"成瘾性\",\"value\":2}, {\"answer\":0,\"text\":\"镇痛作用较弱\",\"value\":3}]",
+    "title": "分娩止痛禁用吗啡的主要原因是"
+  },
+  {
+    "id": 36510,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"发生性接触的时间超过24h\",\"value\":0}, {\"answer\":0,\"text\":\"发生性接触的时间超过72h\",\"value\":1}, {\"answer\":0,\"text\":\"她正在使用对乙酰氨基酚治疗头痛\",\"value\":2}, {\"answer\":1,\"text\":\"她之前已经使用过紧急避孕药且未超过一个周期\",\"value\":3}]",
+    "title": "年龄大于16岁的女生,漏服了平时按时服用的口服避孕药。在交流询问后药师决定拒绝售药给她,原因是"
+  },
+  {
+    "id": 36480,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素类\",\"value\":0}, {\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":1}, {\"answer\":0,\"text\":\"头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"四环素类\",\"value\":3}]",
+    "title": "在妊娠期间使用,严重导致胎儿永久性耳聋的抗菌药是"
+  },
+  {
+    "id": 36377,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肥胖或抽烟的女性应谨慎选择避孕药\",\"value\":0}, {\"answer\":1,\"text\":\"产后即可使用复方激素类避孕药\",\"value\":1}, {\"answer\":0,\"text\":\"漏服超过12h需补服\",\"value\":2}, {\"answer\":0,\"text\":\"漏服时间不同,补服方案不同\",\"value\":3}]",
+    "title": "下列关于避孕药的描述错误的是"
+  },
+  {
+    "id": 36424,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后子宫出血\",\"value\":0}, {\"answer\":0,\"text\":\"扩张及软化宫颈\",\"value\":1}, {\"answer\":0,\"text\":\"催产\",\"value\":2}, {\"answer\":0,\"text\":\"抗早孕\",\"value\":3}]",
+    "title": "麦角新碱的临床应用"
+  },
+  {
+    "id": 36413,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乳腺癌\",\"value\":0}, {\"answer\":0,\"text\":\"生殖系统恶性肿瘤\",\"value\":1}, {\"answer\":1,\"text\":\"儿童禁用\",\"value\":2}, {\"answer\":0,\"text\":\"急慢性肝功能不全\",\"value\":3}]",
+    "title": "下列不属于雌激素禁忌症的是"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36526,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"性别因素\",\"value\":0}, {\"answer\":0,\"text\":\"过敏反应\",\"value\":1}, {\"answer\":0,\"text\":\"遗传因素\",\"value\":2}, {\"answer\":0,\"text\":\"基础病因素\",\"value\":3}]",
+    "title": "妇女经期对泻药和刺激性强药物敏感性增高,因为"
+  },
+  {
+    "id": 36508,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦可以穿过胎盘\",\"value\":0}, {\"answer\":0,\"text\":\"有潜在致畸作用\",\"value\":1}, {\"answer\":0,\"text\":\"怀孕期间不可使用\",\"value\":2}, {\"answer\":1,\"text\":\"更昔洛韦可以安全用于妊娠\",\"value\":3}]",
+    "title": "关于孕妇使用更昔洛韦说法不正确的是"
+  },
+  {
+    "id": 36473,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"产后止血\",\"value\":0}, {\"answer\":0,\"text\":\"催乳\",\"value\":1}, {\"answer\":0,\"text\":\"引产\",\"value\":2}, {\"answer\":0,\"text\":\"催产\",\"value\":3}]",
+    "title": "大剂量缩宫素适用于"
+  },
+  {
+    "id": 36437,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"复方氯地孕酮\",\"value\":0}, {\"answer\":0,\"text\":\"大剂量雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":1,\"text\":\"大剂量甲地孕酮\",\"value\":3}]",
+    "title": "抗着床避孕药是"
+  },
+  {
+    "id": 36389,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"选择性兴奋子宫平滑肌\",\"value\":0}, {\"answer\":0,\"text\":\"未孕子宫较妊娠子宫对麦角碱类更敏感\",\"value\":1}, {\"answer\":0,\"text\":\"兴奋子宫平滑肌作用较弱\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量不易引起强制性收缩\",\"value\":3}]",
+    "title": "麦角碱类兴奋子宫作用表现"
+  },
+  {
+    "id": 36470,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢菌素\",\"value\":1}, {\"answer\":1,\"text\":\"异维A酸\",\"value\":2}, {\"answer\":0,\"text\":\"兰索拉唑\",\"value\":3}]",
+    "title": "根据妊娠期用药分级标准,属于孕妇禁用的是"
+  },
+  {
+    "id": 36402,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复方炔诺酮片\",\"value\":0}, {\"answer\":1,\"text\":\"复方甲地孕酮片\",\"value\":1}, {\"answer\":0,\"text\":\"双炔失碳酯片\",\"value\":2}, {\"answer\":1,\"text\":\"复方己酸孕酮注射液\",\"value\":3}, {\"answer\":1,\"text\":\"复方甲地孕酮注射液\",\"value\":4}]",
+    "title": "主要抑制排卵的避孕药包括"
+  },
+  {
+    "id": 36514,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硝苯地平\",\"value\":0}, {\"answer\":1,\"text\":\"拉贝洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":0,\"text\":\"厄贝沙坦\",\"value\":3}, {\"answer\":0,\"text\":\"阿利吉仑\",\"value\":4}]",
+    "title": "妊高症紧急降压可使用"
+  },
+  {
+    "id": 36556,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道炎易发作,每个疗程后应检查阴道分泌物\",\"value\":0}, {\"answer\":1,\"text\":\"孕妇及哺乳期妇女禁用聚甲酚磺醛栓\",\"value\":1}, {\"answer\":1,\"text\":\"阴道连续用药不宜超过10天,同时服用复方维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"涂敷硝酸咪康唑乳膏有刺激感或出现局部红肿,应立即停药并用冷水冲洗\",\"value\":3}, {\"answer\":0,\"text\":\"可用热水、高锰酸钾溶液清洗阴部\",\"value\":4}]",
+    "title": "关于药物治疗阴道炎的注意事项正确的是"
+  },
+  {
+    "id": 36541,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"围绝经期开始绝经激素的治疗可增加心血管风险\",\"value\":0}, {\"answer\":0,\"text\":\"对于合并有急迫性尿失禁的绝经后期妇女,一线治疗药物是5α还原酶抑制剂\",\"value\":1}, {\"answer\":1,\"text\":\"替勃龙具有更高的乳腺安全性\",\"value\":2}, {\"answer\":1,\"text\":\"对于有胆囊疾病患者推荐经皮吸收的雌激素制剂\",\"value\":3}, {\"answer\":1,\"text\":\"规范应用孕激素不会增加子宫内膜癌的发生风险\",\"value\":4}]",
+    "title": "有关绝经激素治疗正确的是"
+  },
+  {
+    "id": 36400,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对各期妊娠子宫均有兴奋作用\",\"value\":0}, {\"answer\":1,\"text\":\"静脉滴注、阴道内、宫腔内或羊膜腔内给药均有效\",\"value\":1}, {\"answer\":0,\"text\":\"大剂量对妊娠和非妊娠子宫均有抑制作用\",\"value\":2}, {\"answer\":0,\"text\":\"临床已试用于作为防止早产药物\",\"value\":3}, {\"answer\":1,\"text\":\"临床已试用于作为催经、抗早孕药物\",\"value\":4}]",
+    "title": "前列腺素对生殖系统的作用包括"
+  },
+  {
+    "id": 36511,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妇产科顺产患者一般是不建议使用抗菌药物\",\"value\":0}, {\"answer\":1,\"text\":\"现出血以及阴道侧切手术等要考虑使用一定的抗菌药物\",\"value\":1}, {\"answer\":1,\"text\":\"顺产并发感染患者联合用药使用多为硝基咪唑类+一、二代头孢菌素类\",\"value\":2}, {\"answer\":0,\"text\":\"顺产并发感染患者使用喹诺酮类\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于产妇顺产时,使用抗生素正确的是"
+  },
+  {
+    "id": 36531,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"莫沙必利\",\"value\":0}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":1}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":1,\"text\":\"伊托必利\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "以下促胃动力药可刺激垂体泌乳素过度分泌的是"
+  },
+  {
+    "id": 36399,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素禁用于血管硬化和冠状动脉疾病患者\",\"value\":0}, {\"answer\":1,\"text\":\"缩宫素禁用于产道异常、胎位不正、前置胎盘、有剖腹产史者,以防止子宫破裂或胎儿窒息\",\"value\":1}, {\"answer\":1,\"text\":\"垂体后叶素禁用于冠状动脉硬化性心脏病患者\",\"value\":2}, {\"answer\":1,\"text\":\"麦角制剂禁用于催产和引产\",\"value\":3}, {\"answer\":1,\"text\":\"麦角制剂禁用于血管硬化和冠状动脉疾病患者\",\"value\":4}]",
+    "title": "下列说法正确的是"
+  },
+  {
+    "id": 36401,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"应用广,用于健康育龄妇女\",\"value\":0}, {\"answer\":1,\"text\":\"连续用药时间长,可达10年以上\",\"value\":1}, {\"answer\":1,\"text\":\"安全性高\",\"value\":2}, {\"answer\":0,\"text\":\"疗效高,达70%-80%\",\"value\":3}, {\"answer\":1,\"text\":\"女用避孕药较男用避孕药发展快\",\"value\":4}]",
+    "title": "女用避孕药与其他药相比,具备"
+  },
+  {
+    "id": 36478,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":2}, {\"answer\":0,\"text\":\"头孢克肟\",\"value\":3}]",
+    "title": "对胎儿的骨骼和牙齿正常发育不利,孕妇应禁用的药物"
+  },
+  {
+    "id": 36407,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"尼尔雌醇\",\"value\":0}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"泼尼松龙\",\"value\":3}]",
+    "title": "属于雌激素的是"
+  },
+  {
+    "id": 36522,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"替硝唑\",\"value\":3}]",
+    "title": "临产期孕妇应用可引起新生儿循环障碍的药品是"
+  },
+  {
+    "id": 36488,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药物安全性低者\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠及哺乳妇女、小儿\",\"value\":1}, {\"answer\":0,\"text\":\"用药后出现不良反应者\",\"value\":2}, {\"answer\":0,\"text\":\"药物治疗效果不明显者\",\"value\":3}]",
+    "title": "下列属于用药特殊人群的是"
+  },
+  {
+    "id": 36382,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制排卵\",\"value\":0}, {\"answer\":0,\"text\":\"改变子宫颈黏液\",\"value\":1}, {\"answer\":0,\"text\":\"减少子宫腺体制造肝糖\",\"value\":2}, {\"answer\":1,\"text\":\"使子宫粘膜内腺体生长\",\"value\":3}]",
+    "title": "避孕药的作用机制不包括"
+  },
+  {
+    "id": 36564,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"碘制剂\",\"value\":0}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":1}, {\"answer\":0,\"text\":\"甲巯咪唑\",\"value\":2}, {\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":3}]",
+    "title": "妊娠期女性患有甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36546,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可待因\",\"value\":0}, {\"answer\":0,\"text\":\"右美沙芬\",\"value\":1}, {\"answer\":0,\"text\":\"羧甲司坦\",\"value\":2}, {\"answer\":0,\"text\":\"喷托维林\",\"value\":3}]",
+    "title": "分娩期妇女禁用的镇咳药是"
+  },
+  {
+    "id": 36450,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"克霉素\",\"value\":0}, {\"answer\":0,\"text\":\"制霉素\",\"value\":1}, {\"answer\":1,\"text\":\"灰黄霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}]",
+    "title": "下列药物对胎儿有致畸作用的是"
+  },
+  {
+    "id": 36492,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"建议育龄妇女自计划怀孕开始到怀孕后3个月,每天0.4mg的叶酸\",\"value\":0}, {\"answer\":1,\"text\":\"叶酸不可以预防胎儿大部分神经管畸形的发生\",\"value\":1}, {\"answer\":0,\"text\":\"在妊娠安全性用药分类中0.4mg的叶酸片属A类,即最安全的一类\",\"value\":2}, {\"answer\":0,\"text\":\"叶酸缺乏可引起神经管未能闭合而导致以脊柱裂和无脑畸形\",\"value\":3}]",
+    "title": "关于孕前服用叶酸的叙述错误的是"
+  },
+  {
+    "id": 36509,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"21\",\"value\":0}, {\"answer\":0,\"text\":\"10\",\"value\":1}, {\"answer\":0,\"text\":\"5\",\"value\":2}, {\"answer\":0,\"text\":\"7\",\"value\":3}]",
+    "title": "一女性敏高乐避孕药以用完,在周一前她无法开到这个药,当天是周日晚上,在诊断她后向其紧急供应,你可以给她多少粒"
+  },
+  {
+    "id": 36464,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"诺氟沙星\",\"value\":0}, {\"answer\":1,\"text\":\"哌拉西林\",\"value\":1}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":2}, {\"answer\":0,\"text\":\"大观霉素\",\"value\":3}]",
+    "title": "妊娠期妇女可以选用的抗菌药物有"
+  },
+  {
+    "id": 36529,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"所用药乳汁透入量多少\",\"value\":0}, {\"answer\":0,\"text\":\"哪些药物可透过乳汁\",\"value\":1}, {\"answer\":1,\"text\":\"告知患者哺乳期不要用药\",\"value\":2}, {\"answer\":0,\"text\":\"所用药对婴幼儿的影响\",\"value\":3}]",
+    "title": "对哺乳期患者用药指导内容不包括"
+  },
+  {
+    "id": 36418,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":0,\"text\":\"咪康唑\",\"value\":1}, {\"answer\":0,\"text\":\"头孢曲松钠\",\"value\":2}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "患者,女,27岁,近两个月出现阴道分泌物增多,阴道分泌物培养为衣原体,首选的药物是"
+  },
+  {
+    "id": 36448,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阴道出血\",\"value\":0}, {\"answer\":0,\"text\":\"子宫内膜异位\",\"value\":1}, {\"answer\":0,\"text\":\"习惯性流产\",\"value\":2}, {\"answer\":0,\"text\":\"避孕\",\"value\":3}]",
+    "title": "甲地孕酮不可用于"
+  },
+  {
+    "id": 36435,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":1}, {\"answer\":1,\"text\":\"大剂量己烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"甲睾酮\",\"value\":3}]",
+    "title": "回乳宜选用"
+  },
+  {
+    "id": 36447,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"伊曲康唑片\",\"value\":0}, {\"answer\":0,\"text\":\"甲硝唑栓\",\"value\":1}, {\"answer\":1,\"text\":\"聚甲酚磺醛栓\",\"value\":2}, {\"answer\":0,\"text\":\"曲古霉素片\",\"value\":3}]",
+    "title": "治疗真菌、细菌、滴虫混合感染的阴道炎,可选用的非口服处方药是"
+  },
+  {
+    "id": 36487,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"伊曲康唑\",\"value\":0}, {\"answer\":0,\"text\":\"灰黄霉素\",\"value\":1}, {\"answer\":0,\"text\":\"吡嗪酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"万古霉素\",\"value\":3}]",
+    "title": "女性阴道及外阴道念珠菌病可以选用"
+  },
+  {
+    "id": 36504,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"呋喃妥英\",\"value\":0}, {\"answer\":1,\"text\":\"催产素\",\"value\":1}, {\"answer\":0,\"text\":\"奥昔布宁\",\"value\":2}, {\"answer\":0,\"text\":\"二甲双胍\",\"value\":3}]",
+    "title": "下列哪一种药可用于引产术"
+  },
+  {
+    "id": 36406,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":1,\"text\":\"雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"西地那非\",\"value\":2}, {\"answer\":0,\"text\":\"米非司酮\",\"value\":3}]",
+    "title": "卵巢功能不全可选用"
+  },
+  {
+    "id": 36431,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利托君\",\"value\":0}, {\"answer\":0,\"text\":\"硝苯地平\",\"value\":1}, {\"answer\":0,\"text\":\"克仑特罗\",\"value\":2}, {\"answer\":1,\"text\":\"前列腺素E2\",\"value\":3}]",
+    "title": "对子宫平滑肌无松弛作用的药物"
+  },
+  {
+    "id": 36549,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":0,\"text\":\"萘普生\",\"value\":1}, {\"answer\":0,\"text\":\"贝诺酯\",\"value\":2}, {\"answer\":0,\"text\":\"布洛芬\",\"value\":3}]",
+    "title": "可透过胎盘,发生过胎儿缺陷的药物是"
+  },
+  {
+    "id": 36562,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"RAAS抑制剂\",\"value\":1}, {\"answer\":0,\"text\":\"地西泮\",\"value\":2}, {\"answer\":0,\"text\":\"磷酸二酯酶抑制剂\",\"value\":3}]",
+    "title": "患者,女,28岁,处于妊娠期,并患有心力衰竭,下列哪种药物禁用于该患者"
+  },
+  {
+    "id": 36521,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"头孢氨苄\",\"value\":1}, {\"answer\":1,\"text\":\"磺胺嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"甲硝唑\",\"value\":3}]",
+    "title": "红细胞缺乏葡萄糖-6-磷酸脱氢酶的孕妇,临产期使用可引起新生儿溶血的药品是"
+  },
+  {
+    "id": 36429,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缩宫作用强而持久,易致子宫强直收缩\",\"value\":0}, {\"answer\":0,\"text\":\"缩宫作用弱而短\",\"value\":1}, {\"answer\":0,\"text\":\"对妊娠子宫作用不敏感\",\"value\":2}, {\"answer\":0,\"text\":\"中枢抑制作用\",\"value\":3}]",
+    "title": "麦角新碱禁用于催产和引产的原因是"
+  },
+  {
+    "id": 36544,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":1,\"text\":\"维生素C\",\"value\":2}, {\"answer\":0,\"text\":\"维生素AD\",\"value\":3}]",
+    "title": "孕妇服用过量可诱发新生儿坏血症的是"
+  },
+  {
+    "id": 36454,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲硝唑\",\"value\":0}, {\"answer\":1,\"text\":\"磺胺类药物\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"克拉霉素\",\"value\":3}]",
+    "title": "可导致胎儿高胆红素脑病的是"
+  },
+  {
+    "id": 36409,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"矿物油\",\"value\":0}, {\"answer\":1,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"硫糖铝\",\"value\":2}, {\"answer\":0,\"text\":\"考来烯胺\",\"value\":3}]",
+    "title": "下列药物中,能促进小肠对维生素D吸收的药物是"
+  },
+  {
+    "id": 36439,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先兆流产\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期前乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"前列腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"骨髓造血功能低\",\"value\":3}]",
+    "title": "己烯雌酚可用于"
+  },
+  {
+    "id": 36371,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药理作用拮抗\",\"value\":0}, {\"answer\":0,\"text\":\"不良反应叠加\",\"value\":1}, {\"answer\":0,\"text\":\"后者血药浓度升高,不良反应增加\",\"value\":2}, {\"answer\":1,\"text\":\"后者血药浓度下降,药效降低\",\"value\":3}]",
+    "title": "利福平与口服避孕药合用"
+  },
+  {
+    "id": 36517,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶最小有效量\",\"value\":0}, {\"answer\":0,\"text\":\"甲巯咪唑最小有效量\",\"value\":1}, {\"answer\":0,\"text\":\"卡比马唑最小有效量\",\"value\":2}, {\"answer\":0,\"text\":\"碘剂最小有效量\",\"value\":3}]",
+    "title": "患甲亢的妊娠妇女宜采用"
+  },
+  {
+    "id": 36385,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长期使用需监测血糖\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素治疗可能增加乳腺癌的风险\",\"value\":1}, {\"answer\":0,\"text\":\"雌激素治疗前需评估患者发生血栓的风险\",\"value\":2}, {\"answer\":0,\"text\":\"雌激素的治疗可能诱发阴道出血\",\"value\":3}]",
+    "title": "下列关于雌激素描述错误的是"
+  },
+  {
+    "id": 36368,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"雌二醇\",\"value\":0}, {\"answer\":0,\"text\":\"戊酸雌二醇\",\"value\":1}, {\"answer\":0,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"黄体酮\",\"value\":3}]",
+    "title": "天然的雌激素是"
+  },
+  {
+    "id": 36565,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙硫氧嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"卡比马唑\",\"value\":1}, {\"answer\":0,\"text\":\"聚维酮碘\",\"value\":2}, {\"answer\":0,\"text\":\"碳酸锂\",\"value\":3}]",
+    "title": "某一哺乳期女性,临床诊断为甲亢,首选治疗药物是"
+  },
+  {
+    "id": 36494,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"布洛芬对胎儿心脏或血液有影响\",\"value\":0}, {\"answer\":0,\"text\":\"晚期妊娠妇女使用可使妊娠期延长,导致难产\",\"value\":1}, {\"answer\":0,\"text\":\"孕妇及哺乳期妇女禁用\",\"value\":2}, {\"answer\":1,\"text\":\"布洛芬安全性高,孕妇及哺乳期妇女可以使用\",\"value\":3}]",
+    "title": "关于孕妇服用布洛芬的说法不正确的是"
+  },
+  {
+    "id": 36428,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"沙丁胺醇\",\"value\":0}, {\"answer\":0,\"text\":\"异丙肾上腺素\",\"value\":1}, {\"answer\":0,\"text\":\"丙环定\",\"value\":2}, {\"answer\":0,\"text\":\"益母草\",\"value\":3}]",
+    "title": "可用于防治早产的药物是"
+  },
+  {
+    "id": 36433,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"缩宫素\",\"value\":0}, {\"answer\":0,\"text\":\"垂体后叶素\",\"value\":1}, {\"answer\":1,\"text\":\"麦角新碱\",\"value\":2}, {\"answer\":0,\"text\":\"麦角胺\",\"value\":3}]",
+    "title": "妊娠毒血症产妇产后止血应慎用"
+  },
+  {
+    "id": 36486,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"导致新生儿神经损伤\",\"value\":0}, {\"answer\":0,\"text\":\"引起乳婴肝肾功能障碍\",\"value\":1}, {\"answer\":1,\"text\":\"胎儿畸形\",\"value\":2}, {\"answer\":0,\"text\":\"导致新生儿溶血\",\"value\":3}]",
+    "title": "妊娠早期服用甲氨蝶呤可导致"
+  },
+  {
+    "id": 36393,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕激素配伍而成\",\"value\":0}, {\"answer\":0,\"text\":\"长效雌激素炔雌醇与孕酮配伍而成\",\"value\":1}, {\"answer\":1,\"text\":\"为主要通过抑制排卵的避孕药\",\"value\":2}, {\"answer\":0,\"text\":\"为主要通过抗着床的避孕药\",\"value\":3}]",
+    "title": "关于长效口服避孕药说法正确的是"
+  },
+  {
+    "id": 36499,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急避孕药只在24小时内服用才有效\",\"value\":0}, {\"answer\":1,\"text\":\"急避孕药72小时内服用是有效\",\"value\":1}, {\"answer\":0,\"text\":\"事后服药紧急避孕药无效\",\"value\":2}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":3}]",
+    "title": "一位女性24小时前进行了没有保护措施的性行为,事前没有口服避孕药,对她的建议正确的是"
+  },
+  {
+    "id": 36405,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"避孕\",\"value\":0}, {\"answer\":0,\"text\":\"绝经期综合征\",\"value\":1}, {\"answer\":0,\"text\":\"功能性子宫出血\",\"value\":2}, {\"answer\":1,\"text\":\"痛经和子宫内膜异位\",\"value\":3}]",
+    "title": "雌激素在临床不用于"
+  },
+  {
+    "id": 36543,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗盐皮质激素\",\"value\":0}, {\"answer\":1,\"text\":\"抗孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"抗糖皮质激素\",\"value\":2}, {\"answer\":0,\"text\":\"抗雌激素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "米非司酮的药理作用机制是"
+  },
+  {
+    "id": 36520,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素可透过胎盘\",\"value\":0}, {\"answer\":1,\"text\":\"糖皮质激素可增加胎盘功能不全\",\"value\":1}, {\"answer\":1,\"text\":\"可导致新生儿体重减轻\",\"value\":2}, {\"answer\":1,\"text\":\"增加死胎的发生率\",\"value\":3}, {\"answer\":1,\"text\":\"妊娠早期妇女避免使用糖皮质激素\",\"value\":4}]",
+    "title": "关于妊娠早期服用糖皮质激素说法正确的是"
+  },
+  {
+    "id": 36518,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"孕妇慎用\",\"value\":0}, {\"answer\":1,\"text\":\"对昏迷状态患者应禁止催吐\",\"value\":1}, {\"answer\":1,\"text\":\"呕吐时须防止呕吐物吸入气管发生窒息或引起肺炎\",\"value\":2}, {\"answer\":1,\"text\":\"患有食管静脉曲张、主动脉瘤、胃溃疡出血等患者不宜催吐\",\"value\":3}, {\"answer\":1,\"text\":\"中毒引起抽搐、惊厥未被控制之前不宜催吐\",\"value\":4}]",
+    "title": "中毒患者催吐时应注意"
+  },
+  {
+    "id": 36545,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"妊娠与哺乳期妇女\",\"value\":0}, {\"answer\":1,\"text\":\"儿童\",\"value\":1}, {\"answer\":1,\"text\":\"有哮喘患者\",\"value\":2}, {\"answer\":1,\"text\":\"儿童病毒性感染引起发热者\",\"value\":3}, {\"answer\":1,\"text\":\"上消化道出血者\",\"value\":4}]",
+    "title": "阿司匹林禁用或不宜应用的人群有哪些"
+  },
+  {
+    "id": 36557,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"外部阴道出现湿疹\",\"value\":0}, {\"answer\":1,\"text\":\"大部分是夫妻两人共同患有\",\"value\":1}, {\"answer\":1,\"text\":\"阴道有腥臭味\",\"value\":2}, {\"answer\":1,\"text\":\"泡沫样白带\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "滴虫性阴道炎的临床表现包括"
+  },
+  {
+    "id": 36444,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺疾病\",\"value\":0}, {\"answer\":1,\"text\":\"血液病\",\"value\":1}, {\"answer\":1,\"text\":\"血管栓塞\",\"value\":2}, {\"answer\":0,\"text\":\"哮喘\",\"value\":3}, {\"answer\":0,\"text\":\"心血管疾病\",\"value\":4}]",
+    "title": "米非司酮的使用禁忌症有"
+  },
+  {
+    "id": 36397,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"对雌激素作用的组织有选择性的激动作用\",\"value\":0}, {\"answer\":1,\"text\":\"预防绝经后妇女的骨质疏松\",\"value\":1}, {\"answer\":1,\"text\":\"对骨代谢起激动剂作用\",\"value\":2}, {\"answer\":1,\"text\":\"能够降低椎体骨折的发生率\",\"value\":3}, {\"answer\":0,\"text\":\"口服吸收较慢\",\"value\":4}]",
+    "title": "雷洛昔芬作用机制包括"
+  },
+  {
+    "id": 36465,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"维生素\",\"value\":1}, {\"answer\":1,\"text\":\"四环素\",\"value\":2}, {\"answer\":1,\"text\":\"链霉素\",\"value\":3}, {\"answer\":1,\"text\":\"磺胺类药物\",\"value\":4}]",
+    "title": "孕妇要禁用或慎用以下药物"
+  },
+  {
+    "id": 36395,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肝脏疾病者禁用\",\"value\":0}, {\"answer\":1,\"text\":\"血栓性疾病患者禁用\",\"value\":1}, {\"answer\":1,\"text\":\"心脏病患者禁用\",\"value\":2}, {\"answer\":1,\"text\":\"不明原因阴道出血者禁用\",\"value\":3}, {\"answer\":1,\"text\":\"糖尿病患者禁用\",\"value\":4}]",
+    "title": "口服避孕药的应用禁忌包括"
+  },
+  {
+    "id": 36449,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"同化激素\",\"value\":0}, {\"answer\":0,\"text\":\"孕激素\",\"value\":1}, {\"answer\":1,\"text\":\"雌激素\",\"value\":2}, {\"answer\":0,\"text\":\"氯米芬\",\"value\":3}, {\"answer\":1,\"text\":\"甲睾酮\",\"value\":4}]",
+    "title": "有水钠潴留作用的药物"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"房颤\",\"value\":1}, {\"answer\":0,\"text\":\"房扑\",\"value\":2}, {\"answer\":1,\"text\":\"室颤\",\"value\":3}]",
+    "title": "实例"
+  }
+]

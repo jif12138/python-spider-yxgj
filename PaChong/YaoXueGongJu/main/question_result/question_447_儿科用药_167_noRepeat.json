@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 36177,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"维生素C\",\"value\":1}, {\"answer\":0,\"text\":\"维生素B\",\"value\":2}, {\"answer\":1,\"text\":\"维生素A\",\"value\":3}]",
+    "title": "儿童营养不良时最常见的是哪一类维生素缺乏"
+  },
+  {
+    "id": 36275,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"新生儿\",\"value\":0}, {\"answer\":0,\"text\":\"婴幼儿\",\"value\":1}, {\"answer\":0,\"text\":\"学龄前\",\"value\":2}, {\"answer\":0,\"text\":\"所有儿童\",\"value\":3}]",
+    "title": "血培养阳性率甚高的化脓性脑膜炎常见于"
+  },
+  {
+    "id": 36202,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"口服给药,以糖浆剂为宜\",\"value\":0}, {\"answer\":0,\"text\":\"口服混悬剂在使用前不用充分混匀\",\"value\":1}, {\"answer\":0,\"text\":\"维生素AD滴剂可以给熟睡的婴儿喂服\",\"value\":2}, {\"answer\":0,\"text\":\"常通过肌内注射给药\",\"value\":3}]",
+    "title": "婴幼儿适宜的给药途径是"
+  },
+  {
+    "id": 36208,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氯丙嗪\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":2}, {\"answer\":0,\"text\":\"氯喹\",\"value\":3}]",
+    "title": "孕妇应用下列哪一药物可导致婴儿视网膜病变"
+  },
+  {
+    "id": 36265,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2/3张含钠液\",\"value\":0}, {\"answer\":0,\"text\":\"1/4张含钠液\",\"value\":1}, {\"answer\":0,\"text\":\"1/3张含钠液\",\"value\":2}, {\"answer\":1,\"text\":\"1/2张含钠液\",\"value\":3}]",
+    "title": "婴儿腹泻在脱水性质不明时,第一天静脉补液可选用"
+  },
+  {
+    "id": 36302,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.40ml\",\"value\":0}, {\"answer\":0,\"text\":\"0.05ml\",\"value\":1}, {\"answer\":0,\"text\":\"0.20ml\",\"value\":2}, {\"answer\":1,\"text\":\"0.10ml\",\"value\":3}]",
+    "title": "治疗巨幼红细胞贫血患儿,需要肌内注射维生素B2（规格0.5mg/ml）50μg,应注入患儿体内的药液是"
+  },
+  {
+    "id": 36212,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":1,\"text\":\"氯霉素\",\"value\":1}, {\"answer\":0,\"text\":\"噻嗪类利尿剂\",\"value\":2}, {\"answer\":0,\"text\":\"氯喹\",\"value\":3}]",
+    "title": "孕妇应用下列哪一药物可导致新生儿循环障碍和灰婴综合征的是"
+  },
+  {
+    "id": 36267,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"惊厥\",\"value\":0}, {\"answer\":0,\"text\":\"嗜睡、尖叫\",\"value\":1}, {\"answer\":0,\"text\":\"吐奶、面色发清灰\",\"value\":2}, {\"answer\":1,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "3个月内的小儿患化脓性脑膜炎的典型表现是"
+  },
+  {
+    "id": 36182,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3-6周\",\"value\":0}, {\"answer\":0,\"text\":\"7-9周\",\"value\":1}, {\"answer\":0,\"text\":\"10-15周\",\"value\":2}, {\"answer\":0,\"text\":\"1-2周\",\"value\":3}]",
+    "title": "急性风湿热无心脏炎的患儿,使用阿司匹林的总疗程是"
+  },
+  {
+    "id": 36286,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"双球菌脑膜炎\",\"value\":0}, {\"answer\":0,\"text\":\"肺炎链球菌脑膜炎\",\"value\":1}, {\"answer\":0,\"text\":\"结核性脑膜炎\",\"value\":2}, {\"answer\":1,\"text\":\"金葡菌脑膜炎\",\"value\":3}]",
+    "title": "可选用头孢呋辛、乙氧萘青霉素进行治疗的脑膜炎类型是"
+  },
+  {
+    "id": 36289,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":2}, {\"answer\":0,\"text\":\"头孢克肟\",\"value\":3}]",
+    "title": "常用于小儿呼吸道支原体、衣原体感染的抗生素是"
+  },
+  {
+    "id": 36348,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"异烟肼\",\"value\":0}, {\"answer\":0,\"text\":\"利福平\",\"value\":1}, {\"answer\":0,\"text\":\"链霉素\",\"value\":2}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":3}]",
+    "title": "下列哪种药物儿童服用后,可引起周围神经炎"
+  },
+  {
+    "id": 36198,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"新生霉素\",\"value\":0}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":1}, {\"answer\":0,\"text\":\"磺胺药\",\"value\":2}, {\"answer\":0,\"text\":\"硝基呋喃类药\",\"value\":3}]",
+    "title": "下列哪一药物可抑制葡萄糖醛酸转移酶的作用而引起高胆红素血症"
+  },
+  {
+    "id": 36185,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高热量饮食\",\"value\":0}, {\"answer\":0,\"text\":\"高蛋白饮食\",\"value\":1}, {\"answer\":0,\"text\":\"蛋白量限制在每日0.5g/kg\",\"value\":2}, {\"answer\":1,\"text\":\"低盐饮食\",\"value\":3}]",
+    "title": "儿童患有肾病综合征,治疗时应注意"
+  },
+  {
+    "id": 36174,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低镁血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":1}, {\"answer\":0,\"text\":\"高钠血症\",\"value\":2}, {\"answer\":0,\"text\":\"低钠血症\",\"value\":3}]",
+    "title": "患儿营养不良,输液后出现抽搐,用钙剂无效的原因是"
+  },
+  {
+    "id": 36344,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1：3液\",\"value\":0}, {\"answer\":1,\"text\":\"2：3：1液\",\"value\":1}, {\"answer\":0,\"text\":\"2：1液\",\"value\":2}, {\"answer\":0,\"text\":\"4：3：2液\",\"value\":3}]",
+    "title": "腹泻中度等渗性脱水患儿选用的溶液是"
+  },
+  {
+    "id": 36326,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":2}, {\"answer\":0,\"text\":\"保泰松\",\"value\":3}]",
+    "title": "儿童类风湿病全身症状严重时,首选"
+  },
+  {
+    "id": 36354,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血红蛋白量恢复正常后2-3个月\",\"value\":0}, {\"answer\":0,\"text\":\"症状消失\",\"value\":1}, {\"answer\":0,\"text\":\"血红蛋白量恢复正常后再用1个月\",\"value\":2}, {\"answer\":0,\"text\":\"红细胞恢复正常\",\"value\":3}]",
+    "title": "营养性缺铁性贫血患儿,铁剂治疗需用至"
+  },
+  {
+    "id": 36315,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"6岁以上儿童\",\"value\":0}, {\"answer\":0,\"text\":\"6个月以下婴儿\",\"value\":1}, {\"answer\":0,\"text\":\"新生儿\",\"value\":2}, {\"answer\":1,\"text\":\"6个月-3岁\",\"value\":3}]",
+    "title": "高热惊厥多见于"
+  },
+  {
+    "id": 36323,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"叶酸缺乏性巨幼贫血\",\"value\":0}, {\"answer\":0,\"text\":\"缺铁性贫血\",\"value\":1}, {\"answer\":0,\"text\":\"溶血性贫血\",\"value\":2}, {\"answer\":0,\"text\":\"维生素B12缺乏性巨幼贫血\",\"value\":3}]",
+    "title": "羊奶喂养而不及时添加辅食,小儿易患哪种贫血"
+  },
+  {
+    "id": 36287,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"贫血\",\"value\":1}, {\"answer\":0,\"text\":\"腹泻\",\"value\":2}, {\"answer\":0,\"text\":\"佝偻病\",\"value\":3}]",
+    "title": "引起小儿死亡最多的疾病是"
+  },
+  {
+    "id": 36363,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯巴比妥钠\",\"value\":0}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"甘露醇\",\"value\":2}, {\"answer\":0,\"text\":\"苯妥英钠\",\"value\":3}]",
+    "title": "新生儿缺血缺氧性脑病时发生全身抽搐,肌张力增高,首选"
+  },
+  {
+    "id": 36190,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"脱水性质不明用2：3：1\",\"value\":0}, {\"answer\":1,\"text\":\"低渗性脱水用4：3：2\",\"value\":1}, {\"answer\":0,\"text\":\"高渗性脱水3：2：1\",\"value\":2}, {\"answer\":1,\"text\":\"同时见尿补钾4-6天\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "小儿腹泻第一天补液方法,正确的是"
+  },
+  {
+    "id": 36169,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"缺铁性贫血\",\"value\":0}, {\"answer\":1,\"text\":\"寄生虫病\",\"value\":1}, {\"answer\":1,\"text\":\"龋齿\",\"value\":2}, {\"answer\":0,\"text\":\"偏食\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "学龄前期应注意预防的疾病是"
+  },
+  {
+    "id": 36257,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硫酸铝的主要不良反应为便秘\",\"value\":0}, {\"answer\":0,\"text\":\"14岁以下患儿慎用雷尼替丁\",\"value\":1}, {\"answer\":1,\"text\":\"服用奥美拉唑疗程为2-4周\",\"value\":2}, {\"answer\":1,\"text\":\"胶体次枸橼酸铋长期大量应用可发生不可逆性脑病\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于儿童消化性溃疡的治疗,正确的是"
+  },
+  {
+    "id": 36168,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"婴儿偏食\",\"value\":0}, {\"answer\":1,\"text\":\"生长发育最迅速,但消化系统未成熟\",\"value\":1}, {\"answer\":0,\"text\":\"呕吐\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "婴儿期易患消化紊乱、营养不良的原因是"
+  },
+  {
+    "id": 36342,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"生后1周\",\"value\":0}, {\"answer\":0,\"text\":\"生后6个月\",\"value\":1}, {\"answer\":0,\"text\":\"生后2个月\",\"value\":2}, {\"answer\":0,\"text\":\"生后4周\",\"value\":3}]",
+    "title": "早产儿补维生素D的时间是"
+  },
+  {
+    "id": 36273,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"流感嗜血杆菌脑膜炎\",\"value\":0}, {\"answer\":1,\"text\":\"大肠杆菌脑膜炎\",\"value\":1}, {\"answer\":0,\"text\":\"流行性脑膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"病毒性脑膜炎\",\"value\":3}]",
+    "title": "新生儿时期最常见的脑膜炎是"
+  },
+  {
+    "id": 36250,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"三种药物\",\"value\":0}, {\"answer\":0,\"text\":\"四种药物\",\"value\":1}, {\"answer\":1,\"text\":\"两种药物\",\"value\":2}, {\"answer\":0,\"text\":\"五种药物\",\"value\":3}]",
+    "title": "儿童感染病原菌不明或单药难以控制的严重感染可联合用药时一般可用"
+  },
+  {
+    "id": 36176,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"婴儿期\",\"value\":0}, {\"answer\":0,\"text\":\"新生儿期\",\"value\":1}, {\"answer\":0,\"text\":\"儿童期\",\"value\":2}, {\"answer\":0,\"text\":\"青春期\",\"value\":3}]",
+    "title": "营养不良多发生于哪一时期"
+  },
+  {
+    "id": 36196,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"四环素\",\"value\":0}, {\"answer\":0,\"text\":\"红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}]",
+    "title": "下列哪一抗生素可造成儿童牙齿黄染,且影响骨骼发育"
+  },
+  {
+    "id": 36345,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"按时接种卡介苗\",\"value\":0}, {\"answer\":0,\"text\":\"必要时可服用预防性药物\",\"value\":1}, {\"answer\":0,\"text\":\"定期注射丙种球蛋白\",\"value\":2}, {\"answer\":0,\"text\":\"避免与结核病患者接触\",\"value\":3}]",
+    "title": "儿童预防结核病有效的治疗措施是"
+  },
+  {
+    "id": 36337,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"2%碳酸氢钠溶液\",\"value\":0}, {\"answer\":0,\"text\":\"3%过氧化氢溶液\",\"value\":1}, {\"answer\":0,\"text\":\"冷盐水\",\"value\":2}, {\"answer\":0,\"text\":\"高锰酸钾溶液\",\"value\":3}]",
+    "title": "小儿鹅口疮口腔清洁液宜选用"
+  },
+  {
+    "id": 36252,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"钙剂\",\"value\":0}, {\"answer\":0,\"text\":\"钠剂\",\"value\":1}, {\"answer\":0,\"text\":\"钾剂\",\"value\":2}, {\"answer\":0,\"text\":\"镁剂\",\"value\":3}]",
+    "title": "儿童在肺炎心衰应用西地兰期间,不应该补充"
+  },
+  {
+    "id": 36291,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"短效\",\"value\":0}, {\"answer\":0,\"text\":\"中效\",\"value\":1}, {\"answer\":0,\"text\":\"长效\",\"value\":2}, {\"answer\":0,\"text\":\"速释\",\"value\":3}]",
+    "title": "儿童平喘药沙丁胺醇属于（）类选择性β2受体激动剂"
+  },
+  {
+    "id": 36187,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨髓移植\",\"value\":0}, {\"answer\":0,\"text\":\"免疫球蛋白替代疗法\",\"value\":1}, {\"answer\":1,\"text\":\"避免输注含IgA的血液制品\",\"value\":2}, {\"answer\":0,\"text\":\"脱敏治疗\",\"value\":3}]",
+    "title": "对于儿童选择性IgA缺乏的治疗原则是"
+  },
+  {
+    "id": 36227,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"免疫球蛋白\",\"value\":0}, {\"answer\":0,\"text\":\"强的松\",\"value\":1}, {\"answer\":1,\"text\":\"胆碱酯酶抑制剂\",\"value\":2}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "儿童重症肌无力常用的治疗药物是"
+  },
+  {
+    "id": 36186,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"应用胸腺素\",\"value\":0}, {\"answer\":1,\"text\":\"免疫球蛋白替代疗法\",\"value\":1}, {\"answer\":0,\"text\":\"避免输注含IgA的血液制品\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "儿童全丙种球蛋白低下血症的治疗是"
+  },
+  {
+    "id": 36360,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"醇\",\"value\":0}, {\"answer\":0,\"text\":\"3%过氧化氢\",\"value\":1}, {\"answer\":0,\"text\":\"1%龙胆紫\",\"value\":2}, {\"answer\":1,\"text\":\"不予处理\",\"value\":3}]",
+    "title": "新生儿口腔出现“马牙”应"
+  },
+  {
+    "id": 36248,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"400U\",\"value\":0}, {\"answer\":0,\"text\":\"1000U\",\"value\":1}, {\"answer\":0,\"text\":\"2000U\",\"value\":2}, {\"answer\":0,\"text\":\"300U\",\"value\":3}]",
+    "title": "小儿用于预防佝偻病的维生素D的剂量为"
+  },
+  {
+    "id": 36335,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"保证体温每小时升高1℃\",\"value\":0}, {\"answer\":0,\"text\":\"立即升温,使体温迅速达正常\",\"value\":1}, {\"answer\":1,\"text\":\"逐步升温,循序渐进\",\"value\":2}, {\"answer\":0,\"text\":\"供给足够液量,帮助复温\",\"value\":3}]",
+    "title": "新生儿寒冷损伤综合征复温的原则是"
+  },
+  {
+    "id": 36367,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"3岁以下儿童如患有长期腹泻或腹胀\",\"value\":0}, {\"answer\":0,\"text\":\"身体健康的青少年\",\"value\":1}, {\"answer\":0,\"text\":\"成年人\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "药用炭可影响儿童营养的吸收,下列患者需禁用的是"
+  },
+  {
+    "id": 36239,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"咖啡\",\"value\":0}, {\"answer\":1,\"text\":\"牛奶\",\"value\":1}, {\"answer\":1,\"text\":\"茶\",\"value\":2}, {\"answer\":0,\"text\":\"维生素C\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不能同服\",\"value\":4}]",
+    "title": "儿童补铁剂时,不能与下列哪项同服"
+  },
+  {
+    "id": 36213,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"耳毒性\",\"value\":0}, {\"answer\":1,\"text\":\"肾毒性\",\"value\":1}, {\"answer\":0,\"text\":\"黄疸\",\"value\":2}, {\"answer\":0,\"text\":\"新生儿溶血\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "新生儿应用卡那霉素可引起"
+  },
+  {
+    "id": 36236,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素的应用\",\"value\":0}, {\"answer\":1,\"text\":\"用抗生素防治各种感染\",\"value\":1}, {\"answer\":1,\"text\":\"免疫球蛋白静脉注射\",\"value\":2}, {\"answer\":1,\"text\":\"血浆交换\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":4}]",
+    "title": "关于儿童B族链球菌的药物治疗要点正确的是"
+  },
+  {
+    "id": 36178,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"经常肌注维生素D\",\"value\":0}, {\"answer\":1,\"text\":\"早产儿出生后1-2周即可给予维生素D预防\",\"value\":1}, {\"answer\":1,\"text\":\"婴幼儿维生素D预防量为400u/天\",\"value\":2}, {\"answer\":1,\"text\":\"孕妇多晒太阳\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于儿童佝偻病预防措施正确的是"
+  },
+  {
+    "id": 36197,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯妥英钠\",\"value\":0}, {\"answer\":1,\"text\":\"维生素K\",\"value\":1}, {\"answer\":1,\"text\":\"水杨酸盐\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列哪一药物可与血胆红素竞争血浆蛋白,使血中游离胆红素增加,导致新生儿黄疸,甚至引起死亡"
+  },
+  {
+    "id": 36245,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"苯巴比妥\",\"value\":0}, {\"answer\":1,\"text\":\"地西泮\",\"value\":1}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":2}, {\"answer\":0,\"text\":\"丙戊酸钠\",\"value\":3}]",
+    "title": "小儿惊厥发作时首选"
+  },
+  {
+    "id": 36310,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"体温正常后5-7天,临床症状体征基本消失后3天\",\"value\":0}, {\"answer\":0,\"text\":\"体温正常后3-4天,症状消失\",\"value\":1}, {\"answer\":0,\"text\":\"体温正常后2周,肺部体征消失\",\"value\":2}, {\"answer\":0,\"text\":\"体温正常,咳嗽消失\",\"value\":3}]",
+    "title": "小儿肺炎应用抗生素治疗,一般停药时间为"
+  },
+  {
+    "id": 36226,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺素\",\"value\":0}, {\"answer\":0,\"text\":\"纳洛酮\",\"value\":1}, {\"answer\":0,\"text\":\"鱼精蛋白\",\"value\":2}, {\"answer\":1,\"text\":\"硫酸阿托品\",\"value\":3}]",
+    "title": "儿童使用新斯的明时,如果出现严重的副交感刺激症状,可选用哪一药物进行肌肉注射"
+  },
+  {
+    "id": 36210,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"氯喹\",\"value\":2}, {\"answer\":0,\"text\":\"噻嗪类利尿剂\",\"value\":3}]",
+    "title": "孕妇应用下列哪一药物可导致胎儿视神经损伤,智力障碍的是"
+  },
+  {
+    "id": 36306,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"湿疹\",\"value\":0}, {\"answer\":0,\"text\":\"新生儿红斑狼疮\",\"value\":1}, {\"answer\":0,\"text\":\"痤疮\",\"value\":2}, {\"answer\":0,\"text\":\"鱼鳞病\",\"value\":3}]",
+    "title": "小儿皮肤科最常见和多发的疾病是"
+  },
+  {
+    "id": 36280,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"硬膜下穿刺\",\"value\":0}, {\"answer\":0,\"text\":\"改用其他抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"加大抗生素剂量\",\"value\":2}, {\"answer\":0,\"text\":\"鞘内注射抗生素\",\"value\":3}]",
+    "title": "7个月大婴儿,已患化脑2周,经大剂量青霉素加氯霉素静点治疗,发热持续不退,查体：嗜睡,颈强直,布氏症（+）,应采取哪种治疗方法"
+  },
+  {
+    "id": 36247,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"链霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"维生素A\",\"value\":2}, {\"answer\":0,\"text\":\"红霉素\",\"value\":3}]",
+    "title": "6岁以下儿童禁用下列哪种药物"
+  },
+  {
+    "id": 36296,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"糖皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"环孢素\",\"value\":2}, {\"answer\":0,\"text\":\"硫唑嘌呤\",\"value\":3}]",
+    "title": "治疗儿童单纯性肾病综合征的首选药物是"
+  },
+  {
+    "id": 36350,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服苯巴比妥\",\"value\":0}, {\"answer\":0,\"text\":\"输注白蛋白\",\"value\":1}, {\"answer\":0,\"text\":\"输血浆\",\"value\":2}, {\"answer\":1,\"text\":\"光照疗法\",\"value\":3}]",
+    "title": "女婴足月顺产,出生体重3.2kg,生后48h血清总胆红素297.5μmol/L,在检查黄疸原因时,首选治疗方法是"
+  },
+  {
+    "id": 36274,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"新生儿脐部\",\"value\":0}, {\"answer\":0,\"text\":\"消化道\",\"value\":1}, {\"answer\":1,\"text\":\"呼吸道\",\"value\":2}, {\"answer\":0,\"text\":\"皮肤粘膜\",\"value\":3}]",
+    "title": "新生儿化脓性脑膜炎的致病菌最常见的进入脑膜的途径是"
+  },
+  {
+    "id": 36366,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"纠正水、电解质紊乱\",\"value\":0}, {\"answer\":0,\"text\":\"给予止吐药\",\"value\":1}, {\"answer\":0,\"text\":\"给予消化药\",\"value\":2}, {\"answer\":0,\"text\":\"控制肠内外感染\",\"value\":3}]",
+    "title": "婴儿,7个月大,腹泻4天,每天大便次数7-8次,稀水样,伴有呕吐,中度脱水,皮肤略干燥,弹性差,心音低钝,该患儿最重要的处理是"
+  },
+  {
+    "id": 36312,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性支气管炎\",\"value\":0}, {\"answer\":1,\"text\":\"毛细支气管炎\",\"value\":1}, {\"answer\":0,\"text\":\"支气管肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"金黄色葡萄球菌肺炎\",\"value\":3}]",
+    "title": "4个月大患儿,低热,咳嗽,呼吸急促,呼气延长,双肺可闻及大量哮鸣音,应诊断为"
+  },
+  {
+    "id": 36192,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"抗疟药\",\"value\":1}, {\"answer\":1,\"text\":\"对乙酰氨基酚\",\"value\":2}, {\"answer\":1,\"text\":\"硝基呋喃类抗菌药\",\"value\":3}, {\"answer\":1,\"text\":\"砜类抗麻风药\",\"value\":4}]",
+    "title": "儿童有葡萄糖-6-磷酸脱氢酶缺乏症,使用下列哪些药可出现溶血反应"
+  },
+  {
+    "id": 36316,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"给予快速利尿剂\",\"value\":0}, {\"answer\":1,\"text\":\"镇静\",\"value\":1}, {\"answer\":1,\"text\":\"快速洋地黄化\",\"value\":2}, {\"answer\":0,\"text\":\"吸入经20%的酒精湿化氧气\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "小儿心力衰竭并发肺水肿时,抢救方法正确的是"
+  },
+  {
+    "id": 36263,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大便次数增多\",\"value\":0}, {\"answer\":1,\"text\":\"食欲不振\",\"value\":1}, {\"answer\":1,\"text\":\"以胃肠道症状为主\",\"value\":2}, {\"answer\":1,\"text\":\"无脱水\",\"value\":3}, {\"answer\":0,\"text\":\"血钾<3.5mmol/L\",\"value\":4}]",
+    "title": "关于小儿轻型腹泻的临床表现正确的是"
+  },
+  {
+    "id": 36242,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"忌与牛奶同服\",\"value\":0}, {\"answer\":1,\"text\":\"忌空腹服用\",\"value\":1}, {\"answer\":1,\"text\":\"最好在两餐之间服用\",\"value\":2}, {\"answer\":1,\"text\":\"液体铁剂服用后及时刷牙\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":4}]",
+    "title": "小儿补充铁剂时,注意事项包括"
+  },
+  {
+    "id": 36173,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"每月肌注长效青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"防止呼吸道感染\",\"value\":1}, {\"answer\":0,\"text\":\"避免潮湿\",\"value\":2}, {\"answer\":0,\"text\":\"增强患儿身体素质\",\"value\":3}]",
+    "title": "小儿风湿热的继发性预防主要措施是"
+  },
+  {
+    "id": 36309,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"酸中毒\",\"value\":0}, {\"answer\":1,\"text\":\"脓气胸\",\"value\":1}, {\"answer\":0,\"text\":\"心力衰竭\",\"value\":2}, {\"answer\":0,\"text\":\"肺炎加重\",\"value\":3}]",
+    "title": "金黄色葡萄球菌肺炎患儿,突然出现呼吸急促,应考虑是下列哪种情况"
+  },
+  {
+    "id": 36209,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿司匹林\",\"value\":0}, {\"answer\":1,\"text\":\"噻嗪类利尿剂\",\"value\":1}, {\"answer\":0,\"text\":\"氯喹\",\"value\":2}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":3}]",
+    "title": "孕妇应用下列哪一药物可导致死胎或胎儿电解质紊乱"
+  },
+  {
+    "id": 36358,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"3天之内\",\"value\":0}, {\"answer\":1,\"text\":\"4-8天\",\"value\":1}, {\"answer\":0,\"text\":\"9-14天\",\"value\":2}, {\"answer\":0,\"text\":\"15-30天\",\"value\":3}]",
+    "title": "新生儿破伤风的潜伏期大多数为"
+  },
+  {
+    "id": 36172,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素类\",\"value\":0}, {\"answer\":0,\"text\":\"喹诺酮类\",\"value\":1}, {\"answer\":1,\"text\":\"大环内酯类\",\"value\":2}, {\"answer\":0,\"text\":\"氨基糖苷类\",\"value\":3}]",
+    "title": "小儿患有肺炎支原体肺炎,应使用哪种抗生素"
+  },
+  {
+    "id": 36300,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"复温\",\"value\":0}, {\"answer\":0,\"text\":\"给予抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"给予肾上腺质激素\",\"value\":2}, {\"answer\":0,\"text\":\"静脉补液\",\"value\":3}]",
+    "title": "新生儿硬肿症的首选治疗是"
+  },
+  {
+    "id": 36225,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"0.25-0.5mg/kg\",\"value\":0}, {\"answer\":0,\"text\":\"0.1mg/kg\",\"value\":1}, {\"answer\":0,\"text\":\"1mg/kg\",\"value\":2}, {\"answer\":0,\"text\":\"0.025mg/kg\",\"value\":3}]",
+    "title": "新斯的明儿童常用剂量是"
+  },
+  {
+    "id": 36277,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨髓抑制\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸抑制\",\"value\":1}, {\"answer\":0,\"text\":\"脱发\",\"value\":2}, {\"answer\":0,\"text\":\"皮疹\",\"value\":3}]",
+    "title": "用氯霉素治疗小儿化脓性脑膜炎,最易出现的不良反应是"
+  },
+  {
+    "id": 36336,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"90mg\",\"value\":0}, {\"answer\":1,\"text\":\"70mg\",\"value\":1}, {\"answer\":0,\"text\":\"50mg\",\"value\":2}, {\"answer\":0,\"text\":\"30mg\",\"value\":3}]",
+    "title": "3岁小儿用苯巴比妥钠（5mg/kg/次）的剂量是"
+  },
+  {
+    "id": 36314,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"丙种球蛋白静脉滴注每月一次\",\"value\":0}, {\"answer\":0,\"text\":\"全血静脉输入,每月一次\",\"value\":1}, {\"answer\":0,\"text\":\"血浆静脉滴注,每三周一次\",\"value\":2}, {\"answer\":0,\"text\":\"丙种球蛋白肌注,每月一次\",\"value\":3}]",
+    "title": "小儿IgG血症最佳治疗是"
+  },
+  {
+    "id": 36193,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"四环素\",\"value\":0}, {\"answer\":1,\"text\":\"红霉素\",\"value\":1}, {\"answer\":1,\"text\":\"苯巴比妥\",\"value\":2}, {\"answer\":0,\"text\":\"氧氟沙星\",\"value\":3}, {\"answer\":0,\"text\":\"以上均可服用\",\"value\":4}]",
+    "title": "下列哪些药品儿童可以服用"
+  },
+  {
+    "id": 36218,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"影响凝血系统\",\"value\":0}, {\"answer\":1,\"text\":\"诱发哮喘\",\"value\":1}, {\"answer\":1,\"text\":\"瑞夷综合征\",\"value\":2}, {\"answer\":0,\"text\":\"耳毒性\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "儿童服用阿司匹林可出现哪些不良反应"
+  },
+  {
+    "id": 36351,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"严重水肿时应该严格限制水盐的摄入\",\"value\":0}, {\"answer\":1,\"text\":\"对激素敏感的病例一般无需利尿剂\",\"value\":1}, {\"answer\":1,\"text\":\"一般水肿时可采用低盐饮食,但不宜长期禁盐\",\"value\":2}, {\"answer\":1,\"text\":\"使用静注利尿剂时,应注意有无血容量不足存在,防止发生休克和诱发血栓\",\"value\":3}, {\"answer\":0,\"text\":\"无盐白蛋白的利尿效果好,可反复使用\",\"value\":4}]",
+    "title": "关于肾病综合征患儿水肿治疗合理的是"
+  },
+  {
+    "id": 36258,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抗生素\",\"value\":0}, {\"answer\":1,\"text\":\"促胃动力药\",\"value\":1}, {\"answer\":1,\"text\":\"胃粘膜保护剂\",\"value\":2}, {\"answer\":1,\"text\":\"抗酸药、抑酸药\",\"value\":3}, {\"answer\":0,\"text\":\"微生态治疗\",\"value\":4}]",
+    "title": "治疗儿童胃食管反流的药物包括"
+  },
+  {
+    "id": 36361,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺炎\",\"value\":0}, {\"answer\":1,\"text\":\"肺不张\",\"value\":1}, {\"answer\":0,\"text\":\"营养不良\",\"value\":2}, {\"answer\":0,\"text\":\"颅内出血\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "新生儿破伤风容易并发的疾病有"
+  },
+  {
+    "id": 36266,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"等张含钠液20ml/kg\",\"value\":0}, {\"answer\":0,\"text\":\"等张含钠液30ml/kg\",\"value\":1}, {\"answer\":0,\"text\":\"1/2张含钠液20ml/kg\",\"value\":2}, {\"answer\":0,\"text\":\"2/3张含钠液20ml/kg\",\"value\":3}]",
+    "title": "婴儿腹泻有明显的周围循环障碍者,扩容宜选用"
+  },
+  {
+    "id": 36357,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素K\",\"value\":0}, {\"answer\":0,\"text\":\"维生素C\",\"value\":1}, {\"answer\":0,\"text\":\"维生素B\",\"value\":2}, {\"answer\":0,\"text\":\"维生素E\",\"value\":3}]",
+    "title": "控制新生儿颅内出血首选药是"
+  },
+  {
+    "id": 36355,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素B12+叶酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素C\",\"value\":1}, {\"answer\":0,\"text\":\"维生素B12\",\"value\":2}, {\"answer\":0,\"text\":\"铁剂\",\"value\":3}]",
+    "title": "营养性巨幼红细胞贫血患儿出现明显精神症状,首选药物是"
+  },
+  {
+    "id": 36308,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":0}, {\"answer\":0,\"text\":\"镇咳药\",\"value\":1}, {\"answer\":0,\"text\":\"镇静药\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "治疗儿童急性感染性喉炎,除了控制感染外,还需同时应用哪种药物"
+  },
+  {
+    "id": 36338,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"泼尼松\",\"value\":0}, {\"answer\":0,\"text\":\"氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":3}]",
+    "title": "儿童单纯性肾病首选药是"
+  },
+  {
+    "id": 36170,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"5-10mg/速度宜快\",\"value\":0}, {\"answer\":1,\"text\":\"5-10mg/kg,速度宜慢\",\"value\":1}, {\"answer\":0,\"text\":\"15mg/kg,速度宜慢\",\"value\":2}, {\"answer\":0,\"text\":\"15mg/kg,速度宜快\",\"value\":3}]",
+    "title": "极重度贫血患儿,每次输血量和输血速度为"
+  },
+  {
+    "id": 36295,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"叶酸和铁\",\"value\":1}, {\"answer\":1,\"text\":\"维生素B12和叶酸\",\"value\":2}, {\"answer\":0,\"text\":\"叶酸和维生素A\",\"value\":3}]",
+    "title": "儿童营养性巨幼细胞贫血是因为缺乏"
+  },
+  {
+    "id": 36318,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"先用小剂量逐渐加大剂量\",\"value\":0}, {\"answer\":1,\"text\":\"依病情不同而剂量不同\",\"value\":1}, {\"answer\":0,\"text\":\"不同病期,剂量相同\",\"value\":2}, {\"answer\":0,\"text\":\"剂量越小越安全\",\"value\":3}]",
+    "title": "维生素D治疗儿童佝偻病的剂量应为"
+  },
+  {
+    "id": 36346,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"利福平\",\"value\":0}, {\"answer\":0,\"text\":\"链霉素\",\"value\":1}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":2}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":3}]",
+    "title": "下列哪种药物儿童服用后,肝损伤明显,可使尿、泪、汗呈红色"
+  },
+  {
+    "id": 36294,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大肠埃希菌\",\"value\":0}, {\"answer\":1,\"text\":\"葡萄球菌\",\"value\":1}, {\"answer\":0,\"text\":\"肠球菌\",\"value\":2}, {\"answer\":0,\"text\":\"链球菌\",\"value\":3}]",
+    "title": "我国新生儿败血症多见的病菌是"
+  },
+  {
+    "id": 36244,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"肠道微生态制剂\",\"answer\":1},{\"value\":1,\"text\":\"抗生素\",\"answer\":1},{\"value\":2,\"text\":\"蒙脱石散\",\"answer\":1},{\"value\":3,\"text\":\"ORS液\",\"answer\":1},{\"value\":4,\"text\":\"止吐药\",\"answer\":0}]",
+    "title": "小儿细菌性腹泻宜选用的药物包括"
+  },
+  {
+    "id": 36230,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"水合氯醛\",\"value\":0}, {\"answer\":0,\"text\":\"口服硫酸镁\",\"value\":1}, {\"answer\":1,\"text\":\"地西泮\",\"value\":2}, {\"answer\":1,\"text\":\"注射硫酸镁\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "对于小儿惊厥治疗有效的药物是"
+  },
+  {
+    "id": 36203,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"明确诊断\",\"value\":0}, {\"answer\":1,\"text\":\"选择合适的药物\",\"value\":1}, {\"answer\":1,\"text\":\"选择合理的给药途径\",\"value\":2}, {\"answer\":1,\"text\":\"给予合理的剂量\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":4}]",
+    "title": "儿童安全合理用药的原则是"
+  },
+  {
+    "id": 36285,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"肺炎链球菌脑膜炎\",\"value\":0}, {\"answer\":0,\"text\":\"流感嗜血杆菌性脑膜炎\",\"value\":1}, {\"answer\":0,\"text\":\"金葡菌脑膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"双球菌脑膜炎\",\"value\":3}]",
+    "title": "可选用青霉素G、头孢噻肟进行治疗的脑膜炎类型是"
+  },
+  {
+    "id": 36179,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"轮状病毒\",\"value\":0}, {\"answer\":0,\"text\":\"肠道病毒\",\"value\":1}, {\"answer\":0,\"text\":\"大肠杆菌\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "引起小儿秋冬季流行性腹泻的致病源是"
+  },
+  {
+    "id": 36211,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氯喹\",\"value\":0}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":1}, {\"answer\":0,\"text\":\"氯丙嗪\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "孕妇应用下列哪一药物可导致胎儿严重出血的是"
+  },
+  {
+    "id": 36298,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"精氨酸\",\"value\":0}, {\"answer\":1,\"text\":\"组氨酸\",\"value\":1}, {\"answer\":0,\"text\":\"酪氨酸\",\"value\":2}, {\"answer\":0,\"text\":\"胱氨酸\",\"value\":3}]",
+    "title": "对于婴儿来说,哪种氨基酸为必需氨基酸"
+  },
+  {
+    "id": 36293,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"苯巴比妥\",\"value\":0}, {\"answer\":0,\"text\":\"卡马西平\",\"value\":1}, {\"answer\":0,\"text\":\"地西泮\",\"value\":2}, {\"answer\":0,\"text\":\"苯妥英钠\",\"value\":3}]",
+    "title": "新生儿缺氧缺血性脑病,控制惊厥首选"
+  },
+  {
+    "id": 36171,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"限制水盐,给予速尿\",\"value\":0}, {\"answer\":0,\"text\":\"给予扩血管药\",\"value\":1}, {\"answer\":0,\"text\":\"注射吗啡\",\"value\":2}, {\"answer\":0,\"text\":\"给予西地兰\",\"value\":3}]",
+    "title": "急性肾炎患儿出现心力衰竭,最先给予的治疗是"
+  },
+  {
+    "id": 36313,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"Ⅰ型糖尿病\",\"value\":0}, {\"answer\":0,\"text\":\"药物所致糖尿病\",\"value\":1}, {\"answer\":0,\"text\":\"脂肪萎缩型糖尿病\",\"value\":2}, {\"answer\":0,\"text\":\"Ⅱ型糖尿病\",\"value\":3}]",
+    "title": "儿童糖尿病多数为"
+  },
+  {
+    "id": 36297,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":0,\"text\":\"维生素E\",\"value\":2}, {\"answer\":0,\"text\":\"维生素D\",\"value\":3}]",
+    "title": "儿童蛋白质——热能营养不良常见并发的维生素缺乏是"
+  },
+  {
+    "id": 36352,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"防止其他并发症\",\"value\":0}, {\"answer\":1,\"text\":\"清除体内感染性病灶内残存的细菌\",\"value\":1}, {\"answer\":0,\"text\":\"帮助肾小球内非特异性炎症消失\",\"value\":2}, {\"answer\":0,\"text\":\"控制肾脏炎症\",\"value\":3}]",
+    "title": "急性肾炎患儿应用青霉素的目的是"
+  },
+  {
+    "id": 36349,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多维生素饮食\",\"value\":0}, {\"answer\":1,\"text\":\"低盐或无盐饮食\",\"value\":1}, {\"answer\":1,\"text\":\"高热量饮食\",\"value\":2}, {\"answer\":0,\"text\":\"高蛋白饮食\",\"value\":3}, {\"answer\":0,\"text\":\"以上均合理\",\"value\":4}]",
+    "title": "急性肾炎患儿合理的饮食是"
+  },
+  {
+    "id": 36334,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大便后及时清洗臀部\",\"value\":0}, {\"answer\":0,\"text\":\"禁食\",\"value\":1}, {\"answer\":0,\"text\":\"更换尿布\",\"value\":2}, {\"answer\":0,\"text\":\"暴露臀部皮肤\",\"value\":3}]",
+    "title": "腹泻患儿预防臀红最有效的护理措施是"
+  },
+  {
+    "id": 36279,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素+庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素+氨苄青霉素\",\"value\":2}, {\"answer\":1,\"text\":\"头孢三嗪\",\"value\":3}]",
+    "title": "8个月大女婴,频繁抽搐,高热4天,中性粒细胞70%,淋巴细胞30%,糖2.2mmol/L,临床诊断为脑膜炎,首选的治疗药物是"
+  },
+  {
+    "id": 36288,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥司他韦\",\"value\":0}, {\"answer\":1,\"text\":\"利巴韦林\",\"value\":1}, {\"answer\":0,\"text\":\"金刚烷胺\",\"value\":2}, {\"answer\":0,\"text\":\"吗啉胍\",\"value\":3}]",
+    "title": "主要用于小儿呼吸道合胞病毒引起的病毒性肺炎与支气管炎的抗病毒药是"
+  },
+  {
+    "id": 36259,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"8-12h\",\"value\":0}, {\"answer\":0,\"text\":\"6-7h\",\"value\":1}, {\"answer\":0,\"text\":\"1-2h\",\"value\":2}, {\"answer\":0,\"text\":\"3-4h\",\"value\":3}]",
+    "title": "患儿腹泻脱水采用液体疗法时,补足累积损失量的时间应为"
+  },
+  {
+    "id": 36307,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大叶性肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"间质性肺炎\",\"value\":1}, {\"answer\":1,\"text\":\"支气管肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"支原体肺炎\",\"value\":3}]",
+    "title": "婴幼儿时期易患的肺炎是"
+  },
+  {
+    "id": 36340,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"补维生素D,然后补钙\",\"value\":0}, {\"answer\":0,\"text\":\"止痉,补维生素D,然后补钙\",\"value\":1}, {\"answer\":1,\"text\":\"止痉,补钙,然后补维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"补钙,再补维生素D\",\"value\":3}]",
+    "title": "小儿低钙性惊厥的合理的药物治疗是"
+  },
+  {
+    "id": 36321,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"1：4液\",\"value\":0}, {\"answer\":1,\"text\":\"2：1液\",\"value\":1}, {\"answer\":0,\"text\":\"ORS液\",\"value\":2}, {\"answer\":0,\"text\":\"4：3：2液\",\"value\":3}]",
+    "title": "小儿腹泻休克时,扩容液是"
+  },
+  {
+    "id": 36205,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"高钙血症\",\"value\":0}, {\"answer\":0,\"text\":\"血尿\",\"value\":1}, {\"answer\":1,\"text\":\"再生障碍性贫血和紫癜\",\"value\":2}, {\"answer\":0,\"text\":\"库欣综合征\",\"value\":3}]",
+    "title": "儿童服用去痛片,宜出现"
+  },
+  {
+    "id": 36215,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药物吸收\",\"value\":0}, {\"answer\":0,\"text\":\"药物代谢\",\"value\":1}, {\"answer\":0,\"text\":\"药物消除\",\"value\":2}, {\"answer\":0,\"text\":\"药物中毒\",\"value\":3}]",
+    "title": "关于新生儿用药药动学特点,适宜静脉给药,一般不采用皮下或肌内注射,属于药动学哪一环节"
+  },
+  {
+    "id": 36290,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗组胺药\",\"value\":0}, {\"answer\":0,\"text\":\"祛痰药\",\"value\":1}, {\"answer\":0,\"text\":\"抗生素\",\"value\":2}, {\"answer\":0,\"text\":\"解热镇痛药\",\"value\":3}]",
+    "title": "在小儿感冒药中添加的马来酸氯苯那敏属于"
+  },
+  {
+    "id": 36329,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"心动过缓\",\"value\":0}, {\"answer\":0,\"text\":\"呼吸困难\",\"value\":1}, {\"answer\":0,\"text\":\"尿量增多\",\"value\":2}, {\"answer\":0,\"text\":\"水肿消退\",\"value\":3}]",
+    "title": "患儿8个月大,因肺炎并发急性心力衰竭,用强心苷药物治疗,下列哪种情况需立即停止使用强心苷药物"
+  },
+  {
+    "id": 36256,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"穿孔\",\"value\":0}, {\"answer\":1,\"text\":\"出血\",\"value\":1}, {\"answer\":1,\"text\":\"幽门梗阻\",\"value\":2}, {\"answer\":0,\"text\":\"肠梗阻\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "儿童消化性溃疡主要并发症包括"
+  },
+  {
+    "id": 36278,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":1}, {\"answer\":1,\"text\":\"青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素+氯霉素\",\"value\":3}]",
+    "title": "治疗小儿肺炎双球菌脑膜炎的首选药物是"
+  },
+  {
+    "id": 36264,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"有脱水、酸中毒和电解质紊乱\",\"value\":0}, {\"answer\":0,\"text\":\"发热\",\"value\":1}, {\"answer\":0,\"text\":\"食欲不振\",\"value\":2}, {\"answer\":0,\"text\":\"呕吐严重\",\"value\":3}]",
+    "title": "儿童重度腹泻的临床表现主要是"
+  },
+  {
+    "id": 36184,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"先止惊并缓慢静脉注射钙剂,后改口服钙3-5天,再用维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"先补钙与维生素D,然后止惊、吸氧\",\"value\":1}, {\"answer\":0,\"text\":\"迅速补钙,后即用维生素D\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "女婴6个月,鼻塞流涕1天,半天时间抽搐3次,两眼上翻,四肢抽动,持续2-3分钟,抽止后仍吃奶,枕秃,颈无抵抗,体检时患儿再次抽搐,此时最佳处理方法是"
+  },
+  {
+    "id": 36221,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头高侧\",\"value\":0}, {\"answer\":0,\"text\":\"平卧位\",\"value\":1}, {\"answer\":0,\"text\":\"直立位\",\"value\":2}, {\"answer\":0,\"text\":\"头低侧\",\"value\":3}]",
+    "title": "婴幼儿喂药宜取什么卧位"
+  },
+  {
+    "id": 36243,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿托品\",\"value\":0}, {\"answer\":0,\"text\":\"阿司匹林\",\"value\":1}, {\"answer\":1,\"text\":\"吲哚美辛\",\"value\":2}, {\"answer\":0,\"text\":\"氨茶碱\",\"value\":3}]",
+    "title": "对于出生后动脉导管不能闭合的婴儿,可给予哪种药物治疗"
+  },
+  {
+    "id": 36325,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"3.0mmol/L\",\"value\":0}, {\"answer\":0,\"text\":\"2.5mmol/L\",\"value\":1}, {\"answer\":1,\"text\":\"1.75mmol/L\",\"value\":2}, {\"answer\":0,\"text\":\"2.0mmol/L\",\"value\":3}]",
+    "title": "小儿血钙低于多少时会发生抽搐"
+  },
+  {
+    "id": 36253,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":0,\"text\":\"四环素\",\"value\":1}, {\"answer\":0,\"text\":\"阿莫西林\",\"value\":2}, {\"answer\":0,\"text\":\"邻氯青霉素\",\"value\":3}]",
+    "title": "患儿,女,7岁,低热1周,咳嗽剧烈,,临床诊断支原体肺炎,最适合该患儿的抗生素是"
+  },
+  {
+    "id": 36233,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"安定静注\",\"value\":0}, {\"answer\":0,\"text\":\"苯妥英钠肌注\",\"value\":1}, {\"answer\":0,\"text\":\"苯巴比妥肌注\",\"value\":2}, {\"answer\":0,\"text\":\"水合氯醛\",\"value\":3}]",
+    "title": "癫痫持续状态患儿仍有频繁发作的四肢抽搐,此种情况下首选"
+  },
+  {
+    "id": 36353,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"大量蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"肾小球血流量减少,肾小球滤过率降低,体内水钠潴留\",\"value\":1}, {\"answer\":0,\"text\":\"肝功能障碍\",\"value\":2}, {\"answer\":0,\"text\":\"高胆固醇血症\",\"value\":3}]",
+    "title": "下列哪项与急性肾炎患儿的浮肿有关"
+  },
+  {
+    "id": 36303,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"细胞毒药物\",\"value\":0}, {\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":1}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":2}, {\"answer\":0,\"text\":\"白蛋白\",\"value\":3}]",
+    "title": "治疗小儿原发性肾病综合征的首选药物是"
+  },
+  {
+    "id": 36260,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"腹泻并重度脱水\",\"value\":0}, {\"answer\":1,\"text\":\"心功能不全者\",\"value\":1}, {\"answer\":1,\"text\":\"新生儿肠炎\",\"value\":2}, {\"answer\":1,\"text\":\"腹胀明显的腹泻患儿\",\"value\":3}, {\"answer\":0,\"text\":\"有轻、中度脱水,无酸中毒\",\"value\":4}]",
+    "title": "口服补液盐不适用于"
+  },
+  {
+    "id": 36219,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"磺胺类\",\"value\":0}, {\"answer\":1,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":1,\"text\":\"感冒通\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列哪些药物可导致儿童泌尿系统损坏"
+  },
+  {
+    "id": 36238,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"禁止与头孢菌素合用\",\"value\":0}, {\"answer\":1,\"text\":\"6岁以下儿童禁用\",\"value\":1}, {\"answer\":1,\"text\":\"禁止与速尿合用\",\"value\":2}, {\"answer\":1,\"text\":\"使用过量会导致听力下降\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":4}]",
+    "title": "儿童应用氨基糖苷类抗生素的注意事项包括"
+  },
+  {
+    "id": 36356,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"所用药物能通过血脑屏障\",\"value\":0}, {\"answer\":1,\"text\":\"急性期静脉给药\",\"value\":1}, {\"answer\":0,\"text\":\"选择两种以上抗生素联合应用\",\"value\":2}, {\"answer\":1,\"text\":\"选择对病原菌敏感的杀菌药物\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于小儿化脓性脑膜炎的治疗原则正确的是"
+  },
+  {
+    "id": 36347,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"链霉素\",\"value\":0}, {\"answer\":0,\"text\":\"异烟肼\",\"value\":1}, {\"answer\":0,\"text\":\"乙胺丁醇\",\"value\":2}, {\"answer\":0,\"text\":\"利福平\",\"value\":3}]",
+    "title": "下列哪种药物儿童服用后,可导致耳聋"
+  },
+  {
+    "id": 36271,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氯霉素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":2}, {\"answer\":0,\"text\":\"氨苄青霉素\",\"value\":3}]",
+    "title": "治疗化脓性脑膜炎,选择宜透过血脑屏障的药物,下列哪一抗生素最佳"
+  },
+  {
+    "id": 36175,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"头孢菌素\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"强的松\",\"value\":2}, {\"answer\":1,\"text\":\"阿司匹林\",\"value\":3}]",
+    "title": "治疗儿童川崎病的首选药是"
+  },
+  {
+    "id": 36262,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"8-12小时\",\"value\":0}, {\"answer\":0,\"text\":\"1-2小时\",\"value\":1}, {\"answer\":0,\"text\":\"13-16小时\",\"value\":2}, {\"answer\":0,\"text\":\"30-60分钟\",\"value\":3}]",
+    "title": "腹泻患儿补充累积损失量应于开始输液的多长时间内完成"
+  },
+  {
+    "id": 36195,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"红霉素\",\"value\":0}, {\"answer\":0,\"text\":\"氯霉素\",\"value\":1}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "儿童相对安全的眼用抗生素是"
+  },
+  {
+    "id": 36365,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"加用维生素B12和叶酸\",\"value\":0}, {\"answer\":1,\"text\":\"更换抗生素\",\"value\":1}, {\"answer\":0,\"text\":\"改用右旋糖酐铁肌注\",\"value\":2}, {\"answer\":0,\"text\":\"输血\",\"value\":3}]",
+    "title": "患儿,男,2岁,原患营养性缺铁性贫血,近两周来发热、咳嗽,神萎,皮肤有猩红热样皮疹,气急,右肺有肺大疱形成,已用青霉素+定安卡那霉素,硫酸亚铁及维生素C等治疗,此时主要的治疗措施是"
+  },
+  {
+    "id": 36281,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"及早选用有效抗生素进行治疗\",\"value\":0}, {\"answer\":1,\"text\":\"急性期可应用激素\",\"value\":1}, {\"answer\":1,\"text\":\"保证足够的热量及液体\",\"value\":2}, {\"answer\":1,\"text\":\"及早退热,控制惊厥发作\",\"value\":3}, {\"answer\":0,\"text\":\"必要时抽放脑脊液以降压\",\"value\":4}]",
+    "title": "患儿,男,8个月大,临床诊断为化脓性脑膜炎,对该患儿治疗合理的是"
+  },
+  {
+    "id": 36249,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氨甲苯酸\",\"value\":0}, {\"answer\":1,\"text\":\"维生素K\",\"value\":1}, {\"answer\":0,\"text\":\"氨甲环酸\",\"value\":2}, {\"answer\":0,\"text\":\"氨基己酸\",\"value\":3}]",
+    "title": "对于新生儿出血,宜选用"
+  },
+  {
+    "id": 36246,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更昔洛韦\",\"value\":0}, {\"answer\":0,\"text\":\"利巴韦林\",\"value\":1}, {\"answer\":0,\"text\":\"头孢拉定\",\"value\":2}, {\"answer\":1,\"text\":\"阿昔洛韦\",\"value\":3}]",
+    "title": "小儿水痘首选"
+  },
+  {
+    "id": 36240,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素D\",\"value\":0}, {\"answer\":0,\"text\":\"维生素E\",\"value\":1}, {\"answer\":0,\"text\":\"维生素C\",\"value\":2}, {\"answer\":0,\"text\":\"维生素A\",\"value\":3}]",
+    "title": "婴儿服用过多,可引起婴儿高血压的是"
+  },
+  {
+    "id": 36217,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"喹诺酮类\",\"value\":0}, {\"answer\":1,\"text\":\"四环素类\",\"value\":1}, {\"answer\":1,\"text\":\"过量维生素A\",\"value\":2}, {\"answer\":1,\"text\":\"肾上腺皮质激素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":4}]",
+    "title": "影响儿童骨骼及牙齿发育,这类不良反应一般由下列哪些药导致"
+  },
+  {
+    "id": 36189,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"等张含钠溶液\",\"value\":0}, {\"answer\":1,\"text\":\"1/3张含钠溶液\",\"value\":1}, {\"answer\":0,\"text\":\"5%葡萄糖\",\"value\":2}, {\"answer\":0,\"text\":\"以上均可\",\"value\":3}]",
+    "title": "婴幼儿腹泻导致高渗性脱水,补液应选择"
+  },
+  {
+    "id": 36343,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"4-6小时\",\"value\":0}, {\"answer\":0,\"text\":\"8-10小时\",\"value\":1}, {\"answer\":0,\"text\":\"2-4小时\",\"value\":2}, {\"answer\":0,\"text\":\"20小时以上\",\"value\":3}]",
+    "title": "小儿重型腹泻禁食时间是"
+  },
+  {
+    "id": 36206,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高钙血症\",\"value\":0}, {\"answer\":0,\"text\":\"再生障碍性贫血\",\"value\":1}, {\"answer\":0,\"text\":\"库欣综合征\",\"value\":2}, {\"answer\":0,\"text\":\"血尿\",\"value\":3}]",
+    "title": "治疗儿童佝偻病时长期大量使用鱼肝油丸,可引起"
+  },
+  {
+    "id": 36251,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"维生素A\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":0,\"text\":\"维生素C\",\"value\":2}, {\"answer\":0,\"text\":\"维生素E\",\"value\":3}]",
+    "title": "小儿夜盲症、干眼症等,可选用哪种维生素治疗"
+  },
+  {
+    "id": 36332,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"青霉素\",\"value\":0}, {\"answer\":0,\"text\":\"庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":0,\"text\":\"卡那霉素\",\"value\":3}]",
+    "title": "患儿6个月大,因头痛、烦躁不安入院,诊断为脑膜炎奈瑟菌感染,常用的抗生素是"
+  },
+  {
+    "id": 36328,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"8g/kg\",\"value\":0}, {\"answer\":1,\"text\":\"12g/kg\",\"value\":1}, {\"answer\":0,\"text\":\"4g/kg\",\"value\":2}, {\"answer\":0,\"text\":\"10g/kg\",\"value\":3}]",
+    "title": "婴儿每日需糖量为"
+  },
+  {
+    "id": 36214,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物排泄\",\"value\":0}, {\"answer\":1,\"text\":\"药物吸收\",\"value\":1}, {\"answer\":0,\"text\":\"药物分布\",\"value\":2}, {\"answer\":0,\"text\":\"药物代谢\",\"value\":3}]",
+    "title": "关于新生儿用药药动学特点,新生儿局部使用水杨酸、萘甲唑林等,可引起中毒,属于药动学哪一环节"
+  },
+  {
+    "id": 36341,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"新生儿\",\"value\":0}, {\"answer\":0,\"text\":\"预防脱水\",\"value\":1}, {\"answer\":0,\"text\":\"轻度脱水\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不是\",\"value\":3}]",
+    "title": "ORS溶液不宜用于"
+  },
+  {
+    "id": 36299,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"母乳送服\",\"value\":0}, {\"answer\":1,\"text\":\"凉开水送服\",\"value\":1}, {\"answer\":0,\"text\":\"冷饮送服\",\"value\":2}, {\"answer\":0,\"text\":\"可与食物同服\",\"value\":3}]",
+    "title": "小儿服用脊髓灰质炎糖丸疫苗的正确方法是"
+  },
+  {
+    "id": 36180,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"低钾血症\",\"value\":0}, {\"answer\":0,\"text\":\"低钠血症\",\"value\":1}, {\"answer\":0,\"text\":\"低钙血症\",\"value\":2}, {\"answer\":0,\"text\":\"低镁血症\",\"value\":3}]",
+    "title": "患儿脱水酸中毒纠正后,患儿出现疲倦乏力腹胀,原因是"
+  },
+  {
+    "id": 36269,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"细胞数增高,蛋白增高,糖降低\",\"value\":0}, {\"answer\":0,\"text\":\"细胞数正常,蛋白增高,糖降低\",\"value\":1}, {\"answer\":0,\"text\":\"细胞数增高,蛋白正常,糖降低\",\"value\":2}, {\"answer\":0,\"text\":\"细胞数增高,蛋白增高,糖升高\",\"value\":3}]",
+    "title": "小儿化脓性脑炎,关于脑脊液变化描述正确的是"
+  },
+  {
+    "id": 36292,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿奇霉素\",\"value\":0}, {\"answer\":0,\"text\":\"链霉素\",\"value\":1}, {\"answer\":0,\"text\":\"红霉素\",\"value\":2}, {\"answer\":1,\"text\":\"氨苄西林\",\"value\":3}]",
+    "title": "治疗儿童流感嗜血杆菌性脑膜炎,选择哪种抗生素合理"
+  },
+  {
+    "id": 36333,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"使用快速洋地黄制剂\",\"value\":0}, {\"answer\":0,\"text\":\"使用利尿剂\",\"value\":1}, {\"answer\":0,\"text\":\"使用大剂量镇静剂\",\"value\":2}, {\"answer\":0,\"text\":\"清理呼吸道\",\"value\":3}]",
+    "title": "11月大患儿,发热、咳嗽2天,临床诊断为肺炎,第2天,突然烦躁不安,呼吸急促,发绀,该患儿治疗措施最关键的是"
+  },
+  {
+    "id": 36231,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不能突然停药、换药\",\"value\":0}, {\"answer\":1,\"text\":\"口服药剂量自低限开始\",\"value\":1}, {\"answer\":1,\"text\":\"先单药治疗,不能控制可加用其他药物\",\"value\":2}, {\"answer\":0,\"text\":\"完全控制和不产生严重毒性反应,不能兼顾时,应满足完全控制\",\"value\":3}, {\"answer\":0,\"text\":\"以上均正确\",\"value\":4}]",
+    "title": "关于儿童癫痫药物治疗正确的是"
+  },
+  {
+    "id": 36254,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"铜绿假单胞菌肠炎\",\"value\":0}, {\"answer\":1,\"text\":\"金黄色葡萄球菌肠炎\",\"value\":1}, {\"answer\":1,\"text\":\"假膜性肠炎\",\"value\":2}, {\"answer\":0,\"text\":\"空肠弯曲菌肠炎\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "儿童长期应用广谱抗生素可诱发"
+  },
+  {
+    "id": 36284,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"脑膜炎双球菌脑膜炎\",\"value\":0}, {\"answer\":0,\"text\":\"金葡菌脑膜炎\",\"value\":1}, {\"answer\":0,\"text\":\"结核性脑膜炎\",\"value\":2}, {\"answer\":0,\"text\":\"肺炎链球菌脑膜炎\",\"value\":3}]",
+    "title": "可选用青霉素30万U.（kg·d)进行治疗的脑膜炎类型是"
+  },
+  {
+    "id": 36327,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"静注地西泮或苯巴比妥钠\",\"value\":0}, {\"answer\":0,\"text\":\"肌注维生素D\",\"value\":1}, {\"answer\":0,\"text\":\"静注钙剂\",\"value\":2}, {\"answer\":0,\"text\":\"静滴葡萄糖\",\"value\":3}]",
+    "title": "婴儿手足搐搦症发生惊厥时紧急处理的措施是"
+  },
+  {
+    "id": 36276,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"头孢噻肟\",\"value\":0}, {\"answer\":1,\"text\":\"头孢三嗪\",\"value\":1}, {\"answer\":0,\"text\":\"大剂量青霉素\",\"value\":2}, {\"answer\":0,\"text\":\"大剂量氨苄青霉素\",\"value\":3}, {\"answer\":0,\"text\":\"青霉素+氨苄青霉素\",\"value\":4}]",
+    "title": "对于病因不明的小儿化脓性脑膜炎,首选的治疗药物是"
+  },
+  {
+    "id": 36223,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"皮质类固醇激素\",\"value\":0}, {\"answer\":0,\"text\":\"抗病毒药物\",\"value\":1}, {\"answer\":0,\"text\":\"抗真菌药物\",\"value\":2}, {\"answer\":0,\"text\":\"神经营养代谢药\",\"value\":3}]",
+    "title": "儿童面神经炎治疗早期应该应用"
+  },
+  {
+    "id": 36216,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物中毒\",\"value\":0}, {\"answer\":0,\"text\":\"药物排泄\",\"value\":1}, {\"answer\":1,\"text\":\"药物代谢\",\"value\":2}, {\"answer\":0,\"text\":\"药物吸收\",\"value\":3}]",
+    "title": "关于新生儿用药药动学特点,新生儿缺乏葡萄糖醛酸转移酶,服用氯霉素可导致灰婴综合征,属于药动学哪一环节"
+  },
+  {
+    "id": 36272,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氨苄青霉素+庆大霉素\",\"value\":0}, {\"answer\":0,\"text\":\"红霉素+庆大霉素\",\"value\":1}, {\"answer\":0,\"text\":\"青霉素+庆大霉素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素+氯霉素\",\"value\":3}]",
+    "title": "治疗儿童大肠杆菌脑膜炎首选抗生素为"
+  },
+  {
+    "id": 36330,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"立即解松衣领,平卧头侧位\",\"value\":0}, {\"answer\":0,\"text\":\"立即送入抢救室\",\"value\":1}, {\"answer\":0,\"text\":\"手心和腋下放入纱布\",\"value\":2}, {\"answer\":0,\"text\":\"将舌轻轻向外牵拉\",\"value\":3}]",
+    "title": "在处理小儿惊厥发作时,首先应做下列哪种处理措施"
+  },
+  {
+    "id": 36339,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"林格液\",\"value\":0}, {\"answer\":1,\"text\":\"碳酸氢钠溶液\",\"value\":1}, {\"answer\":0,\"text\":\"乳酸钠溶液\",\"value\":2}, {\"answer\":0,\"text\":\"以上均是\",\"value\":3}]",
+    "title": "小儿代谢性酸中毒首选药是"
+  },
+  {
+    "id": 36207,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"血尿\",\"value\":0}, {\"answer\":0,\"text\":\"紫癜\",\"value\":1}, {\"answer\":0,\"text\":\"高钠血症\",\"value\":2}, {\"answer\":0,\"text\":\"高钙血症\",\"value\":3}]",
+    "title": "儿童使用感冒通退热,可引起"
+  },
+  {
+    "id": 36241,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":0}, {\"answer\":0,\"text\":\"青霉素\",\"value\":1}, {\"answer\":0,\"text\":\"大环内酯类\",\"value\":2}, {\"answer\":0,\"text\":\"头孢菌素类\",\"value\":3}]",
+    "title": "儿童服用呋塞米时,忌与下列哪一药合用"
+  },
+  {
+    "id": 36320,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"0.2%-0.3%\",\"value\":0}, {\"answer\":0,\"text\":\"0.5%-3%\",\"value\":1}, {\"answer\":0,\"text\":\"1%-2%\",\"value\":2}, {\"answer\":0,\"text\":\"4%-5%\",\"value\":3}]",
+    "title": "儿童静脉补钾浓度为"
+  },
+  {
+    "id": 36191,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"每天120-150ml/kg,2：3：1液\",\"value\":0}, {\"answer\":0,\"text\":\"每天160-180ml/kg,2：3：1液\",\"value\":1}, {\"answer\":0,\"text\":\"每天50-100ml/kg,4：3：2\",\"value\":2}, {\"answer\":0,\"text\":\"以上均不正确\",\"value\":3}]",
+    "title": "10个月女婴,因腹泻3天伴吐入院,大便每天7次,口干少尿,该患儿最初24h补液总量及液体种类是"
+  },
+  {
+    "id": 36311,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"腺病毒肺炎\",\"value\":0}, {\"answer\":0,\"text\":\"副流感病毒肺炎\",\"value\":1}, {\"answer\":0,\"text\":\"鼻病毒肺炎\",\"value\":2}, {\"answer\":0,\"text\":\"肠道病毒肺炎\",\"value\":3}]",
+    "title": "婴儿病毒性肺炎临床症状最严重的是"
+  },
+  {
+    "id": 36220,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氨基糖苷类\",\"value\":0}, {\"answer\":1,\"text\":\"卡那霉素\",\"value\":1}, {\"answer\":0,\"text\":\"头孢菌素\",\"value\":2}, {\"answer\":0,\"text\":\"青霉素\",\"value\":3}, {\"answer\":0,\"text\":\"以上均是\",\"value\":4}]",
+    "title": "下列哪些药物可导致儿童听力受损"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"房颤\",\"value\":1}, {\"answer\":0,\"text\":\"房扑\",\"value\":2}, {\"answer\":1,\"text\":\"室颤\",\"value\":3}]",
+    "title": "实例"
+  }
+]

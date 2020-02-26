@@ -1,0 +1,1448 @@
+[
+  {
+    "id": 40025,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"0.9%氯化钠\",\"value\":0}, {\"answer\":1,\"text\":\"5%葡萄糖\",\"value\":1}, {\"answer\":0,\"text\":\"葡萄糖氯化钠\",\"value\":2}, {\"answer\":0,\"text\":\"林格氏注射液\",\"value\":3}]",
+    "title": "卡铂在下列哪种溶媒中较稳定"
+  },
+  {
+    "id": 39935,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"炔诺酮\",\"value\":0}, {\"answer\":0,\"text\":\"丙酸睾丸素\",\"value\":1}, {\"answer\":1,\"text\":\"炔雌醇\",\"value\":2}, {\"answer\":0,\"text\":\"甲基睾丸素\",\"value\":3}]",
+    "title": "可用于治疗前列腺癌的药物是"
+  },
+  {
+    "id": 39990,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"消化道肿瘤\",\"value\":0}, {\"answer\":0,\"text\":\"急性淋巴细胞白血病\",\"value\":1}, {\"answer\":0,\"text\":\"慢性粒细胞白血病\",\"value\":2}, {\"answer\":0,\"text\":\"绒毛膜上皮癌\",\"value\":3}]",
+    "title": "5-氟尿嘧啶可作为下列哪种肿瘤的临床基本用药"
+  },
+  {
+    "id": 39988,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"慢性淋巴细胞性白血病\",\"value\":0}, {\"answer\":1,\"text\":\"非精原细胞性睾丸瘤\",\"value\":1}, {\"answer\":0,\"text\":\"多发性骨髓瘤\",\"value\":2}, {\"answer\":0,\"text\":\"恶性淋巴瘤\",\"value\":3}]",
+    "title": "顺铂作为常见抗恶性肿瘤药物,首选用于治疗"
+  },
+  {
+    "id": 40080,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吉非替尼\",\"value\":0}, {\"answer\":1,\"text\":\"索拉非尼\",\"value\":1}, {\"answer\":0,\"text\":\"拉帕替尼\",\"value\":2}, {\"answer\":0,\"text\":\"厄洛替尼\",\"value\":3}]",
+    "title": "属于靶向多种受体酪氨酸激酶抑制剂的药物是"
+  },
+  {
+    "id": 39917,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"巯嘌呤\",\"value\":1}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":2}, {\"answer\":0,\"text\":\"L-门冬酰胺酶\",\"value\":3}]",
+    "title": "较常引起周围神经炎的抗肿瘤药是"
+  },
+  {
+    "id": 39934,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春新碱\",\"value\":0}, {\"answer\":1,\"text\":\"平阳霉素\",\"value\":1}, {\"answer\":0,\"text\":\"5-氟尿嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":3}]",
+    "title": "对鳞状上皮癌疗效较好的药物是"
+  },
+  {
+    "id": 39943,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"哌唑嗪\",\"value\":0}, {\"answer\":1,\"text\":\"阿替洛尔\",\"value\":1}, {\"answer\":0,\"text\":\"酚妥拉明\",\"value\":2}, {\"answer\":0,\"text\":\"硝普钠\",\"value\":3}]",
+    "title": "不宜单独用于治疗嗜铬细胞瘤的是"
+  },
+  {
+    "id": 39966,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利妥昔单抗\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"多柔比星\",\"value\":2}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":3}]",
+    "title": "患者,男性,59岁,因“非霍奇金淋巴瘤”入院。行R-CHOP方案化疗2周期后出现四肢麻木,肌力下降、手指不能完全伸直、双手指间关节和掌指关节活动受限症状。以上症状可能是哪种药物引起的不良反应"
+  },
+  {
+    "id": 39941,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"喜树碱\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":1,\"text\":\"乙烯雌酚\",\"value\":2}, {\"answer\":0,\"text\":\"他莫昔芬\",\"value\":3}]",
+    "title": "前列腺癌最好选用哪种药"
+  },
+  {
+    "id": 39873,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"影响核酸生物合成\",\"value\":0}, {\"answer\":0,\"text\":\"影响蛋白质合成\",\"value\":1}, {\"answer\":0,\"text\":\"直接破坏DNA并阻止其复制\",\"value\":2}, {\"answer\":0,\"text\":\"影响激素平衡\",\"value\":3}]",
+    "title": "抗代谢药的抗癌机制是"
+  },
+  {
+    "id": 40077,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"盐酸厄洛替尼片\",\"value\":0}, {\"answer\":1,\"text\":\"甲磺酸奥希替尼片\",\"value\":1}, {\"answer\":0,\"text\":\"吉非替尼平\",\"value\":2}, {\"answer\":0,\"text\":\"盐酸埃克替尼片\",\"value\":3}]",
+    "title": "适应症为EGFR基因具有敏感突变的局部晚期或转移性非小细胞肺癌（NSCLC)的药物不包括"
+  },
+  {
+    "id": 39841,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":0,\"text\":\"阿糖胞苷\",\"value\":1}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":2}, {\"answer\":1,\"text\":\"氮芥\",\"value\":3}]",
+    "title": "下列不属于干扰核酸生物合成的药物是"
+  },
+  {
+    "id": 39949,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"血尿、蛋白尿\",\"value\":0}, {\"answer\":0,\"text\":\"过敏反应\",\"value\":1}, {\"answer\":0,\"text\":\"心脏毒性\",\"value\":2}, {\"answer\":1,\"text\":\"胃肠道反应\",\"value\":3}]",
+    "title": "氟尿嘧啶的主要不良反应是"
+  },
+  {
+    "id": 40034,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"5-HT3受体阻断剂+口服地塞米松+阿瑞吡坦\",\"value\":0}, {\"answer\":0,\"text\":\"5-HT3受体阻断剂+口服地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"每日化疗前,应用5-HT3受体阻断剂或口服地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"奥美拉唑+口服地塞米松\",\"value\":3}]",
+    "title": "重度致吐性化疗药所引起恶心呕吐的治疗应选"
+  },
+  {
+    "id": 39923,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"是细胞周期特异性药物\",\"value\":0}, {\"answer\":1,\"text\":\"借助于正常细胞的酶促去毒作用实现\",\"value\":1}, {\"answer\":0,\"text\":\"不在正常细胞中代谢\",\"value\":2}, {\"answer\":0,\"text\":\"在肝脏中进行去毒转化\",\"value\":3}]",
+    "title": "环磷酰胺对肿瘤细胞的高度选择性是由于"
+  },
+  {
+    "id": 39898,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"脂肪氮芥\",\"value\":0}, {\"answer\":0,\"text\":\"芳香氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"氨基酸氮芥\",\"value\":2}, {\"answer\":1,\"text\":\"杂环氮芥\",\"value\":3}]",
+    "title": "环磷酰胺属于"
+  },
+  {
+    "id": 39993,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"与两个胸嘧啶交叉联结\",\"value\":0}, {\"answer\":0,\"text\":\"与两个胞嘧啶交叉联结\",\"value\":1}, {\"answer\":0,\"text\":\"与两个腺嘌呤交叉联结\",\"value\":2}, {\"answer\":1,\"text\":\"与两个鸟嘌呤交叉联结\",\"value\":3}]",
+    "title": "氮芥抗恶性肿瘤的主要作用机制是"
+  },
+  {
+    "id": 39974,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"顺铂\",\"value\":0}, {\"answer\":1,\"text\":\"卡铂\",\"value\":1}, {\"answer\":1,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":1,\"text\":\"吉西他滨\",\"value\":3}, {\"answer\":0,\"text\":\"多柔比星\",\"value\":4}]",
+    "title": "患者,男性,67岁,诊断为“膀胱癌IV期肝转移,盆腔淋巴结转移。”既往有冠心病史。入院检查血常规、肝功能正常,肾功能检查示血肌酐升高,肾小球滤过率为54ml/min。该患者可以选择的化疗药物有"
+  },
+  {
+    "id": 39904,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"脂肪氮芥\",\"value\":0}, {\"answer\":1,\"text\":\"芳香氮芥\",\"value\":1}, {\"answer\":1,\"text\":\"多肽氮芥\",\"value\":2}, {\"answer\":1,\"text\":\"甾体氮芥\",\"value\":3}, {\"answer\":1,\"text\":\"杂环氮芥\",\"value\":4}]",
+    "title": "氮芥类药物根据载体结构不同可分为"
+  },
+  {
+    "id": 40092,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"多西他赛\",\"value\":0}, {\"answer\":0,\"text\":\"高三尖杉酯碱\",\"value\":1}, {\"answer\":1,\"text\":\"吉非替尼\",\"value\":2}, {\"answer\":1,\"text\":\"厄洛替尼\",\"value\":3}, {\"answer\":0,\"text\":\"阿莫昔芬\",\"value\":4}]",
+    "title": "下列抗肿瘤药物中可用于治疗转移性非小细胞肺癌的是"
+  },
+  {
+    "id": 39944,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"哌唑嗪\",\"value\":0}, {\"answer\":0,\"text\":\"阿替洛尔\",\"value\":1}, {\"answer\":1,\"text\":\"酚妥拉明\",\"value\":2}, {\"answer\":1,\"text\":\"硝普钠\",\"value\":3}, {\"answer\":1,\"text\":\"酚苄明\",\"value\":4}]",
+    "title": "可以单独用于治疗嗜铬细胞瘤的是"
+  },
+  {
+    "id": 40058,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用药期间严格监测血象\",\"value\":0}, {\"answer\":1,\"text\":\"妊娠期妇女慎用\",\"value\":1}, {\"answer\":0,\"text\":\"不宜静脉注射,静脉滴注速度不宜过快\",\"value\":2}, {\"answer\":1,\"text\":\"本品仅限应用0.9%氯化钠注射液稀释\",\"value\":3}, {\"answer\":0,\"text\":\"本品可用葡萄糖等酸性溶液溶解和稀释\",\"value\":4}]",
+    "title": "关于羟喜树碱的用药注意事项说法正确的有"
+  },
+  {
+    "id": 39909,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"化学名为（z）-二氨二氯铂\",\"value\":0}, {\"answer\":1,\"text\":\"室温条件下对光和空气稳定\",\"value\":1}, {\"answer\":0,\"text\":\"属抗代谢抗肿瘤药\",\"value\":2}, {\"answer\":1,\"text\":\"水溶液不稳定,能逐渐水解和转化为无活性的反式异构体\",\"value\":3}, {\"answer\":1,\"text\":\"临床用于治疗膀胱癌、前列腺癌、肺癌等,对肾毒性大\",\"value\":4}]",
+    "title": "下列有关顺铂的叙述,正确的是"
+  },
+  {
+    "id": 40089,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乳腺癌\",\"value\":0}, {\"answer\":1,\"text\":\"急性淋巴细胞白血病\",\"value\":1}, {\"answer\":1,\"text\":\"急性粒细胞白血病\",\"value\":2}, {\"answer\":1,\"text\":\"慢性淋巴细胞白血病\",\"value\":3}, {\"answer\":1,\"text\":\"黑色素瘤\",\"value\":4}]",
+    "title": "门冬酰胺酶的适应证包括"
+  },
+  {
+    "id": 39823,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制二氢叶酸还原酶\",\"value\":0}, {\"answer\":1,\"text\":\"抑制胸苷酸合成酶\",\"value\":1}, {\"answer\":0,\"text\":\"抑制嘌呤核苷酸互变\",\"value\":2}, {\"answer\":0,\"text\":\"抑制核苷酸还原酶\",\"value\":3}]",
+    "title": "氟尿嘧啶的抗癌作用机制是"
+  },
+  {
+    "id": 40040,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"可与DNA结合,破坏其结构与功能\",\"value\":0}, {\"answer\":0,\"text\":\"细胞增殖周期非特异性抑制剂\",\"value\":1}, {\"answer\":1,\"text\":\"典型不良反应为神经毒性\",\"value\":2}, {\"answer\":0,\"text\":\"与奥沙利铂无交叉耐药性\",\"value\":3}]",
+    "title": "关于顺铂的描述中错误的是"
+  },
+  {
+    "id": 39826,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制胸苷酸合成酶\",\"value\":0}, {\"answer\":1,\"text\":\"抑制脱氧核糖核酸多聚酶\",\"value\":1}, {\"answer\":0,\"text\":\"抑制二氢叶酸还原酶\",\"value\":2}, {\"answer\":0,\"text\":\"抑制嘌呤核苷酸互变\",\"value\":3}]",
+    "title": "阿糖胞苷的抗癌作用机制是"
+  },
+  {
+    "id": 39895,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替哌\",\"value\":0}, {\"answer\":1,\"text\":\"白消安\",\"value\":1}, {\"answer\":0,\"text\":\"卡莫氟\",\"value\":2}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "分子结构中含有甲磺酸酯基的药物是"
+  },
+  {
+    "id": 39879,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"乙撑亚胺类\",\"value\":0}, {\"answer\":1,\"text\":\"氮芥类\",\"value\":1}, {\"answer\":0,\"text\":\"亚硝基脲类\",\"value\":2}, {\"answer\":0,\"text\":\"磺酸酯类\",\"value\":3}]",
+    "title": "抗肿瘤药环磷酰胺的结构属于"
+  },
+  {
+    "id": 40023,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"他莫昔芬是目前临床上最常用的乳腺癌内分泌治疗药\",\"value\":0}, {\"answer\":0,\"text\":\"氟他胺适用于晚期前列腺癌患者\",\"value\":1}, {\"answer\":1,\"text\":\"芳香胺酶抑制剂可用于绝经前乳腺癌患者\",\"value\":2}, {\"answer\":0,\"text\":\"芳香胺酶抑制剂主要包括来曲唑和阿那曲唑\",\"value\":3}]",
+    "title": "下列说法错误的是"
+  },
+  {
+    "id": 40000,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"羟喜树碱\",\"value\":0}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":1}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":0,\"text\":\"伊立替康\",\"value\":3}]",
+    "title": "下列抗肿瘤药中作用机制不同的是"
+  },
+  {
+    "id": 39887,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替哌\",\"value\":0}, {\"answer\":0,\"text\":\"卡莫氟\",\"value\":1}, {\"answer\":0,\"text\":\"盐酸阿糖胞苷\",\"value\":2}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "以1-氧-3-氮-2-杂环乙烷为母体的抗肿瘤药是"
+  },
+  {
+    "id": 39997,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":2}, {\"answer\":0,\"text\":\"5-氟尿嘧啶\",\"value\":3}]",
+    "title": "治疗绒毛膜上皮细胞癌和恶性葡萄胎下列哪种药物疗效最差"
+  },
+  {
+    "id": 40010,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乳腺癌、卵巢癌\",\"value\":0}, {\"answer\":0,\"text\":\"脑瘤\",\"value\":1}, {\"answer\":0,\"text\":\"黑色素瘤\",\"value\":2}, {\"answer\":0,\"text\":\"淋巴瘤\",\"value\":3}]",
+    "title": "为二萜类化合物的紫杉醇,临床主要用于"
+  },
+  {
+    "id": 39928,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制免疫功能\",\"value\":0}, {\"answer\":0,\"text\":\"骨髓抑制\",\"value\":1}, {\"answer\":0,\"text\":\"消化道黏膜损害\",\"value\":2}, {\"answer\":1,\"text\":\"严重消瘦\",\"value\":3}]",
+    "title": "抗恶性肿瘤药物的主要不良反应不包括"
+  },
+  {
+    "id": 39982,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"胃粘膜相关组织淋巴瘤\",\"value\":0}, {\"answer\":0,\"text\":\"鼻腔NK/T细胞淋巴瘤\",\"value\":1}, {\"answer\":0,\"text\":\"霍奇金淋巴瘤\",\"value\":2}, {\"answer\":1,\"text\":\"弥漫大B细胞淋巴瘤\",\"value\":3}]",
+    "title": "可利用利妥昔单抗治疗的进展型淋巴瘤是"
+  },
+  {
+    "id": 39818,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":1,\"text\":\"长春瑞滨\",\"value\":1}, {\"answer\":1,\"text\":\"长春碱\",\"value\":2}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":3}, {\"answer\":1,\"text\":\"紫杉醇\",\"value\":4}]",
+    "title": "下列哪种药属于有丝分裂抑制剂"
+  },
+  {
+    "id": 39970,
+    "questionBankId": 31,
+    "selectItem": "[{\"value\":0,\"text\":\"吉非替尼\",\"answer\":1},{\"value\":1,\"text\":\"厄洛替尼\",\"answer\":1},{\"value\":2,\"text\":\"舒尼替尼\",\"answer\":0},{\"value\":3,\"text\":\"伊马替尼\",\"answer\":0},{\"value\":4,\"text\":\"索拉非尼\",\"answer\":0}]",
+    "title": "患者,男性,70岁,诊断为非小细胞肺癌IV期,不适宜放化疗,EGFR19外显子缺失突变,拟给予靶向治疗,可选的靶向药物有"
+  },
+  {
+    "id": 40016,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与伊立替康联用治疗表达表皮生长因子受体的转移性结直肠癌\",\"value\":0}, {\"answer\":0,\"text\":\"用于人表皮生长因子受体-2过度表达的转移性乳腺癌\",\"value\":1}, {\"answer\":1,\"text\":\"如发生严重皮肤反应要中断治疗,直到皮肤反应恢复到2级再重新治疗\",\"value\":2}, {\"answer\":0,\"text\":\"如严重的皮肤反应第二次出现,则须永久停用本品\",\"value\":3}, {\"answer\":1,\"text\":\"与顺铂联合应用可增强抗肿瘤疗效\",\"value\":4}]",
+    "title": "下列关于西妥昔单抗的描述正确的是"
+  },
+  {
+    "id": 40056,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"仅当中性粒细胞计数≥0.15×109/L后,方可恢复伊立替康治疗\",\"value\":0}, {\"answer\":0,\"text\":\"治疗前及每周期化疗前均检查肾功能\",\"value\":1}, {\"answer\":1,\"text\":\"禁用于胆红素超过正常值上限1.5倍的患者\",\"value\":2}, {\"answer\":1,\"text\":\"若出现急性胆碱能综合征,应使用硫酸阿托品治疗\",\"value\":3}, {\"answer\":1,\"text\":\"使用本品24小时内可能出现头晕及视物障碍\",\"value\":4}]",
+    "title": "下列对伊立替康用药监护说法正确的是"
+  },
+  {
+    "id": 39850,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"5-FU\",\"value\":0}, {\"answer\":1,\"text\":\"马利兰\",\"value\":1}, {\"answer\":0,\"text\":\"阿霉素\",\"value\":2}, {\"answer\":1,\"text\":\"博来霉素\",\"value\":3}, {\"answer\":0,\"text\":\"三尖杉酯碱\",\"value\":4}]",
+    "title": "可致肺纤维化的抗肿瘤药为"
+  },
+  {
+    "id": 40038,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨髓功能抑制\",\"value\":0}, {\"answer\":1,\"text\":\"心肝肾功能严重障碍者\",\"value\":1}, {\"answer\":1,\"text\":\"妊娠期妇女\",\"value\":2}, {\"answer\":0,\"text\":\"慢性胃炎\",\"value\":3}, {\"answer\":1,\"text\":\"禁用于儿童肌内注射\",\"value\":4}]",
+    "title": "下列哪些属于依托泊苷的禁忌症"
+  },
+  {
+    "id": 39839,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"5-氟尿嘧啶\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":1,\"text\":\"噻替哌\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}, {\"answer\":1,\"text\":\"雄激素\",\"value\":4}]",
+    "title": "对于乳腺癌,可选用"
+  },
+  {
+    "id": 40083,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"曲妥珠单抗\",\"value\":0}, {\"answer\":0,\"text\":\"贝伐珠单抗\",\"value\":1}, {\"answer\":0,\"text\":\"西妥昔单抗\",\"value\":2}, {\"answer\":1,\"text\":\"帕妥珠单抗\",\"value\":3}, {\"answer\":0,\"text\":\"利妥昔单抗\",\"value\":4}]",
+    "title": "用于治疗乳腺癌的靶向药物包括"
+  },
+  {
+    "id": 40001,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"噻替哌\",\"value\":1}, {\"answer\":1,\"text\":\"奥沙利铂\",\"value\":2}, {\"answer\":1,\"text\":\"博来霉素\",\"value\":3}, {\"answer\":0,\"text\":\"柔红霉素\",\"value\":4}]",
+    "title": "下列抗肿瘤药中通过直接影响DNA结构和功能发挥作用的的是"
+  },
+  {
+    "id": 39922,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春新碱+顺铂+博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿糖胞苷+巯嘌呤\",\"value\":1}, {\"answer\":0,\"text\":\"多柔比星+环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"长春新碱+巯嘌呤\",\"value\":3}]",
+    "title": "睾丸癌联合应用"
+  },
+  {
+    "id": 39945,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"其神经系统毒性与剂量大小无关\",\"value\":0}, {\"answer\":0,\"text\":\"应给予预防性或治疗性的止吐用药\",\"value\":1}, {\"answer\":0,\"text\":\"遇冷可加重奥沙利铂的神经毒性\",\"value\":2}, {\"answer\":0,\"text\":\"与氯化钠和碱性溶液（特别是氟尿嘧啶）之间存在配伍禁忌\",\"value\":3}, {\"answer\":0,\"text\":\"垂体肿瘤\",\"value\":4}]",
+    "title": "下列关于奥沙利铂的描述,错误的是"
+  },
+  {
+    "id": 40096,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"选择敏感药物\",\"value\":0}, {\"answer\":0,\"text\":\"选用毒副作用不同的药物\",\"value\":1}, {\"answer\":1,\"text\":\"为避免药物不良反应发生,尽量单一用药\",\"value\":2}, {\"answer\":0,\"text\":\"联合应用时相特异性和非特异性药物\",\"value\":3}]",
+    "title": "制定抗肿瘤个体化药物治疗方案时应遵循的原则不包括"
+  },
+  {
+    "id": 39847,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"6-巯基嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":0,\"text\":\"白消安\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "与博来霉素和长春新碱联合化疗可以根治睾丸癌的药物是"
+  },
+  {
+    "id": 39938,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"他莫昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"托瑞米芬\",\"value\":1}, {\"answer\":1,\"text\":\"氟他胺\",\"value\":2}, {\"answer\":0,\"text\":\"乙烯雌酚\",\"value\":3}]",
+    "title": "属于抗雄激素类,可用于晚期前列腺癌治疗的首选药品是"
+  },
+  {
+    "id": 39856,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"4-羟环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"磷酰胺氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"醛磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"丙烯醛\",\"value\":3}]",
+    "title": "环磷酰胺在细胞内转化何种强效代谢物起烷化作用"
+  },
+  {
+    "id": 39914,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"马利兰\",\"value\":1}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":2}, {\"answer\":1,\"text\":\"阿糖胞苷\",\"value\":3}]",
+    "title": "下述何种药物属于周期特异性抗肿瘤药"
+  },
+  {
+    "id": 39963,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"40mg,bid\",\"value\":0}, {\"answer\":0,\"text\":\"50mg,bid\",\"value\":1}, {\"answer\":1,\"text\":\"60mg,bid\",\"value\":2}, {\"answer\":0,\"text\":\"70mg,bid\",\"value\":3}]",
+    "title": "患者,女性,61岁,身高1.64m,体重60kg,因胃癌肝转移入院。目前患者不耐受全身化疗,拟口服替吉奥胶囊治疗。应该给予的标准剂量为"
+  },
+  {
+    "id": 39947,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利妥昔单抗\",\"value\":0}, {\"answer\":1,\"text\":\"西妥昔单抗\",\"value\":1}, {\"answer\":0,\"text\":\"曲妥珠单抗\",\"value\":2}, {\"answer\":0,\"text\":\"吉非替尼\",\"value\":3}]",
+    "title": "仅对K-RAS野生型的晚期转移性结直肠癌有效的分子靶向药物是"
+  },
+  {
+    "id": 39825,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制二氢叶酸还原酶\",\"value\":0}, {\"answer\":0,\"text\":\"抑制胸苷酸合成酶\",\"value\":1}, {\"answer\":0,\"text\":\"抑制嘌呤核苷酸互变\",\"value\":2}, {\"answer\":1,\"text\":\"抑制核苷酸还原酶\",\"value\":3}]",
+    "title": "羟基脲的抗癌作用机制是"
+  },
+  {
+    "id": 39995,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"植物碱类\",\"value\":0}, {\"answer\":1,\"text\":\"激素类\",\"value\":1}, {\"answer\":0,\"text\":\"烷化剂\",\"value\":2}, {\"answer\":0,\"text\":\"抗代谢类\",\"value\":3}]",
+    "title": "下列抗恶性肿瘤药物中,对骨髓造血功能没有抑制作用的是"
+  },
+  {
+    "id": 39871,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿霉素\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":2}, {\"answer\":1,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "下列药物中大剂量可产生耳毒性的药物是"
+  },
+  {
+    "id": 39929,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":1,\"text\":\"5-氟尿嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":3}]",
+    "title": "抑制胸苷酸合成酶,从而抑制DNA合成的药物是"
+  },
+  {
+    "id": 39860,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"马利兰\",\"value\":1}, {\"answer\":1,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":3}]",
+    "title": "阻碍细胞有丝分裂的抗癌药是"
+  },
+  {
+    "id": 39994,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"M期细胞对抗肿瘤药物不敏感\",\"value\":0}, {\"answer\":0,\"text\":\"S期细胞对抗肿瘤药物不敏感\",\"value\":1}, {\"answer\":0,\"text\":\"G1期细胞对抗肿瘤药物不敏感\",\"value\":2}, {\"answer\":1,\"text\":\"G0期细胞对抗肿瘤药物不敏感\",\"value\":3}]",
+    "title": "恶性肿瘤化疗后易于复发,其原因是"
+  },
+  {
+    "id": 39910,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"大剂量引起中毒,可用亚叶酸钙解救\",\"value\":0}, {\"answer\":1,\"text\":\"为抗代谢抗肿瘤药\",\"value\":1}, {\"answer\":0,\"text\":\"为烷化剂抗肿瘤药\",\"value\":2}, {\"answer\":1,\"text\":\"为叶酸拮抗剂,有较强的抑制二氢叶酸还原酶作用\",\"value\":3}, {\"answer\":1,\"text\":\"临床主要用于急性白血病\",\"value\":4}]",
+    "title": "下列有关甲氨蝶呤的叙述,正确的是"
+  },
+  {
+    "id": 40072,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"可用于治疗各种类型的急性白血病\",\"value\":0}, {\"answer\":0,\"text\":\"可迅速溶解肿瘤细胞而致血中尿素和尿酸升高\",\"value\":1}, {\"answer\":1,\"text\":\"可与别嘌醇混合注射增强疗效\",\"value\":2}, {\"answer\":0,\"text\":\"可引起不育\",\"value\":3}, {\"answer\":1,\"text\":\"本品口服无效,可肌内注射和鞘内注射\",\"value\":4}]",
+    "title": "下列关于柔红霉素的说法错误的是"
+  },
+  {
+    "id": 39886,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"橙黄色结晶性粉末\",\"value\":0}, {\"answer\":1,\"text\":\"为二氢叶酸还原酶抑制剂\",\"value\":1}, {\"answer\":0,\"text\":\"治疗实体瘤的首选药\",\"value\":2}, {\"answer\":1,\"text\":\"用于急性白血病、绒毛膜上皮癌的治疗\",\"value\":3}, {\"answer\":1,\"text\":\"在强酸中不稳定,可水解\",\"value\":4}]",
+    "title": "下列对甲氨蝶呤描述正确的有"
+  },
+  {
+    "id": 39977,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"400mg/d\",\"value\":0}, {\"answer\":1,\"text\":\"600mg/d\",\"value\":1}, {\"answer\":0,\"text\":\"2000mg/d\",\"value\":2}, {\"answer\":0,\"text\":\"2400mg/d\",\"value\":3}]",
+    "title": "普瑞巴林的日限制剂量为"
+  },
+  {
+    "id": 39829,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抗代谢药\",\"value\":0}, {\"answer\":0,\"text\":\"烷化剂\",\"value\":1}, {\"answer\":0,\"text\":\"抗癌抗生素\",\"value\":2}, {\"answer\":0,\"text\":\"长春碱类\",\"value\":3}]",
+    "title": "主要作用于S期的抗肿瘤药物是"
+  },
+  {
+    "id": 39884,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"2,4,6-三（二甲氨基）均三嗪\",\"value\":0}, {\"answer\":0,\"text\":\"1,3-双（2-氯乙基）-1-亚硝基脲\",\"value\":1}, {\"answer\":1,\"text\":\"1,4-丁二醇二甲磺酸酯\",\"value\":2}, {\"answer\":0,\"text\":\"5-氟-2,4（1H,3H）嘧啶二酮\",\"value\":3}]",
+    "title": "白消安的化学名为"
+  },
+  {
+    "id": 40026,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"依托泊苷\",\"value\":0}, {\"answer\":1,\"text\":\"顺铂\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"吉西他滨\",\"value\":3}]",
+    "title": "下列抗肿瘤药物中存在高致吐风险的是"
+  },
+  {
+    "id": 39889,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"卡莫氟\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":1,\"text\":\"美法仑\",\"value\":2}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":3}]",
+    "title": "含有氨基酸结构的药物是"
+  },
+  {
+    "id": 40043,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"发生外渗后局部使用解毒剂\",\"value\":0}, {\"answer\":0,\"text\":\"当化疗药渗漏时,应即停止注射\",\"value\":1}, {\"answer\":0,\"text\":\"根据化疗药的特性采取相应的防治措施\",\"value\":2}, {\"answer\":1,\"text\":\"预防给予糖皮质激素\",\"value\":3}]",
+    "title": "应对抗肿瘤药物血管外渗的措施不包括"
+  },
+  {
+    "id": 39983,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"急性淋巴细胞性白血病\",\"value\":0}, {\"answer\":0,\"text\":\"急性粒细胞性白血病\",\"value\":1}, {\"answer\":0,\"text\":\"慢性淋巴细胞性白血病\",\"value\":2}, {\"answer\":1,\"text\":\"慢性粒细胞性白血病\",\"value\":3}]",
+    "title": "抗恶性肿瘤药物白消安的临床最佳适应症是"
+  },
+  {
+    "id": 39891,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"异环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"美法仑\",\"value\":1}, {\"answer\":0,\"text\":\"白消安\",\"value\":2}, {\"answer\":1,\"text\":\"卡莫氟\",\"value\":3}]",
+    "title": "在体内代谢成氟尿嘧啶的药物是"
+  },
+  {
+    "id": 39950,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"昂丹司琼\",\"value\":0}, {\"answer\":0,\"text\":\"托烷司琼\",\"value\":1}, {\"answer\":0,\"text\":\"格拉司琼\",\"value\":2}, {\"answer\":1,\"text\":\"帕洛诺司琼\",\"value\":3}]",
+    "title": "下列5-HT3受体拮抗剂,半衰期最长的是"
+  },
+  {
+    "id": 39831,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":1,\"text\":\"柔红霉素\",\"value\":1}, {\"answer\":0,\"text\":\"白消安\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "对心脏有毒性作用的抗恶性肿瘤药是"
+  },
+  {
+    "id": 39956,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"EP（依托泊苷联合顺铂）\",\"value\":0}, {\"answer\":0,\"text\":\"GP（吉西他滨联合顺铂）\",\"value\":1}, {\"answer\":0,\"text\":\"NP（长春瑞滨联合顺铂）\",\"value\":2}, {\"answer\":0,\"text\":\"DP（多西他赛联合顺铂）\",\"value\":3}]",
+    "title": "患者,男性,54岁,因刺激性干咳,伴胸闷症状入院,诊断为（右肺中叶）小细胞肺癌,拟行同步放化疗。该患者首选的化疗方案是"
+  },
+  {
+    "id": 39937,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"柔红霉素\",\"value\":0}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":1}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":3}]",
+    "title": "可导致神经毒性（四肢麻木、腱反射消失）的抗肿瘤药是"
+  },
+  {
+    "id": 39846,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"G0期\",\"value\":0}, {\"answer\":0,\"text\":\"G1期\",\"value\":1}, {\"answer\":0,\"text\":\"S期\",\"value\":2}, {\"answer\":0,\"text\":\"G2期\",\"value\":3}]",
+    "title": "周期非特异性抗肿瘤药对下列哪期肿瘤细胞不敏感"
+  },
+  {
+    "id": 39861,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"噻替哌\",\"value\":3}]",
+    "title": "下列抗肿瘤药中有细胞增殖周期特异性的是"
+  },
+  {
+    "id": 39924,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"FeCl3,紫色\",\"value\":0}, {\"answer\":1,\"text\":\"溴水,褪色\",\"value\":1}, {\"answer\":0,\"text\":\"AgNO3,白色沉淀\",\"value\":2}, {\"answer\":0,\"text\":\"NaOH,红色\",\"value\":3}]",
+    "title": "区别氟尿嘧啶与环磷酰胺可采用下列什么试剂,有何现象"
+  },
+  {
+    "id": 39920,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春新碱+顺铂+博来霉素\",\"value\":0}, {\"answer\":1,\"text\":\"阿糖胞苷+巯嘌呤\",\"value\":1}, {\"answer\":0,\"text\":\"多柔比星+环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"长春新碱+巯嘌呤\",\"value\":3}]",
+    "title": "急性髓性白血病联合用药"
+  },
+  {
+    "id": 39902,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"不溶于稀盐酸和氢氧化钠溶液\",\"value\":0}, {\"answer\":1,\"text\":\"可在其处方中加入亚硫酸氢钠\",\"value\":1}, {\"answer\":0,\"text\":\"可用溴水鉴别\",\"value\":2}, {\"answer\":0,\"text\":\"本品是治疗实体肿瘤的首选药物\",\"value\":3}, {\"answer\":0,\"text\":\"略溶于水\",\"value\":4}]",
+    "title": "关于5-Fu的理化性质错误的是"
+  },
+  {
+    "id": 40042,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"化疗应由具有资质的专业人员操作\",\"value\":0}, {\"answer\":1,\"text\":\"当化疗药渗漏时,应即停止注射\",\"value\":1}, {\"answer\":1,\"text\":\"根据化疗药的特性采取相应的防治措施\",\"value\":2}, {\"answer\":0,\"text\":\"预防给予糖皮质激素\",\"value\":3}, {\"answer\":1,\"text\":\"发生外渗后局部使用解毒剂\",\"value\":4}]",
+    "title": "应对抗肿瘤药物血管外渗的措施包括"
+  },
+  {
+    "id": 39985,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"他莫昔芬\",\"value\":0}, {\"answer\":0,\"text\":\"氯羟基甲酰孕酮\",\"value\":1}, {\"answer\":1,\"text\":\"丙酸睾丸酮\",\"value\":2}, {\"answer\":1,\"text\":\"甲羟孕酮\",\"value\":3}, {\"answer\":1,\"text\":\"氨基苯己哌啶酮\",\"value\":4}]",
+    "title": "下列激素类抗恶性肿瘤药物中,可用于治疗乳腺癌的是"
+  },
+  {
+    "id": 40012,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春瑞滨\",\"value\":0}, {\"answer\":1,\"text\":\"双氟胞苷\",\"value\":1}, {\"answer\":1,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":1,\"text\":\"多西他赛\",\"value\":3}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":4}]",
+    "title": "临床上主要与铂类药物联合使用,作为非小细胞肺癌的一线或二线用药的药物是"
+  },
+  {
+    "id": 39851,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":1,\"text\":\"L-门冬酰胺酶\",\"value\":3}]",
+    "title": "下列哪个药物通过抑制蛋白质合成产生抗肿瘤作用"
+  },
+  {
+    "id": 39824,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"抑制二氢叶酸还原酶\",\"value\":0}, {\"answer\":0,\"text\":\"抑制胸苷酸合成酶\",\"value\":1}, {\"answer\":1,\"text\":\"抑制嘌呤核苷酸互变\",\"value\":2}, {\"answer\":0,\"text\":\"抑制核苷酸还原酶\",\"value\":3}]",
+    "title": "巯嘌呤的抗癌作用机制是"
+  },
+  {
+    "id": 39915,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"叶酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B\",\"value\":1}, {\"answer\":0,\"text\":\"磷酸亚铁\",\"value\":2}, {\"answer\":1,\"text\":\"甲酰四氢叶酸钙\",\"value\":3}]",
+    "title": "为了减轻甲氨蝶呤的毒性反应所用救援剂是"
+  },
+  {
+    "id": 39951,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"厄洛替尼与西咪替丁\",\"value\":0}, {\"answer\":0,\"text\":\"亚叶酸钙与氟尿嘧啶\",\"value\":1}, {\"answer\":0,\"text\":\"吉西他滨与顺铂\",\"value\":2}, {\"answer\":0,\"text\":\"小剂量顺铂同步放疗\",\"value\":3}]",
+    "title": "下列相互作用不会产生协同作用的是"
+  },
+  {
+    "id": 40095,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"巯嘌呤\",\"value\":1}, {\"answer\":0,\"text\":\"噻替哌\",\"value\":2}, {\"answer\":0,\"text\":\"顺铂\",\"value\":3}]",
+    "title": "对骨髓造血功能抑制较轻的抗癌药是"
+  },
+  {
+    "id": 39877,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"β-氯化乙胺类化合物\",\"value\":0}, {\"answer\":0,\"text\":\"苯醌类化合物\",\"value\":1}, {\"answer\":0,\"text\":\"抗代谢物\",\"value\":2}, {\"answer\":0,\"text\":\"抗生素\",\"value\":3}]",
+    "title": "氮芥类药物为"
+  },
+  {
+    "id": 39867,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"属周期非特异性药\",\"value\":0}, {\"answer\":1,\"text\":\"属周期特异性药\",\"value\":1}, {\"answer\":0,\"text\":\"抑制肿瘤细胞DNA和RNA合成\",\"value\":2}, {\"answer\":0,\"text\":\"引起骨髓抑制及脱发\",\"value\":3}]",
+    "title": "对阿霉素特点描述中错误者为"
+  },
+  {
+    "id": 39965,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"每日两次,空腹或伴低脂、中脂饮食服用\",\"value\":0}, {\"answer\":0,\"text\":\"空腹或与食物同服\",\"value\":1}, {\"answer\":0,\"text\":\"进食前1小时或进食后2小时服用\",\"value\":2}, {\"answer\":0,\"text\":\"在进餐时服药,并饮一大杯水\",\"value\":3}]",
+    "title": "患者,男性,70岁,确诊为肝癌IV期,拟行索拉非尼单药方案靶向治疗。该药正确的服用方法是"
+  },
+  {
+    "id": 39926,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春碱\",\"value\":0}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":1}, {\"answer\":0,\"text\":\"羟喜树碱\",\"value\":2}, {\"answer\":0,\"text\":\"氟他米特\",\"value\":3}]",
+    "title": "影响微管装配,阻碍纺锤体形成的药物是"
+  },
+  {
+    "id": 40076,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吉西他滨\",\"value\":0}, {\"answer\":0,\"text\":\"奈达铂\",\"value\":1}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":1,\"text\":\"奥沙利铂\",\"value\":3}]",
+    "title": "只能用5%葡萄糖做溶媒的化疗药是"
+  },
+  {
+    "id": 39836,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"G0期\",\"value\":0}, {\"answer\":1,\"text\":\"G1期\",\"value\":1}, {\"answer\":0,\"text\":\"S期\",\"value\":2}, {\"answer\":0,\"text\":\"G2期\",\"value\":3}]",
+    "title": "放线菌素D对处于哪期的肿瘤细胞作用较强"
+  },
+  {
+    "id": 39872,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"影响核酸生物合成\",\"value\":0}, {\"answer\":0,\"text\":\"影响蛋白质合成\",\"value\":1}, {\"answer\":1,\"text\":\"直接破坏DNA并阻止其复制\",\"value\":2}, {\"answer\":0,\"text\":\"影响激素平衡\",\"value\":3}]",
+    "title": "烷化剂的抗癌机制是"
+  },
+  {
+    "id": 39981,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃粘膜相关组织淋巴瘤\",\"value\":0}, {\"answer\":0,\"text\":\"鼻腔NK/T细胞淋巴瘤\",\"value\":1}, {\"answer\":0,\"text\":\"霍奇金淋巴瘤\",\"value\":2}, {\"answer\":0,\"text\":\"弥漫大B细胞淋巴瘤\",\"value\":3}]",
+    "title": "可以不用放化疗就能治愈的淋巴瘤是"
+  },
+  {
+    "id": 40074,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"与华法林联合应用,可发生抗凝作用的显著升高\",\"value\":0}, {\"answer\":0,\"text\":\"与依托泊苷合用可增加本品毒性\",\"value\":1}, {\"answer\":1,\"text\":\"适宜与雌激素合用\",\"value\":2}, {\"answer\":0,\"text\":\"他莫昔芬肠衣片与西咪替丁合用时应间隔1~3h\",\"value\":3}, {\"answer\":1,\"text\":\"不能与多柔比星合用\",\"value\":4}]",
+    "title": "下列关于他莫昔芬与药物合用的说法错误的是"
+  },
+  {
+    "id": 40091,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利福平\",\"value\":0}, {\"answer\":1,\"text\":\"环丙沙星\",\"value\":1}, {\"answer\":1,\"text\":\"克拉霉素\",\"value\":2}, {\"answer\":0,\"text\":\"苯巴比妥\",\"value\":3}, {\"answer\":1,\"text\":\"红霉素\",\"value\":4}]",
+    "title": "与下列哪些药物联合应用时,吉非替尼的药-时曲线下面积会增加"
+  },
+  {
+    "id": 40019,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"进行有效口腔护理\",\"value\":0}, {\"answer\":1,\"text\":\"真菌感染应用制霉素液（1000U/100ml）漱口\",\"value\":1}, {\"answer\":1,\"text\":\"局部应用硫糖铝-利多卡因-苯海拉明组成的糊剂、氯己定口腔溃疡膜等\",\"value\":2}, {\"answer\":1,\"text\":\"经常洗漱口腔\",\"value\":3}, {\"answer\":0,\"text\":\"常规静脉给予抗菌药物进行预防\",\"value\":4}]",
+    "title": "抗肿瘤药物引起的口腔黏膜反应的处理措施包括"
+  },
+  {
+    "id": 40052,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"蛋白尿\",\"value\":0}, {\"answer\":1,\"text\":\"迟发性腹泻\",\"value\":1}, {\"answer\":0,\"text\":\"低血压\",\"value\":2}, {\"answer\":1,\"text\":\"中性粒细胞减少\",\"value\":3}, {\"answer\":1,\"text\":\"乙酰胆碱综合征\",\"value\":4}]",
+    "title": "伊立替康的典型不良反应包括"
+  },
+  {
+    "id": 40065,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"与氟尿嘧啶同一时间使用可产生协同作用\",\"value\":0}, {\"answer\":1,\"text\":\"与糖皮质激素长期联用可引起膀胱移行细胞癌\",\"value\":1}, {\"answer\":1,\"text\":\"用本品前24h或10min后使用阿糖胞苷可增加本品抗癌活性\",\"value\":2}, {\"answer\":1,\"text\":\"与维生素C合用可消除本品化疗引起的恶心\",\"value\":3}, {\"answer\":0,\"text\":\"与非甾体抗炎药合用可减轻骨髓抑制\",\"value\":4}]",
+    "title": "下列关于甲氨蝶呤与药物合用的说法正确的是"
+  },
+  {
+    "id": 39958,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"继续原方案化疗,随访\",\"value\":0}, {\"answer\":0,\"text\":\"更换化疗方案为AT方案（紫杉醇联合多柔比星）\",\"value\":1}, {\"answer\":1,\"text\":\"更换化疗方案为TC方案（紫杉醇联合卡铂）\",\"value\":2}, {\"answer\":0,\"text\":\"口服他莫昔芬内分泌治疗\",\"value\":3}]",
+    "title": "患者,女性,57岁,因“左乳腺癌肺转移”入院。患者于2年前行左乳腺癌根治术,术后病理示：左乳浸润性导管癌Ⅱ级,左腋下淋巴结2/15(+)。免疫组化示：ER(-),PR(-),Her2(-)。术后予以CMF方案（CTX+MTX+5-Fu）化疗6周期。目前复查CT示：肺部转移。既往有冠心病病史。下一步最佳的治疗方案是"
+  },
+  {
+    "id": 39893,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替哌\",\"value\":0}, {\"answer\":0,\"text\":\"白消安\",\"value\":1}, {\"answer\":0,\"text\":\"卡莫氟\",\"value\":2}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "分子结构中含有谷氨酸片段的药物是"
+  },
+  {
+    "id": 40081,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"拉帕替尼\",\"value\":0}, {\"answer\":0,\"text\":\"贝伐珠单抗\",\"value\":1}, {\"answer\":0,\"text\":\"吉非替尼\",\"value\":2}, {\"answer\":0,\"text\":\"帕尼单抗\",\"value\":3}]",
+    "title": "同时作用HER2和EGFR两个靶点的药物是"
+  },
+  {
+    "id": 39820,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"巯嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":2}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":3}]",
+    "title": "主要作用于M期的抗肿瘤药是"
+  },
+  {
+    "id": 40005,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿托品\",\"value\":0}, {\"answer\":0,\"text\":\"肾上腺素\",\"value\":1}, {\"answer\":1,\"text\":\"酚妥拉明\",\"value\":2}, {\"answer\":0,\"text\":\"山莨菪碱\",\"value\":3}]",
+    "title": "下列何药适用于诊断嗜铬细胞瘤"
+  },
+  {
+    "id": 39840,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"叶酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B12\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":1,\"text\":\"亚叶酸钙\",\"value\":3}]",
+    "title": "为减轻甲氨蝶呤的骨髓抑制毒性反应,常用下列哪种药合用"
+  },
+  {
+    "id": 39942,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾上腺素\",\"value\":0}, {\"answer\":1,\"text\":\"酚妥拉明\",\"value\":1}, {\"answer\":0,\"text\":\"阿托品\",\"value\":2}, {\"answer\":0,\"text\":\"吲哚洛尔\",\"value\":3}]",
+    "title": "可用于诊治嗜铬细胞瘤的药物是"
+  },
+  {
+    "id": 39837,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃肠道反应\",\"value\":0}, {\"answer\":1,\"text\":\"脱发\",\"value\":1}, {\"answer\":1,\"text\":\"血尿、蛋白尿\",\"value\":2}, {\"answer\":1,\"text\":\"骨髓抑制\",\"value\":3}, {\"answer\":1,\"text\":\"肝功能损害\",\"value\":4}]",
+    "title": "环磷酰胺的不良反应为"
+  },
+  {
+    "id": 40051,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"依托泊苷\",\"value\":0}, {\"answer\":1,\"text\":\"伊立替康\",\"value\":1}, {\"answer\":1,\"text\":\"拓扑替康\",\"value\":2}, {\"answer\":1,\"text\":\"羟喜树碱\",\"value\":3}, {\"answer\":0,\"text\":\"替尼泊苷\",\"value\":4}]",
+    "title": "拓扑异构酶Ⅰ抑制剂的代表药物包括"
+  },
+  {
+    "id": 39991,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"G0期\",\"value\":0}, {\"answer\":0,\"text\":\"G1期\",\"value\":1}, {\"answer\":0,\"text\":\"S期\",\"value\":2}, {\"answer\":1,\"text\":\"M期\",\"value\":3}]",
+    "title": "增长缓慢的恶性肿瘤经药物治疗后,残留肿瘤细胞的增殖周期中哪一期相对减少"
+  },
+  {
+    "id": 39880,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乙撑亚胺类\",\"value\":0}, {\"answer\":0,\"text\":\"氮芥类\",\"value\":1}, {\"answer\":0,\"text\":\"多元醇类\",\"value\":2}, {\"answer\":0,\"text\":\"三氮烯咪唑类\",\"value\":3}]",
+    "title": "药物噻替哌属于"
+  },
+  {
+    "id": 40032,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"枸橼酸他莫西芬\",\"value\":0}, {\"answer\":0,\"text\":\"巯嘌呤\",\"value\":1}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":0,\"text\":\"吉非替尼\",\"value\":3}]",
+    "title": "作用机制是竞争雌激素受体的药物是"
+  },
+  {
+    "id": 39984,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"柔红霉素\",\"value\":0}, {\"answer\":1,\"text\":\"博来霉素\",\"value\":1}, {\"answer\":0,\"text\":\"丝裂霉素C\",\"value\":2}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":3}]",
+    "title": "下列抗癌抗生素中,骨髓抑制副作用较轻的是"
+  },
+  {
+    "id": 40090,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"乳腺癌\",\"value\":0}, {\"answer\":0,\"text\":\"急性淋巴细胞白血病\",\"value\":1}, {\"answer\":0,\"text\":\"急性粒细胞白血病\",\"value\":2}, {\"answer\":0,\"text\":\"慢性淋巴细胞白血病\",\"value\":3}]",
+    "title": "门冬酰胺酶的适应证不包括"
+  },
+  {
+    "id": 39852,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"塞替派\",\"value\":0}, {\"answer\":0,\"text\":\"白消安\",\"value\":1}, {\"answer\":0,\"text\":\"顺铂\",\"value\":2}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "对恶性淋巴瘤疗效显著的是哪个药"
+  },
+  {
+    "id": 39888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"紫杉醇\",\"value\":0}, {\"answer\":0,\"text\":\"硫酸长春新碱\",\"value\":1}, {\"answer\":1,\"text\":\"米托蒽醌\",\"value\":2}, {\"answer\":0,\"text\":\"来曲唑\",\"value\":3}]",
+    "title": "下列与阿霉素属于同一结构类型的药物是"
+  },
+  {
+    "id": 39921,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春新碱+顺铂+博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿糖胞苷+巯嘌呤\",\"value\":1}, {\"answer\":1,\"text\":\"多柔比星+环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"长春新碱+巯嘌呤\",\"value\":3}]",
+    "title": "乳腺癌联合应用"
+  },
+  {
+    "id": 40013,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"用于复发或耐药的滤泡性中央型淋巴瘤\",\"value\":0}, {\"answer\":0,\"text\":\"常用于弥漫大B细胞性非何杰金淋巴瘤联合CVP治疗\",\"value\":1}, {\"answer\":1,\"text\":\"静脉滴注\",\"value\":2}, {\"answer\":1,\"text\":\"可能导致严重的皮肤黏膜反应\",\"value\":3}, {\"answer\":1,\"text\":\"骨髓功能差的患者慎用\",\"value\":4}]",
+    "title": "下列关于利妥昔单抗的描述正确的是"
+  },
+  {
+    "id": 40011,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白血病\",\"value\":0}, {\"answer\":1,\"text\":\"卵巢癌\",\"value\":1}, {\"answer\":1,\"text\":\"乳腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"黑色素瘤\",\"value\":3}, {\"answer\":1,\"text\":\"非小细胞肺癌\",\"value\":4}]",
+    "title": "紫杉醇临床主要用于"
+  },
+  {
+    "id": 39901,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"形成环氧乙胺\",\"value\":0}, {\"answer\":1,\"text\":\"嵌入DNA\",\"value\":1}, {\"answer\":0,\"text\":\"形成碳正离子\",\"value\":2}, {\"answer\":0,\"text\":\"形成羟基络合物\",\"value\":3}]",
+    "title": "放线菌素D的作用原理"
+  },
+  {
+    "id": 39961,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"利妥昔单抗\",\"value\":0}, {\"answer\":0,\"text\":\"西妥昔单抗\",\"value\":1}, {\"answer\":0,\"text\":\"曲妥珠单抗\",\"value\":2}, {\"answer\":1,\"text\":\"贝伐珠单抗\",\"value\":3}]",
+    "title": "患者,女性,58岁,因“直肠腺癌肝转移”入院,K-RAS基因检测为突变型。目前拟行FOLFOX联合靶向治疗,可以选择的靶向药物是"
+  },
+  {
+    "id": 39876,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"阿霉素\",\"value\":1}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "下列药物中会导致比较严重的神经毒性的是"
+  },
+  {
+    "id": 39853,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氮芥\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"白消安\",\"value\":2}, {\"answer\":0,\"text\":\"氮甲\",\"value\":3}]",
+    "title": "脱发发生率最高的烷化剂是哪个药"
+  },
+  {
+    "id": 39918,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"喜树碱\",\"value\":0}, {\"answer\":0,\"text\":\"长春碱\",\"value\":1}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":2}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":3}]",
+    "title": "能干扰DNA拓扑异构酶Ⅰ的活性,从而抑制DNA合成的药物是"
+  },
+  {
+    "id": 39845,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"阻止脱氧尿苷酸甲基化为脱氧胸苷酸\",\"value\":0}, {\"answer\":0,\"text\":\"阻止肌苷酸转变为鸟苷酸\",\"value\":1}, {\"answer\":0,\"text\":\"阻止胞苷酸转变为脱氧胞苷酸\",\"value\":2}, {\"answer\":0,\"text\":\"阻止叶酸转变为四氢叶酸\",\"value\":3}]",
+    "title": "5-FU的抗肿瘤作用"
+  },
+  {
+    "id": 40035,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"5-HT3受体阻断剂+口服地塞米松+阿瑞吡坦\",\"value\":0}, {\"answer\":1,\"text\":\"5-HT3受体阻断剂+口服地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"每日化疗前,应用5-HT3受体阻断剂或口服地塞米松\",\"value\":2}, {\"answer\":0,\"text\":\"必须时,每天于化疗前,应用5-HT3受体阻断剂,化疗后不需应用\",\"value\":3}]",
+    "title": "中度致吐性化疗药所引起恶心呕吐的治疗应选"
+  },
+  {
+    "id": 40030,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"紫杉醇\",\"value\":0}, {\"answer\":1,\"text\":\"来曲唑\",\"value\":1}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":0,\"text\":\"伊马替尼\",\"value\":3}]",
+    "title": "作用于芳香化酶的抗肿瘤药物是"
+  },
+  {
+    "id": 40039,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"药物性肝炎\",\"value\":0}, {\"answer\":0,\"text\":\"出血性膀胱炎\",\"value\":1}, {\"answer\":0,\"text\":\"骨髓抑制\",\"value\":2}, {\"answer\":1,\"text\":\"肺纤维化\",\"value\":3}]",
+    "title": "博来霉素的毒性作用主要为"
+  },
+  {
+    "id": 40027,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"氮芥\",\"value\":3}, {\"answer\":1,\"text\":\"放线菌素D\",\"value\":4}]",
+    "title": "下列抗肿瘤药物中存在高致吐风险的有"
+  },
+  {
+    "id": 39952,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"厄洛替尼与西咪替丁\",\"value\":0}, {\"answer\":1,\"text\":\"亚叶酸钙与氟尿嘧啶\",\"value\":1}, {\"answer\":1,\"text\":\"吉西他滨与顺铂\",\"value\":2}, {\"answer\":1,\"text\":\"小剂量顺铂同步放疗\",\"value\":3}, {\"answer\":1,\"text\":\"地塞米松与托烷司琼\",\"value\":4}]",
+    "title": "下列相互作用能产生协同作用的是"
+  },
+  {
+    "id": 40022,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"他莫昔芬是目前临床上最常用的乳腺癌内分泌治疗药\",\"value\":0}, {\"answer\":1,\"text\":\"ER阳性者,绝经前后均可使用他莫昔芬\",\"value\":1}, {\"answer\":0,\"text\":\"芳香胺酶抑制剂可用于绝经前乳腺癌患者\",\"value\":2}, {\"answer\":1,\"text\":\"芳香胺酶抑制剂主要包括来曲唑和阿那曲唑\",\"value\":3}, {\"answer\":1,\"text\":\"氟他胺适用于晚期前列腺癌患者\",\"value\":4}]",
+    "title": "下列说法正确的是"
+  },
+  {
+    "id": 40084,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"高血压\",\"value\":0}, {\"answer\":1,\"text\":\"出血\",\"value\":1}, {\"answer\":1,\"text\":\"心力衰竭\",\"value\":2}, {\"answer\":1,\"text\":\"过敏反应\",\"value\":3}, {\"answer\":1,\"text\":\"肾病综合征\",\"value\":4}]",
+    "title": "单克隆抗体的不良反应包括"
+  },
+  {
+    "id": 40008,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"阿糖胞苷\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"放线菌素\",\"value\":2}, {\"answer\":0,\"text\":\"柔红霉素\",\"value\":3}]",
+    "title": "下列会引起化学性膀胱炎的抗肿瘤药物是"
+  },
+  {
+    "id": 39855,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"G2期\",\"value\":0}, {\"answer\":0,\"text\":\"M期前期\",\"value\":1}, {\"answer\":1,\"text\":\"M期中期\",\"value\":2}, {\"answer\":0,\"text\":\"M期末期\",\"value\":3}]",
+    "title": "使用长春新碱后肿瘤细胞较多处于何期"
+  },
+  {
+    "id": 39996,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氮芥\",\"value\":0}, {\"answer\":0,\"text\":\"卡氮芥\",\"value\":1}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"甲酰溶肉瘤素\",\"value\":3}]",
+    "title": "烷化剂中易诱发出血性膀胱炎的药物是"
+  },
+  {
+    "id": 40028,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"卡铂\",\"value\":1}, {\"answer\":0,\"text\":\"奥沙利铂\",\"value\":2}, {\"answer\":0,\"text\":\"美司钠\",\"value\":3}]",
+    "title": "下列药物中典型不良反应位恶心、呕吐、肾毒性和耳毒性的是"
+  },
+  {
+    "id": 40033,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"枸橼酸他莫西芬\",\"value\":0}, {\"answer\":0,\"text\":\"巯嘌呤\",\"value\":1}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":2}, {\"answer\":1,\"text\":\"吉非替尼\",\"value\":3}]",
+    "title": "作用机制是表皮生长因子受体酪氨酸激酶抑制剂的药物是"
+  },
+  {
+    "id": 39833,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"骨髓抑制\",\"value\":0}, {\"answer\":0,\"text\":\"脱发\",\"value\":1}, {\"answer\":1,\"text\":\"肺纤维化\",\"value\":2}, {\"answer\":0,\"text\":\"胃肠道反应\",\"value\":3}]",
+    "title": "博来霉素引起最严重的不良反应是"
+  },
+  {
+    "id": 39980,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"400mg/d\",\"value\":0}, {\"answer\":0,\"text\":\"600mg/d\",\"value\":1}, {\"answer\":1,\"text\":\"2000mg/d\",\"value\":2}, {\"answer\":0,\"text\":\"3600mg/d\",\"value\":3}]",
+    "title": "对乙酰氨基酚的日限制剂量为"
+  },
+  {
+    "id": 39828,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":1,\"text\":\"塞替派\",\"value\":1}, {\"answer\":1,\"text\":\"巯嘌呤\",\"value\":2}, {\"answer\":1,\"text\":\"阿糖胞苷\",\"value\":3}, {\"answer\":0,\"text\":\"奎宁\",\"value\":4}]",
+    "title": "易引起骨髓抑制的药物有"
+  },
+  {
+    "id": 40087,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"成人一次1~2mg（或1.4mg/m2）,一次量不超过2mg\",\"value\":0}, {\"answer\":0,\"text\":\"成人一次135~200mg/m2\",\"value\":1}, {\"answer\":1,\"text\":\"儿童一次2mg/m2或一次75ug/kg,一周1次\",\"value\":2}, {\"answer\":0,\"text\":\"联合用药一次135~175mg/m2,3~4周1次\",\"value\":3}, {\"answer\":1,\"text\":\"65岁以上者,一次最大量1mg\",\"value\":4}]",
+    "title": "下列关于长春新碱用法用量的说法正确的是"
+  },
+  {
+    "id": 39972,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"每日总剂量分早晚2次于饭后半小时用水吞服\",\"value\":0}, {\"answer\":1,\"text\":\"连续服用2周,休息1周\",\"value\":1}, {\"answer\":1,\"text\":\"避免手足频繁摩擦和过度挤压,保持皮肤湿润\",\"value\":2}, {\"answer\":1,\"text\":\"避免阳光直接照射\",\"value\":3}, {\"answer\":1,\"text\":\"可同时口服维生素B6,每日量可达200mg\",\"value\":4}]",
+    "title": "患者,男性,76岁,诊断为“直肠癌肝转移”,拟行XELOX方案化疗。关于卡培他滨的用药教育,下列说法正确的有"
+  },
+  {
+    "id": 40050,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"口服\",\"value\":0}, {\"answer\":1,\"text\":\"皮下注射\",\"value\":1}, {\"answer\":1,\"text\":\"肌内注射\",\"value\":2}, {\"answer\":1,\"text\":\"动脉注射\",\"value\":3}, {\"answer\":1,\"text\":\"静脉注射\",\"value\":4}]",
+    "title": "博来霉素的用法包括"
+  },
+  {
+    "id": 39940,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心脏毒性\",\"value\":0}, {\"answer\":0,\"text\":\"肝脏毒性\",\"value\":1}, {\"answer\":1,\"text\":\"肾脏毒性\",\"value\":2}, {\"answer\":0,\"text\":\"肺纤维化\",\"value\":3}]",
+    "title": "患者接受顺铂化疗时,药师应重点监测的不良反应是"
+  },
+  {
+    "id": 39862,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"在体内外均有活性\",\"value\":0}, {\"answer\":1,\"text\":\"在体内代谢为醛磷酰胺后有抗肿瘤作用\",\"value\":1}, {\"answer\":0,\"text\":\"在体外有抑杀癌细胞作用\",\"value\":2}, {\"answer\":0,\"text\":\"干扰转录过程\",\"value\":3}]",
+    "title": "环磷酰胺抗肿瘤作用特点是"
+  },
+  {
+    "id": 39964,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"表柔比星\",\"value\":0}, {\"answer\":0,\"text\":\"奥沙利铂\",\"value\":1}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":2}, {\"answer\":1,\"text\":\"吉西他滨\",\"value\":3}]",
+    "title": "患者,女性,41岁,因胰腺癌入院。首选一线的抗胰腺癌药物是"
+  },
+  {
+    "id": 39832,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"白消安\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"放线菌素\",\"value\":2}, {\"answer\":0,\"text\":\"卡铂\",\"value\":3}]",
+    "title": "下列会引起特有的化学性膀胱炎的药物是"
+  },
+  {
+    "id": 39890,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"巯嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"盐酸阿糖胞苷\",\"value\":1}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "在分子结构中含有结晶水的药物是"
+  },
+  {
+    "id": 39903,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可以改善药物在体内的吸收分布\",\"value\":0}, {\"answer\":1,\"text\":\"提高选择性和抗肿瘤活性\",\"value\":1}, {\"answer\":1,\"text\":\"影响药物的毒性\",\"value\":2}, {\"answer\":1,\"text\":\"增强药物的稳定性\",\"value\":3}, {\"answer\":1,\"text\":\"可用激素或其他药物的结构作载体\",\"value\":4}]",
+    "title": "关于氮芥类药物结构中的载体部分正确的是"
+  },
+  {
+    "id": 40003,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春新碱\",\"value\":0}, {\"answer\":1,\"text\":\"秋水仙碱\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"阿糖胞苷\",\"value\":3}, {\"answer\":0,\"text\":\"门冬酰胺\",\"value\":4}]",
+    "title": "感染细胞纺锤丝形成的药物是"
+  },
+  {
+    "id": 40024,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"曲妥珠单抗\",\"value\":0}, {\"answer\":1,\"text\":\"利妥昔单抗\",\"value\":1}, {\"answer\":0,\"text\":\"英夫利昔单抗\",\"value\":2}, {\"answer\":1,\"text\":\"贝伐单抗\",\"value\":3}, {\"answer\":1,\"text\":\"西妥昔单抗\",\"value\":4}]",
+    "title": "单克隆抗体肿瘤药包括"
+  },
+  {
+    "id": 39916,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"门冬酰胺酶\",\"value\":0}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":1}, {\"answer\":0,\"text\":\"巯基嘌呤\",\"value\":2}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "水解某种酰胺而产生抗癌作用的药物"
+  },
+  {
+    "id": 39953,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"轻度疼痛时给布桂嗪、氨酚待因、曲马多\",\"value\":0}, {\"answer\":0,\"text\":\"重度疼痛时给吲哚美辛、布桂嗪、高乌甲素\",\"value\":1}, {\"answer\":1,\"text\":\"对晚期重度疼痛,首选口服控释吗啡片\",\"value\":2}, {\"answer\":0,\"text\":\"对晚期重度疼痛应按需（只在疼痛时）定量给药\",\"value\":3}]",
+    "title": "关于癌症病人三阶梯的治疗原则,正确的是"
+  },
+  {
+    "id": 40098,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"他莫昔芬\",\"value\":0}, {\"answer\":1,\"text\":\"氯羟甲基甲酰孕酮\",\"value\":1}, {\"answer\":0,\"text\":\"丙酸睾丸酮\",\"value\":2}, {\"answer\":0,\"text\":\"甲羟孕酮\",\"value\":3}]",
+    "title": "下列激素类抗恶性肿瘤药物中,不能用于治疗乳腺癌的是"
+  },
+  {
+    "id": 39992,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"更生霉素\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"左旋门冬酰胺酶\",\"value\":3}]",
+    "title": "以下抗恶性肿瘤药物中属于S期特异性的药物是"
+  },
+  {
+    "id": 39899,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"形成环氧乙胺\",\"value\":0}, {\"answer\":0,\"text\":\"嵌入DNA\",\"value\":1}, {\"answer\":1,\"text\":\"形成碳正离子\",\"value\":2}, {\"answer\":0,\"text\":\"形成羟基络合物\",\"value\":3}]",
+    "title": "氮甲的作用原理"
+  },
+  {
+    "id": 39859,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"6-巯基嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":2}, {\"answer\":1,\"text\":\"5-氟尿嘧啶\",\"value\":3}]",
+    "title": "对胃癌有较好疗效的药物是"
+  },
+  {
+    "id": 40031,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"紫杉醇\",\"value\":0}, {\"answer\":0,\"text\":\"来曲唑\",\"value\":1}, {\"answer\":1,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":0,\"text\":\"伊马替尼\",\"value\":3}]",
+    "title": "作用于DNA拓扑异构酶Ⅱ的抗肿瘤药物是"
+  },
+  {
+    "id": 40078,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春新碱和奥沙利铂易引起手足麻木等周围神经损害\",\"value\":0}, {\"answer\":0,\"text\":\"多柔比星等蒽环类药物易引起心脏毒性\",\"value\":1}, {\"answer\":0,\"text\":\"平阳霉素和博来霉素易引起肺纤维化\",\"value\":2}, {\"answer\":1,\"text\":\"卡铂比顺铂引起胃肠道反应的几率更大,更严重\",\"value\":3}]",
+    "title": "以下关于化疗药物引起的不良反应说法错误的是"
+  },
+  {
+    "id": 40088,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"成人一次1~2mg（或1.4mg/m2）,一次量不超过2mg\",\"value\":0}, {\"answer\":1,\"text\":\"成人一次135~200mg/m2\",\"value\":1}, {\"answer\":0,\"text\":\"儿童一次2mg/m2或一次75ug/kg,一周1次\",\"value\":2}, {\"answer\":1,\"text\":\"联合用药一次135~175mg/m2,3~4周1次\",\"value\":3}, {\"answer\":0,\"text\":\"65岁以上者,一次最大量1mg\",\"value\":4}]",
+    "title": "下列关于长春新碱用法用量的说法错误的是"
+  },
+  {
+    "id": 40082,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"CD20\",\"value\":0}, {\"answer\":0,\"text\":\"EGFR\",\"value\":1}, {\"answer\":1,\"text\":\"HER-2\",\"value\":2}, {\"answer\":0,\"text\":\"VEGFR\",\"value\":3}]",
+    "title": "治疗乳腺癌的靶向药物赫赛汀（曲妥珠单抗）,其作用靶点是"
+  },
+  {
+    "id": 39925,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":0,\"text\":\"阿糖胞苷\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":1,\"text\":\"巯嘌呤\",\"value\":3}]",
+    "title": "竞争性阻止肌苷酸转变为腺嘌呤核苷酸和鸟嘌呤核苷酸的药物是"
+  },
+  {
+    "id": 39883,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"巯嘌呤\",\"value\":0}, {\"answer\":0,\"text\":\"马利兰\",\"value\":1}, {\"answer\":1,\"text\":\"癌得星\",\"value\":2}, {\"answer\":0,\"text\":\"氮甲\",\"value\":3}]",
+    "title": "属杂环氮芥的是"
+  },
+  {
+    "id": 39967,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"每次餐后服用250mg,每日三次\",\"value\":0}, {\"answer\":0,\"text\":\"每次餐前服用250mg,每日三次\",\"value\":1}, {\"answer\":0,\"text\":\"每次餐后服用250mg,每日二次\",\"value\":2}, {\"answer\":0,\"text\":\"每次餐前服用252mg,每日二次\",\"value\":3}]",
+    "title": "患者,男性,70岁,经检查确诊前列腺癌而行前列腺根治术。目前肝肾功能基本正常,既往无特殊病史,拟口服氟他胺内分泌治疗。该患者氟他胺的正确服用方法是"
+  },
+  {
+    "id": 39948,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"吉西他滨\",\"value\":0}, {\"answer\":0,\"text\":\"顺铂\",\"value\":1}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":1,\"text\":\"奥沙利铂\",\"value\":3}]",
+    "title": "下列抗肿瘤药物中只能使用5%葡萄糖作为溶酶的是"
+  },
+  {
+    "id": 40029,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"紫杉醇\",\"value\":0}, {\"answer\":0,\"text\":\"来曲唑\",\"value\":1}, {\"answer\":0,\"text\":\"依托泊苷\",\"value\":2}, {\"answer\":1,\"text\":\"伊马替尼\",\"value\":3}]",
+    "title": "作用于酪氨酸激酶受体通路的抗肿瘤药物是"
+  },
+  {
+    "id": 39838,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春新碱\",\"value\":0}, {\"answer\":1,\"text\":\"L-门冬酰胺酶\",\"value\":1}, {\"answer\":1,\"text\":\"糖皮质激素\",\"value\":2}, {\"answer\":1,\"text\":\"6-巯基嘌呤\",\"value\":3}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":4}]",
+    "title": "对急性淋巴细胞白血病治疗有效的药物包括"
+  },
+  {
+    "id": 39975,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"PF方案（顺铂联合氟尿嘧啶）\",\"value\":0}, {\"answer\":1,\"text\":\"TP方案（顺铂联合紫杉醇）\",\"value\":1}, {\"answer\":1,\"text\":\"CP方案（顺铂联合伊立替康）\",\"value\":2}, {\"answer\":1,\"text\":\"GP方案（顺铂联合吉西他滨）\",\"value\":3}, {\"answer\":1,\"text\":\"GC方案（卡铂联合吉西他滨）\",\"value\":4}]",
+    "title": "患者,男性,80岁,因“恶心多日,吞咽困难”入院,经检查确诊为食管癌。患者血生化、肺功能正常,既往有冠心病和乙型肝炎病史。拟行全身化疗,可选择的方案有"
+  },
+  {
+    "id": 40070,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"可用于治疗急性白血病和恶性淋巴瘤\",\"value\":0}, {\"answer\":0,\"text\":\"少数患者用药后可引起黄疸\",\"value\":1}, {\"answer\":0,\"text\":\"在用药后1~2日可出现红色尿\",\"value\":2}, {\"answer\":1,\"text\":\"本品可用于膀胱灌注和鞘内注射\",\"value\":3}]",
+    "title": "下列关于多柔比星的描述错误的是"
+  },
+  {
+    "id": 39858,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"明显抑制骨髓,尤其影响粒细胞\",\"value\":0}, {\"answer\":0,\"text\":\"属周期非特异性药物\",\"value\":1}, {\"answer\":1,\"text\":\"抗癌谱虽广,但对多发性骨髓瘤无效\",\"value\":2}, {\"answer\":0,\"text\":\"对恶性淋巴瘤疗效显著\",\"value\":3}]",
+    "title": "对环磷酰胺药理特点的描述哪项不正确"
+  },
+  {
+    "id": 40041,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可与DNA结合,破坏其结构与功能\",\"value\":0}, {\"answer\":1,\"text\":\"细胞增殖周期非特异性抑制剂\",\"value\":1}, {\"answer\":1,\"text\":\"是非小细胞肺癌、头颈部及食管癌、胃癌等实体瘤的首选药之一\",\"value\":2}, {\"answer\":1,\"text\":\"与奥沙利铂无交叉耐药性\",\"value\":3}, {\"answer\":0,\"text\":\"典型不良反应为神经毒性\",\"value\":4}]",
+    "title": "关于顺铂的描述中正确的是"
+  },
+  {
+    "id": 39939,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药液渗漏时应停止给药\",\"value\":0}, {\"answer\":0,\"text\":\"药液渗漏部位进行热敷\",\"value\":1}, {\"answer\":1,\"text\":\"地塞米松+利多卡因局部注射\",\"value\":2}, {\"answer\":1,\"text\":\"地塞米松+碳酸氢钠局部注射\",\"value\":3}, {\"answer\":1,\"text\":\"氯化钠注射液+透明质酸酶局部注射\",\"value\":4}]",
+    "title": "使用烷化剂类抗肿瘤药,若发生药液外渗时,救治措施包括"
+  },
+  {
+    "id": 40048,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"间歇给药法,一日4~6mg,一周1或2次\",\"value\":0}, {\"answer\":0,\"text\":\"间歇给药法,一日8~10mg,一周3或4次\",\"value\":1}, {\"answer\":0,\"text\":\"连日给药法,一日8mg\",\"value\":2}, {\"answer\":1,\"text\":\"大剂量间歇给药法,一日10~30mg,间隔1~3周以上\",\"value\":3}, {\"answer\":1,\"text\":\"联合用药,一日2~4mg,每周与其他抗肿瘤药合用1或2次\",\"value\":4}]",
+    "title": "下列关于丝裂霉素用法用量正确的是"
+  },
+  {
+    "id": 39968,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"药物运转或摄取机制发生改变\",\"value\":0}, {\"answer\":1,\"text\":\"药物分解酶活性或数量增高\",\"value\":1}, {\"answer\":1,\"text\":\"靶酶活性或数量改变\",\"value\":2}, {\"answer\":1,\"text\":\"代谢途径变异细胞保护性基因产物的过度表达\",\"value\":3}, {\"answer\":0,\"text\":\"药物剂量或给药周期改变\",\"value\":4}]",
+    "title": "肿瘤细胞耐药发生的机制包括"
+  },
+  {
+    "id": 39989,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"叶酸\",\"value\":0}, {\"answer\":0,\"text\":\"维生素B12\",\"value\":1}, {\"answer\":0,\"text\":\"碳酸氢钠\",\"value\":2}, {\"answer\":1,\"text\":\"巯乙磺酸钠\",\"value\":3}]",
+    "title": "下列药物中可预防环磷酰胺引起的出血性膀胱炎的是"
+  },
+  {
+    "id": 40053,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"骨髓抑制\",\"value\":0}, {\"answer\":1,\"text\":\"口腔炎\",\"value\":1}, {\"answer\":1,\"text\":\"脱发\",\"value\":2}, {\"answer\":1,\"text\":\"低血压\",\"value\":3}, {\"answer\":1,\"text\":\"喉痉挛\",\"value\":4}]",
+    "title": "依托泊苷的典型不良反应包括"
+  },
+  {
+    "id": 40047,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"胃癌\",\"value\":0}, {\"answer\":0,\"text\":\"皮肤恶性肿瘤\",\"value\":1}, {\"answer\":1,\"text\":\"宫颈癌\",\"value\":2}, {\"answer\":0,\"text\":\"恶性淋巴瘤\",\"value\":3}, {\"answer\":1,\"text\":\"肺癌\",\"value\":4}]",
+    "title": "下列属于丝裂霉素适应证的是"
+  },
+  {
+    "id": 39911,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"主要用于治疗急性粒细胞白血病\",\"value\":0}, {\"answer\":0,\"text\":\"分子结构中含有氮芥基团\",\"value\":1}, {\"answer\":1,\"text\":\"口服吸收差,需通过静脉连续滴注给药\",\"value\":2}, {\"answer\":1,\"text\":\"体内经代谢转化为三磷酸阿糖胞苷,发挥抗癌作用\",\"value\":3}, {\"answer\":0,\"text\":\"为嘌呤拮抗物\",\"value\":4}]",
+    "title": "下列有关阿糖胞苷的叙述,正确的是"
+  },
+  {
+    "id": 39868,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"顺铂\",\"value\":0}, {\"answer\":0,\"text\":\"5-氟尿嘧啶\",\"value\":1}, {\"answer\":0,\"text\":\"阿霉素\",\"value\":2}, {\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "抑制二氢叶酸还原酶的抗肿瘤药是"
+  },
+  {
+    "id": 39878,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"长春新碱\",\"value\":0}, {\"answer\":0,\"text\":\"氧氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"氮甲\",\"value\":3}]",
+    "title": "不属于氮芥类的是"
+  },
+  {
+    "id": 39932,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替派和6-氟尿嘧啶和丝裂霉素\",\"value\":0}, {\"answer\":0,\"text\":\"巯嘌呤和长春新碱\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤和放线菌素D\",\"value\":2}, {\"answer\":1,\"text\":\"环磷酰胺和阿霉素\",\"value\":3}]",
+    "title": "用于恶性淋巴癌的药物是"
+  },
+  {
+    "id": 39908,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"分子中有烷基化部分和载体部分\",\"value\":0}, {\"answer\":1,\"text\":\"选择性差,毒性大\",\"value\":1}, {\"answer\":1,\"text\":\"改变载体部分可以提高药物选择性\",\"value\":2}, {\"answer\":1,\"text\":\"在体内转变为乙撑亚胺活性中间体发挥烷基化作用\",\"value\":3}, {\"answer\":0,\"text\":\"卡莫司汀、白消安、氟尿嘧啶均属此类\",\"value\":4}]",
+    "title": "下列哪些叙述与氮芥类抗肿瘤药相符"
+  },
+  {
+    "id": 40068,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"柔红霉素\",\"value\":0}, {\"answer\":1,\"text\":\"阿糖胞苷\",\"value\":1}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":3}, {\"answer\":0,\"text\":\"长春新碱\",\"value\":4}]",
+    "title": "多柔比星与下列那些药物不呈现交叉耐药性"
+  },
+  {
+    "id": 40007,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"白消安\",\"value\":0}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":1,\"text\":\"放线菌素\",\"value\":2}, {\"answer\":1,\"text\":\"柔红霉素\",\"value\":3}, {\"answer\":1,\"text\":\"阿糖胞苷\",\"value\":4}]",
+    "title": "下列不会引起化学性膀胱炎的抗肿瘤药物是"
+  },
+  {
+    "id": 40004,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"恶性淋巴瘤\",\"value\":0}, {\"answer\":1,\"text\":\"急性淋巴细胞性白血病\",\"value\":1}, {\"answer\":0,\"text\":\"肝癌\",\"value\":2}, {\"answer\":0,\"text\":\"食管癌\",\"value\":3}, {\"answer\":1,\"text\":\"儿童神经母细胞瘤\",\"value\":4}]",
+    "title": "环磷酰胺疗效显著的恶性肿瘤有"
+  },
+  {
+    "id": 39986,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":0,\"text\":\"长春新碱\",\"value\":1}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":1,\"text\":\"左旋门冬酰胺酶\",\"value\":3}]",
+    "title": "下列抗恶性肿瘤药物的作用机制为影响氨基酸供应的是"
+  },
+  {
+    "id": 39897,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"脂肪氮芥\",\"value\":0}, {\"answer\":0,\"text\":\"芳香氮芥\",\"value\":1}, {\"answer\":0,\"text\":\"氨基酸氮芥\",\"value\":2}, {\"answer\":0,\"text\":\"杂环氮芥\",\"value\":3}]",
+    "title": "盐酸氮芥属于"
+  },
+  {
+    "id": 39987,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春新碱\",\"value\":0}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":1}, {\"answer\":1,\"text\":\"三尖杉生物碱\",\"value\":2}, {\"answer\":0,\"text\":\"左旋门冬酰胺酶\",\"value\":3}]",
+    "title": "下列抗恶性肿瘤药物的作用机制为干扰蛋白体功能的是"
+  },
+  {
+    "id": 39882,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"双键\",\"value\":0}, {\"answer\":0,\"text\":\"甲基\",\"value\":1}, {\"answer\":0,\"text\":\"羧基\",\"value\":2}, {\"answer\":0,\"text\":\"羟基\",\"value\":3}]",
+    "title": "氟尿嘧啶分子中含有"
+  },
+  {
+    "id": 39822,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"抑制二氢叶酸还原酶\",\"value\":0}, {\"answer\":0,\"text\":\"抑制胸苷酸合成酶\",\"value\":1}, {\"answer\":0,\"text\":\"抑制嘌呤核苷酸互变\",\"value\":2}, {\"answer\":0,\"text\":\"抑制核苷酸还原酶\",\"value\":3}]",
+    "title": "甲氨蝶呤的抗癌作用机制是"
+  },
+  {
+    "id": 39842,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"从细胞周期增殖动力学考虑\",\"value\":0}, {\"answer\":1,\"text\":\"从抗肿瘤药物的作用机制考虑\",\"value\":1}, {\"answer\":0,\"text\":\"从肿瘤细胞的耐药性考虑\",\"value\":2}, {\"answer\":1,\"text\":\"从肿瘤细胞对药物的敏感性考虑\",\"value\":3}, {\"answer\":1,\"text\":\"从药物的毒性考虑\",\"value\":4}]",
+    "title": "下列哪些是抗肿瘤药物联合应用的原则"
+  },
+  {
+    "id": 39905,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氨基\",\"value\":0}, {\"answer\":1,\"text\":\"巯基\",\"value\":1}, {\"answer\":1,\"text\":\"羟基\",\"value\":2}, {\"answer\":1,\"text\":\"羧基\",\"value\":3}, {\"answer\":1,\"text\":\"磷酸基\",\"value\":4}]",
+    "title": "烷化剂可与下列基团的大分子结合"
+  },
+  {
+    "id": 39927,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"长春碱\",\"value\":0}, {\"answer\":0,\"text\":\"顺铂\",\"value\":1}, {\"answer\":1,\"text\":\"三尖杉酯碱\",\"value\":2}, {\"answer\":0,\"text\":\"紫杉醇\",\"value\":3}]",
+    "title": "下列哪种抗恶性肿瘤药可抑制蛋白质合成的起始阶段,使核蛋白体分解,抑制有丝分裂"
+  },
+  {
+    "id": 39835,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"绒毛膜上皮癌\",\"value\":0}, {\"answer\":1,\"text\":\"慢性淋巴细胞白血病\",\"value\":1}, {\"answer\":0,\"text\":\"急性粒细胞白血病\",\"value\":2}, {\"answer\":0,\"text\":\"淋巴瘤\",\"value\":3}]",
+    "title": "羟基脲的主要临床应用是"
+  },
+  {
+    "id": 40079,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":1,\"text\":\"美司那\",\"value\":1}, {\"answer\":0,\"text\":\"美法仑\",\"value\":2}, {\"answer\":0,\"text\":\"美司坦\",\"value\":3}]",
+    "title": "异环磷酰胺引起的出血性膀胱炎,需预防性使用的特效解毒剂是"
+  },
+  {
+    "id": 40020,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"消化道肿瘤\",\"value\":0}, {\"answer\":1,\"text\":\"儿童急性白血病\",\"value\":1}, {\"answer\":0,\"text\":\"慢性粒细胞性白血病\",\"value\":2}, {\"answer\":0,\"text\":\"恶性淋巴瘤\",\"value\":3}, {\"answer\":0,\"text\":\"肺癌\",\"value\":4}]",
+    "title": "甲氨蝶呤主要用于"
+  },
+  {
+    "id": 39865,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"氟他米特\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":3}]",
+    "title": "主要用于治疗阴茎、宫颈等部位的鳞状上皮癌的是"
+  },
+  {
+    "id": 40021,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":1,\"text\":\"多柔比星\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"白消安\",\"value\":3}]",
+    "title": "主要不良反应是心脏毒性的抗肿瘤药物是"
+  },
+  {
+    "id": 40086,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"与门冬酰胺酶、异烟肼合用,可能增强其神经系统及血液系统的毒性\",\"value\":0}, {\"answer\":0,\"text\":\"需先注射本品,再用甲氨蝶呤\",\"value\":1}, {\"answer\":0,\"text\":\"与非格司亭、沙莫司亭合用,可能产生严重的周围神经病\",\"value\":2}, {\"answer\":1,\"text\":\"与泼尼松合用可增强本品致高血糖作用\",\"value\":3}]",
+    "title": "下列关于长春新碱与药物合用的说法不正确的是"
+  },
+  {
+    "id": 40015,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"曲妥珠单抗\",\"value\":0}, {\"answer\":1,\"text\":\"利妥昔单抗\",\"value\":1}, {\"answer\":0,\"text\":\"贝伐单抗\",\"value\":2}, {\"answer\":1,\"text\":\"西妥昔单抗\",\"value\":3}, {\"answer\":0,\"text\":\"英夫利昔单抗\",\"value\":4}]",
+    "title": "通过在癌细胞膜外与生长因子竞争结合受体,阻断信号传递过程,从而阻止癌细胞生长和扩散的抗肿瘤药是"
+  },
+  {
+    "id": 40073,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与华法林联合应用,可发生抗凝作用的显著升高\",\"value\":0}, {\"answer\":1,\"text\":\"与依托泊苷合用可增加本品毒性\",\"value\":1}, {\"answer\":0,\"text\":\"适宜与雌激素合用\",\"value\":2}, {\"answer\":1,\"text\":\"他莫昔芬肠衣片与西咪替丁合用时应间隔1~2h\",\"value\":3}, {\"answer\":0,\"text\":\"不能与多柔比星合用\",\"value\":4}]",
+    "title": "下列关于他莫昔芬与药物合用的说法正确的是"
+  },
+  {
+    "id": 39875,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":2}, {\"answer\":1,\"text\":\"巯嘌呤\",\"value\":3}, {\"answer\":1,\"text\":\"长春新碱\",\"value\":4}]",
+    "title": "可用于淋巴细胞性白血病的药物有"
+  },
+  {
+    "id": 39906,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"叶酸拮抗剂\",\"value\":0}, {\"answer\":1,\"text\":\"结构中有谷氨酸\",\"value\":1}, {\"answer\":0,\"text\":\"与叶酸镁合用\",\"value\":2}, {\"answer\":1,\"text\":\"在强酸中水解\",\"value\":3}, {\"answer\":0,\"text\":\"属于烷化剂\",\"value\":4}]",
+    "title": "有关甲氨蝶呤的叙述正确的是"
+  },
+  {
+    "id": 40066,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与氟尿嘧啶同一时间使用可产生协同作用\",\"value\":0}, {\"answer\":0,\"text\":\"与糖皮质激素长期联用可引起膀胱移行细胞癌\",\"value\":1}, {\"answer\":0,\"text\":\"用本品前24h或11min后使用阿糖胞苷可增加本品抗癌活性\",\"value\":2}, {\"answer\":0,\"text\":\"与维生素C合用可消除本品化疗引起的恶心\",\"value\":3}, {\"answer\":1,\"text\":\"与非甾体抗炎药合用可减轻骨髓抑制\",\"value\":4}]",
+    "title": "下列关于甲氨蝶呤与药物合用的说法错误的是"
+  },
+  {
+    "id": 39919,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":1}, {\"answer\":0,\"text\":\"环己亚硝脲\",\"value\":2}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":3}]",
+    "title": "软组织肉瘤可选用"
+  },
+  {
+    "id": 39881,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"形成乙撑亚胺正离子\",\"value\":0}, {\"answer\":0,\"text\":\"形成环氧乙烷\",\"value\":1}, {\"answer\":0,\"text\":\"嵌入DNA\",\"value\":2}, {\"answer\":0,\"text\":\"形成碳正离子\",\"value\":3}]",
+    "title": "氮芥类药物的作用原理"
+  },
+  {
+    "id": 39866,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":0}, {\"answer\":1,\"text\":\"氟他米特\",\"value\":1}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":2}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":3}]",
+    "title": "主要用于治疗转移性前列腺癌的是"
+  },
+  {
+    "id": 40055,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"与阿糖胞苷、环磷酰胺、卡莫司汀有协同作用\",\"value\":0}, {\"answer\":0,\"text\":\"具有明显的骨髓功能抑制作用\",\"value\":1}, {\"answer\":0,\"text\":\"禁止同时接种活疫苗\",\"value\":2}, {\"answer\":1,\"text\":\"与血浆蛋白结合率低\",\"value\":3}, {\"answer\":0,\"text\":\"与他莫昔芬合用增加毒性\",\"value\":4}]",
+    "title": "下列关于依托泊苷的说法错误的是"
+  },
+  {
+    "id": 39936,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":1}, {\"answer\":1,\"text\":\"环磷酰胺\",\"value\":2}, {\"answer\":0,\"text\":\"氟尿嘧啶\",\"value\":3}]",
+    "title": "女性患者,57岁,患恶性淋巴瘤。使用抗肿瘤药治疗后,发生血尿。确认出血性膀胱炎。该患者使用的治疗药物是"
+  },
+  {
+    "id": 39933,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替派\",\"value\":0}, {\"answer\":0,\"text\":\"平阳霉素\",\"value\":1}, {\"answer\":1,\"text\":\"5-氟尿嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":3}]",
+    "title": "对消化道癌疗效较好的药物是"
+  },
+  {
+    "id": 40093,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"多西他赛\",\"value\":0}, {\"answer\":1,\"text\":\"高三尖杉酯碱\",\"value\":1}, {\"answer\":0,\"text\":\"吉非替尼\",\"value\":2}, {\"answer\":0,\"text\":\"厄洛替尼\",\"value\":3}, {\"answer\":1,\"text\":\"阿莫昔芬\",\"value\":4}]",
+    "title": "下列抗肿瘤药物中不可用于治疗转移性非小细胞肺癌的是"
+  },
+  {
+    "id": 39843,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"烷化剂\",\"value\":0}, {\"answer\":1,\"text\":\"抗代谢物\",\"value\":1}, {\"answer\":1,\"text\":\"抗肿瘤抗生素\",\"value\":2}, {\"answer\":1,\"text\":\"抗肿瘤植物药\",\"value\":3}, {\"answer\":0,\"text\":\"免疫抑制药\",\"value\":4}]",
+    "title": "肿瘤药物包括"
+  },
+  {
+    "id": 40018,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"过敏反应\",\"value\":0}, {\"answer\":1,\"text\":\"利妥昔单抗可致细胞因子释放综合征\",\"value\":1}, {\"answer\":1,\"text\":\"肿瘤溶解综合征\",\"value\":2}, {\"answer\":1,\"text\":\"西妥昔单抗所致的严重皮肤反应\",\"value\":3}, {\"answer\":1,\"text\":\"曲妥珠单抗所致的心功能减退\",\"value\":4}]",
+    "title": "单抗药综合征包括"
+  },
+  {
+    "id": 40054,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与阿糖胞苷、环磷酰胺、卡莫司汀有协同作用\",\"value\":0}, {\"answer\":1,\"text\":\"具有明显的骨髓功能抑制作用\",\"value\":1}, {\"answer\":1,\"text\":\"禁止同时接种活疫苗\",\"value\":2}, {\"answer\":0,\"text\":\"与血浆蛋白结合率低\",\"value\":3}, {\"answer\":1,\"text\":\"与他莫昔芬合用增加毒性\",\"value\":4}]",
+    "title": "下列关于依托泊苷的说法正确的是"
+  },
+  {
+    "id": 39930,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":0,\"text\":\"6-氟尿嘧啶\",\"value\":2}, {\"answer\":1,\"text\":\"放线菌素D\",\"value\":3}]",
+    "title": "对绒癌、恶性葡萄胎疗效较好的抗生素是"
+  },
+  {
+    "id": 40037,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"5-HT3受体阻断剂+口服地塞米松+阿瑞吡坦\",\"value\":0}, {\"answer\":0,\"text\":\"5-HT3受体阻断剂+口服地塞米松\",\"value\":1}, {\"answer\":0,\"text\":\"每日化疗前,应用5-HT3受体阻断剂或口服地塞米松\",\"value\":2}, {\"answer\":1,\"text\":\"必须时,每天于化疗前,应用5-HT3受体阻断剂,化疗后不需应用\",\"value\":3}]",
+    "title": "微弱致吐性化疗药所引起恶心呕吐的治疗应选"
+  },
+  {
+    "id": 39854,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"顺铂\",\"value\":1}, {\"answer\":1,\"text\":\"白消安\",\"value\":2}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":3}]",
+    "title": "对慢性粒细胞白血病疗效好的药是哪一个"
+  },
+  {
+    "id": 39857,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"丝裂霉素C\",\"value\":0}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":1}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":2}, {\"answer\":1,\"text\":\"柔红霉素\",\"value\":3}]",
+    "title": "主要用于急性淋巴细胞白血病的抗生素是"
+  },
+  {
+    "id": 39960,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"奥沙利铂\",\"value\":0}, {\"answer\":0,\"text\":\"亚叶酸钙\",\"value\":1}, {\"answer\":1,\"text\":\"氟尿嘧啶\",\"value\":2}, {\"answer\":0,\"text\":\"异甘草酸镁\",\"value\":3}]",
+    "title": "患者,男性,48岁,直肠癌根治术后以FOLFOX方案辅助化疗,同时给予异甘草酸镁注射液和谷胱甘肽保肝治疗。经过共7周期治疗后,患者面部、手足肤色明显变暗,指（趾）端可见指甲略有改变。可能是下列哪种药物的剂量蓄积性毒性表现"
+  },
+  {
+    "id": 39848,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"博来霉素\",\"value\":0}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":1}, {\"answer\":1,\"text\":\"羟基脲\",\"value\":2}, {\"answer\":0,\"text\":\"环磷酰胺\",\"value\":3}]",
+    "title": "可使肿瘤细胞集中于G1期,常做同步化治疗的药物是"
+  },
+  {
+    "id": 39830,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"宫颈癌\",\"value\":0}, {\"answer\":0,\"text\":\"卵巢癌\",\"value\":1}, {\"answer\":1,\"text\":\"消化道癌和乳腺癌\",\"value\":2}, {\"answer\":0,\"text\":\"绒毛膜上皮癌\",\"value\":3}]",
+    "title": "氟尿嘧啶最适用于"
+  },
+  {
+    "id": 39819,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"G0期\",\"value\":0}, {\"answer\":0,\"text\":\"G1期\",\"value\":1}, {\"answer\":1,\"text\":\"S期\",\"value\":2}, {\"answer\":0,\"text\":\"M期\",\"value\":3}]",
+    "title": "抑制核酸生物合成的药物主要作用在"
+  },
+  {
+    "id": 39954,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"轻度疼痛时给布桂嗪、氨酚待因、曲马多\",\"value\":0}, {\"answer\":1,\"text\":\"中度疼痛时给阿司匹林、布洛芬、二氢埃托啡\",\"value\":1}, {\"answer\":1,\"text\":\"重度疼痛时给吲哚美辛、布桂嗪、高乌甲素\",\"value\":2}, {\"answer\":1,\"text\":\"对晚期重度疼痛应按需（只在疼痛时）定量给药\",\"value\":3}, {\"answer\":0,\"text\":\"对晚期重度疼痛,首选口服控释吗啡片\",\"value\":4}]",
+    "title": "关于癌症病人三阶梯的治疗原则,不正确的是"
+  },
+  {
+    "id": 40044,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"消化道反应\",\"value\":0}, {\"answer\":1,\"text\":\"肾毒性\",\"value\":1}, {\"answer\":1,\"text\":\"耳毒性\",\"value\":2}, {\"answer\":1,\"text\":\"神经毒性\",\"value\":3}, {\"answer\":0,\"text\":\"高镁血症\",\"value\":4}]",
+    "title": "铂类药物的典型不良反应包括"
+  },
+  {
+    "id": 40014,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"用于复发或耐药的滤泡性中央型淋巴瘤\",\"value\":0}, {\"answer\":1,\"text\":\"常用于弥漫大B细胞性非何杰金淋巴瘤联合CVP治疗\",\"value\":1}, {\"answer\":0,\"text\":\"与顺铂联合应用可致严重肾毒性\",\"value\":2}, {\"answer\":1,\"text\":\"作用于血管内皮生长因子,阻碍VEGF与其受体在内皮细胞表面相互作用\",\"value\":3}, {\"answer\":0,\"text\":\"在应用利妥昔单抗治疗前12h及治疗过程中应避免使用抗高血压药\",\"value\":4}]",
+    "title": "下列关于利妥昔单抗的描述错误的是"
+  },
+  {
+    "id": 39913,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"属周期非特异性药\",\"value\":0}, {\"answer\":0,\"text\":\"属周期特异性药\",\"value\":1}, {\"answer\":1,\"text\":\"抑制肿瘤细胞DNA和RNA合成\",\"value\":2}, {\"answer\":1,\"text\":\"引起骨髓抑制及脱发\",\"value\":3}, {\"answer\":1,\"text\":\"具心脏毒性\",\"value\":4}]",
+    "title": "下列对多柔比星的叙述,正确的是"
+  },
+  {
+    "id": 39834,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"泼尼松\",\"value\":0}, {\"answer\":0,\"text\":\"雌激素\",\"value\":1}, {\"answer\":0,\"text\":\"地塞米松\",\"value\":2}, {\"answer\":1,\"text\":\"睾酮\",\"value\":3}]",
+    "title": "晚期乳腺癌伴骨转移,首选治疗药物是"
+  },
+  {
+    "id": 39864,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"氮芥\",\"value\":0}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":1}, {\"answer\":0,\"text\":\"可的松\",\"value\":2}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":3}]",
+    "title": "最早应用于临床的抗肿瘤药是"
+  },
+  {
+    "id": 39957,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"肾毒性\",\"value\":0}, {\"answer\":0,\"text\":\"神经毒性\",\"value\":1}, {\"answer\":0,\"text\":\"消化道毒性\",\"value\":2}, {\"answer\":1,\"text\":\"血液系统毒性\",\"value\":3}]",
+    "title": "患者,女性,49岁。诊断为“右肺腺癌”,行GC方案（吉西他滨联合卡铂）化疗,计算卡铂的用量时使用药时曲线下面积（AUC=5)得出每次用量为495mg。此种计算方法可以最大限度减少卡铂的"
+  },
+  {
+    "id": 39896,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"脂肪氮芥\",\"value\":0}, {\"answer\":0,\"text\":\"芳香氮芥\",\"value\":1}, {\"answer\":1,\"text\":\"氨基酸氮芥\",\"value\":2}, {\"answer\":0,\"text\":\"杂环氮芥\",\"value\":3}]",
+    "title": "美法仑（苯丙氨酸氮芥）属于"
+  },
+  {
+    "id": 39821,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"环磷酰胺\",\"value\":0}, {\"answer\":0,\"text\":\"羟基脲\",\"value\":1}, {\"answer\":0,\"text\":\"氮芥\",\"value\":2}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":3}]",
+    "title": "体外无活性的烷化剂是"
+  },
+  {
+    "id": 39892,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"噻替哌\",\"value\":0}, {\"answer\":0,\"text\":\"白消安\",\"value\":1}, {\"answer\":1,\"text\":\"卡莫氟\",\"value\":2}, {\"answer\":0,\"text\":\"甲氨蝶呤\",\"value\":3}]",
+    "title": "下列属于前体药物的是"
+  },
+  {
+    "id": 39849,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"羟基脲\",\"value\":0}, {\"answer\":0,\"text\":\"白消安\",\"value\":1}, {\"answer\":0,\"text\":\"放线菌素D\",\"value\":2}, {\"answer\":0,\"text\":\"博来霉素\",\"value\":3}]",
+    "title": "某慢性粒细胞白血病患者经治疗后病情缓解,近期又出现不明原因发热、贫血、出血加重伴骨骼疼痛,实验室检查发现外周血中原始粒+早幼粒>30%,骨髓中原始粒+早幼粒>50%。应选用下列哪种药物治疗"
+  },
+  {
+    "id": 39969,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"昂丹司琼\",\"value\":0}, {\"answer\":0,\"text\":\"托烷司琼\",\"value\":1}, {\"answer\":1,\"text\":\"甲氧氯普胺\",\"value\":2}, {\"answer\":1,\"text\":\"多潘立酮\",\"value\":3}, {\"answer\":0,\"text\":\"苯海拉明\",\"value\":4}]",
+    "title": "下列止吐药物中哪些药物可促泌乳素分泌,不宜用于乳腺癌患者"
+  },
+  {
+    "id": 40061,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"静脉滴注应用0.9%氯化钠注射液稀释,浓度不超过0.25mg/ml\",\"value\":0}, {\"answer\":1,\"text\":\"静脉滴注,成人一日300~500mg/m2,连续3~5日\",\"value\":1}, {\"answer\":0,\"text\":\"静脉滴注,成人一日60~100mg/m2,连续3~5日\",\"value\":2}, {\"answer\":1,\"text\":\"腹腔内注射,一次500~600mg/m2,一周1次\",\"value\":3}, {\"answer\":1,\"text\":\"静脉注射,成人一日3.7~11.1mg/m2,一周1次\",\"value\":4}]",
+    "title": "下列关于依托泊苷用法用量的描述错误的是"
+  },
+  {
+    "id": 40085,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"与门冬酰胺酶、异烟肼合用,可能增强其神经系统及血液系统的毒性\",\"value\":0}, {\"answer\":1,\"text\":\"需先注射本品,再用甲氨蝶呤\",\"value\":1}, {\"answer\":1,\"text\":\"与非格司亭、沙莫司亭合用,可能产生严重的周围神经病\",\"value\":2}, {\"answer\":0,\"text\":\"与泼尼松合用可增强本品致高血糖作用\",\"value\":3}, {\"answer\":1,\"text\":\"与含铂类化合物合用,可能增强第VIII对脑神经障碍\",\"value\":4}]",
+    "title": "下列关于长春新碱与药物合用的说法正确的是"
+  },
+  {
+    "id": 40069,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"可用于治疗急性白血病和恶性淋巴瘤\",\"value\":0}, {\"answer\":1,\"text\":\"少数患者用药后可引起黄疸\",\"value\":1}, {\"answer\":1,\"text\":\"在用药后1~2日可出现红色尿\",\"value\":2}, {\"answer\":1,\"text\":\"2岁以下幼儿、老年患者慎用\",\"value\":3}, {\"answer\":0,\"text\":\"本品可用于膀胱灌注和鞘内注射\",\"value\":4}]",
+    "title": "下列关于多柔比星的描述正确的是"
+  },
+  {
+    "id": 39844,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"甲氨蝶呤\",\"value\":0}, {\"answer\":1,\"text\":\"氟尿嘧啶\",\"value\":1}, {\"answer\":1,\"text\":\"阿糖胞苷\",\"value\":2}, {\"answer\":0,\"text\":\"丝裂霉素\",\"value\":3}, {\"answer\":0,\"text\":\"卡铂\",\"value\":4}]",
+    "title": "生物合成的药物有"
+  },
+  {
+    "id": 88888,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"实例\",\"value\":0}, {\"answer\":0,\"text\":\"实例\",\"value\":1}, {\"answer\":0,\"text\":\"实例\",\"value\":2}, {\"answer\":1,\"text\":\"实例\",\"value\":3}]",
+    "title": "实例"
+  }
+]

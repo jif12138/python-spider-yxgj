@@ -1,0 +1,44 @@
+[
+  {
+    "id": 37589,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"普萘洛尔\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":1,\"text\":\"甲基多巴\",\"value\":2}, {\"answer\":0,\"text\":\"氨氯地平\",\"value\":3}]",
+    "title": "适用于肾性高血压及伴有肾功能不良高血压患者的药物是"
+  },
+  {
+    "id": 37521,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"充血性心力衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"房颤\",\"value\":1}, {\"answer\":0,\"text\":\"房扑\",\"value\":2}, {\"answer\":1,\"text\":\"室颤\",\"value\":3}]",
+    "title": "关于强心苷适应证错误的是"
+  },
+  {
+    "id": 37326,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"胍乙啶\",\"value\":0}, {\"answer\":0,\"text\":\"利舍平\",\"value\":1}, {\"answer\":0,\"text\":\"呋塞米\",\"value\":2}, {\"answer\":1,\"text\":\"甲基多巴\",\"value\":3}]",
+    "title": "下列那一种药物具有中枢性降压作用,且不减少肾血流"
+  },
+  {
+    "id": 37639,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心脏瓣膜病引起的心力衰竭\",\"value\":0}, {\"answer\":0,\"text\":\"先天性心脏病引起的心力衰竭\",\"value\":1}, {\"answer\":1,\"text\":\"伴有心房扑动、颤动的心力衰竭\",\"value\":2}, {\"answer\":0,\"text\":\"甲状腺功能亢进引起的心力衰竭\",\"value\":3}]",
+    "title": "对下列心力衰竭,地高辛疗效最佳的是"
+  },
+  {
+    "id": 37719,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"心得安\",\"value\":0}, {\"answer\":1,\"text\":\"硝普钠\",\"value\":1}, {\"answer\":0,\"text\":\"异博定\",\"value\":2}, {\"answer\":0,\"text\":\"依那普利\",\"value\":3}]",
+    "title": "患者,男,60岁,高血压20余年,突发头痛、失语,测血压210/130mmHg。下列降压药首选的是"
+  },
+  {
+    "id": 37615,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":0,\"text\":\"氢氯噻嗪\",\"value\":0}, {\"answer\":0,\"text\":\"哌唑嗪\",\"value\":1}, {\"answer\":0,\"text\":\"卡托普利\",\"value\":2}, {\"answer\":1,\"text\":\"普萘洛尔\",\"value\":3}]",
+    "title": "高血压合并心力衰竭的患者不宜用"
+  },
+  {
+    "id": 37625,
+    "questionBankId": 31,
+    "selectItem": "[{\"answer\":1,\"text\":\"松弛血管平滑肌,改善心肌血液供应\",\"value\":0}, {\"answer\":0,\"text\":\"降低心肌自律性\",\"value\":1}, {\"answer\":0,\"text\":\"抑制心肌收缩力\",\"value\":2}, {\"answer\":0,\"text\":\"抑制血小板聚集\",\"value\":3}]",
+    "title": "硝酸甘油的主要药理作用是"
+  }
+]
