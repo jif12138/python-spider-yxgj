@@ -2,87 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e0557ef-cb0e-4feb-913e-52c19cc60486" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_spider_practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/.idea/PaChong.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/MaoYanTop100/MaoYanTop100.py" beforeDir="false" afterPath="$PROJECT_DIR$/MaoYanTop100/MaoYanTop100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/MaoYanTop100/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/MaoYanTop100/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/MeiZiTu/meizitu_successful.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeiZiTu/meizitu_successful.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/MeiZiTu/mzitu_failure.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeiZiTu/mzitu_failure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/MeiZiTu/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeiZiTu/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/TouTiaoJiePai/TouTiaoJiePai.py" beforeDir="false" afterPath="$PROJECT_DIR$/TouTiaoJiePai/TouTiaoJiePai.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/TouTiaoJiePai/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TouTiaoJiePai/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/YaoXueGongJu.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/YaoXueGongJu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/get_one_exam_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/get_one_exam_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/get_one_exam_question_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/get_one_exam_question_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/get_one_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/get_one_question.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/get_question_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/get_question_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/json/header.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/json/header.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/json/question_bank.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/json/question_bank.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/json/question_bank_cut.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/json/question_bank_cut.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/json/question_category.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/json/question_category.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/json/question_category_cut.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/json/question_category_cut.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/ctest.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/ctest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_447.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_447.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_447_儿科用药_167.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_447_儿科用药_167.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_447_儿科用药_167_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_447_儿科用药_167_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_448.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_448.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_448_妇产科用药_152.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_448_妇产科用药_152.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_448_妇产科用药_152_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_448_妇产科用药_152_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_449.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_449.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_449_骨科用药_119.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_449_骨科用药_119.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_449_骨科用药_119_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_449_骨科用药_119_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_450.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_450.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_450_呼吸系统用药_265.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_450_呼吸系统用药_265.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_450_呼吸系统用药_265_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_450_呼吸系统用药_265_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_451.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_451.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_451_抗感染药物_165.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_451_抗感染药物_165.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_451_抗感染药物_165_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_451_抗感染药物_165_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_452.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_452.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_452_慢病用药_470.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_452_慢病用药_470.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_452_慢病用药_470_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_452_慢病用药_470_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_453.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_453.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_454.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_454.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_459.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_459.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_459_抗肿瘤药物_241.txt" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_459_抗肿瘤药物_241.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_459_抗肿瘤药物_241_noRepeat.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_459_抗肿瘤药物_241_noRepeat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_447.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_447.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_448.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_448.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_449.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_449.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_450.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_450.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_451.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_451.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_452.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_452.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_453.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_453.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_454.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_454.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_id_459.json" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_id_459.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/question_result/question_result.zip" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/question_result/question_result.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/utils/duplicate_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/utils/duplicate_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/utils/get_question_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/utils/get_question_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/utils/id_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/utils/id_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/main/utils/json2txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/main/utils/json2txt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/YaoXueGongJu.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/YaoXueGongJu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/create_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/create_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/cut_one_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/cut_one_question.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/duplicate_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/duplicate_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/get_one_exam_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/get_one_exam_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/get_one_exam_question_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/get_one_exam_question_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/get_one_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/get_one_question.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/get_question_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/get_question_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/save_question_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/save_question_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PaChong/YaoXueGongJu/test/save_questions.py" beforeDir="false" afterPath="$PROJECT_DIR$/YaoXueGongJu/test/save_questions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -168,8 +89,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="168">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -307,30 +228,6 @@
             <path>
               <item name="python_spider_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_spider_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_spider_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_spider_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="YaoXueGongJu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_spider_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_spider_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="YaoXueGongJu" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_spider_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_spider_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="YaoXueGongJu" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="question_result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_spider_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_spider_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="YaoXueGongJu" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -836,8 +733,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="168">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

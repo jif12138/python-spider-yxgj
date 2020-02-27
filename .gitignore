@@ -2,8 +2,8 @@
 
 
 
-.zip
+*.zip
 
-.json
+*.json
 !ctest.json
-.txt
+*.txt
